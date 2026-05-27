@@ -1,0 +1,1801 @@
+target,pred_clean,pred_org,example_id,split
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Game night is here. 8:00 @ Confed vs {{USERNAME}} #royalsrule #winning #groab<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_57,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Antonio Brown was expected to play a major role in the {@Las Vegas Raiders@} offense this year. But Jon Gruden says the Raiders did not plan to “throw the ball to one guy every play.” {@Matt Kawahara@} looks at Monday night s game against the {@Denver Broncos@} . {{URL}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_68,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+#INDvSA | Coach Ravi Shastri and Shikhar Dhawan bond ahead of 1st T20I - See pic {@Ravi Shastri@} {@Shikhar Dhawan@} {{URL}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_117,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Up next it s Champion {@Chris Bey@} VS {{USERNAME}} for the Championship Without A Cause! {{USERNAME}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_144,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Call me crazy, but I’m gonna do my best to cover {{USERNAME}} vs. {{USERNAME}} field hockey tonight (7:45 at BU) with an 11:20 page deadline, so this should be interesting! And our buddy {{USERNAME}} is covering Mifflinburg at Danville boys soccer this afternoon!<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_151,train+valid
+5,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Implementing Dark Mode in iOS 13 {{URL}} via {{USERNAME}} #ux<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_246,train+valid
+5,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Wish this country would act this quickly with Mass Shootings and our Climate Change issues. #priorities {{URL}} via {@KING 5 News@}<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_280,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I love how {{USERNAME}} and I scream about GOT7 every day and send each other seriously some of the most ridiculous things. It’s one of the best things about logging onto this app I SWEAR<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_347,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+The boys of {{USERNAME}} display a wide range of technical musical abilities on this track. A strong opener to the album and introduction for what s to come. #TheMidnightEmotion {{URL}}<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_361,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+The refs are trying so hard to make Dallas win this game.. absolute garbage. {@NFL@}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_408,train+valid
+5,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Really lovely day yesterday at ScarWork for Breast Cancer surgery led by {{USERNAME}} . Revising and rediscovering techniques and learning how they need to be modified especially on tissue that has been moved to… {{URL}}<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_445,train+valid
+4,"
+3","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Morning 5km run with {{USERNAME}} for breast cancer awareness‍♀️‍♂️ #pinkoctober #breastcancerawareness #zalorafit #zalorafitxbnwrc @ The Central Park, Desa Parkcity {{URL}} <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_453,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Takeaways From The Browns’ 32-28 Loss To The Seahawks {{URL}} via {{USERNAME}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_473,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Bad day in office we lost our first game in #RPL.  Let s go back home and get ready to be hosted by {{USERNAME}} next weekend. {@Rwanda FA@} {{USERNAME}} {{USERNAME}} {{USERNAME}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_539,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I spoke to Arsenal midfielder {@Jordan Nobbs@} after today’s 4-0 victory over Charlton, on stepping up her rehab, playing a strong side today and looking ahead to the massive match against Manchester City next weekend. {{URL}} <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_544,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I voted #TheBrainEvilGenius on {@The Tylt@} —because he s been practicing how to take over the world for a while now. {{URL}}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_551,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Cody Parkey hits that field goal btw   CC: {@Chicago Bears@}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_613,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Skip the line. Purchase your {{USERNAME}} ticket for Friday’s Senior Night game here. {{URL}} $8.10 for adults and $6 for senior citizens. You will enter through the pass gate if you do purchase online. {{USERNAME}} {{USERNAME}} {{USERNAME}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_641,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+UFC 244 results. {@Dominick Cruz@} def Gastelum via verbal KO. Rd. 1<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_670,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Derrick Lewis laments patient game plan in split call over Blagoy Ivanov at UFC 244 {{URL}} via {@MMA Junkie@}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_709,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+watermelon sugar is so good fjjdjs and harrys vibrato too? yes pls  {@Harry Styles@}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_828,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Y’all my mom got me Harry Styles tickets!!!! I have the best mom ever honestly {@Harry Styles@} I will see you in August<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_937,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+So, normally {@Reby Hardy@} I d tease you about how the Bears are gonna woop the Giants tomorrow. However, I don t have that kind of confidence in my team. So, instead I m just going to surrender. Bears offense is embearassing. Your defense should have a day tomorrow.<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_938,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Pre-save my new album  Deezel Cobretti  on Spotify: {{URL}} (powered by {@DistroKid@} )<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_940,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+A conversation with {@Labrinth@} about his brilliant new album Imagination & The Misfit Kid, his Grammy nominations, composing for Euphoria, working with Beyoncé, Sia, Kanye & Zendaya, his hope to record with Sir Paul McCartney & future plans.. {{URL}} #Labrinth<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_970,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Port Harcourt are you ready for the HOME & AWAY concert with {{USERNAME}} coming on the 17th of December 2019 at HIGI HAGA along Peter Odili Road.  Time - 6pm carpet | 7pm main event.  #HomeAndAway #musicconcerts… {{URL}}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_981,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I m just sitting here in the toilet listening to {{USERNAME}}  s new album and silently wishing that {{USERNAME}} and any others talking the talk of #OccupyNigeriaSeasonII will keep it going and then God s strength in their plans so we we can walk the walk.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_986,train+valid
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Really disheartening when my phone has not rung once all week and I have not had the chance to answer with, “ {@Harry Styles@} is Fine” to anyone  Over-the-moon and really happy for those that have received a phone call though  {@Ash London LIVE@} <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1001,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Anthony Joshua: I am humble in victory - TODAY {{URL}} via {@TODAY@} , felicidades<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1107,train+valid
+2,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+RIH #JuiceWrld In a tragedy that is going to sadden the world, platinum rapper {@JuiceWorlddd@} Jarad Anthony Higgins) is dead at the young age of 21 Juice Wrld had just landed at Chicago Midway Airport & was walking through the terminal when he suffered a seizure. {@interscope@} {@Universal Music Group@} <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1125,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+UFC 245 Results: Amanda Nunes Outwrestles Germaine De Randamie, Keeps The Belt(Highlights) {{URL}} #AmandaNunes #GermainedeRandamie #UFC245 via {@MiddleEasy@} <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1166,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+UFC 245 PPV results: Usman stops Covington in final minute {{URL}} via {@Bloody Elbow@}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1173,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+#starwars #riseofskywalker No spoiler reaction: Truly terrible storytelling, marked with a few moments of greatness, wrapped in all the right star wars feels. So much potential. Such terrible follow through. {@Disney@} JJ Abrams and Kathleen Kennedy could do so much better.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1225,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+The Force is strong with these guys. Fantastic review. Spoilers so if you haven t seen the movie yet don t watch, but if you have, check them out. Star Wars: The Rise of Skywalker Movie REVIEW {{URL}} via {@YouTube@} #StarWars #StarWarsRiseofSkywalker<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1267,train+valid
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+tell taehyung he did amazing for kbs gayo  also is there a new album on the way  #MostRequestedLive {@BTS_twt@}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1304,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+#NowPlaying ♫ #Np MEDICARE PLAN FINDER AD - MEDICARE PLAN FINDER AD  ♫ at {{URL}} Listen LIVE {{URL}} {{URL}} Wake Up To {@Notorious VOG@} In The Morning #NITM☕ M-F 6:30-11a, {{USERNAME}} Urban Talk, News, Laughs & More!<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1305,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I think we need to come up with a list of 10 Best Malaysian Film of the 2010’s kan {{USERNAME}} {{USERNAME}} {{USERNAME}} A retrospective of the decade<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1319,train+valid
+2,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+#NowPlaying ♫ #Np {{USERNAME}} x {{USERNAME}} - CAN YOU PLAY SOME MORE  ♫ at {{URL}} Listen LIVE {{URL}} {{URL}} Wake Up To {@Notorious VOG@} In The Morning #NITM☕ M-F 6:30-11a, {{USERNAME}} Urban Talk, News, Laughs & More!<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1349,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I love this song  The size of Wales  off this new album by {{USERNAME}} {{URL}}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1356,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Fair play {@Cerys Matthews@} wearing her {@Luton Town FC@} shirt on {@Sunday Brunch@} this morning. Looking forward to purchasing your cook book ‍<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1453,train+valid
+5,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+looking forward to this course at last !  Reconciling biomechanics with pain science  Course by Dr. Greg Lehman to be held in Malta 25/26th May! one can book via link below, so anyone in the vicinity of Malta can join in! {{USERNAME}} {{URL}} <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1459,train+valid
+5,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Australia’s Fires: Caused by Bad Forestry and Arson, Not Global Warming {{URL}} via {{USERNAME}} <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1583,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I d like to see {@Saracens Rugby Club@} beat {@Leinster Rugby@} .  That s pretty much been the Irish team for 15years anyway<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1592,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+“Life is short. Reminders are sharp.”  Via {{USERNAME}} ’s IG<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1656,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I think I ve boosted {@Next Gen Stats@} page views this month by myself.  Another story on how the 49ers speed on offense will give the Chiefs problems. {{URL}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1667,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+. {@Ben Linsey@} has listed the the 53 best players in the Super Bowl. Both teams with 5 players in the top 10, but the 49ers dominate the 10s and 20s. I think this makes perfect sense and is what most would intuitively say about the two rosters {{URL}} <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1668,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+KC CHIEFS TO WIN LETS GO {@Patrick Mahomes II@} BEST THE 49ers AND KYLE<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1677,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I wish {@LaMike james@} was playing in the XFL...feel like the dude could still run circles around everybody<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1829,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Why can’t the {@Cleveland Browns@} find a consistent FG kicker. I’ve seen like 1 or 2 misses i the XFL games<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1834,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Jennifer Lopez Was Too Busy Looking Iconic at an Oscars After-Party to Worry About Her Snub {{URL}} via {@Glamour@}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1840,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Deontay Wilder vs Tyson Fury 2 Full Fight 02/22/20 {{URL}} via {@YouTube@} for anyone who missed the fight here is is in full. The music parts in the round braces don’t last long<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1965,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+FULL TIME: Sherwood 2 - 0 {{USERNAME}} Brilliant game in very tricky conditions! A fantastic win for Sherwood who now close the gap on their rivals!  Big effort from both teams, I m sure they ll be some tired bodies after that battle.  Well done everyone!<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1988,train+valid
+5,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Every time I desinfect my hands my mind shows me Elly from #bloodstain by {{USERNAME}} freaking out about Vlad doing mad scientist moves<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2169,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Kenny Rodgers - The Greatest {{URL}} via {@YouTube@} Almost forgot it was suppose to be Opening Day...this ones for Kenny.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2263,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+watching Star Wars again I love Daisy Ridley SO MUCH someone please tell her {@John Boyega@} {@Mark Hamill Mar@} {@JJ Abrams@}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2300,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I haven’t been keeping up as I’ve had some Star Wars fatigue as if late but Has {@Star Wars@} yet to acknowledge Rey and Ben’s relationship yet? Or are they still ignoring it?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2307,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+. {@The Rewatchables@} do a Rewatchables of Jesus Christ Superstar you pagans<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2380,train+valid
+3,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Happy Easter to everyone {@Sunderland AFC@} hope everyone has the best day possible in the current climate {@Max Power@} {{USERNAME}} {{USERNAME}} {@Luke O Nien@} {@Bailey Wright@} {{USERNAME}} {{USERNAME}} {{USERNAME}} {@Denver Hume@} {@Lynden Gooch@} .<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2391,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+I work for the Mintz family/ {{USERNAME}} . I’m not only grateful to be working, but working for a company that can completely retool and manufacture face shields for those in need. Plus they helped bring us an evening of “normalcy” by sponsoring tonight’s races. ... Thank you!<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2523,train+valid
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Hard Times {{URL}} via {@YouTube@} Omnia homini, dum vivit, speranda sunt<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2540,train+valid
+3,"
+3","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Respected sir, {@Anjani Kumar IPS Stay Home Stay Safe@} I am Mrs.Ranjana, a resident of Chennai. I came to Hyd for a medical treatment on 02.03.20.Since then till today I am unable to go back to my family due to lockdown. I have 2 small kids & a helpless husband who need me now.Pls help me reach my family.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2548,train+valid
+3,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+The reporters at the {{USERNAME}} have done a beautiful job covering how people of faith in Dubuque have been observing their holidays in the time of COVID. This look into the Kassas family as they broke their fast was stunning: {{URL}} #ProudSubscriber<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2558,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Morning to #Odatribz  Thank you for the support  Pls continue streaming and may God bless each and every one of you, I am grateful.    Enjoy Egungunbe careful #egungunrapversion {{URL}} @IceFlows<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2593,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+{{URL}} I came across this on youtube and since then it has stuck in.  Please tell me who has sung this version? {@Gillette India@} {@Gillette@} #ShavingStereotypes<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2602,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Still waiting for {{USERNAME}} and my other friend to play ACNH. So far I have two friends who I personally asked to visit my island<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2639,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+According to the {@American Gaming Association@} Association there are 17 casinos open in the United States, including 11 commercial in Deadwood, SD, and six Native American properties (3 OK, 2 WA, 1 ID). The other 972 remain closed.<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2686,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Brilliant #Chess commentary from #PeterSvidler as #MagnusCarlsen pushes his F pawn toward the queening square to win a game he was losing for most of the match:  Frodo charging toward Mount Doom . {@chess24 com@}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2770,train+valid
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+“We Can no Longer Use the Flag” – Drew Brees Responds to Donald Trump {{URL}} via {{USERNAME}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2821,train+valid
+3,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Many thanks to {{USERNAME}} for flying the pride flag!!!  Happy pride to all!!! #seohrainbows #athenspridefest #athenspride #prideinquarantine {{URL}}<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2866,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+#NowPlaying  Closed On Sunday  di Kanye West in {@TIDAL@} {{URL}}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3208,train+valid
+3,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+The key to being happy is knowing you have the power to choose what to accept and what to let go. {{USERNAME}} DJLOONYO AOSStayHomeParty<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3257,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Jamal Adams on my {@New Orleans Saints@} would have made our defense tough  {@Jamal Adams@}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3314,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Morning guys!!! Have you seen the original cover this fans have made for you??? They just want to make their dream come true and only you can make it happen. Plz {@AJ McLean@} {@Brian Littrell@} {@Howie D@} {@Kevin Richardson@} {@Nick Carter@} {{USERNAME}} #8words1dream ❤️ {{URL}}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3359,train+valid
+3,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Great article on #ContactTracing tracing, ethics and trust by {{USERNAME}} . Really valuable analysis which helps explain the complexity of this issue and the approaches taken in different countries. Would highly recommend this to policy makers too #COVID19 {{URL}} <|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_3360,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+listening to {@Two Feet@} all the time, i love your music keep up the good work!<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3392,train+valid
+2,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Expected to b a typical {@Vidyut Jammwal@} movie whr he starts wid a Bang. Bt this 1 isn t tht. It s Different. It s Good. He s shown range f emotions in this 1. Cast & Crew   God s Sake  don t miss 1 {@faruk kabir@} {{USERNAME}} {{USERNAME}} {@Aahana Kumra@} {{USERNAME}} #KhudaHaafiz<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3452,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Demon’s Souls could be closer than expected if a recent rating is any indication  [from Jordan Devore {@Destructoid@} ]  #destructoid #gamer #games #gaming #videogames {{URL}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3501,train+valid
+4,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Imagine being so oblivious that you praise all these  freedom speeches  at the RNC and then get so rattled about {@NBA@} players boycotting. Imagine that.<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_3555,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+￼Morning jog, going up the wall, migraines are being returned back home￼ {{URL}} via {@facebookwatch@} <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3587,train+valid
+3,"
+3","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Facilitating 1st grade over here this morning. I ll take my digital learning credit and my Google certification now.   And while I m at it, HUGE shout out to the 1st grade team {{USERNAME}} . You ve earned WAY more than a digital credit and (fake?) Google certification.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3597,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+U17 Premier County Semi final vs {{USERNAME}} next Thursday 26th {{USERNAME}} in Patrick s Park Enniscorthy. All support will be needed for this one.   #UptheButters  ❤<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_156,train+valid
+5,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Climate change: Arctic glaciers  shrinking by 300m each year  {{URL}} #itstimetochange #ClimateChange join {{USERNAME}}<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_184,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Hmmm new {@Adam Sandler@} movie #UncutGems looks good!<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_225,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+. {@LANDON COLLINS@} Did you even get off the plane today? Don’t think anyone even noticed you out there until you tried to be a big dog after the game was over. Hope you and Ereck are having fun at 0-4!<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_323,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Hi {@Harry Styles@} , you’re the best idol of the world, u make me feel good, fearless, safe, comfortable and happy even being thousands of miles away. Thank you for make me happy. Can you follow me, please? it would make me so happy  40<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_553,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Flames and the Fire?  Can the two teams winless before Round 3 get on the board for #WNBL20 today? {@Sydney Uni Flames@} ✔️ Now it’s over to {@JCU Townsville Fire@} who host {@Deakin Melbourne Boomers@} at 5pm AEST - tune in via {@FOX Basketball@} and {@Kayo Sports@} .<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_585,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+ngl {@Fortnite Competitive@} we need more time to get to champs. arena is the most frustrating thing fillled with braindead players please just give us an extra week.<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_627,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Very lucky {@PENSHOPPE@} . You cannot imagine the amount of people waiting for this to happen. This will really be huge.   #LISAFORPENSHOPPE<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_687,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Putting this season in perspective, the Rams had two 1k receivers, Goff easily surpassed 4k, Donald/Fowler each with 11+ sacks, Gurley with 13+ TD’s in limited touches. But, this team obviously underperformed for a variety of reasons. Not just one key thing. {@J B Long@} <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1253,train+valid
+4,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Unearthing this from 2014 when {@Laurent D Tardif@} was just drafted by the NFL.  5 things you didn’t know about: Laurent Duvernay-Tardif | {{URL}} {{URL}}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1806,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+man I love #nascar. they still pray to God and they love our president {{USERNAME}} #fourmoreyears<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1915,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Lewis Hamilton: Joaquin Phoenix Has ‘Led the Way’ to a Vegan World {{URL}} via {{USERNAME}}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1925,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Coming up next I hope is #BTS Feat. {{USERNAME}}  s #ON!! {@Most Requested Live@} #MostRequestedLive. Please play this song. Thank you {@BTS_twt@}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2047,train+valid
+3,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Hope all the farm women out there have had a good International Women s Day. I m thinking it should be like Nollaig na mBan - lots of tea, cake, wine or gin. I like how {{USERNAME}} has highlighted many farm women today too  #IWD2020<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2151,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Yo! . {@Cooler Master@} {{USERNAME}} any idea where I can still get a hyper 212 Evo AM4 bracket? Can t find one anywhere.   If you have one lying around the office/wearhouse let me know. In the US.<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2818,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Crying and laughing... I m all over the place. THEY ARE THE BESTEST OF THE BEST!  #BANGBANGCONLive {@BTS_twt@} #BTS<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2881,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+i love this song so much it’s so emotional and im reminded of so many memories with iz*one {@officialIZONE@} i love you #WelcomeToIZLAND #IZONE_OneiricDiary #IZONE {{URL}}<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2886,train+valid
+2,"
+4","<|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+ICYMI: Live music will no longer be allowed in Folly Beach bars and restaurants past 9 p.m. after the City Council held a special emergency meeting Thursday morning. {@The Post and Courier@} {@Charleston Scene@} #chsnews {{URL}}<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3095,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+So {{USERNAME}} turns to me and tells me it’s national ice cream day and that he’s getting us some later    .... and then {{USERNAME}} was sad about it<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3215,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of topics, formatted as ""category description"", starting from category 0.
+
+0 arts and culture
+1 business and entrepreneurs
+2 pop culture
+3 daily life
+4 sports and gaming
+5 science and technology
+
+Classify the following tweet into one of these categories.
+Return only the corresponding category number (0-5), without explanations.
+<|im_end|>
+<|im_start|>user
+Bruh.. if {@Indomilk@} is collabing with {@BTS_twt@} , then IMAGINE if {{USERNAME}} really choose {@TOMORROW X TOGETHER@} ...  The POWER!!??!?!<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3279,train+valid

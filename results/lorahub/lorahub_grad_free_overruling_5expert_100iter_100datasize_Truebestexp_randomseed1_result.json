@@ -1,0 +1,19 @@
+{
+    "task": "overruling",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_overruling",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.9541666666666667,
+    "weights": [
+        0.5053867076555375,
+        0.5026297145883613,
+        -0.005509228005607933,
+        0.0004819293362414937,
+        0.0031558295161648207
+    ]
+}

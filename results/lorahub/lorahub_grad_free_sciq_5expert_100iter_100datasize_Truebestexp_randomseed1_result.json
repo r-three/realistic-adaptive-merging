@@ -1,0 +1,19 @@
+{
+    "task": "sciq",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_sciq",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 0.4,
+    "test_accuracy": 0.436,
+    "weights": [
+        1.492879275884563,
+        0.19335959401922473,
+        0.16969115825038447,
+        -0.03574514072449603,
+        -0.4118582059044309
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "task": "gsm8k",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304",
+        "barc0/induction-run2-gpt4omini-20k-100seeds-barc-llama3.1-8b-instruct-lora64_lr2e-4_epoch3"
+    ],
+    "valid_accuracy": 0.7,
+    "test_accuracy": 0.5830174374526156,
+    "weights": [
+        -0.018637982833147493,
+        0.0220240510810214,
+        0.4656157987573072,
+        0.48807872103484484,
+        0.783151530994453,
+        -0.15271900797460808,
+        -0.1685669554789221,
+        0.016787153132260015,
+        0.050441338175533014,
+        0.002218357499832832
+    ]
+}

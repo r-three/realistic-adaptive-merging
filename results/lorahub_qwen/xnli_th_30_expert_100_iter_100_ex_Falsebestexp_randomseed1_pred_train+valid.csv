@@ -1,0 +1,1701 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - มี อะไร จะ ทำ ไหม [SEP] 
+HYPOTHESIS - เพียง   20   %   ของ ความคิด ใน โลก เป็นไปได้ ถ้า ลอง เป็นครั้งแรก<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1595,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ในที่สุด ฉัน ก็ เดินทาง ไป ที่ ห้อง ใหญ่ ของ   moma ,   โปรด ของ ฉัน ใน พิพิธภัณฑ์ [SEP] 
+HYPOTHESIS - ฉัน ชอบ ที่จะ หลีกเลี่ยง ห้อง ของ มา ทิ ส เมื่อไหร่ ก็ ได้ที่ ฉัน ไป   moma<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_20331,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - อย่างไรก็ตาม การ ตอบสนอง ที่ ยิ่งใหญ่ กว่า   90   เปอร์เซ็นต์ อาจ ส่งผล ให้ มี การ ตอบสนอง ที่ เป็นพิษ [SEP] 
+HYPOTHESIS - อย่างน้อย เก้า สิบ เปอร์เซ็นต์ อาจ ทำให้ หน้ากาก ของ การ ตอบสนอง ที่ เป็นพิษ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_20404,train+valid
+2,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - สวน หิน ที่ มีชื่อเสียง ของ มัน ได้ ทำ ให้การ ถกเถียง มากขึ้น ทั้ง การ ชื่นชม และ วิกฤติ กว่า มี ชิป ของ น กรวด ใน สี่เหลี่ยม ของ มัน   30 -m   โดย   10 -m   ( 98   ฟุต โดย   32   ฟุต )   ขยาย [SEP] 
+HYPOTHESIS - สวน หิน ได้รับการยกย่อง ว่า ชื่นชม<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_20591,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เห็นได้ชัด ว่า มี ใคร บางคน ฉลาด มาก พอ ที่จะ ทำลาย การ เสริม ที่ หนัก [SEP] 
+HYPOTHESIS - ใคร บางคน ฉลาด มาก พอ ที่จะ ทำลาย การ เสริม ที่ หนัก ได้ อย่างเห็นได้ชัด<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_24410,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Rhonda   lipkin   ระบุ การสาธิต ของ   www . peoples-law . org   และ   www . Mdjustice . org   ซึ่ง ถูก ออกแบบ มา ให้ เป็น ห้องสมุด เสมือน [SEP] 
+HYPOTHESIS - ห้องสมุด ที่   www . peoples-law . org   และ   www . Mdjustice . org   ได้รับ การ จัดตั้ง ใน ปี   1573<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_26411,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - การเปลี่ยนแปลง ใน สไตล์ วรรณกรรม จาก คลาสสิก เป็น ภาษา ที่ สามารถ แสดง ได้ โดย สถิติ หนึ่ง [SEP] 
+HYPOTHESIS - สไตล์ วรรณกรรม เปลี่ยน จาก ภาษา วรรณคดี เป็น คลาสสิก<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_26935,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - คู่หู ของ ดั๊ก สัน บา ว เออ ร์ พา ไป ใน วันอาทิตย์ ที่ คุย กัน เรื่อง วงจร การ พูด ที่ ไม่ดี สำหรับ การ ทำแท้ง [SEP] 
+HYPOTHESIS - รีด เป็น ตา แช บ เนาะ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_33173,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Bill   lockyer   กำลัง เตือน แคลิฟอร์เนีย เพื่อ ระวัง ธุรกิจ ที่ โฆษณาการ ช่วยเหลือ ตามกฎหมาย หรือ บริการ ตามกฎหมาย เพียง เพื่อ จัดหา ค่าใช้จ่าย และ บริการ ที่ ไม่ แพง ที่ อาจ ทำร้าย ลูกค้า ใน ศาล [SEP] 
+HYPOTHESIS - Bill   lockyer   ให้บริการ ที่ ดี ใน ราคา ต่ำ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_35804,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - กลุ่ม กลาง มักจะ มี ลักษณะ กิจกรรม   evaluative   เหล่านี้ เป็น บริการ ให้ กับ หน่วย ธุรกิจ [SEP] 
+HYPOTHESIS - หน่วย ธุรกิจ ได้รับ การประเมินผล จาก กลุ่ม กลาง<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_40823,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เขา เห็น   adrin   ยืน อยู่ บน หิน ด้านบน ที่   san   '   doro   นั่ง สอง คืน ที่ผ่านมา [SEP] 
+HYPOTHESIS - เขา เห็น   adrin   นอน อยู่ ใน ทราย ที่ ที่ ก๊อกน้ำ ดับ เพลิง อยู่<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_43459,train+valid
+2,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เอ่อ ไม่ใช่ ว่า เรา จะ ขาย โปรแกรม ที่ ดี ใดๆ ที่ เรา มี กับ อาชญากรรม แต่ เอ่อ ฉัน คิด ว่า ฉัน เป็น แบบ คุณ ฉัน ไม่มี ความเห็น ที่ แข็งแรง เกี่ยวกับ มัน ฉัน เดา ว่า นั่น คือ ปัญหา ใหญ่ ที่สุด ของ เรา ที่ เรา มี กับ เรา เพื่อนบ้าน ข้างล่าง นั่น คือ เรา ไม่มี อะไร ที่ เรา มี มากกว่า นี้ ฉัน เดา ว่า เรา อยู่ ใน สหรัฐอเมริกา มี ความสัมพันธ์ กับ ยุโรป มากขึ้น และ ทุกอย่าง และ เรา ก็ ไม่ได้ อยู่ ใกล้ กับ ทุก คนใน อเมริกาใต้ ฉัน ไม่ จริง รู้ ว่า ทำไม ถึง [SEP] 
+HYPOTHESIS - ผม ไม่ คิด ว่า สหรัฐ จะ มี ความสัมพันธ์ ที่ ดี กับ ยุโรป<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_49396,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - หรือ แค่ ชิ้นส่วน ของ มัน   --   สภาพแวดล้อม การทำงาน ที่ ศัตรู คลอ ส พูด หรือ กฎ พยานหลักฐาน ที่ ลำเอียง ของ เพศ ? [SEP] 
+HYPOTHESIS - พนักงาน ทุกคน มีอิสระ ที่จะ แสดง ความคิด ที่ โจ่งแจ้ง ที่สุด ของ พวกเขา ใน ออฟ ฟิ ส<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_61558,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - มี แจ๊ส คลับ ,   โอเปร่า ระดับโลก และ การแสดง ซิมโฟนี ,   คลับ ตลก ,   การแสดง บอร์ด เวย์,   คอนเสิร์ต ,   คลับ เปลื้องผ้า ,   กระ เท ย เต้น รี วิว ,   และ ดิสโก้ ,   สวิง ,   ประเทศ   -   ตะวันตก ,   และ ชมรม เต้น ซัล [SEP] 
+HYPOTHESIS - ไม่มี ที่ไหน ให้ ดู การแสดง ตลก อะไร เลย<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_66737,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - คุณ กำลัง กำหนด ความน่าเชื่อถือ ของ ข้อมูล ตามที่ ต้องการ เพื่อ สนับสนุน การ ค้นพบ สรุป หรือ คำแนะนำ ของ การ หมั้น [SEP] 
+HYPOTHESIS - คุณ ใช้ ข้อมูล เท่านั้น และ คิด ว่า มัน เชื่อถือได้ เมื่อ สนับสนุน การ รับ ชม ของ คุณ เอง<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_67869,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ไป ทำ ไร ที่นั่น ฉัน ถาม ว่า มี ความ อยากรู้อยากเห็น [SEP] 
+HYPOTHESIS - ฉัน รู้ ว่า ฉัน สามารถ ไป ถึง ช่วง ล่าง ของ การ ปรากฏตัว ของ พวกเขา ได้<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_86581,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - มัน เป็น ปืนพก ของ จอน จะ ได้ รู้ ว่า [SEP] 
+HYPOTHESIS - จอน ไม่ได้ เป็นเจ้าของ ปืน ใดๆ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_88851,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ชาวยุโรป คน แรก ที่จะ มาถึง ใน แม่น้ำ มุก เด ลต้า เป็น ชาว โปรตุเกส ผู้ ที่ ยอม ความใน มาเก๊า ใน ปี   1557   และ หลาย ศตวรรษ มี การ ผูกขาด ใน การค้า ระหว่าง เอเชีย ยุโรป และ อเมริกาใต้ [SEP] 
+HYPOTHESIS - หลังจาก โปรตุเกส มา มาเก๊า ใน ช่วง ศตวรรษ ที่   16   พวกเขา สร้าง การ ผูกขาด ใน การ ขาย และ การ ซื้อ สินค้า เกือบ   300   ปี<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_89668,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เขา อยาก เห็น ยานอวกาศ ใน พื้นที่ ใกล้ ๆ [SEP] 
+HYPOTHESIS - เขา จะ ไม่ ไป ใกล้ ยานอวกาศ เพื่อ ช่วยชีวิต เขา<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_90760,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ผู้ตรวจสอบ ทั่วไป และ การบริหาร จัดการ อาวุโส ภายใน สามารถ มีส่วน ร่วมกับ สิ่งแวดล้อม ที่ ควบคุม ได้ โดยรวม ดี [SEP] 
+HYPOTHESIS - Thr   สารวัตร ทั่วไป สามารถ ช่วย ทำให้ สิ่งแวดล้อม เป็น สถานที่ ที่ ปลอดภัย ขึ้น ได้<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_101629,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เพิ่มเติม ชื่นชม วัฒนธรรม ของ องค์กร และ การเปลี่ยนแปลง ความพร้อม ช่วย กำหนด   pace   และ ขอบเขต ที่   cios   สามารถ ทำ ให้การ แปลง ธุรกิจ ได้ สำเร็จ [SEP] 
+HYPOTHESIS - เปลี่ยน ความพร้อม ไม่ เกี่ยวข้อง กับ   pace   ของ การ แปลง ธุรกิจ ของ   cios<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_102579,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ชอบ ประเทศ ยังไง อ่า าาาาาาาาาาา [SEP] 
+HYPOTHESIS - คุณ คิด อย่างไร กับ ประเทศ ?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_106959,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Britannia   เป็น สถานที่ ที่ ราชินี บอ กว่า เธอ สามารถ ผ่อนคลาย ได้ อย่างแท้จริง และ มัน เป็น ภาพสะท้อน ของ รสชาติ ส่วนตัว ของ เธอ ที่ น่า ประหลาดใจ สำหรับ การ ขาด ของ เครื่องประดับ ที่ หรูหรา ที่ เติมเต็ม พระราชวัง อย่างเป็นทางการ ของ เธอ [SEP] 
+HYPOTHESIS - ราชินี บอ กว่า   britannia   เป็น สถานที่ ที่ เธอ สามารถ ผ่อนคลาย ได้ อย่างแท้จริง ซึ่ง น่าแปลกใจ เพราะ มัน ขาด เครื่องประดับ ที่ หรูหรา ที่ เติมเต็ม พระราชวัง อย่างเป็นทางการ ของ เธอ<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_108153,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - นักวิทยาศาสตร์ ได้ เรียนรู้ ว่า แบคทีเรีย สามารถ สร้าง ขึ้น ใน ช่องว่าง ใน เหงือก ทำให้เกิด การ ติดเชื้อ ทำให้ ขากรรไกร อ่อน ลง และ ในที่สุด ก็ ฆ่าฟัน [SEP] 
+HYPOTHESIS - ช่องว่าง ใน เหงือก มาจาก อนามัย ที่ น่าสงสาร<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_109977,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ทำให้ คน ทั่วไป เข้าร่วม ได้ ยาก ขึ้น ใน ชุด การกระทำ ใน คลาส แต่ ง่าย ขึ้น สำหรับ บริษัท น้ำมัน ยักษ์ เพื่อ ปั๊มน้ำมัน ฟรี จาก ที่ดิน สาธารณะ และ ขาย มัน ที่ กำไร อาจจะ ถึง   nbc   ( ต้องการ   --   โอ้ จะ เริ่ม จาก ที่ไหน ? [SEP] 
+HYPOTHESIS - บริษัท น้ำมัน ยักษ์ อาจจะ ไม่ได้ ขาย น้ำมัน ของ พวกเขา ไป ที่   nbc<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_134282,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ตราบที่ คุณ ได้ ฝึก ทนาย ใน การเมือง พวกเขา จะ ขุดเจาะ กฎหมาย ให้ กับ ที่ ที่ พวกเขา รู้ ว่า พวกเขา จะ ไม่มีวัน หมด ธุรกิจ [SEP] 
+HYPOTHESIS - เรา ต้อง เก็บ ทนาย ออกจาก การเมือง<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_135409,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ข้อมูล ใน เอเจนซี่   ' แพ   ลน   และ   รายงาน   ที่   ผลิต   ภายใต้   การแสดง   ผลลัพธ์   การเงิน   คุณภาพ   สูง   และ   ข้อมูล   ค่าใช้จ่าย   ของ   โปรแกรม   และ   ข้อมูล   ที่   เกี่ยวข้อง   อื่นๆ   สามารถ   ช่วย   สภา   ใน การ   กำหนด   เป้าหมาย   ของ   ความพยายาม   โอเวอร์   ไซ   ต   ์   และ   ระบุ   โอกาส   สำหรับ   การปรับปรุง   เพิ่มเติม   ใน   หน่วยงาน '   จัดการ [SEP] 
+HYPOTHESIS - สภา คองเกรส สามารถ ใช้ เอเจนซี่   '   แพ ลน และ รายงาน เพื่อ ปรับปรุง การ จัดการ ของ หน่วยงาน ได้<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_138541,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - หมู เป็น คน เข้าสังคม รัก และ เป็น นรก ที่ สดใส กว่า   dalmatians [SEP] 
+HYPOTHESIS - หมู ชอบ อยู่ รอบ คน<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_139279,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - โอ้ พระ เจ้าคุณ เศรษฐี ! [SEP] 
+HYPOTHESIS - คุณ เศรษฐี ได้ รวย โดย การ ฟอกเงิน ให้ กับ คน<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_142046,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ฉัน มาจาก ประเทศ เล็ก ๆ   [ นิวซีแลนด์ ]   แต่ ฉัน ไม่เห็น ว่า สิ่ง ที่ เรา กำลัง ทำ ที่นี่ เป็น ภัย ต่อ อำนาจ ของ พวกเรา [SEP] 
+HYPOTHESIS - การ เหมืองแร่ ระหว่างประเทศ สำคัญ สำหรับ เศรษฐกิจ ของ นิวซีแลนด์<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_143926,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ศูนย์ วัฒนธรรม   ataturk   บน   taksim   square   เสนอ โปรแกรม โอเปร่า บัลเล่ต์ และ คอนเสิร์ต ซิมโฟนี ตั้งแต่ เดือน ตุลาคม ถึง พฤษภาคม ;   ระหว่าง เทศกาล นานาชาติ อิส ตัน บูล จัด ตั้งแต่ กลางเดือน มิถุนายน ถึง กลางเดือน กรกฎาคม )   นักดนตรี เจ้าบ้าน และ นักแสดง จาก ทั่ว เวิลด์ [SEP] 
+HYPOTHESIS - Taksim   square   ว่าง มาก ของ อาคาร ใดๆ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_145272,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ตอนนี้ พวกเขา จะ แก้ ไขมัน ยังไง ฉัน ไม่รู้ ว่า ฉัน ไม่ คิด ว่า มัน มี ทางออก ที่ พร้อม [SEP] 
+HYPOTHESIS - ทุก อย่างสงบ และ ชัดเจน<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_152602,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ความภาคภูมิใจ ของ สถานที่ ไป ที่   sl   dolly ,   เรือ ขับเคลื่อน เครื่องยนต์ ที่ เก่าแก่ ที่สุด ใน โลก   ( c .   1850 )   ซึ่ง ถูก คืน กลับมา หลังจาก ใช้เวลา กว่า   60   ปี ที่ ด้านล่าง ของ ทะเลสาบ   windermere [SEP] 
+HYPOTHESIS - หลังจาก   60   ปี ที่ ด้านล่าง ของ ทะเลสาบ   windermere ,   sl   dolly   ถูก เรียกคืน<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_159701,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ฉัน ไม่มี ฉัน เป็น คนรัก หมา ตัวเอง [SEP] 
+HYPOTHESIS - ฉัน รัก หมา<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_163689,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - สร้าง ขึ้น เพื่อ ถือ การเฉลิมฉลอง ระหว่าง การ เข้าชม ของ เขา จาก   thebes ,   ที่ ถูก ตกแต่ง ด้วย รูปปั้น ที่ ยิ่งใหญ่ ของ ฟิสิกส์ และ   pylon   แสดง ให้ เขา ได้รับ ชัยชนะ ใน การต่อสู้ ของ   qadesh   เมื่อ เขา ยกเลิก   hittites [SEP] 
+HYPOTHESIS - Ramesseum   ถูก สร้าง และ ตกแต่ง ให้ กับ ฟิร เอา น ์<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_172200,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - มาก ของ ชายฝั่ง ใต้ จาก   calesant   vicen ç   คือ ดี ย์ หาดทราย [SEP] 
+HYPOTHESIS - ถ้า คุณ ชอบ ชายหาด ร็ อ ค กี้ ลอง ชายฝั่ง ใต้ จาก   calesant<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_173286,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ขั้นตอน ของ การ รับ สิ่งอำนวยความสะดวก ปกติ จะ รวม ห้า ขั้น ตอนที่ สามารถ ผู้ป่วย เป็น แนวคิด การ วางแผนการ ออกแบบ การ จัดซื้อ การ ก่อสร้าง หลักปฏิบัติ และ อุตสาหกรรม และ   startup [SEP] 
+HYPOTHESIS - การ ดำเนินงาน ของ โรงงาน เป็นความลับ ที่ มี การ เก็บรักษา อย่างใกล้ชิด<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_174231,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ความเกี่ยวพัน ของ ศัตรู นี้ จะ หายขาด ได้ หรือไม่ ? [SEP] 
+HYPOTHESIS - ยา ป้องกัน คือ การรักษา สำหรับ ความเกี่ยวข้อง กับ ศัตรู นี้<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_174265,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - หอ   galata   ( galata   kulesi )   เป็น ศิลา หลัก ใน การป้องกัน ของ นิคม [SEP] 
+HYPOTHESIS - หอ   galata   ถูก สร้าง เป็น ห้องสมุด ให้ ประชากร ได้ เรียนรู้ และ อ่าน<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_175590,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ขั้นตอน การ คัด กรอง สามารถ มี ตาข่าย ที่ มี ขนาดใหญ่ หรือ ตาข่าย เล็ก ลง ที่ สามารถ ตั้งค่า ปัญหา แอลกอฮอล์ ได้ มากขึ้น หรือ น้อยลง [SEP] 
+HYPOTHESIS - ขั้นตอน การ คัด กรอง ถูก ออกแบบ มา เพื่อ จับ ปัญหา แอลกอฮอล์ ทั้งหมด<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_188348,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ทาง ตะวันออก ของ   el-aksa   เป็น ทางเท้า ที่ เปิด ขนาดใหญ่ ภายใต้ การ โกหก อัน ยิ่งใหญ่ ใน ห้อง ของ โซโล มอน ที่ เรียก ว่า คอก ของ โซโล มอน   ( จริงๆ แล้ว โครงสร้าง ถือ ขึ้น แพ ลต ฟอร์ม เทียม ที่ กว้างใหญ่ ของวัด ภูเขา ที่ เดิม สร้าง โดย เฮ โร ด เมื่อ   2,000   ปี ที่แล้ว ) [SEP] 
+HYPOTHESIS - ระดับ บน ของวัด ได้ ถูกปรับ ขึ้น แล้วแต่ ห้อง   vaulted   ด้านล่าง ยัง คงอยู่<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_193738,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - อีก หนึ่ง เป็น รี วิว ของ   rced   ของรางวัล สัญญา ก่อสร้าง ที่ อุทยาน ประวัติศาสตร์ ของ   jean   ฟิ [SEP] 
+HYPOTHESIS - The   rced   จะ รี วิว การแสดง ของ อุทยานแห่งชาติ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_194984,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - จักรวรรดิ อาหรับ [SEP] 
+HYPOTHESIS - จักรวรรดิ อา รา เบีย<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_209598,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - และ คู่ ที่สาม   --   สำหรับ ความเจียมเนื้อเจียมตัว สำหรับ การ ปกปิด เซ็กซ์ [SEP] 
+HYPOTHESIS - ไม่มี คู่ ที่สาม ที่ มี อยู่ในครอบครอง พวกเขา ก็ ปล่อย ให้ มัน ไปเที่ยว กัน หมด<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_210305,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - นั่น คือ วิธี ที่ ดี ใน การ มอง มัน [SEP] 
+HYPOTHESIS - นั่น คือ การ เข้าใกล้ เรื่อง ที่ มุม ที่ น่าสนใจ ฉัน ไม่เคย คิด แบบ นั้น เลย<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_213231,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - อย่า โกหก กู อีก นะ [SEP] 
+HYPOTHESIS - อย่า บอก นะ ว่า โกหก อีก<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_217780,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - การ เข้าถึง ค่าใช้จ่าย โดยประมาณ โดยประมาณ จาก ฟังก์ชัน การ รายงาน ข่าว ที่ แสดง ใน คิด   1   ภายใต้ สถานการณ์   duopoly   ที่ อธิบาย ไว้ มัน จะ เติบโต โดย ร้อยละ   61 [SEP] 
+HYPOTHESIS - คิด ว่า สอง มี ข้อมูล เพิ่มเติม ที่ อธิบาย ปรากฏการณ์ นี้<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_220096,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ใช่ อืม   -   ฮื่ม ใช่ คุณ สามารถ หยิบ มัน ขึ้น และ เอา มัน ไป ทุกที่ ที่ คุณ ไป [SEP] 
+HYPOTHESIS - ลูก ควรจะ เก็บ ไว้ ที่ บ้าน นะ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_220699,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - สิ่ง ที่ พวกเขา ทำ ครอบครัว คืน สู่ เหย้า และ พวกเขา ทำ อืม โอ้ คุณ เรียก มัน ว่า อะไร อืมมม มมมมมม [SEP] 
+HYPOTHESIS - พวกเขา ไม่ ทำ บริการ ใดๆ นอกจาก งานแต่งงาน<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_224481,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ใน อีก หนึ่ง จุดจบ ของ ตึก นี้ คุณ จะ พบ   infokraf   ที่ ที่ บริษัท พัฒนา หัตถกรรม มาเลเซีย มี นิทรรศการ ถาวร ของ ประเทศ   craftwork   ที่ มี นิทรรศการ มากมาย สำหรับ การ ขาย [SEP] 
+HYPOTHESIS - งาน ครา ฟ แห่งชาติ ไม่ได้ มี ขาย ครับ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_232514,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ก่อน พยายาม สำรวจ ว่า ตัวเลือก ปฏิรูป ต่างๆ อาจ ส่งผล ต่อ การ ประหยัด ของ ชาติ ได้ อย่างไร มัน มีประโยชน์ ใน การ เน้น ว่า โปรแกรม ประกันสังคม ปัจจุบัน มีผลต่อ การ ประหยัด ส่วนบุคคล กองทุน ประกันสังคม และ การ ประหยัด ของ รัฐบาล อย่างไร [SEP] 
+HYPOTHESIS - การออมทรัพย์ แห่งชาติ ได้รับ การ แก้ไข และ ไม่ สามารถ เปลี่ยนแปลง ได้<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_235004,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - อะไร คือ ผลกระทบ ของ เทคโนโลยี คอมพิวเตอร์ บ้าน บน ความต้องการ ของ ไปรษณีย์ ? [SEP] 
+HYPOTHESIS - เทคโนโลยี คอมพิวเตอร์ บ้าน   revolutionized   บริการ ส่ง ไปรษณีย์<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_235340,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - พวกเขา ขี่ หนัก โดย   torchlight   จาก ทางใต้ [SEP] 
+HYPOTHESIS - พวกเขา กำลัง ขี่ จาก ทางเหนือ โดย ไม่มี แหล่ง แสง<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_238632,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - อ้า าาาาาาาาาาาาาาาาาา กัปตัน ในที่สุด ก็ มา และ ยิ้ม กับ   ' ไม่ใช่   เรื่อง   นี้   อีกครั้ง '   ยิ้ม ให้ กับ นักบิน ร่วม ของ เขา เดน [SEP] 
+HYPOTHESIS - กัปตัน มี ลักษณะ ที่ บอ กว่า   "" ไม่ใช่   สิ่ง   นี้   อีกครั้ง ""   เมื่อ คุย กับ นักบิน ร่วม ของ เขา<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_246828,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - 7.37   งานสนาม ที่สอง มาตรฐาน สำหรับ การแสดง กวาน [SEP] 
+HYPOTHESIS - มี มาตรฐาน ระดับโลก สำหรับ การแสดง กวาน<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_252473,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เย่เย่ ให้ มัน ทำให้ คุณ มี มุมมอง บางส่วน ของ พี่ชาย ของ ฉัน หก สอง และ หนัก ประมาณ สอง ร้อย และ ห้าสิบ ปอนด์ [SEP] 
+HYPOTHESIS - ฉัน ไม่มี พี่น้อง คน ไหน เลย ฉัน จะ ได้ เปรียบเทียบ จริงๆ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_260609,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เรา มี น้องสาว ของ ฉัน และ ฉัน มี สวน สอง แห่ง ฉัน คิด ว่า เรา คิดออก ทั้งหมด อืม นี่ สำหรับ ผัก ประมาณ สอง ใน สาม ของ เอเคอร์ เพื่อให้ เรา แต่ละคน มี สาม ของ เอเคอร์ ที่ เรา ทำ [SEP] 
+HYPOTHESIS - พี่น้อง ของ ฉัน และ ฉัน แต่ละคน มี สวน ที่ เกี่ยวกับ หนึ่ง ใน สาม ของ เอเคอร์<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_261050,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - จ ร้า สำหรับ เมือง ใช้ และ [SEP] 
+HYPOTHESIS - พวก นั้น ไม่ ให้ ใช้ ตาม เมือง<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_265509,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ดังนั้น สาม คน นี้ ไม่ได้ อยู่ ใน ลีก เดียวกัน กับ แม่ เท เร ซ่า [SEP] 
+HYPOTHESIS - พวกเขา ไม่ได้ เป็น เหมือน แม่ เท เร ซ่า<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_268481,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - นอกจากนี้ ที่ เกา เรา กำลัง ใช้   the   bully   เทศนา และ พูด ออก ไป เพื่อ ส่งเสริม ให้ คนอื่น ทำ ส่วน ของ พวกเขา เพื่อ ช่วย ฟื้นฟู ความ เชื่อใจ ของ สาธารณะ และ ความมั่นใจ และ เรา จะ ทำ เช่นนั้น ต่อไป [SEP] 
+HYPOTHESIS - คน เกา ส่งเสริม   workplace   เพื่อ สุขภาพ ที่ มี เป้าหมาย ที่ ชัดเจน และ มี ความสมบูรณ์ การสื่อสาร ที่ น่าเคารพ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_270672,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ฉัน บอก เขา ว่า วัน พุธ คือ วัน นึง ที่ เธอ ไม่ได้ อยู่ ที่นั่น ! [SEP] 
+HYPOTHESIS - เธอ อยู่ ที่นั่น เมื่อ วัน อังคาร แต่ ไม่ใช่ วัน พุธ<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_275017,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - การเรียน ที่ มี อยู่ มัน มี ความสามารถ ช่วย กำหนด โครงสร้าง และ ความรับผิดชอบ ของ องค์กร   dbs   ใหม่ [SEP] 
+HYPOTHESIS - ความสามารถ ที่ ควร ศึกษา รวม จำนวน คอมพิวเตอร์ เด ส ก์ ท็อป ที่ ดำเนินการ โดย องค์กร<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_280126,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เพื่อ ปรับปรุง อารมณ์ ของ เธอ   jolanta   บิน กลับ สวิตเซอร์แลนด์ เพื่อ ผ่าตัด อี กรอบ [SEP] 
+HYPOTHESIS - Jolanta   กลับ สวิสเซอร์แลนด์ ค่ะ<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_288152,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ในขณะที่ การ ควบคุม ตนเอง สามารถ ทำได้ และ ได้ ทำงาน ใน สถานการณ์ ต่างๆ มี บางสิ่ง ที่ มัน ไม่ สมจริง สำหรับ พวกเขา ที่จะ ทำงาน ได้ อย่างมีประสิทธิภาพ ตามที่ ต้องการ เพื่อ ปกป้อง ความสนใจ ของ สาธารณะ [SEP] 
+HYPOTHESIS - มี บางสิ่ง ที่ ไม่ สมจริง สำหรับ การ ควบคุม ตัวเอง ใน การทำงาน<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_288971,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ดังนั้น การ ที่   ku   klux   klan   ใส่ เสื้อคลุม ของ คาทอลิก ที่ พวกเขา ถูก เหยียดหยาม และ สังคม ของ จอห์น เบิร์ช จัดระเบียบ ตัวเอง ใน เซลล์ ลับ และ กลุ่ม ด้านหน้า ต้นแบบ ของ ศัตรู คอมมิวนิสต์ [SEP] 
+HYPOTHESIS - สังคม ของ จอห์น เบิร์ช   orgainzed   เอง ใน กลุ่ม โทร ลับ และ กลุ่ม   fornt   ที่ เป็นต้นแบบ ของ ศัตรู คอมมิวนิสต์ และ ใส่   vestments   ของ คาทอลิก<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_290828,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - มี ข้อตกลง ทั่วไป ใน หมู่ ผู้เข้าร่วม ว่า ราก สาเหตุ ของ การ แยกส่วน ที่ มี การ รับผิดชอบ เป็นระบบ ที่ มี ความ ซับซ้อน ใน ธรรมชาติ ความ ซับซ้อน และ จะ ต้องการ ความเป็นผู้นำ และ การ ปรับเปลี่ยน ให้ กับ รุ่น ปัจจุบัน ใน แต่ละ พื้นที่ ของ สี่   interrelated   เพื่อ เปลี่ยน เป็นระบบ โดยรวม ที่ มีสมาธิ มากขึ้น ปกป้อง ความสนใจ สาธารณะ และ ใน เรื่อง นั้น รับผิดชอบ [SEP] 
+HYPOTHESIS - ปัญหา การ รับผิดชอบ ไม่ใช่ ระบบ ภูมิคุ้มกัน<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_294920,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เรา จึง มี ภาวะ กลืนไม่เข้าคายไม่ออก [SEP] 
+HYPOTHESIS - ตอนนี้ เรา มีปัญหา แล้ว<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_302806,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ใน ประมาณ   1250   ค ริ ส ต กาล ,   โมเสส ,   ผู้นำ คน ใหม่ ของ อิสราเอล ,   แยก ทะเล แดง และ นำ คน ของ เขา กลับ ไป ที่ แมว เพื่อ เผชิญหน้า กับ พวก ปาเลสไตน์ ซึ่ง ตอนนี้ ควบคุม แผ่นดิน ได้ มาก [SEP] 
+HYPOTHESIS - ชาว อิสราเอล ได้รับ ชัยชนะ เหนือ ชาว ปาเลสไตน์<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_303237,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Ebook   ฟรี จาก   http :   /   /   manybooks . net   / [SEP] 
+HYPOTHESIS - หนังสือ ฟรี ค่ะ<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_304528,train+valid
+0,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ใช่ ดี ใน สาม ของ ร้านอาหาร เหล่านั้น อาจจะ เป็น สิ่ง ที่ ดี ที่สุด ที่ ฉัน หมายถึง พวกเขา   '   พวกเขา ทั้งหมด ค่อนข้าง ดีแต่ ร้านอาหาร คุ้มค่า จริงๆ ที่ ได้ เห็น [SEP] 
+HYPOTHESIS - ผม นึกถึง สาม คน นั้น ร้านอาหาร ดี ที่สุด<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_310355,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เขา จะ ออก ไป ข้างนอก และ ใช้เวลา สี่ ชั่วโมง บน สนามหญ้า [SEP] 
+HYPOTHESIS - เขา ไม่ได้ แคร์ สนามหญ้า จริงๆ และ ก็ ไม่ได้ ใช้เวลา มาก กับ มัน<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_310902,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - มองออก ไป สำหรับ ศิลปวัตถุ โรมัน และ แขก ซึ่ง ยังคง เป็น บางครั้ง ค้นพบ ที่นี่ [SEP] 
+HYPOTHESIS - ระบบ นักโบราณคดี ชอบ มา ลอง มา ขุดคุ้ย พระธาตุ โบราณ บ้าง<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_321757,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - และ เรา เล่น ใน ช่วง ฤดูร้อน ออกมา ที่นี่ เรา ได้รับ ลีก ผสม ใน และ นั่น คือ สิ่ง ที่ ฉัน กำลัง พยายาม ที่จะ ทำให้ เธอ พร้อม สำหรับ มัน จะ เริ่ม ดี เมื่อ เรา เปลี่ยน เวลา กลับ เมื่อไหร่ ก็ ตามที่ เป็น เดือน หน้า ฉัน เดา ว่า [SEP] 
+HYPOTHESIS - เรา เล่น ใน ช่วง ฤดูหนาว และ ฉัน จะ ไม่ ให้ เธอ เตรียมตัว สำหรับ มัน ตั้งแต่ เธอ ไม่ สามารถ เล่น ได้<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_334061,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เกิด ความเสียหาย อย่างรุนแรง ใน ช่วง แผ่นดินไหว   1934   ครั้ง มัน ถูก สร้าง ขึ้น ใหม่ ใน ภายหลัง [SEP] 
+HYPOTHESIS - มัน ถูก สร้าง ขึ้น ใหม่ หลังจาก แผ่นดินไหว   1934   ครั้ง<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_347124,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Arons   และ สำนักงาน ของ เธอ   -   stephanie   schwartz   -   ทำ บางอย่าง ของ คู่ ที่ แปลก ทางการเมือง ที่ การ ช่วยเหลือ ตามกฎหมาย [SEP] 
+HYPOTHESIS - Arons   และ   stephanie   schwartz   เป็น คนแปลกหน้า ที่ สมบูรณ์ และ ไม่เคย เจอกัน อีก เลย<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_351456,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - หาก คุณ ยืน หันหน้า ไป ที่ สุสาน ด้วย หลัง ของ คุณ ไป ที่   katholikon   โบสถ์   franciscan   ของ แมรี่ แมค ดา เลน อยู่ ใน ขวา ของ คุณ [SEP] 
+HYPOTHESIS - โบสถ์ จะ อยู่ ที่ สิทธิ์ ของ คุณ ถ้า คุณ ยืน อยู่ ตรงนั้น<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_353210,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - หลัง ชั้นวางของ ย้าย ยกทรง ผ้า ซาติน และ กางเกงใน เป็น พิพิธภัณฑ์ ชุดชั้นใน ที่ มีชื่อเสียง ของ พวกเขา ที่ คุณ สามารถ แอบดู เครื่องแต่งกาย ที่ ใกล้ชิด ของ คน ดังเช่น มาริ ลี น และ มา ดอน น่า [SEP] 
+HYPOTHESIS - หลาย คน เยี่ยมชม พิพิธภัณฑ์ ชุดชั้นใน เพื่อ ดู เครื่องแต่งกาย ที่ มี ความใกล้ชิด ของ มาริ ลี น และ มา ดอน น่า<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_354203,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ข้าง โบสถ์ เป็น ที่ ที่ น่ารัก ที่สุด ใน ศตวรรษ ที่   14   ( chiostro   delle   clarisse )   แปลง ใน ปี   1742   เป็น สวน ประเทศ ของ พับ ทางเดิน และ กระเบื้อง เซรามิค ที่ น่ารื่นรมย์ ของ ความเงียบสงบ และ หนึ่ง ใน เนเปิ้ล   '   จุด ที่ มีเสน่ห์ ที่สุด [SEP] 
+HYPOTHESIS - อาราม อายุ เกิน ห้า ร้อย ปี<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_356110,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - สิ่ง ที่ เขา ไม่ ให้ สำหรับ การอาบน้ำ ! [SEP] 
+HYPOTHESIS - เขา ต้อง การอาบน้ำ ตั้งแต่ เขา ถูก ปกคลุม ใน   maneur<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_370419,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - 7   งบประมาณ และ เศรษฐกิจ เศรษฐกิจ ปี   2002 - 2011   สำนักงาน งบประมาณ รัฐสภา   ( มกราคม   2001 ) [SEP] 
+HYPOTHESIS - งบประมาณ และ ปีงบประมาณ ของ เศรษฐกิจ เป็น ปี ที่ ปัญหา เศรษฐกิจ ต้อง มี การ แก้<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_376989,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - มันจะไม่ระเบิดโดยไม่มีตัวเหนี่ยว [SEP] 
+HYPOTHESIS - ไกปืนทำให้ระเบิด<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_157,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ไม่นะ มันก็แค่ครั้งเดียวในตอนเช้าวันนั้น และเธอบอกว่าเธอกำลังจะกลับมาสำนักงาน [SEP] 
+HYPOTHESIS - เขาไม่ได้เอ่ยว่าเธอจะกลับมาหรือไม่<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_189,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ตอนนี้นั่นคือวิธีการแบ่งประเภทของมัน [SEP] 
+HYPOTHESIS - ถ้าใครรู้ข้อมูล พวกเขาจะถูกจำคุก<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_228,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ฉันไม่รู้ว่ามาจากเท็กซัส คุณอาจไม่รู้ว่าฉันไม่ควรเหมารวมแต่การควบคุมปืนนั้นอาจจะขุ่นเคืองที่นั่นฉันคิดว่า [SEP] 
+HYPOTHESIS - การควบคุมปืนอาจไม่เป็นที่นิยมในเท็กซัส<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_321,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - อ่าหะ โอ้ เธอเยี่ยมยอด เธอเป็น คุณก็รู้ เธอคือตัวละคร เธอจะนั่งกับใครก็หรือจะเล่นกับใครก็ได้ [SEP] 
+HYPOTHESIS - ปกติแล้วเธอเล่นโป๊กเกอร์หรือแบล็กแจ็ก แต่บางครั้งเธอเล่น scrabble<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_325,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ตอนนี้นั่นคือหนึ่งในตัวยับยั้งขโมยที่ดีที่สุดก็คือเพื่อนบ้านที่เอะอะส่งเสียง แม้ว่าเพื่อนบ้านมีสุนัขที่เอะอะส่งเสียง ซึ่งนั่นคือการยับยั้งเพราะว่าพวกมันรู้ว่าสุนัขนั่นจะเห่าอย่างแน่นอน [SEP] 
+HYPOTHESIS - พวกโจรรู้ว่าสุนัขจะเงียบในเร็ว ๆ นี้<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_365,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ใช่ ฉันมักจะกล่าวว่าถ้าฉันตาย ฉันมักจะกล่าวว่าถ้าฉันตายฉันต้องการกลับมาเกิดเป็นสุนัข มันเป็นวิธีที่ดีที่สุดที่จะเป็น [SEP] 
+HYPOTHESIS - ฉันไม่เชื่อในชีวิตหลังความตายประเภทใด ๆ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_489,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ไม่มีความแตกต่างในด้านคะแนนสอบวัดระดับความสำเร็จระหว่างเพื่อนร่วมชั้นเรียนที่อ่อนกว่าและแก่กว่า [SEP] 
+HYPOTHESIS - เพื่อนร่วมชั้นเด็กกับโตได้คะแนนสอบเท่ากัน<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_535,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - การสิ้นสุดของทุนนิยมอาจจะเป็นไปได้อย่างปลอดภัยเช่นเดียวกับการตายของลัทธิคอมมิวนิสต์ในยุโรป [SEP] 
+HYPOTHESIS - การเพาะปลูกภายแบบทุนนิยมเป็นเรื่องผิด<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_589,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ดูวอลลิสและวาร์จาเบเดียนสำหรับภาพถ่ายร่วมสมัยของโมราดาสโบราณที่ยังพบได้ทางตอนเหนือของนิวเม็กซิโก [SEP] 
+HYPOTHESIS - Wallis และ Varjabedian นำเสนอภาพถ่ายที่เต็มไปด้วยสีสันของ moradas ซึ่งเป็นเมืองเก่าแก่ของรัฐนิวเม็กซิโก<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_734,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - คูปองพิเศษถูกแจกออกไปบนชายหาดอย่างมากในช่วงกลางวัน โดยหวังว่าจะสามารถเชิญชวนคนมากมายให้เข้ามาในคืนนั้น [SEP] 
+HYPOTHESIS - จะมีการแจกคูปองบนชายหาดในเวลากลางคืน โดยหวังว่าจะมีลูกค้าในวันรุ่งขึ้น<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1155,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - วันนี้ พื้นที่ส่วนนั้นเรียกว่า วัดสวนสวรรค์  (Tiantan Gongyuan) [SEP] 
+HYPOTHESIS - สวน Temple of Heaven ค่อนข้างใหม่<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1182,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ระบบฝ่ายทรัพยากรบุคคลได้รับการรวมและโครงสร้างขององค์กรใหม่ได้รับการกำหนดอย่างรวดเร็วเพื่อให้แน่ใจถึงการช่วยเหลือสำหรับฐานลูกค้าที่ขยายใหญ่ขึ้นอย่างต่อเนื่อง [SEP] 
+HYPOTHESIS - ระบบทรัพยากรมนุษย์ถูกขยายไปจนเกินกว่าสถานะที่เป็นอยู่ก่อนนี้<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_1247,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - 29 ดังนั้น, 21 เดือนควรจะสมเหตุสมผล, และในบางกรณีอาจใช้การคำนวณแบบอนุรักษ์นิยมเพื่อประมาณค่าเวลาที่จำเป็นทั้งหมดในการติดตั้งเพิ่มเติมหม้อไอน้ำแบบยูทิลิตี้ตัวเดียว [SEP] 
+HYPOTHESIS - การติดตั้งหม้อน้ำเพิ่มเติมนั้นทำเสร็จได้ภายในเวลาไม่กี่วัน<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1313,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - เมื่อการโจมตีที่เกี่ยวข้องถูกกำหนดให้เป็นเกี่ยวกับอัลกออิดะห์, ความรับผิดชอบถูกย้ายไปที่สำนักงานสนามในนิวยอร์ก [SEP] 
+HYPOTHESIS - สำนักงานสนามนิวยอร์กได้เข้าควบคุมตัวผู้ต้องสงสัยทั้งหมดไว้ในการดูเเล<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1703,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - วิ่งไปอย่างเงียบ ๆ วิ่งไปให้ไกล วิ่งเพื่อค้นหาคำตอบ [SEP] 
+HYPOTHESIS - วิ่งในเวลาที่ออกเสียง<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_2007,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ดูเหมือนพอลจะเคารพอลัน กรีนสปันในฐานะนักทฤษฏีที่ควบคุมอัตราการว่างงานตามความเป็นจริงตามการควบคุมของทฤษฏีทางเศรษฐกิจบางอย่าง [SEP] 
+HYPOTHESIS - Paul ไม่เคยได้ยินเกี่ยวกับ Alan Greenspan หรือทฤษฎีทางเศรษฐกิจของเขา<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_2011,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - นี่เป็นการสนับสนุนของความถูกต้องของความยุติธรรมแอนโธนี่เคนเนดี [SEP] 
+HYPOTHESIS - Kennedy สนับสนุนสิทธิของรัฐ<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_2033,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ในทางกลับกัน, เขามี Mark Twain ระหว่างเขาเอง และกลางวัน [SEP] 
+HYPOTHESIS - Mark Twain ไม่สามารถหยุดเขาได้<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_2125,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ไบเบิลของ The King James ซึ่งมีคำเก่ามากมายดังกล่าว ได้สงวนไว้สำหรับภาษาอังกฤษสมัยใหม่ ดังนั้นแล้วมักจะปรากฏโดยทั่วไปในสัจนิรันดร์ว่าทำไมและเหตุใด [SEP] 
+HYPOTHESIS - พระคัมภีร์ของ King James ได้รับการปรับปรุงให้ทันสมัยและใช้ภาษาอังกฤษสมัยใหม่และเรียบง่าย<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_2314,train+valid

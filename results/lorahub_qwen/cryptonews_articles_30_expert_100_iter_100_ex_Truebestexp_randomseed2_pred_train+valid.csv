@@ -1,0 +1,1101 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bitcoin found immediate support near 19000 bounced level trade near 19600 level btcusd also crossed 50day moving average indicating bullish trend<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_149,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+commenting overall performance quarter company said achieved industryleading operating margin although admitted inflation impacted profitability<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1132,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bitcoin popular cryptocurrency price predicted reach 270000 2030 according group 55 cryptocurrency specialists years estimates still anticipate price bitcoin increasing<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1879,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+producers promised revelations disclosed results investigation alleged kangs younger sister also appears key player listed videntes largest shareholder shows makers also reported one point kangs sister saved bankruptcy mobilizing 16 million<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2680,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+proposed regulations stablecoin issuers cover areas<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4102,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+technical front ethereum exhibiting bearish correction price heading lower complete 382 fibonacci retracement 1600<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_10345,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+south korean academic claimed seoul must take steps stop pyongyang hacking crypto targets south demilitarized zone tensions escalate north korea southern neighbor<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12816,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bounce could buy valuable time ftx founder ceo sam bankmanfried sbf even us regulatory agencies circle exchanges legal team flees sinking ship<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_14734,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+term digital financial assets used sort portmanteau expression russian legal circles refer everything bitcoin btc tokenized securities commodities central bank digital currencies<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_14883,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+japanese tradfi giant nomura set launch crypto trading platform professional traders early 2023 firm looks ramp crypto operations<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_16042,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bukele shortage critics matter bitcoin per infobae economist ricardo castaneda central american institute fiscal studies icefi claimed strong sense mistrust among salvadoran population btcrelated matters<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_20103,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+wasnt september 2021 el salvador officially recognized bitcoin legal tender bull market bitcoin time made seem like country could make money investment made price bitcoin constantly breaking records<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_24151,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+coinmarketcap ranks first live market cap 310 billion total quantity 21000000 btc coins circulating supply 19213406 btc coins<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_27808,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+networks participants known functionaries control safeguard quantity btc verifiably comparable amount question<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_30932,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+mines attempting use alternative renewable energy sources unaffected court report detailing decision hochul stated first kind country<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_31588,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+major crypto exchange okx said launched selfaudit feature currently supports three cryptoassets<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_32978,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+btcusd pair currently descending towards 382 fibonacci retracement level 16300 4hour timeframe already crossed 50day moving average line indicating selling bias<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_35387,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+dash 2 trade ethereumbased trading intelligence platform provides traders skill levels realtime analytics social data allowing make informed decisions<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_36234,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+due launch first quarter 2023 sale native d2t token already raised 73 million also announced listings bitmart lbank exchange early next year giving early investors good opportunity make decent returns<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_39274,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+global crypto market cap fell 2 81532 billion previous day sending major cryptocurrencies red early november 28 last 24 hours overall crypto market volume grew 2210 4169 billion<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_39586,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+paperwork submitted new jersey court cryptocurrency prices already freefall 70 bitcoins value wiped alltime high 2021<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_41777,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+current price ethereum 1207 24hour trading volume 7 billion last 24 hours ethereum gained nearly 4 coinmarketcap currently ranks 2 live market cap 147 billion circulating supply 122373866 eth coins<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_43066,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+dash 2 trade success well two exchanges lbank bitmart promising list d2t token presale completed 1 d2t currently worth 00513 usdt end sale increase 00533<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_45607,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+per chosun ilbo law enforcers spent 24 million crypto monitoring software cryptospecific training officers past year last year figure stood 653000<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_46092,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+putin referring international sanctions severely restricted russian federations access global financial market institutions following countrys invasion neighboring ukraine<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_51351,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+second noteworthy transaction day 17361 btc transaction address dormant since june 14 2017 well 100 btc transaction address april 12 2014<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_52754,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+ted cruz us senator wants turn texas bitcoin cryptocurrencies speech texas blockchain summit 2022 late november lawmaker expressed understanding cryptocurrency sector may significant us energy supply technological advancement<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_54142,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+impt carboncredit marketplace reward consumers shopping ecofriendly merchants rewards arrive form impt token used buy nftbased carbon offsets traded retired<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_54757,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+aksakov conceded bill already edited government bodies regulators added committees including agreed upon law<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_55018,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+rsi macd hand recently entered selling zone indicating selling trend eth believe bearish correction bulls remain optimistic 1250 reached<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_55253,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+major cryptocurrencies trading green early december 6 even though theglobal crypto market caphad dropped 086 85636 billion previous day last 24 hours total crypto market volume increased 2648 4021 billion<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_55628,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+sats abbreviation satoshi lowest unit bitcoin currency one bitcoin equal one hundred million satoshis<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_56418,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+given ongoing riskoff sentiment strong us dollar btcusd pair fell 17385 give gains gaining immediate support 16900 extended 4hour timeframe upward trendline<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_56750,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+volexity claimed bloxholder clone bona fide trading platform haasonline produced examples nearidentical webpages wordforwordidentical text two sites evidence<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_58070,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+btc consolidate 17000 chance bullish reversal upside bitcoin may encounter resistance 17385 bullish breakout level may allow additional buying 17650 18000<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_58164,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+company focuses delivering instant worldwide payments bitcoin fiat currencies utilizing bitcoins offchain scaling solution lightning network result news also beneficial btcusd<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_58413,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+shes prominent investor high expectations bitcoin galaxy digitals mike novogratz suggesting cryptocurrency reach 500000 five years fact novogratz would forecast level earlier time werent fed rate hikes<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_58487,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+given btc eth likely trade bearish side<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_61268,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+investigation began gironde saw officers expand search paris region alleged scammers appear preyed wealthy victims seem active cannes megve alpine ski resort become popular billionaires<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_65819,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+us federal reserve raise interest rates december 13 follows series 75 basis point interest rate increases throughout year interest rate hike scheduled tomorrow expected smaller past<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_67519,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+ministry claimed glaidson created wellstructured organization weapons front companies spies professional killers entire operation coordinated central intelligence unit<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_69193,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bitcoins current priceis 17474 24hour trading volume 25 billion btc price plunged 3 since yesterday bitcoin trading negatively despite broken past crucial resistance level roughly 18150 however bitcoin plummeted 18000 level following announcement fed ecb rate hikes suggests selling trend may continue<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_72402,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+changelly pro lbank bitmart first centralized exchanges agree list token immediately presale concludes news follows official confirmation third cex listing contract made crypto project<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_73737,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+fightout crypto ecosystem powered fght coin<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_78384,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+tokens currently available purchase 00533 per token available multiple centralized exchanges within next month<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_78847,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+analyst pointed monetary policyrelated moves europe particularly united states direct effect crypto prices hasegawa added btc markets shifted downward apparent direct response rising interest rates usa<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_79850,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+despite news record selling whales bitcoins price remained remarkably stable past 24 hours press time monday price mere 01 past 24 hours 16743 past 7 days price 2<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_80454,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+dash 2 trade exciting cryptocurrency trading platform company put money unique features new analytics social trading platform projected take crypto trading business storm among features trading signals social sentiment onchain indicators presale token scoring system token listing alert system strategy backtesting tool<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_81976,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+fightout new movetoearn m2e fitness app gym chain aiming bring fitness lifestyle web3 launched presale attracting attention investors see project potential revolutionize current web3 m2e landscape<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_83205,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+glassnodes onchain data shows percentage btc held retail traders hit alltime high 17 retail investors individuals less ten bitcoin wallets according business<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_86350,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+comes illegal acts involving crypto bill stated perpetrators would punished fees eight years prison<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_89516,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+virtual asset service providers may operate country prior authorization federal public administration body entity<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_89966,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+aninterviewwith barrons thursday miller said surprised bitcoin lost value amid recent collapse ftx thirdlargest crypto exchange world thatfiled bankruptcyin early november said<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_90118,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+according cryptoquant post published january 15<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_98320,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bitcoin trading comfortably 200day simple moving average macd moving signal line volume profile shows strong volume present price point<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_99948,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+calvaria seeks bring crypto gaming mainstream tapping huge existing market market physical battle card games think viral sensations past like pokemon yugioh crypto gaming space expected grow 46 billion size 2022 657 billion size 2027 according analysis bymarkets markets plenty room massive growth calvariais set launch headline fantasythemed card game duels eternity q2 2023<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_100748,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+contrary help confirm rationale shift sentiment seen pick risk assets stocks crypto<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_101399,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+shift new bitcoin address momentum sending signal worlds largest cryptocurrency might beginnings new bull market data crypto analytics firm glassnode reveals according glassnode 30day simple moving average sma new addresses 200day sma since start november despite collapse cryptocurrency exchange ftx early month<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_104014,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+crypto billionaire former ceo bitmex arthur hayes warned bitcoin may lose recent gains federal reserve pivot away current monthly ratehiking monetary policy<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_108495,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+brazils inflation rate hit alltime high june late year<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_109834,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+note use spdr sp 500 etf spy proxy sp 500 cheapest liquid way gain exposure index<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_113030,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+glassnodes final indicator recovering bitcoin bear dashboard whether 90day exponential moving average ema bitcoin supply profit uptrend last 30 days supply profit number bitcoins last moved usddenominated prices lower right implying bought lower price wallet holding onto paper profit indicator also flashing green<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_113397,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+finally widely followed bitcoin pricing model sending similar story according bitcoin stocktoflow pricing model bitcoin market cycle roughly four years prices typically bottoming somewhere close middle fouryear gap halvings bitcoin halving fouryearly phenomenon mining reward gets halved thus slowing bitcoin inflation rate past price history suggests bitcoins next big surge come next halving 2024<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_114808,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bitcoin options markets continue signal investors anticipating upside btc price according chart block widely followed bitcoin 25 delta skew remained zero since middle january recently hit highest since q4 2021 close 60<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_115623,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+elsewhere widely followed bitcoin pricing model sending similar story according bitcoin stocktoflow pricing model bitcoin market cycle roughly four years prices typically bottoming somewhere close middle fouryear gap halvings bitcoin halving fouryearly phenomenon mining reward gets halved thus slowing bitcoin inflation rate past price history suggests bitcoins next big surge come next halving 2024<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_118389,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+conversion gbtc bitcoin trust etf never likely happen ospreys lawyers wrote lawsuit adding<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_120313,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+resurgence looks set put firmly test wednesday fed scheduled release latest monetary policy decision 1900gmt expected raise interest rates 25 bps 450475 target range would mark another slowdown pace rate hikes fed lifted rates 50 bps last meeting 75 bps previous four meetings prior<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_120631,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+total assets management aum digital asset investment products surged whopping 368 197 billion january highest level since may 2022 cryptocompare said latest monthly digital asset management review report according crypto intelligence firm bullish sentiment driven liquidated short positions favorable macro environment reflected recent cpi announcement saw bitcoins price reach 23000 highest level since august 2022<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_121100,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+important technical event occurred bitcoin market first time year bitcoins 50day simple moving average sma 19825 moved north 200day sma 19723 50day sma moves 200day sma technicians refer golden cross sign meaningful positive shift markets momentum tuesdays golden cross bitcoins seventh last 10 years<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_126478,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+back november collapse formerly one largest cryptocurrency exchanges world ftx resulted customers losing access billions funds triggered shift towards crypto selfcustody investors rushed get bitcoin exchanges triggering surge address numbers time<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_127592,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+commenting bitcoin market tactically orientated likely focus responsive selling may buyandhold types gain upper hand mcglones comments chime popular sentiment held many analysts moment crypto us stock markets appear ignoring macro risks many analysts go step mcglone forecast outright crypto pullback began earlier month run<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_131423,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+indeed februarys bitcoin price action challenging retracement stiff resistance 24000 saw price tumble local support 21750<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_132046,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+indeed fears rate hikes engulfed market since end 2021 far things steady<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_132396,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+today crypto el salvadors bitcoin embassy usa japanese banking giant invests infinity kansas may cap election donations crypto 100<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_133467,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+however amid recent rise btcdenominated network fees driven fall fee revenue multiple zscore getting close zero might soon turn positive thus become eighth glassnodes eight metrics flash green zscore trending higher since start year last around 015<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_134143,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+regarding bitcoin trading versus key pricing models btc year surged 200day moving average realized price sit 20000 dual bullish sign technical front another recent technical buy signal got bulls excited bitcoin experiencing seventh gold cross last 10 years elsewhere number bitcoin wallet addresses holding nonzero balance recently surged new alltime high sign new investors flooding<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_135862,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+historically balance btc wealth concentrates hands presumably higher conviction investors bitcoin bear market btc wealth concentration starts reverse classically early indicator new bitcoin bull market beginning new investors returning market trend seen glassnodes realized hodl ratio indicator<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_135873,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+elsewhere widely followed bitcoin pricing model sending similar story according bitcoin stocktoflow pricing model bitcoin market cycle roughly four years prices typically bottoming somewhere close middle fouryear gap halvings bitcoin halving fouryearly phenomenon mining reward gets halved thus slowing bitcoin inflation rate past price history suggests bitcoins next big surge come next halving 2024<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_136075,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+glassnodes widely followed dashboard comes time laundry list popular onchain technical indicators also flashing bullish signals<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_136522,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+say bitcoin able recover 3040k region time next halving could well looking posthalving rally north 100k<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_141289,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+finally blockchaincenternets popular bitcoin rainbow chart shows current levels bitcoin buy zone recently recovered basically fire sale zone late 2022<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_1214,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+however answers almost identical participants asked identify tokens would worth buying week ahead<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_3715,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+downside bitcoin price extends coming days weeks many fear likelihood wake key technical support broken fed chair jerome powells latest hawkish surprise another key indicator profitability bitcoin market likely also turn negative<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_4237,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+key indicator profitability bitcoin market turned negative bearish sign according analysts wake bitcoins latest price dip back 22000 area 30day simple moving average average spent output profit ratio asopr recently fell back 1 seen chart presented crypto data analytics firm glassnode<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_4404,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+unlike asopr model indicator accounts total realized profitloss glassnode continues adding means larger transactors like whales carry greater influence smaller ones like shrimp<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_4960,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bitcoins elevated correlation us equity markets latter half 2022 clear feature ongoing bear market lows november seen btc pull much 77 lower 2021 record highs 69000<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_5449,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+according chart presented coinmetrics 60day pearson correlation btc price closing price sp 500 widely followed us equity market benchmark fell lowest level since april 2022 030 earlier week<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_6122,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+deadline japanese platforms creditors register payment method desire receive claims april 6<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_6153,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+looking bitcoin broader time horizon bitcoins latest drop still leaves well within ranges past eight months downside may instore bitcoin erased 50 rally november 2022 lows remains far soon bet new bearmarket cycle lows worlds largest cryptocurrency market capitalization<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_6571,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+person familiar funds activities asked identified told bloomberg mt gox investment funds strategy hold digital assets scheduled returned october<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_6887,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+digital asset investment products saw highestever weekly outflow last week according latest digital asset fund flows weekly report released coinshares 255 million net outflows amounted 10 total assets management aum fleeing space<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_8293,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+specifically bitcoin hold onto recent gains andor extend upside towards next key resistance around 28000 many technicians deem likely crypto analytics firm glassnodes widely followed recovering bitcoin bear dashboard onchain technical indicators likely start flashing bull market signal<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_11328,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+30day sma new bitcoin address creation moved 365day sma months ago sign rate new bitcoin wallets created accelerating historically occurred start bull markets<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_11454,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+el salvador launches bitcoin lightning network dev courses university students<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_12923,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+meanwhile btcs recent strong bounce 200dma realized price 20000 level another tailwind fact bitcoin managed crack key longterm resistance 25200400 area earlier week means door open run higher towards next resistance area around 28000 perhaps even test 30000<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_13149,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bitcoin decentralized independent peertopeer payments network viewed many safe alternative fiatbased central bankcentered fractional reserve system another potential tailwind bitcoin could next weeks fed meeting decisively dovish assuming fed officials fear hawkish message could roil banking system<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_13492,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+fundamentals seem likely continue support bitcoin upside weeks fed meeting dovish associated riskon flows easing financial conditions support bitcoin price fed isnt dovish market hopes could cause shortterm price wobble would likely result us bank sector strains could increase demand bitcoin safehaven alternative<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_13916,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+late2020early 2021 bitcoins zscore 3 prolonged period btc price continued experience exponential gains rally eventually start cooling<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_15631,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bitcoin trading volumes keep trending right direction btc sustain bullrun<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_16365,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a section from an article about cryptocurrency.
+Return 1 if the news is likely to impact cryptocurrency prices, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+addresses nonzero balance also continue storming higher according data presented glassnode metric recently surpassed 45 million first time<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_17538,train+valid

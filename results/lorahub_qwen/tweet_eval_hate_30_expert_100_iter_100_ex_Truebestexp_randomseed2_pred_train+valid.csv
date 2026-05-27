@@ -1,0 +1,1101 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Unchecked Population&amp;migration to cities is biggest evil for dirty India.Disincentive large families,such as withdrawl of sops<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_21,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Uhhhhhh, that’s stupid LITTLE bitch, ma’am 😉<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_45,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+American #FamiliesBelongTogether but the #Democrat Socialist Party Keeps allowing Illegals to Kill them  #FamiliesBelongTogetherMarch  #AmericansFirst Not Illegals Breaking #Inmigration laws<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_133,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Denmark has cut welfare benefits for migrants - ""We'll move to Finland"" They threaten ""Finland will treat us better"" - Free Speech Time - @user<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_224,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+#immigrants #racist #Trump<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_286,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Say it loud, say it clear, illegal #immigrants are not welcome here<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_517,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user No, Keith, you should be next. Your hysterical girlie rants are pretty hilarious, I might miss them…<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_532,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Also. Some of you Latina women and your white people racism can also eat a giant dick. Cuz they don't like your ass either. 👏🏾<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_565,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+how the hell that bitch know him? hmmm she just proved to me that she's really a whore<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_713,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+And the US State Department just increased the number of refugees we are taking in!!  Can't anyone but us ""common...<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_772,train+valid
+0,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Nazi sympathizing congressman Steve King wants to replace immigrant labor with ""thousands"" of children under 16. #MakeChildrenWorkAgain<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_786,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user @user So its ok for a man to put his hands on a women... stfu. We know how your bitch living. Smh<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1086,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Of course not all men!!! That's not the problem! Women don't stop being abused by creeps just beca…<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1495,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Looooooooool I can’t believe ‘BEN WOTTS’ aka dick head fuck boy send me a pic of his hairy ass hole n asked me to peg him.. weird cunt 🤣🤣🤣<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1523,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+When they tell you 'just be yourself' so you show them what a piece of shit you really are...<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1548,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Texas is the Tipping Point #BuildThatWall<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1679,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+if them bitches take a pic with Bey (which i highly doubt) i will forever shut my whore mouth<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1847,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+In the 1960s, President Kennedy sent home Mexican #immigrants who were said to be holding down wages and taking jobs that could go to honest Americans. Did it lead to higher wages? The answer is a firm no!<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2245,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Dr. Hanan Ashrawi: “The US has no jurisdiction to disband UNRWA or to deprive Palestinian refugees of their rights”<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2261,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Backstabbing cher hypocritical, NASTY WOMAN and a bitch, bashing my President, who screwed her way to the top.. . . . .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2267,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user just stop before you make it worse. eat your cock and pussy<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2377,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+same party that authorised vans going around telling immigrants to go home uno<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2436,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+...we need to be the ones to ensure this culture of rape, and this belief that power gives you entitlement ends with this generation...<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2572,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Do you know what they do to rapists in jail, dumbfuck? lol have fun<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2708,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+People that ask you why you unfollowed them are the worst kind of people... Bitch, cause fuck you, that's why<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2781,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+EU throws up barriers in Niger to stem migrant flow<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3060,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user I tweeted the same views recently. The hysterical replies I received from feminist women & men was beyon…<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3090,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user AY YOU STUPID BITCH<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3197,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+#Withrefugees @user @user<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3270,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Learn about resisting &amp; responding to raids by immigration enforcement at the workshop we’re hosting with @user at @user on Tuesday 17 July. It’ll be facilitated with clear communication and accessible language in mind, not jargon. ðŸ—£<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3304,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+This is what people mean when they talk about monsoon season here in Cox’s Bazar. I’m told that cyclone season is another beast altogether. @user are here providing lifesaving medical as well as psycho-social support to refugees trying to rebuild their lives. #rohingya<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3613,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Bitch come out you love to talk shit on the phone that's why I let your dad know she raised a FUCKING HOE<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4340,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user The EU is on his end, if they arnt able to stop the immigration. A country which isnt able to protect his borders, isnt a country of souveranity. And this also will make problems in economic, include the overpopulation. Protectionism will be<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4376,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user  Fake News it is not a new Stephen Miller Rule. the Public Charge rule has been part of the U.S #Immigration law  since 1882.  Why Should  U.S Taxpayers give Welfare to Immigrants and import the World's poor  ! #Veterans  #Trump #MAGA<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4710,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I wish y'all hoes with no self respect would stop putting y'all sex life on twitter bitch be a lady please 🤢<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4930,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Trump said what he said the wrong way like him time we look after our own a majority voted to come out of the EU but it is not happening because the toffs do not want it immigration has put pressure with numbers on NHS Housing etc to busy bot<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4947,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Stfu bitch you don't like me get outta here punk hoe you just bored<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4988,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Spain creates its first refugee camp near San Roque to home migrants<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5124,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I am all for this!! #BuildThatWall<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5291,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+If I can get your mouth pregnant I'm down<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5356,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Wishing the one and only @user very Happy Birthday and Happy Diwali Hope you do best, whatever you do. Jai Shri Ram. Jai Mata Di.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5459,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+France, Malta will take 50 rescued migrants each: PM<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5534,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I hate when girls bitch about not having a date to a dance when they've turned down every guy that asked them #WomenSuck<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5556,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+How many immigrant kids were reunited with their parent today?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5578,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Did you know #Bangladesh plans to ship over 100,000 #Rohingya refugees to a tidally affected, uninhabited island that could be fully submerged if a typhoon hits? Not all is well in the camps either! @user report &amp; press conf 6 Aug 10:30 am in #Bangkok #FCCT<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5755,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Illegals Do Not have Constitutional Rights  per #SCOTUS therfeore no Right to Free Education on U.S Taxpayers Back !  Stop Rewarding Illegals #SendThemHome Trump MAGA #RedNationRising #SundayMorning via @user<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5867,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+in other news, just been called a skank and a cunt for telling a man not to hit, headbutt and slap his child<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5938,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user #Subway #Cowards #StopTheInvasion If they do now want to embrace our customs they should go back to their country of origin.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6003,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user kys you stupid nigger I hope you die of cancer you little cunt<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6051,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user @user Islam has been at war with infidels 1400 years... do you believe in the rape and murder taught in your Qur'an? if you do not its time to say so. Stop the lies.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6103,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We've been fucking this whore, Mother earth for awhile, She's a filthy bitch anyway, Rotting her from the inside out, We are at our end.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6244,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Bitch no, you gone stay your ass here i missed you<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6292,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Clinton In 2014: Immigrant Children “Should Be Sent Back”<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6293,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user @user So much Corruption in our government many things are swept under the rug, Drain the Swamp! #BlueRipple #KatesWall #OBAMASPYGATE #NoAmnesty #NoDACA #MAGA<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6324,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Heartwarming Video Of A Legal Immigrant ""President Trump Is A Gift From Heaven""<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6382,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Get rid of @user #VoteRed - #BuildTheWall from the Pacific Ocean to the Gulf of Mexico - #NoDACA #NoAmnesty #Deport all illeagles and their families - #ProudAmerican #AmericaFirst #MAGA #KAG<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6383,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user it means skank bastard u dumb bitch<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6398,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+my ‘friend’ who’s a bitch slut shamed one of the girls i work with today because she has a child<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6449,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user @user @user I have a big cock, doubt you can say the same<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6469,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The bitch flipped millions for em she deserved it..most women would've jacked it off<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6517,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Shoutout to all the single moms that got pregnant thinking they'd keep a man &; celebrate days like today... lol how'd that work out for you<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6637,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user @user @user so #YesAllWomen is fine but #YesAllMen should burn in hell? Looks like someone didn't get their way<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6784,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+How to Pronounce Bitch Chameleon ↺RT❤ #fake #fuss #denounce #accuse #porcupine #crab #whore #bitc<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6879,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Dutch woman looking at him like you cunt<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6971,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user All illigal refugees in USA must be deported quick by homeland security.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7039,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user KINDLY ASKS ALL PATRIOTS TO CALL DC. REPS. AND TELL THEM FUND THE WALLL #BuildThatWall #angelfamilies #Deplorables #ICE #usa #vets #KAG #MAGA #Americafirst #TrumpTrain2020 #BORDER #Winning #bigleague #LiberalismIsAMentalDisorder #Trump<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7194,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+#Antifa #AntiFreedomFighters #Antifrees #NaziLeft #AntiAntifa #AntifaTerrorists #AntiWhite #WhitePeople #WhiteGenocide #WhiteMen #WhiteAmerica #ItsOkayToBeWhite #ItsOKtobeWhite #WhitePride #WhiteIdentity #FreeSpeech #StopWhiteGenocide #StopTheInvasion #RedWaveRising2018 #RedWave<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7213,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Calais Jungle refugees get a grip France they are visitors ,they have no rights or in a position to demand ,Europe needs to get a grip<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7241,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I only nap so that the time between not drinking and drinking again comes faster<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7497,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user GOD BLESS ICE, THANK YOU FOR GETTING ILLEGAL ALIENS OUT OF OUR SOVEREIGN COUNTRY AND OFF OUR STREETS. #NoSanctuaryStates #NoSanctuaryCities #NoDACA #NoAmnesty #NoCommunists #NoSocialism #AmericaFirst #AmericansAreDreamersToo #MAGA #KAG<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7782,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+NOTHING BUT A MONEY GRUBBING RUSSIAN CUNT WHORE!!!!!!!!!!<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7836,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+California changedWhen I first moved here California was attracting all kind of Iraqi refugees and migrants....<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7858,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user If we had the wall, it wouldnt even be close. I guess Congressional GOP just like living on the edge. #BuildThatWall Mr. President.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7946,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+'I'm not like most girls'<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8215,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Belgium: Muslim refugees say they want to impose Sharia law ""infidels must obey the Sharia"" - Free Speech Time - @user<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8397,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user @user Hell do you think you are to call my friend a fucking skank?! Just because she's bringing…<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8414,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The list of people I'm going to kill when the 2017 First Annual Purge ensues<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8685,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+If you still have your seXXXy Halloween pic as your profile photo you're actually a full time all year round slut<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8798,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I think percentage wise, my female followers here are better looking than IG. You always have an open seat on my face. @user u first<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8897,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+In the past 4 years personal debt has risen by 90 billion pounds. Much of it spent on trying to live. Debt now stands at 32,000 pounds for every person in the country. Its time government realised that we can neither afford more migrants or foreign aid. Look after our own people.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8921,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user @user @user samantha why dont you just shut the fuck up and mind your own damn business. this whole situation HAS NOTHING to do with you, so why you out here running your fat mouth? if she wanted to sell her pussy she wou<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_36,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+#ThursdayThoughts Don't worry Ann. After your multi-day meltdown over having to simply switch seats on a Delta airplane flight last year, we still consider you the ""Most Hysterical Woman""<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_125,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+if ever a skank tries to make fun of you, tell her to suck dick she'll magically turn into a hoe and grab the nearest dick within her perimeter<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_137,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Nah yall stay in the kitchen and make bariis and baasto<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_181,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Delhi will be much better under Prez Rule,than being under this Anarchist ,who doesn't believe in conciliatory or consensus building.JUST WISH TO FOLLOW EITHER MY WAY OR NO WAY. Have reduced Delhi to slum by encouraging squatters,illegal migrant<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_209,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+If u don't think rape culture exists in the US u should prob check your feed right now 'cause literally every woman u know is posting #MeToo<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_240,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Sip wine with yo bitch while she explain shit to you, you couldn't understand as a man on yo own. Women's perspective will help you grow if you stfu & listen.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_242,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user ,Hate to break it to you pussy man,but the only thing you're responsible for, is the destruction of this country. You might be able to fool the liberal sheep, but we're the Trump Party and we had your number in 2007. You are a worthless piece of shit. #SorosPuppet<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_371,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I said I want dick cause Im sad & sex makes me happy & you on here saying Im mentally ill. Bitch stfu.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_400,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Ruth Davidson more interested in her lovers immigration right that  doing anything useful for the poor of Scotland except suggestive photo<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_446,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Those who rape women are talking about women role. #rapistsinuniform.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_459,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+#CONGRATS @user When you sell out venues in California you have to buss a skank like this! It was only A Matter Of Time! Bless up theindiggnation ... the bands vibration is<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_539,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user How are they trying to destroy you? You missed your 4 kids first day at school to skank about topless with yet another man. Disgraceful. The kids are better off with their dads where theyre happy, safe & have a stable, loving home...<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_689,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Bunch of hysterical women protesting again. #KavanaughHearings<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_709,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Putin says Muslim refugees and Migrants should go to Saudi Arabia or Iran ""Where their radical beliefs are considered the norm"" - Free Speech Time - @user<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_716,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+ICE launches new immigration sweeps in L.A. area; at least 100 detained so farhttps://t.co/v3IIyMkZi2#AgainstAllEnemies #MoreOfThisPlease #TheICEManCometh #StopTheInvasion<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_748,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user @user Do you, the hysterical moron even know what the 25th amendment is?? You should shut the fuck up before I cut you up<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_775,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user If you don't like the song bitch keep it moving hoe. You can't sing you can't do shit but suck dick bitch stfu you dumb white trash ass bitch<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_826,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@user Oh, you pussy grabbing , lying jack ass.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_941,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting hateful content in tweets.
+A tweet is considered hateful if it contains aggressive attitude, threats, or targeted harassment against individuals or groups.
+Return 1 if the tweet is hateful and 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Look, lady who needs a therapistI know you love when men choke and slap the shit out of you till you cum but not all of us like that. Go put some aloe on that banged up ass of yours and stay off my TL, darlin.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_975,train+valid

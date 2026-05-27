@@ -1,0 +1,1001 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We describe 2 patients with prior amputation who experienced phantom limb pain (PLP) after receiving paclitaxel therapy.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_347,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We believe the temporal association of the abnormal liver enzymes in this patient, in the absence of other offending agents, argues strongly in favor of 6-TG as a cause of liver enzyme abnormalities.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1152,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Sensorimotor polyneuropathy with 5-aminosalicylic acid: a case report.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1239,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+When SASP was changed to 5-aminosalicylic acid (5-ASA), his skin eruptions were resolved, however, he developed weakness and atrophy in his right arm as well as progressive worsening of the dysesthesia in his legs and gait disturbance.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1245,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1426,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+OBJECTIVE: To our knowledge, this is the first published case report of an adolescent girl with a mitochondrial disorder and depression who displayed both new-onset psychotic and increased mood symptoms during treatment with risperidone.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2172,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We report a 78-year-old man who had acute unilateral total visual loss after retrogasserian phenol injection for the treatment of trigeminal neuralgia.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2486,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+DIAGNOSIS: Severe temozolomide-induced immunosuppression, exacerbated by corticosteroids, with profound T-cell lymphocytopenia and simultaneous opportunistic infections with Pneumocystis jiroveci pneumonia, brain abscess with Listeria monocytogenes, and cutaneous Kaposi's sarcoma.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2588,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Neutropenia and agranulocytosis are risks known to occur with phenothiazines and clozapine.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2670,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONCLUSIONS: The pathogenesis of methotrexate-induced papular eruption in collagen vascular diseases may suggest cutaneous small-vessel vasculitis.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3127,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Our findings reveal that even in patients without a history of seizures, pregabalin can cause a cortical negative myoclonus.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3242,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+BACKGROUND: Hydroxyurea is a cytostatic agent used to treat myeloproliferative disorders and long-term treatment is associated with mucocutaneous adverse events and nail hyperpigmentation.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3375,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+However, acute cardiomyopathy and pericarditis secondary to methylphenidate use has been rarely reported.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3571,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+RESULTS: One case of recurrent primary peritoneal carcinoma previously treated with a carboplatin-based regimen, developed a platinum hypersensitivity.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3756,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Long lasting respiratory depression induced by morphine-6-glucuronide?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4225,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The possibility of phenytoin hypersensitivity reactions should be considered when patients receiving phenytoin have unusual symptoms, particularly fever, rash, and lymphadenopathy.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4568,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Theophylline intoxication following viloxazine induced decrease in clearance.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4611,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Chronic photosensitivity associated with hydrochlorothiazide ingestion occurred in four patients.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4706,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Hyperglycemia and diabetic coma: possible relationship to diuretic-propranolol therapy.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4813,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Allopurinol-associated hand and foot deformities in chronic tophaceous gout.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4831,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A further case of anaphylactoid reaction to methylprednisolone is reported.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5012,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The development of an IgG lambda-type monoclonal gammopathy and subsequent multiple myeloma in an epilepsy patient on diphenylhydantoin (DILANTIN) therapy for 20 years is reported.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5328,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We report 3 children with epilepsy who developed facial motor tics after initiation of CBZ for complex partial seizures.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5785,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Acute nitrite toxicity results from industrial exposure, accidental ingestion (e.g., abuse of organic nitrites as an aphrodisiac, especially in the male homosexual population), and suicidal ingestion.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6150,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Acute renal failure with severe tubulointerstitial changes in a patient with minimal change nephrotic syndrome treated with enalapril.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6437,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Nephropathy caused by methicillin therapy for staphylococcal septicemia.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6443,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Twenty-four months after patient's discharge, her clinical condition, CBC, and bone marrow remained normal.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6977,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A diffuse intrahepatic metastasis of a carcinoid was treated with a loco-regional intraarterial chemotherapy via a catheter system implanted in the gastroduodenal artery.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7237,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+After 2 courses of intravenous immunoglobulin (IVIG) therapy, bone marrow erythropoiesis recovered with his hemoglobin level increased to 123 g/L.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7319,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A 52-year-old woman was seen in our outpatient clinic for pain and numbness in the left lower lip and chin, which developed following an endodontic treatment for her mandibular left second premolar.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7374,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We found that positive biopsies are usual only if the duration of symptoms have been allowed to persist for more than 6 months.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7652,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We conclude that a combination of cytokines may be useful in treating relapsed leukemia after BMT.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8117,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Two patients developed acute cholangitis and 2 patients experienced skin phototoxicity.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8480,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+This case demonstrates that a symptomatic HBV infection can occur in an immunocompromised patient who had originally been anti-HBs-positive.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8751,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The authors describe three patients who developed a blue toe syndrome after initiation of oral anticoagulant therapy.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8993,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+She only assumed isotretinoin, at dose of 1 mg/kg a day, for a severe and scarring acne for 7 months.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10180,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A case report and review of the literature.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10218,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We describe a 5-year-old girl with Ph(+) CML who received a cord blood transplant in a second accelerated phase after a very early lymphoid blast crisis.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10239,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Two case reports are presented: the first with clozapine challenge after eosinophilia, the second under clozapine treatment and no previous haematological side effects.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10270,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Olanzapine is a relatively new antipsychotic drug used in the United States for the treatment of schizophrenia.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10502,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The infiltrates did not affect the refractive outcome of the surgery.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11205,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We describe a case of extensive thromboembolism associated with antithrombin (AT) deficiency complicated by thrombocytopenia which resolved when low-molecular-weight heparin was instituted.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_11385,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONCLUSIONS: Photodynamic therapy for cholangiocarcinoma is safe and technically feasible with a preloaded biliary catheter and a monorail technique for catheter positioning.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11467,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+In the oncology patient, chemotherapy, corticosteroids and bone marrow transplantation (with associated preparation therapy) have all been implicated as possible causes.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_11908,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Immunotherapy with imiquimod 5% cream for eyelid nodular basal cell carcinoma.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12599,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A punch biopsy showed the presence of KS, whereas a polymerase chain reaction assay documented the presence of human herpes virus type 8 (HHV8) DNA in the skin lesion.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12905,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Five patients were treated with dose-intensive melphalan and blood stem cell support and followed for a period of 1 year.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14312,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We describe a patient with acute lymphocytic leukemia (ALL) who developed visceral varicella-zoster virus (VZV) infection following cord blood stem cell transplantation (CBSCT) and was successfully treated with intravenous acyclovir (ACV).<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14551,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Resolution occurred in spite of continuous tocolytic therapy, which was stopped at 35 weeks.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14615,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The anesthetic area conformed to the distribution of a specific nerve, the transverse cervical cutaneous nerve.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14650,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Intermittent, continuous outpatient dobutamine infusion in the management of congestive heart failure.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14898,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+METHODS: Report of two cases.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14908,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Despite the lowest plasma osmolality, detectable levels of circulating ADH were present.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15576,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+OBJECTIVE: To present a case of neonatal adrenal suppression due to the use of high-dose methylprednisolone in late pregnancy of a woman with Crohn's disease.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_15632,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CASE SUMMARY: A 78-year-old white man presented with intractable lower back pain and constipation.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15746,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A 16-year-old poorly compliant, steroid-dependent subject with asthma received two courses of high-dose intravenous methylprednisolone during a 3-week period, followed by a tapering schedule of oral prednisone.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_16036,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The patient died of respiratory failure after 8 days of steroid infusion and erlotinib discontinuation.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_16113,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Porcine factor VIII (pFVIII), which is used to control bleeding in patients with congenital or acquired haemophilia who have high-titre neutralizing antibodies to human FVIII, is not known to increase the risk of arterial or venous thrombosis.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_16244,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+This is largely a result of the low levels of compliance.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_16268,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Careful assessment of all VADs is important to identify complications such as fibrin sheath formation, which can potentially lead to extravasation.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_16401,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Evidence regarding the remyelinating nature of human monoclonal antibodies raises interest in the potential therapeutic role these antibodies may have.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17139,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The authors describe a 65-year-old man who, after 7 years of complete remission from lung cancer, was found on routine oncologic follow imaging to have lesions on several vertebral bodies.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17165,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Acute promyelocytic leukemia after living donor partial orthotopic liver transplantation in two Japanese girls.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17284,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Erection subsided spontaneously after 4 hours, with subsequent potency unimpaired.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17601,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Continuous subcutaneously administered desferrioxamine may prove to be adaptable for long-term outpatient therapy, allowing patients with ongoing transfusion requirements to go into negative iron balance.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17660,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+In addition, the patients did not demonstrate evidence of hypothalamic-pituitary-adrenal axis suppression.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17756,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The symptoms of pseudotumor cerebri disappeared within 10 days.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_18720,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Record et al. have recommended oral loading in selected patients.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_19322,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Investigation of the cause of death in a gene-therapy trial.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_19726,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Four patients were treated with acyclovir, but three were given suboptimal doses.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_19738,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Acute chest pain is a common presentation in emergency.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_20778,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Hydroxyzine alone caused an insignificant delay.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_21081,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Strategies to prevent hyponatremia in children during urological procedures, with emphasis on the importance of reserving free water as the irrigation fluid are discussed.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_21410,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Its use is however not without adverse effect particularly bone marrow aplasia leading to varying degrees of cytopenias predominantly anaemia.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_21477,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+In vivo confocal microscopy showed swollen and enlarged cellular structures and the presence of microlacunae separating the stromal collagen lamellae.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_21500,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Vitamin D toxicity complicating the treatment of senile, postmenopausal, and glucocorticoid-induced osteoporosis.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_22281,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The patient made a full neurologic recovery and remains free of disease recurrence 21 months after treatment.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_22434,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CSA was withdrawn, and a new MRI was normal after 2 months.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_22709,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We report a relapsed HIV-related high-grade NHL which was treated successfully with ESHAP chemotherapy followed by high-dose chemotherapy and autologous bone marrow transplantation (ABMT).<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_22730,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The increasing number of Latinos in the United States and the extensive cross-border transfer of medicines raise concerns that metamizole use and associated complications may become more frequent.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_23237,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Both had impaired lung function and abnormal computed tomographic scans, and their condition improved when nitrofurantoin was withdrawn and corticosteroid treatment commenced.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_227,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We present two cases of nitrofurantoin-induced pulmonary toxicity in which the initial HRCT showed a widespread reticular pattern and associated distortion of the lung parenchyma, thought to represent established fibrosis.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_273,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CASE REPORT: We report a patient who developed a DAT-positive hemolytic episode after a red cell (RBC) transfusion was delivered during the infusion of her 17th cycle of oxaliplatin.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1664,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Myoclonus associated with continuous dobutamine infusion in a patient with end-stage renal disease.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3086,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Transient asymptomatic bradycardia in patients on infusional 5-fluorouracil.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3124,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONCLUSION: All doctors need to be aware of the need to review the indications for gabapentin use during periods of acute illness, especially with regard to renal impairment.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3400,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+While undergoing treatment with albendazole, he developed worsening diarrhea with abdominal pain and fever.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5925,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A retrospective epidemiological study of deaths from hepatic angiosarcoma (HAS) in the U.S. showed that during 1964--74 there were 168 such cases, of which 37 (22%) were associated with previously known causes (vinyl chloride, 'Thorotrast', and inorganic arsenic) and 4 (3.1%) of the remaining 131 cases with the use of androgenic-anabolic steroids.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6278,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Pirmenol hydrochloride-induced QT prolongation and T wave inversion on electrocardiogram during treatment for symptomatic atrial fibrillation.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6760,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+RESULTS AND CONCLUSIONS: Clonazepam provided effective relief for > 6 months in two patients with shooting/shocking phantom limb pain.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7314,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+This patient did not initially receive surgical debridement and systemic antibiotics, the standard treatment for necrotizing fasciitis of bacterial origin.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10494,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SSTR2A was also expressed in lymphocytes that had infiltrated thyroid tissue in Hashimoto's thyroiditis.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14049,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+During the disease course, the patient showed a transient increase in anti-human herpesvirus (HHV)-6 antibody titers and HHV-6 DNA in the peripheral blood, indicating the reactivation of a latent HHV-6 infection.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15146,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Blood GHB concentrations in the range 156-260 mg/L have been reported to induce moderately sound sleep.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_16163,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Rarely, pleural effusion and/or pulmonary hemorrhage may occur.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_17543,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We recommend careful use of ifosfamide in patients pretreated with nephrotoxic chemotherapy and inadequate renal perfusion.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_19274,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A woman with Cushing's syndrome after use of an Indonesian herb: a case report.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_19631,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+This paper contributed to the identification of possible reactions in the oral cavity due to antiretroviral medication.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_20537,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Peritonitis due to Aspergillus and zygomycetes in patients undergoing peritoneal dialysis: report of 2 cases and review of the literature.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_20891,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a medical statement. Classify it as 1 if it is ADE-related, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The patient was discharged five days after admission and referred to a hematology clinic for follow-up.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_22739,train+valid

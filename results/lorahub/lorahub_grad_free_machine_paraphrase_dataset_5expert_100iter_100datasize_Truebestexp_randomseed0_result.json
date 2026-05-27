@@ -1,0 +1,19 @@
+{
+    "task": "machine_paraphrase_dataset",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_machine_paraphrase_dataset",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.9299859971994399,
+    "weights": [
+        0.8230174669853468,
+        0.5292646352773561,
+        0.02836331990841405,
+        0.4395047507643512,
+        0.4574681316515043
+    ]
+}

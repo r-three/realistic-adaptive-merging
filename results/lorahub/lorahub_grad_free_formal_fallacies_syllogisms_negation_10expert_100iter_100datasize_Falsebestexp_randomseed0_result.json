@@ -1,0 +1,29 @@
+{
+    "task": "formal_fallacies_syllogisms_negation",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304",
+        "barc0/induction-run2-gpt4omini-20k-100seeds-barc-llama3.1-8b-instruct-lora64_lr2e-4_epoch3"
+    ],
+    "valid_accuracy": 0.6,
+    "test_accuracy": 0.5338028169014084,
+    "weights": [
+        0.03929793406041336,
+        0.08443613496341827,
+        0.08246219923232119,
+        0.08574219104706489,
+        0.06411019255076428,
+        0.07779008271816078,
+        0.0342467211449034,
+        0.041966915978672706,
+        0.06632664404158385,
+        0.6497601007287392
+    ]
+}

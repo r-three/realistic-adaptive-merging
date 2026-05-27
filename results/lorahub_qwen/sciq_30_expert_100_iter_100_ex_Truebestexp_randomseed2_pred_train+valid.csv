@@ -1,0 +1,901 @@
+target,pred_clean,pred_org,example_id,split
+reproduce asexually and sexually,"
+have both gametophyte and sporophyte generations","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The plants alternation between haploid and diploud generations allow it to do what?<|im_end|>
+<|im_start|>assistant
+have both gametophyte and sporophyte generations<|im_end|>",train_19,train+valid
+critical mass,"
+critical mass","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the minimum mass capable of supporting sustained fission called?<|im_end|>
+<|im_start|>assistant
+critical mass<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_185,train+valid
+digestion,"
+digestion","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The process of breaking down food into nutrients is known as __________<|im_end|>
+<|im_start|>assistant
+digestion<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_311,train+valid
+fertilization,"
+fertilization","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the process in which organisms reproduce sexually by joining gametes called?<|im_end|>
+<|im_start|>assistant
+fertilization<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_384,train+valid
+elastic potential energy,"
+elastic potential energy","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What term is used to describe potential energy due to an object’s shape?<|im_end|>
+<|im_start|>assistant
+elastic potential energy<|im_end|>",train_395,train+valid
+myriapoda,"
+fungi","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What are found in moist forests that break down decaying plant material?<|im_end|>
+<|im_start|>assistant
+fungi<|im_end|><|endoftext|>",train_642,train+valid
+collisions,"
+collisions","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Higher temperatures increase the rate of reaction in a lot of chemical reactions because they increase the frequency of what interaction between reactant particles?<|im_end|>
+<|im_start|>assistant
+collisions<|im_end|><|endoftext|>",train_687,train+valid
+soil,"
+soil","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Weathering is fundamental to the creation of what, which exists as a very thin layer over solid rock?<|im_end|>
+<|im_start|>assistant
+soil<|im_end|><|endoftext|>",train_775,train+valid
+bacteria,"
+organ","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+A type of what in a cow's gut enables the animal to digest grass?<|im_end|>
+<|im_start|>assistant
+organ<|im_end|><|endoftext|><|endoftext|>",train_835,train+valid
+ions,"
+ions","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What are created based upon the loss or gain of electrons?<|im_end|>
+<|im_start|>assistant
+ions<|im_end|><|endoftext|><|endoftext|>",train_864,train+valid
+uterus,"
+uterus","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+In the vast majority of ectopic pregnancies, the embryo does not complete its journey to what organ, and instead implants in the uterine tube?<|im_end|>
+<|im_start|>assistant
+uterus<|im_end|><|endoftext|>",train_936,train+valid
+an anion that is larger than the parent atom,"
+a negative charge","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Electrons always result in what?<|im_end|>
+<|im_start|>assistant
+a negative charge<|im_end|>",train_975,train+valid
+carbon dioxide,"
+carbon dioxide","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+When bread bakes, yeast releases which gas?<|im_end|>
+<|im_start|>assistant
+carbon dioxide<|im_end|><|endoftext|>",train_1120,train+valid
+volcanoes,"
+volcanoes","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Composite cones are steep-sided, cone-shaped types of what, which produce explosive eruptions?<|im_end|>
+<|im_start|>assistant
+volcanoes<|im_end|>",train_1199,train+valid
+chemical reactions,"
+reactions","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Covalent bond energies can be used to estimate the enthalpy changes of what?<|im_end|>
+<|im_start|>assistant
+reactions<|im_end|><|endoftext|>",train_1396,train+valid
+a fault,"
+normal fault","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the fracture called when rocks on both sides move?<|im_end|>
+<|im_start|>assistant
+normal fault<|im_end|><|endoftext|>",train_1659,train+valid
+central nervous system,"
+somatic nervous system","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The autonomic nervous system serves as the relay between what and the internal organs?<|im_end|>
+<|im_start|>assistant
+somatic nervous system<|im_end|>",train_1806,train+valid
+esters,"
+esters","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Carboxylic acids can form what with alcohols?<|im_end|>
+<|im_start|>assistant
+esters<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2261,train+valid
+the nose,"
+nose","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Which part of the body has mucus and hair to trap dust and also warms and moistens air so to not harm lung tissue?<|im_end|>
+<|im_start|>assistant
+nose<|im_end|><|endoftext|><|endoftext|>",train_2551,train+valid
+epilepsy,"
+epilepsy","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Abnormal electrical activity in the brain is the cause of what disease associated with seizures?<|im_end|>
+<|im_start|>assistant
+epilepsy<|im_end|><|endoftext|>",train_3136,train+valid
+stretching,"
+tensile stress","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Dense connective tissue contains more collagen fibers than does loose connective tissue. as a consequence, it displays greater resistance to what?<|im_end|>
+<|im_start|>assistant
+tensile stress<|im_end|>",train_3458,train+valid
+terracing,"
+terracing","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What prevents soil erosion on a hillside that is being farmed?<|im_end|>
+<|im_start|>assistant
+terracing<|im_end|><|endoftext|><|endoftext|>",train_3615,train+valid
+understory,"
+forest floor","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What part of the rainforest commonly has ferns and other ground plants?<|im_end|>
+<|im_start|>assistant
+forest floor<|im_end|><|endoftext|><|endoftext|>",train_3782,train+valid
+innate,"
+innate behavior","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What type of behavior occurs naturally in all animals of a given species?<|im_end|>
+<|im_start|>assistant
+innate behavior<|im_end|><|endoftext|>",train_3840,train+valid
+waves,"
+waves","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What do wavelengths measure the size of?<|im_end|>
+<|im_start|>assistant
+waves<|im_end|><|endoftext|><|endoftext|>",train_3933,train+valid
+insulin,"
+insulin","<|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+A rise in blood glucose levels triggers the pancreatic release of what hormone?<|im_end|>
+<|im_start|>assistant
+insulin<|im_end|><|endoftext|>",train_4004,train+valid
+natural selection,"
+natural selection","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the process resulting in living things with beneficial traits producing more offspring?<|im_end|>
+<|im_start|>assistant
+natural selection<|im_end|><|endoftext|>",train_4255,train+valid
+water column,"
+ocean depth","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the vertical extent of ocean water called?<|im_end|>
+<|im_start|>assistant
+ocean depth<|im_end|>",train_4504,train+valid
+the oxygen group,"
+chalcogens","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Group 16 is called what?<|im_end|>
+<|im_start|>assistant
+chalcogens<|im_end|>",train_4699,train+valid
+leaves and stems,"
+roots and stems","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Which two basic parts of a plant develop tough outer coatings to protect the plant from the environment?<|im_end|>
+<|im_start|>assistant
+roots and stems<|im_end|>",train_4801,train+valid
+k2,"
+K2","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the second highest mountain in the world, at over 28,000 feet?<|im_end|>
+<|im_start|>assistant
+K2<|im_end|><|endoftext|>",train_4937,train+valid
+carbon-based compounds,"
+carbon-based compounds","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What are the most common types of compounds found on earth?<|im_end|>
+<|im_start|>assistant
+carbon-based compounds<|im_end|>",train_4954,train+valid
+earthquakes,"
+earthquake","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Stress building up at the same rate over time at a fault causes what phenomenon?<|im_end|>
+<|im_start|>assistant
+earthquake<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5016,train+valid
+new species,"
+new traits","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What does rearrangements of chromosomes contribute to the emergence of?<|im_end|>
+<|im_start|>assistant
+new traits<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5280,train+valid
+polarized,"
+polarized","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The sun and many other light sources produce waves that are randomly this?<|im_end|>
+<|im_start|>assistant
+polarized<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5765,train+valid
+moderator band,"
+trabeculae carneae","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What  reinforces the thin walls of the right ventricle and plays a crucial role in cardiac conduction?<|im_end|>
+<|im_start|>assistant
+trabeculae carneae<|im_end|>",train_5784,train+valid
+average kinetic energy of molecules,"
+average kinetic energy of the particles","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What does temperature measure?<|im_end|>
+<|im_start|>assistant
+average kinetic energy of the particles<|im_end|>",train_5871,train+valid
+brain,"
+brain","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Cerebral palsy is a disease caused by injury to what organ as it is developing?<|im_end|>
+<|im_start|>assistant
+brain<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_6014,train+valid
+concentration,"
+concentration","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What term describes the number of items in a given area or volume?<|im_end|>
+<|im_start|>assistant
+concentration<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_6277,train+valid
+ampheres,"
+ampere","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the measure of electric current?<|im_end|>
+<|im_start|>assistant
+ampere<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_6457,train+valid
+clear mucus,"
+prostate fluid","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is secreted before ejaculation to neutralize acidic urine remaining in the urethra?<|im_end|>
+<|im_start|>assistant
+prostate fluid<|im_end|>",train_6469,train+valid
+glucose,"
+glucose","<|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The cell wall of plants is made up of a complex carbohydrate that is a polymer of what sugar?<|im_end|>
+<|im_start|>assistant
+glucose<|im_end|><|endoftext|>",train_6608,train+valid
+hydrogen,"
+hydrogen bonds","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Water is a polar compound, so its molecules are attracted to each other and form what kind of bonds?<|im_end|>
+<|im_start|>assistant
+hydrogen bonds<|im_end|>",train_6675,train+valid
+pioneer species,"
+pioneer species","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The first few species to colonize a disturbed area are called what?<|im_end|>
+<|im_start|>assistant
+pioneer species<|im_end|>",train_6912,train+valid
+formate ion,"
+formate ion","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The anion is the methanoate ion, which is commonly called the what?<|im_end|>
+<|im_start|>assistant
+formate ion<|im_end|><|endoftext|>",train_7318,train+valid
+industrial waste dumping,"
+groundwater","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Love canal was an infamous example of what type of pollution?<|im_end|>
+<|im_start|>assistant
+groundwater<|im_end|><|endoftext|><|endoftext|>",train_7426,train+valid
+strobili,"
+strobili","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What are the cone-like structures that contain sporangia called?<|im_end|>
+<|im_start|>assistant
+strobili<|im_end|><|endoftext|>",train_7450,train+valid
+it conducts heat,"
+aluminum conducts heat","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Why wouldn't a teakettle have an aluminum handle?<|im_end|>
+<|im_start|>assistant
+aluminum conducts heat<|im_end|>",train_7692,train+valid
+crustaceans,"
+Crustacea","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What subphylum, which includes crabs and crayfish, represents the dominant aquatic arthropods?<|im_end|>
+<|im_start|>assistant
+Crustacea<|im_end|><|endoftext|>",train_7992,train+valid
+once eggs have been laid,"
+after the eggs hatch","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+When does most amphibians' parenting end?<|im_end|>
+<|im_start|>assistant
+after the eggs hatch<|im_end|>",train_8044,train+valid
+butyric acid,"
+geosmin","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is responsible for the foul smell of rancid butt?<|im_end|>
+<|im_start|>assistant
+geosmin<|im_end|><|endoftext|>",train_8078,train+valid
+galileo,"
+伽利略","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The four moons of jupiter are collectively named after what 17th century astronomer, who discovered them?<|im_end|>
+<|im_start|>assistant
+伽利略<|im_end|><|endoftext|>",train_8335,train+valid
+circulatory,"
+respiratory","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Name the type of system that a jellyfish does not have?<|im_end|>
+<|im_start|>assistant
+respiratory<|im_end|>",train_8499,train+valid
+dna,"
+DNA","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The two complementary strands of what are separated, much like unzipping a zipper, in the initiation phase?<|im_end|>
+<|im_start|>assistant
+DNA<|im_end|><|endoftext|><|endoftext|>",train_8525,train+valid
+pressure increases,"
+pressure increases","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What happens when an increase in temperature of a gas in a rigid container happens?<|im_end|>
+<|im_start|>assistant
+pressure increases<|im_end|><|endoftext|>",train_8611,train+valid
+glycolysis,"
+glycogen","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What can accept a wide range of carbohydrates for catabolism?<|im_end|>
+<|im_start|>assistant
+glycogen<|im_end|>",train_8812,train+valid
+mitochondria,"
+mitochondria","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Organelles whose membranes are specialized for aerobic respiration are called what?<|im_end|>
+<|im_start|>assistant
+mitochondria<|im_end|>",train_8835,train+valid
+rain,"
+rain","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the term for liquid water falling from the sky?<|im_end|>
+<|im_start|>assistant
+rain<|im_end|><|endoftext|><|endoftext|>",train_8963,train+valid
+water cycle,"
+water","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Precipitation, evaporation, transpiration, and condensation are part of what cycle?<|im_end|>
+<|im_start|>assistant
+water<|im_end|><|endoftext|><|endoftext|>",train_8980,train+valid
+plasma,"
+plasma","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Which state of matter is not common on earth?<|im_end|>
+<|im_start|>assistant
+plasma<|im_end|><|endoftext|>",train_9036,train+valid
+rough & smooth,"
+rough endoplasmic reticulum, smooth endoplasmic reticulum","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What are the two types of endoplasmic reticulum?<|im_end|>
+<|im_start|>assistant
+rough endoplasmic reticulum, smooth endoplasmic reticulum<|im_end|>",train_9102,train+valid
+absolute age,"
+absolute age","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The age of a rock in years is its?<|im_end|>
+<|im_start|>assistant
+absolute age<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_9193,train+valid
+ear drum,"
+eardrum","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+In mammals, sound waves are collected by the external, cartilaginous part of the ear called the pinna, then travel through the auditory canal and cause vibration of the thin diaphragm called the tympanum or this?<|im_end|>
+<|im_start|>assistant
+eardrum<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_9202,train+valid
+transpiration,"
+transpiration","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The saguaro doesn't have any leaves to lose water by which process?<|im_end|>
+<|im_start|>assistant
+transpiration<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_9246,train+valid
+hands,"
+hands","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Most of these bacterial illnesses can be prevented with proper cooking of food and washing what?<|im_end|>
+<|im_start|>assistant
+hands<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_9280,train+valid
+female,"
+boys","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Which gender typically experiences growth spurts first?<|im_end|>
+<|im_start|>assistant
+boys<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_9286,train+valid
+the leaf,"
+leaves","<|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Stomata are special pores that allow gasses to enter and exit what?<|im_end|>
+<|im_start|>assistant
+leaves<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_9310,train+valid
+tissues,"
+collagen and calcium salts","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What are bones made up of?<|im_end|>
+<|im_start|>assistant
+collagen and calcium salts<|im_end|>",train_9373,train+valid
+nitrogenous waste,"
+nitrogenous waste","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Urea, ammonia and uric acid are types of what waste, excreted in different forms by different species?<|im_end|>
+<|im_start|>assistant
+nitrogenous waste<|im_end|>",train_9831,train+valid
+a cold front,"
+a cold front","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What occurs when a cold air mass runs into a warm air mass?<|im_end|>
+<|im_start|>assistant
+a cold front<|im_end|><|endoftext|>",train_10101,train+valid
+salt,"
+salt and water","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is formed when an acidic solution and a basic solution react together in a neutralization reaction?<|im_end|>
+<|im_start|>assistant
+salt and water<|im_end|><|endoftext|>",train_10457,train+valid
+double helix,"
+double helix","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What distinctive configuration of dna demonstrates the base-pairing nature of the bases?<|im_end|>
+<|im_start|>assistant
+double helix<|im_end|><|endoftext|>",train_10509,train+valid
+photosynthesis,"
+photosynthesis","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Most autotrophs make their ""food"" through which process, using the energy of the sun?<|im_end|>
+<|im_start|>assistant
+photosynthesis<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_10647,train+valid
+skin,"
+skin","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Which part of the body of amphibians, easily absorbs substances from the environment?<|im_end|>
+<|im_start|>assistant
+skin<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_10739,train+valid
+photosynthesis,"
+photosynthesis","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Green cyanobacteria on a lake produce food through what process?<|im_end|>
+<|im_start|>assistant
+photosynthesis<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_10833,train+valid
+anterior pituitary gland,"
+anterior pituitary","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The human male and female reproductive cycles are controlled by the interaction of hormones from the hypothalamus and anterior pituitary with hormones from reproductive tissues and organs. in both sexes, the hypothalamus monitors and causes the release of hormones from this?<|im_end|>
+<|im_start|>assistant
+anterior pituitary<|im_end|>",train_10891,train+valid
+chemical energy,"
+chemical","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Food provides what type of energy needed by organisms, which is stored in bonds?<|im_end|>
+<|im_start|>assistant
+chemical<|im_end|><|endoftext|>",train_11028,train+valid
+ground tissue system,"
+ground tissue","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What tissue system has neither dermal nor vascular tissues?<|im_end|>
+<|im_start|>assistant
+ground tissue<|im_end|>",train_11199,train+valid
+unit cell,"
+unit cell","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the smallest portion of a crystal lattice?<|im_end|>
+<|im_start|>assistant
+unit cell<|im_end|>",train_11573,train+valid
+dams,"
+dams","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What do people build to protect areas from floods?<|im_end|>
+<|im_start|>assistant
+dams<|im_end|>",train_11596,train+valid
+extremophiles,"
+extremophiles","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What are the organisms that live in extreme conditions known as?<|im_end|>
+<|im_start|>assistant
+extremophiles<|im_end|>",validation_36,train+valid
+cellular respiration,"
+cellular respiration","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Oxygen and glucose are both reactants in the process of<|im_end|>
+<|im_start|>assistant
+cellular respiration<|im_end|>",validation_125,train+valid
+cardiovascular,"
+circulatory system","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Pulmonary and systemic circulation loops are part of what organ system?<|im_end|>
+<|im_start|>assistant
+circulatory system<|im_end|><|endoftext|>",validation_137,train+valid
+final position,"
+end position","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Displacement is the separation between a beginning position and what other place?<|im_end|>
+<|im_start|>assistant
+end position<|im_end|><|endoftext|><|endoftext|>",validation_181,train+valid
+vascular,"
+vascular system","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What system do trees need to transport nutrients?<|im_end|>
+<|im_start|>assistant
+vascular system<|im_end|><|endoftext|>",validation_209,train+valid
+nervous,"
+connective","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Only animals have muscle tissue and what other type of tissue?<|im_end|>
+<|im_start|>assistant
+connective<|im_end|><|endoftext|>",validation_240,train+valid
+rocks,"
+faults","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+During an earthquake, the ground shakes as stored up energy is released from what?<|im_end|>
+<|im_start|>assistant
+faults<|im_end|><|endoftext|>",validation_242,train+valid
+ammonia,"
+ammonia","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+An amine is an organic compound that can be considered to be a derivative of what?<|im_end|>
+<|im_start|>assistant
+ammonia<|im_end|>",validation_371,train+valid
+synchrotron,"
+synchrotron","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The length of a linear accelerator and the size of the d-shaped electrodes in a cyclotron severely limit the kinetic energy that particles can attain in these devices. these limitations can be overcome by using one of these?<|im_end|>
+<|im_start|>assistant
+synchrotron<|im_end|>",validation_400,train+valid
+speciation,"
+speciation","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the creation of a new species called?<|im_end|>
+<|im_start|>assistant
+speciation<|im_end|><|endoftext|><|endoftext|>",validation_446,train+valid
+volcano,"
+a large circular lake","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+A circular coral reef could indicate the earlier existence of what?<|im_end|>
+<|im_start|>assistant
+a large circular lake<|im_end|>",validation_459,train+valid
+hemophilia,"
+hemophilia","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is a genetic disorder in which blood fails to clot properly because a normal clotting factor in the blood is lacking?<|im_end|>
+<|im_start|>assistant
+hemophilia<|im_end|><|endoftext|><|endoftext|>",validation_539,train+valid
+energy,"
+energy","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is the mass that is ""lost"" in fission or fusion actually converted to?<|im_end|>
+<|im_start|>assistant
+energy<|im_end|><|endoftext|><|endoftext|><|endoftext|>",validation_689,train+valid
+1935,"
+1936","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+When was construction of the hoover dam completed?<|im_end|>
+<|im_start|>assistant
+1936<|im_end|>",validation_709,train+valid
+adenosine triphosphate (atp,"
+ATP","<|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Active transport mechanisms require the use of the cell’s energy, usually in the form of what?<|im_end|>
+<|im_start|>assistant
+ATP<|im_end|><|endoftext|><|endoftext|>",validation_716,train+valid
+shape,"
+cell shape","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Helices, spheres, and rods are examples of what distinguishing property of prokaryotic cells?<|im_end|>
+<|im_start|>assistant
+cell shape<|im_end|><|endoftext|><|endoftext|>",validation_748,train+valid
+plants,"
+protista","<|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Fungi are now classified as their own kingdom. what kingdom were they previously a part of?<|im_end|>
+<|im_start|>assistant
+protista<|im_end|><|endoftext|>",validation_775,train+valid
+nucleus,"
+nucleus","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+Prokaryotic cells lack what key structure and other membrane-bound organelles?<|im_end|>
+<|im_start|>assistant
+nucleus<|im_end|>",validation_826,train+valid
+population growth,"
+population growth","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+What is defined as the change in the size of the population over time?<|im_end|>
+<|im_start|>assistant
+population growth<|im_end|><|endoftext|>",validation_941,train+valid
+igneous,"
+extrusive rock","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving science exam questions including Physics, Chemistry and Biology.
+Return only the correct answer as a short text, without explanations.
+<|im_end|>
+<|im_start|>user
+The extrusive type of what rock cools rapidly from lava at the surface?<|im_end|>
+<|im_start|>assistant
+extrusive rock<|im_end|>",validation_975,train+valid

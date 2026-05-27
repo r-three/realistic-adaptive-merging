@@ -1,0 +1,19 @@
+{
+    "task": "typescript_chunks",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_typescript_chunks",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.9694,
+    "weights": [
+        0.7154026947557713,
+        0.5829224799429549,
+        0.20528517885360884,
+        0.05754624572260578,
+        -0.0007986753262905228
+    ]
+}

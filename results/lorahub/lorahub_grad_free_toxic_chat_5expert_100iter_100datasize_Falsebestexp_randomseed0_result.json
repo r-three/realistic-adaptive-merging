@@ -1,0 +1,19 @@
+{
+    "task": "toxic_chat",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.95,
+    "test_accuracy": 0.9394,
+    "weights": [
+        0.06335056678662125,
+        1.472230702846319,
+        0.9934690796996356,
+        0.5317336379370952,
+        0.578057298457953
+    ]
+}

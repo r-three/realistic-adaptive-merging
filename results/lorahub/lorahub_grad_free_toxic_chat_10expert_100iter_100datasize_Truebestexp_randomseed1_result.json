@@ -1,0 +1,29 @@
+{
+    "task": "toxic_chat",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_toxic_chat",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task",
+        "aleegis10/8ed9fe91-c2b5-42ca-8efb-927b4c8fbf45",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-acctree-16k-75-adapter-new",
+        "clembench-playpen/Llama-3-Clembench-Runs-Successful-Episodes_Top_10_Models_Individual_QA_adapted_image_game"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.9546,
+    "weights": [
+        0.9676321959820676,
+        -0.016841037591330155,
+        -0.0006945670592508975,
+        -0.06947228721210419,
+        -0.026350528399517372,
+        0.008168194709883824,
+        0.1859966141112108,
+        -0.047832720066013766,
+        0.20064781116305383,
+        0.002697083346526394
+    ]
+}

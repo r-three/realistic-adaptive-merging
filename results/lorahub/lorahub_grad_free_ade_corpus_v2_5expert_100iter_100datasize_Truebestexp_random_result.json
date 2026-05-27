@@ -1,0 +1,19 @@
+{
+    "task": "ade_corpus_v2",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_ade_corpus_v2",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.85,
+    "test_accuracy": 0.8843537414965986,
+    "weights": [
+        1.0758173370349553,
+        0.03289636905821919,
+        0.6923094911089408,
+        -0.01616052393659579,
+        0.3575382194320157
+    ]
+}

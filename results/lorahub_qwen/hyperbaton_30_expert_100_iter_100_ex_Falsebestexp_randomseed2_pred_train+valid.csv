@@ -1,0 +1,901 @@
+target,pred_clean,pred_org,example_id,split
+a,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" mysterious small pyramidal grey plastic eating monkey "" b "" plastic pyramidal grey eating mysterious small monkey "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_1404,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" grey whittling monkey "" b "" whittling grey monkey "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_2108,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" new ridiculous snorkeling ship "" b "" ridiculous new snorkeling ship "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_3195,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" leather new knife "" b "" new leather knife "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_3827,train+valid
+b,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" obnoxious tiny whittling rubber baby "" b "" obnoxious tiny rubber whittling baby "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_4079,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" huge square Vietnamese gold computer "" b "" square gold Vietnamese huge computer "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_4940,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" Pakistani old-fashioned tiny rubber drinking baby "" b "" tiny old-fashioned Pakistani rubber drinking baby "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_5143,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" hiking mysterious ancient pink chair "" b "" mysterious ancient pink hiking chair "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_6351,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" drinking Egyptian sock "" b "" Egyptian drinking sock "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_6417,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" circular red sweater "" b "" red circular sweater "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_6664,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" Vietnamese rubber triangular ship "" b "" triangular Vietnamese rubber ship "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_7663,train+valid
+a,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" nice grey driving cat "" b "" grey nice driving cat "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_9302,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" blue steel good cat "" b "" good blue steel cat "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_9569,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" brand-new Filipino sock "" b "" Filipino brand-new sock "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_9904,train+valid
+b,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" wonderful spherical brand-new sock "" b "" wonderful brand-new spherical sock "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_9929,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" cloth old dog "" b "" old cloth dog "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_10849,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" triangular nice enormous orange rubber ship "" b "" nice enormous triangular orange rubber ship "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_11995,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" paper tan smoking massive baby "" b "" massive tan paper smoking baby "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_12465,train+valid
+a,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" huge old-fashioned pyramidal Pakistani fiberglass car "" b "" pyramidal huge Pakistani fiberglass old-fashioned car "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_14006,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" ancient obnoxious pyramidal purple motorcycle "" b "" obnoxious ancient pyramidal purple motorcycle "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_14939,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" Mexican orange driving cat "" b "" orange Mexican driving cat "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_15047,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" terrible archaic paper knife "" b "" archaic paper terrible knife "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_15200,train+valid
+a,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" ancient square red Congolese wood dog "" b "" wood ancient square Congolese red dog "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_16034,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" archaic Pakistani rubber normal-size walking shoe "" b "" normal-size archaic Pakistani rubber walking shoe "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_16927,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" awful massive Ethiopian leather car "" b "" massive awful leather Ethiopian car "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_19206,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" nice enormous Pakistani computer "" b "" enormous nice Pakistani computer "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_19724,train+valid
+a,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" tiny archaic yellow Russian iron sweater "" b "" tiny yellow archaic iron Russian sweater "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_21774,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" Indian normal-size smoking match "" b "" normal-size Indian smoking match "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_21795,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" wonderful rectangular Vietnamese knife "" b "" wonderful Vietnamese rectangular knife "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_21812,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" hiking Turkish plastic repulsive normal-size knife "" b "" repulsive normal-size Turkish plastic hiking knife "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_22737,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" obnoxious Turkish monkey "" b "" Turkish obnoxious monkey "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_23036,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" brand-new square Vietnamese eating ship "" b "" square Vietnamese brand-new eating ship "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_23226,train+valid
+a,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" repulsive large white Bangladeshi dog "" b "" Bangladeshi repulsive large white dog "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_23364,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" ancient brown Indian prismlike awful ship "" b "" awful ancient prismlike brown Indian ship "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_23729,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" brand-new pyramidal red fiberglass match "" b "" red fiberglass brand-new pyramidal match "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_23730,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" old-fashioned massive surfboard "" b "" massive old-fashioned surfboard "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_24435,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" yellow square snorkeling awful baby "" b "" awful square yellow snorkeling baby "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_25537,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" terrible yellow driving match "" b "" driving terrible yellow match "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_25896,train+valid
+a,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" repulsive small brand-new iron whittling sweater "" b "" small repulsive iron brand-new whittling sweater "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_27286,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" American old motorcycle "" b "" old American motorcycle "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_27527,train+valid
+b,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" typing Iranian old repulsive little baby "" b "" repulsive little old Iranian typing baby "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_27771,train+valid
+a,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" obnoxious tiny blue Turkish steel motorcycle "" b "" Turkish steel tiny blue obnoxious motorcycle "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_28230,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" normal-size rubber new grey circular sock "" b "" normal-size new circular grey rubber sock "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_29199,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" small ancient rectangular Chinese eating sock "" b "" eating small rectangular ancient Chinese sock "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_30282,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" massive brand-new pink steel sweater "" b "" steel pink brand-new massive sweater "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_31074,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" white old-fashioned cat "" b "" old-fashioned white cat "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_31147,train+valid
+b,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" fiberglass Turkish brand-new whittling yellow sock "" b "" brand-new yellow Turkish fiberglass whittling sock "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_31249,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" gray new nice computer "" b "" nice new gray computer "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_31293,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" rectangular drinking rubber white shoe "" b "" rectangular white rubber drinking shoe "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_32337,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" tan snorkeling normal-size computer "" b "" normal-size tan snorkeling computer "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_32611,train+valid
+a,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" enormous old-fashioned spherical Japanese glass walking chair "" b "" old-fashioned enormous spherical walking glass Japanese chair "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_32616,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" silver huge tan old-fashioned car "" b "" huge old-fashioned tan silver car "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_33375,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" walking huge black sock "" b "" huge black walking sock "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_33601,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" ancient midsize grey typing match "" b "" midsize ancient grey typing match "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_34583,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" mysterious old-fashioned orange cat "" b "" old-fashioned mysterious orange cat "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_34702,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" driving massive baby "" b "" massive driving baby "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_34771,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" pyramidal silver archaic midsize whittling silly match "" b "" silly midsize archaic pyramidal silver whittling match "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_34977,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" awful large Thai steel typing sweater "" b "" steel Thai large awful typing sweater "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_36324,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" normal-size brand-new Filipino cloth typing dog "" b "" cloth typing normal-size brand-new Filipino dog "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_36738,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" good spherical purple brand-new surfboard "" b "" good brand-new spherical purple surfboard "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_37309,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" medium-size lovely gray sweater "" b "" lovely medium-size gray sweater "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_37481,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" brown Egyptian normal-size car "" b "" normal-size brown Egyptian car "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_38049,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" white wood computer "" b "" wood white computer "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_38666,train+valid
+b,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" glass pyramidal little old baby "" b "" little old pyramidal glass baby "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_39405,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" awful paper driving Turkish ancient surfboard "" b "" awful ancient Turkish paper driving surfboard "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_39709,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" smoking lead dog "" b "" lead smoking dog "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_39737,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" paper old nice square pink computer "" b "" nice old square pink paper computer "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_40287,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" archaic Thai circular exercise monkey "" b "" archaic circular Thai exercise monkey "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_40627,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" enormous good Mexican paper dog "" b "" good enormous Mexican paper dog "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_41307,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" circular Mexican eating computer "" b "" circular eating Mexican computer "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_43690,train+valid
+b,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" medium-size cloth silly spherical Indian whittling baby "" b "" silly medium-size spherical Indian cloth whittling baby "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_44795,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" old silver lovely monkey "" b "" lovely old silver monkey "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_44947,train+valid
+b,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" walking Russian small purple surfboard "" b "" small purple Russian walking surfboard "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_45503,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" good enormous steel driving dog "" b "" steel good enormous driving dog "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_46128,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" square Congolese knife "" b "" Congolese square knife "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_47560,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" Nigerian archaic snorkeling knife "" b "" archaic Nigerian snorkeling knife "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_47653,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" enormous Turkish orange surfboard "" b "" enormous orange Turkish surfboard "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_48151,train+valid
+a,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" lovely normal-size archaic Japanese lead typing chair "" b "" typing archaic lead Japanese normal-size lovely chair "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_48932,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" big old-fashioned square purple iron motorcycle "" b "" old-fashioned purple square big iron motorcycle "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_49184,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" white hiking huge match "" b "" huge white hiking match "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_49727,train+valid
+b,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" midsize wood white lovely drinking baby "" b "" lovely midsize white wood drinking baby "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_743,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" awful little prismlike cat "" b "" little prismlike awful cat "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_3610,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" prismlike obnoxious Thai cat "" b "" obnoxious prismlike Thai cat "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_7217,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" obnoxious circular pink driving dog "" b "" obnoxious driving pink circular dog "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_9934,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" midsize ancient hiking car "" b "" hiking midsize ancient car "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_10152,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" Bangladeshi old cloth hiking surfboard "" b "" old Bangladeshi cloth hiking surfboard "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_10667,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" typing tiny paper surfboard "" b "" tiny paper typing surfboard "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_11243,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" repulsive square grey monkey "" b "" square repulsive grey monkey "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_11724,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" silly little old cat "" b "" little old silly cat "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_12394,train+valid
+a,"
+a","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" obnoxious massive square match "" b "" massive square obnoxious match "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_13098,train+valid
+a,"
+a","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" repulsive rectangular Filipino typing surfboard "" b "" rectangular typing repulsive Filipino surfboard "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_17750,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" Chinese little red computer "" b "" little red Chinese computer "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_23477,train+valid
+a,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" archaic triangular Egyptian wool exercise ship "" b "" archaic exercise Egyptian wool triangular ship "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_27596,train+valid
+b,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" silver Indian repulsive drinking brown motorcycle "" b "" repulsive brown Indian silver drinking motorcycle "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_29807,train+valid
+a,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" old tan rubber walking baby "" b "" tan rubber old walking baby "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_31316,train+valid
+b,"
+a","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" awful massive steel Brazilian red car "" b "" awful massive red Brazilian steel car "" ?<|im_end|>
+<|im_start|>assistant
+a<|im_end|>",train_35533,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" Filipino enormous chair "" b "" enormous Filipino chair "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_44811,train+valid
+b,"
+b","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" paper smoking triangular sock "" b "" triangular paper smoking sock "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_48171,train+valid
+a,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" lovely old circular tan match "" b "" old lovely tan circular match "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_48618,train+valid
+a,"
+b","<|im_start|>system
+You are a helpful assistant solving a multi-task problem.
+Provide only the corresponding answer key (""a"" or ""b""), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+Which sentence has the correct adjective order: a "" ridiculous archaic rubber chair "" b "" archaic rubber ridiculous chair "" ?<|im_end|>
+<|im_start|>assistant
+b<|im_end|>",train_49978,train+valid

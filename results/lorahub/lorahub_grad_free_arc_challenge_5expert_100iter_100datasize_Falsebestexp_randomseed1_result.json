@@ -1,0 +1,19 @@
+{
+    "task": "arc_challenge",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task"
+    ],
+    "valid_accuracy": 0.8,
+    "test_accuracy": 0.7303754266211604,
+    "weights": [
+        4.0741576028165e-07,
+        -0.00011333958700462588,
+        -4.9976499469250577e-05,
+        0.4999998158093925,
+        0.4999839918648339
+    ]
+}

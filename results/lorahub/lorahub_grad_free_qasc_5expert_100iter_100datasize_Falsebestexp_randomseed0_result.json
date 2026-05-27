@@ -1,0 +1,19 @@
+{
+    "task": "qasc",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.9,
+    "test_accuracy": 0.7727272727272727,
+    "weights": [
+        0.5237758653141315,
+        0.2633549764815455,
+        1.0909428710106865,
+        0.3477576561975164,
+        -0.5173344167011322
+    ]
+}

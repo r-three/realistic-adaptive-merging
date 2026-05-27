@@ -1,0 +1,29 @@
+{
+    "task": "machine_paraphrase_dataset",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304",
+        "barc0/induction-run2-gpt4omini-20k-100seeds-barc-llama3.1-8b-instruct-lora64_lr2e-4_epoch3"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.5189037807561512,
+    "weights": [
+        -0.00044485873098790623,
+        0.5620317992164482,
+        0.4985230682728431,
+        0.4968098603001489,
+        -0.0028424055452605924,
+        -0.00014217677105913667,
+        0.0010501513535644265,
+        0.4983780110844981,
+        0.0002269072791599594,
+        -0.00026282839083223246
+    ]
+}

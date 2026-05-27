@@ -1,0 +1,19 @@
+{
+    "task": "twitter_complaints",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_twitter_complaints",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.9072463768115943,
+    "weights": [
+        0.857537510300968,
+        0.36467056653387553,
+        -0.004501468922821447,
+        -0.03769862962174731,
+        0.0027991918308427365
+    ]
+}

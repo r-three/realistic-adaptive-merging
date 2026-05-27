@@ -1,0 +1,19 @@
+{
+    "task": "mnist_ascii",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_mnist_ascii",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.05,
+    "test_accuracy": 0.127,
+    "weights": [
+        0.7071411554648587,
+        0.42213097546648426,
+        0.4256369219075556,
+        0.5098920586419315,
+        0.5721063897678811
+    ]
+}

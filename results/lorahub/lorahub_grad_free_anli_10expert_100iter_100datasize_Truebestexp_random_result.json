@@ -1,0 +1,29 @@
+{
+    "task": "anli",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_anli",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.582,
+    "weights": [
+        0.7083129901458702,
+        0.4500847966394741,
+        0.33188873806656666,
+        0.5396455008159047,
+        -0.006588862856602743,
+        -0.04510903903778121,
+        -0.005865126212930604,
+        -0.02429273211787927,
+        0.004138668310214533,
+        -0.007378444881122184
+    ]
+}

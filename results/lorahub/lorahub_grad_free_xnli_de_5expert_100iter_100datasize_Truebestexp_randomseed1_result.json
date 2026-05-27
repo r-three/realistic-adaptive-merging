@@ -1,0 +1,19 @@
+{
+    "task": "xnli_de",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_xnli_de",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 0.8,
+    "test_accuracy": 0.7184,
+    "weights": [
+        0.8122441870899922,
+        0.29284500756383597,
+        0.0044979685161383,
+        0.42218382725371884,
+        -0.016050642438835548
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "task": "commonsense_qa",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_commonsense_qa",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task",
+        "aleegis10/8ed9fe91-c2b5-42ca-8efb-927b4c8fbf45",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-acctree-16k-75-adapter-new",
+        "clembench-playpen/Llama-3-Clembench-Runs-Successful-Episodes_Top_10_Models_Individual_QA_adapted_image_game"
+    ],
+    "valid_accuracy": 0.7,
+    "test_accuracy": 0.6820512820512821,
+    "weights": [
+        0.8195588740939915,
+        0.4949462849735595,
+        -0.010392513348076428,
+        -0.27851706266049026,
+        -0.19842107528471153,
+        -0.16008616228912556,
+        -0.14910364466422255,
+        -0.2735846839116394,
+        -0.17693349787915946,
+        -0.14977410381361395
+    ]
+}

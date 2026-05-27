@@ -1,0 +1,19 @@
+{
+    "task": "toxic_chat",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_toxic_chat",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.9542,
+    "weights": [
+        1.0400750698859733,
+        0.00010949736160636745,
+        -6.125100369677397e-05,
+        -0.0013618065869131898,
+        0.3782700683171497
+    ]
+}

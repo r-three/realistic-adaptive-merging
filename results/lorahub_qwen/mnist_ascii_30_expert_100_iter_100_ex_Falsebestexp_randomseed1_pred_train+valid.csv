@@ -1,0 +1,3261 @@
+target,pred_clean,pred_org,example_id,split
+6,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@#+@@@@@@@@@
+@@@@@@@@@@@@@@%=-+#@@@@@@@@@
+@@@@@@@@@@@@%==#@@@@@@@@@@@@
+@@@@@@@@@@@#.+@@@@@@@@@@@@@@
+@@@@@@@@@@%:*@@@%@@@@@@@@@@@
+@@@@@@@@@@:+@@=***=*@@@@@@@@
+@@@@@@@@@#.@@@@@@@@.@@@@@@@@
+@@@@@@@@@#.@@@@@@@+-@@@@@@@@
+@@@@@@@@@@*=+***++#@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_18,train+valid
+1,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@#:.#@@@@@@
+@@@@@@@@@@@@@@@@%=..+@@@@@@@
+@@@@@@@@@@@@@@@+..-%@@@@@@@@
+@@@@@@@@@@@@@@+..+@@@@@@@@@@
+@@@@@@@@@@@@@-.:+@@@@@@@@@@@
+@@@@@@@@@@@#:.-#@@@@@@@@@@@@
+@@@@@@@@@#=..+@@@@@@@@@@@@@@
+@@@@@@@@-.:=@@@@@@@@@@@@@@@@
+@@@@@@@@**%@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_1527,train+valid
+2,"
+8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+           BBBBBBB          
+          BBBBBBBB          
+          BBBBBBBB          
+          BB  BBBBB         
+               BBBB         
+               BBBB         
+               BBBB         
+               BBBB         
+              BBBB          
+              BBBB          
+              BBBB          
+             BBBBB          
+           BBBBBB           
+         BBBBBBBBBBBBB      
+        BBBBBBBBBBBBBBBBB   
+       BBBBBBBBBBBBBBBBBBBB 
+       BBBBBBBB    BBBBBBB  
+       BBBBBBB              
+       BBBBBB               
+       BBBBB                
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_1954,train+valid
+2,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@%##*#@@@@@@@@@@
+@@@@@@@@@@%*--==+..%@@@@@@@@
+@@@@@@@@@@#%@@@@@+.=@@@@@@@@
+@@@@@@@@@@@@@@@@@:.%@@@@@@@@
+@@@@@@@@@@@@@@@@-.*@@@@@@@@@
+@@@@@@@@@+=+=:=::#@@@@@@@@@@
+@@@@@@@%.=@@%-..*@@@@@@@@@@@
+@@@@@@@-.#@+.-*=.-*@@@@@@@@@
+@@@@@@@*:=-+#@@@@*-:*@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_3042,train+valid
+6,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                BBBB        
+               BBBBB        
+                BBBB        
+               BBBB         
+              BBBBB         
+             BBBBB          
+            BBBBB           
+           BBBBB            
+          BBBBB             
+          BBBB     BBB      
+         BBBBB   BBBBBB     
+         BBBB   BBBBBBB     
+        BBBB    BBBBBBB     
+        BBB    BBBBBBB      
+       BBBB   BBBBBBBB      
+       BBBB  BBBBBBBB       
+       BBBB BBBBBBBB        
+       BBBBBBBBBBBBB        
+        BBBBBBBBBB          
+         BBBBBBB            
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3123,train+valid
+7,"
+9","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                BBB         
+       BBB  BBBBBBB         
+       BBBBBBBBBBBB         
+       BBBBBBBBBBBB         
+       BBBBBB   BBB         
+       BBB      BBB         
+       BBB      BBB         
+       BB       BBB         
+       BBB      BBB         
+       BBB      BB          
+       BB       BB          
+                BB          
+                BB          
+               BBB          
+               BBB          
+                BBB         
+                BBB         
+                BBB         
+                BBB         
+                BB          
+                            
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_3790,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+         BBBBB              
+         BBBBBBBBBBBB       
+         BBBBBBBBBBBB       
+         BBBBBBBBBBBB       
+          B BB   BBBB       
+                BBBBB       
+               BBBBBB       
+          B BBBBBBB         
+        BBBBBBBBB           
+        BBBBBBBBB           
+        BBBBBBBBBBB         
+         BBBBB BBBB         
+                BBB         
+                BBB         
+               BBBB         
+             BBBBB          
+         BBBBBBB            
+       BBBBBBBBB            
+       BBBBBBB              
+       BBBB                 
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3803,train+valid
+4,"
+8","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@%+@@@@@@@@@@
+@@@@@@::@@@@@@@@:.+@@@@@@@@@
+@@@@@@..%@@@@@@@=.-@@@@@@@@@
+@@@@@@..#@@@@@@@%..#@@@@@@@@
+@@@@@@:.:#@@@@@@@:.:@@@@@@@@
+@@@@@@@*-....:::.-..+@@@@@@@
+@@@@@@@@@@%%%%%%@@#..+@@@@@@
+@@@@@@@@@@@@@@@@@@@=.=@@@@@@
+@@@@@@@@@@@@@@@@@@@@:=@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_4626,train+valid
+2,"
+9","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@+:....:-*%@@@@@@@@@@
+@@@@@@@@%%%@@%%#-.#@@@@@@@@@
+@@@@@@@@@@@@@@@@%.:%@@@@@@@@
+@@@@@@@@@@@@@@@@*..%@@@@@@@@
+@@@@@@@@@@@@@@@%-.*@@@@@@@@@
+@@@@@@@@@%****=..*@@@@@@@@@@
+@@@@@@%=::--..:.:..:=%@@@@@@
+@@@@@+=#%#*+#%@@@@%#+-:-*@@@
+@@@@@@%@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_4648,train+valid
+6,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+            BBBB            
+            BBBBB           
+           BBBBBB           
+           BBBBBB           
+           BBBBB            
+           BBBBB            
+          BBBBB             
+          BBBBB             
+          BBBBBBBB          
+          BBBBBBBBBB        
+          BBBBBBBBBB        
+          BBBBBBBBBBB       
+         BBBBBBBBBBBB       
+         BBBBBBBBBBBB       
+         BBBBB  BBBBB       
+        BBBBBBBBBBBBB       
+        BBBBBBBBBBBBB       
+         BBBBBBBBBBBB       
+         BBBBBBBBBBB        
+          BBBBBBBBB         
+                            
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_7206,train+valid
+0,"
+5","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@%%%++@@@@@@@@@@
+@@@@@@@@@%+:.:+**:.*@@@@@@@@
+@@@@@@@@%:..#@@@@+.:@@@@@@@@
+@@@@@@@@-..=@@@@@@-.:%@@@@@@
+@@@@@@@*..#@@@@@@@@:.+@@@@@@
+@@@@@@@#..%@@@@@@@@:.%@@@@@@
+@@@@@@@%:.%@@@@@@@@:.%@@@@@@
+@@@@@@@@=.#@@@@@%+-=*@@@@@@@
+@@@@@@@@@%:.-===+@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_7318,train+valid
+5,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@%%@@@@@%##*++++@@@@
+@@@@@@@@=..*%=:...::+*+-.@@@
+@@@@@@@@-..%*#@@@@@@@@@@%@@@
+@@@@@@@@*-:-+%@@@@@@@@@@@@@@
+@@@@@@@@@@@#+..+%@@@@@@@@@@@
+@@@@@*%%@@@@@#...%@@@@@@@@@@
+@@@@@@*+=-:::::-*@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7845,train+valid
+4,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@%:%@@@@@@@@@@
+@@@@@@@@@@@@@%=-*@@%**@@@@@@
+@@@@@@@@@@@@=:#@@%-.=@@@@@@@
+@@@@@@@@@@%:=@@@+.:#@@@@@@@@
+@@@@@@@@%--*%#=--=@@@@@@@@@@
+@@@@@@@@-...:..==+@@@@@@@@@@
+@@@@@@@@@%#@@=..*@@@@@@@@@@@
+@@@@@@@@@@@@@=.#@@@@@@@@@@@@
+@@@@@@@@@@@@%+@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_8370,train+valid
+0,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@**#@@-.#@@@@@@
+@@@@@@@@@@%+:.:=#@@%-.*@@@@@
+@@@@@@@@@=..-%@@@@@@%..%@@@@
+@@@@@@@@=..*@@@@@@@@%..%@@@@
+@@@@@@@:.:#@@@@@@@@@-.+@@@@@
+@@@@@@%..*@@@@@@@@*..#@@@@@@
+@@@@@@%..*@@@@@@%*.-%@@@@@@@
+@@@@@@@=..==-----=#@@@@@@@@@
+@@@@@@@@@*++*#@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_11807,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+           BBBBBBB          
+           BBBBBBB          
+           BBBBBBBB         
+           BBBBBBBBB        
+          BBBBB BBBB        
+          BBBBB  BBBB       
+         BBBBB   BBBB       
+         BBBB    BBBB       
+        BBBBB     BBB       
+        BBBB      BBBB      
+        BBBB      BBBB      
+        BBBB      BBBB      
+       BBBB       BBBB      
+       BBBB       BBBB      
+       BBBB       BBBB      
+        BBBB     BBBBB      
+        BBBBB   BBBBB       
+        BBBBBBBBBBBBB       
+         BBBBBBBBBBB        
+          BBBBBBBBB         
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_12004,train+valid
+6,"
+5","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                BBBBB       
+               BBBBBB       
+               BBBBBB       
+             BBBBBBBB       
+            BBBBBBB         
+           BBBBBBBB         
+           BBBBBBBB         
+          BBBBBB            
+        BBBBBBB    BBBB     
+        BBBBBB    BBBBBBB   
+       BBBBBB    BBBBBBBB   
+      BBBBBB   BBBBBBBBBB   
+      BBBBBB BBBBBBBBBBBB   
+     BBBBBBBBBBBBBBBBBBB    
+     BBBBBBBBBBBBBBBBBB     
+     BBBBBBBBBBBBBBBBB      
+     BBBBBBBBBBBBBBBBB      
+      BBBBBBBBBBBBB         
+      BBBBBBBBBB            
+        BBBBBB              
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_13035,train+valid
+9,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+          BBB               
+        BBBBBBBBB           
+      BBBBBBBBBBBB          
+     BBBBBBBBBB BBBB        
+     BBBBBB     BBBB        
+    BBBB         BBBB       
+    BBBB         BBBB       
+    BBBB         BBBB       
+    BBBBB       BBBBB       
+     BBBBBB   BBBBBBB       
+     BBBBBBBBBBBBBBBB       
+      BBBBBBBBBBBBBBB       
+        BBBBBBBB  BBBB      
+                  BBBBB     
+                   BBBB     
+                   BBBBB    
+                    BBBB    
+                    BBBB    
+                     BBB    
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_14324,train+valid
+7,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+    BBBBBBBBBBBB            
+    BBBBBBBBBBBBBBB         
+    BBBBBBBBBBBBBBBB        
+     B          BBBB        
+                BBBB        
+                BBBB        
+                BBBB        
+                BBBBBBBB    
+            BBBBBBBBBBBB    
+            BBBBBBBBBB      
+            BBBBBBB         
+                BBB         
+               BBB          
+               BBB          
+               BBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBB           
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_14460,train+valid
+7,"
+8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+       BBBB   BBBBBBB       
+       BBBBBBBBBBBBBB       
+        BBBBBBBBB BBB       
+                 BBBB       
+                 BBBB       
+                BBBB        
+                BBB         
+               BBBB         
+              BBBB          
+              BBBB          
+              BBB           
+             BBBB           
+            BBBB            
+            BBBB            
+           BBBB             
+           BBB              
+          BBBB              
+          BBBBB             
+          BBBBB             
+          BBB               
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_14605,train+valid
+0,"
+5","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                 BBB        
+                 BBB        
+               BBBBBB       
+              BBBBBBB       
+             BBBBBBBB       
+           BBBBBBBBBB       
+           BBBBBBBBBB       
+          BBBBBBBBBBB       
+          BBBBBB BBBB       
+         BBBBB   BBBB       
+         BBBBB   BBBB       
+        BBBBB   BBBB        
+       BBBBBB   BBBB        
+      BBBBBB   BBBBB        
+      BBBBB   BBBBB         
+      BBBBB  BBBBBB         
+      BBBBBBBBBBBB          
+       BBBBBBBBBBB          
+        BBBBBBBBB           
+        BBBBBBB             
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_15064,train+valid
+4,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                    BBBB    
+         BBB        BBBB    
+         BBB       BBBBB    
+         BBBB      BBBBB    
+        BBBBB     BBBBB     
+        BBBBB    BBBBBB     
+       BBBBB     BBBBB      
+      BBBBBBBBBBBBBBB       
+     BBBBBBBBBBBBBBBB       
+     BBBBBBBBBBBBBBBB       
+    BBBBBBBBBBBBBBBBB       
+    BBBBBBBBBBBBBBBBB       
+    BBBBBBBB  BBBBBBB       
+    BBBB      BBBBB         
+              BBBB          
+              BBBB          
+             BBBBB          
+             BBBBB          
+              BBB           
+              BBB           
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_19621,train+valid
+5,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@%+-::------:---=@@@@
+@@@@@@@@-.:*###@@@@@@@@@@@@@
+@@@@@@@#..:----*@@@@@@@@@@@@
+@@@@@@@@#*##%##+-:-+#@@@@@@@
+@@@@@@@@@@@@@@@@@@@+-.*@@@@@
+@@@@@##@@@@@@@@@@@@@#..+@@@@
+@@@@+..==---====---::-+@@@@@
+@@@@@@@@@@@@@@%##@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_19870,train+valid
+8,"
+8","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+          BBBBBB            
+        BBBBBBBBBB          
+      BBBBBBBBBBBBB         
+     BBBBBBBBBBBBBB         
+     BBBBBBB   BBBBB        
+     BBBBB     BBBBB        
+     BBBBB  BBBBBBBB        
+      BBBBBBBBBBBBBB        
+      BBBBBBBBBBBBBBBB      
+       BBBBBBBBBBBBBBBBB    
+        BBBBBBBBBBBBBBBB    
+        BBBB BBBBB  BBBBB   
+       BBBBB         BBBB   
+       BBBB           BBB   
+       BBBB          BBBB   
+       BBBB         BBBBB   
+       BBBBBB BBBBBBBBBBB   
+        BBBBBBBBBBBBBBBBB   
+        BBBBBBBBBBBBBBBB    
+          BBBBBBBBBBB       
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_20025,train+valid
+8,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@%=--+%#**+=:*@@@
+@@@@@@@@@@@=.#@%%@@@@@*:#@@@
+@@@@@@@@@@*.*@@@@@%*--+#@@@@
+@@@@@@@@@@-.#**=--=*@@@@@@@@
+@@@@@@@@@%-..=*@@@@@@@@@@@@@
+@@@@@@*-...=@@@@@@@@@@@@@@@@
+@@@@@-..-=#@@@@@@@@@@@@@@@@@
+@@@@@%#%@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_20157,train+valid
+1,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+           BBB              
+          BBBBB             
+           BBBB             
+            BBB             
+            BBB             
+            BBB             
+            BBB             
+            BBBB            
+            BBBB            
+             BBB            
+            BBBB            
+             BBB            
+             BBB            
+             BBBB           
+              BBB           
+              BBB           
+              BBB           
+              BBBB          
+              BBBB          
+              BBBB          
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_22207,train+valid
+3,"
+5","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+       BBBBBBBBBBBBBBBB     
+      BBBBBBBBBBBBBBBBB     
+      BBBBBBBBBBBBBBBBB     
+                BBBBBBB     
+               BBBBBBB      
+             BBBBBBBBB      
+            BBBBBBBBBBB     
+            BBBBBBBBBBB     
+             BBB   BBBB     
+                   BBBB     
+                  BBBBB     
+            B    BBBBBB     
+               BBBBBBB      
+   BBB       BBBBBBBB       
+   BBB       BBBBBBB        
+   BBBB    BBBBBBB          
+   BBBBBBBBBBBBBB           
+   BBBBBBBBBBB              
+   BBBBBBBBBB               
+    BBBBBBBB                
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_22271,train+valid
+2,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+           BB               
+          BBBBBB            
+          BBBBBB            
+          BBBBBBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+               BBB          
+              BBBB     BB   
+     BBBBB   BBBB     BBB   
+     BBBBBBBBBBB     BBBB   
+     BBBBBBBBBB      BBB    
+     BBBBBBBBBB     BBBB    
+     BBBBBBBBBBBBBBBBBB     
+              BBBBBBBB      
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_24971,train+valid
+7,"
+8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+             BBBBBBB        
+           BBBBBBBBB        
+          BBBBBBBBBB        
+         BBBBBB BBB         
+        BBBB    BBB         
+        BBBB   BBBB         
+        BBB    BBB          
+       BBBB    BBB          
+       BBBB    BBB          
+       BBB    BBB           
+        B     BBB           
+              BBB           
+             BBBB           
+             BBB            
+             BBB            
+             BBB            
+            BBBB            
+            BBB             
+            BBB             
+            BBB             
+                            
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_25125,train+valid
+3,"
+7","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+        BBBBBBB             
+        BBBBBBBB            
+       BBBBBBBBBB           
+       BBBB  BBBBB          
+       BBB     BBBB         
+        BB      BBB         
+               BBBB         
+              BBBBB         
+           BBBBBBB          
+           BBBBBBB          
+           BBBBBBBB         
+           BBBBBBBBB        
+                BBBB        
+                BBBB        
+                 BBB        
+         BB     BBBB        
+       BBBBBB BBBBBB        
+       BBBBBBBBBBBBB        
+       BBBBBBBBBBBB         
+         BBBBBBBBB          
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+7<|im_end|>",train_25880,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@++*+++*@@@@@@@@@@
+@@@@@@@@@%-.:===:..@@@@@@@@@
+@@@@@@@@@=-#@@@#..*@@@@@@@@@
+@@@@@@@@@@@@@@*.:%@@@@@@@@@@
+@@@@@@@@@@@#=:.=%@@@@@@@@@@@
+@@@@@@@@@@@===-..=%@@@@@@@@@
+@@@@@@@@@@@@@@%-..=@@@@@@@@@
+@@@@@@@@@@@#*=.:=*@@@@@@@@@@
+@@@@@@@@%:.:=+#@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_26305,train+valid
+9,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+         BBBBBBB            
+         BBBBBBBB           
+        BBBBBBBBBBB         
+       BBBBBBBBBBBB         
+       BBB     BBBB         
+       BB      BBBB         
+       BBBB BBBBBBB         
+       BBBBBBBBBBBB         
+       BBBBBBBBBBB          
+        BBBBBBBBB           
+                BB          
+                BB          
+                BB          
+                BB          
+                BBB         
+                BBB         
+                BBB         
+                BBB         
+                BBB         
+                BBB         
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_27295,train+valid
+3,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@###+++*##@@@@@@@@@
+@@@@@%==--=++++=+...#@@@@@@@
+@@@@@@@@@@@@@@%+:..-@@@@@@@@
+@@@@@@@@@@@%+:..-+%@@@@@@@@@
+@@@@@@@@@*:....+%@@@@@@@@@@@
+@@@@@@@@@@@*=::...=%@@@@@@@@
+@@@@@@@@@@@@@@@%*...@@@@@@@@
+@@@@@@@@%#%%%#*=-..+@@@@@@@@
+@@@@@@@@@#=:..:==#@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_28171,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@#=..=+#@@@@@@@@
+@@@@@@@@@@#=:........=#@@@@@
+@@@@@@@@@*....-#*%@@:..*@@@@
+@@@@@@@@-...-%@@@@@@:..-@@@@
+@@@@@@#...:#@@@@@@*....%@@@@
+@@@@@%...=@@@@@%=....-#@@@@@
+@@@@@%...%%%*+-....-#@@@@@@@
+@@@@@@=.......:-+*@@@@@@@@@@
+@@@@@@@%*#*##@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_28365,train+valid
+9,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+             BBBBBB         
+           BBBBBBBB         
+          BBBBBBBBB         
+         BBBBBBBBBB         
+         BBBBBBBBBB         
+         BBBBBBBBBB         
+         BBBBBBBBBB         
+         BBBBBBBBBB         
+         BBBBB BBBB         
+          BB  BBBB          
+              BBBB          
+              BBBB          
+             BBBBB          
+             BBBB           
+             BBBB           
+             BBBB           
+            BBBBB           
+            BBBBB           
+            BBBBB           
+             BBB            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_28808,train+valid
+8,"
+3","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@%*++@@@@
+@@@@@@@@@@@@@@@#+===--=-@@@@
+@@@@@@@@@@@@+::=#@%+-:=+@@@@
+@@@@@@@@@@+.-%@@+--*%@@@@@@@
+@@@@@@@@@@-.++==*%@@@@@@@@@@
+@@@@@@@@@@@-..+@@@@@@@@@@@@@
+@@@@@@@@%+.+%-.%@@@@@@@@@@@@
+@@@@@@@+.=@@#=:%@@@@@@@@@@@@
+@@@@@@@*::--*#@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_29995,train+valid
+5,"
+6","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@%%%#*+@@@@@@@
+@@@@@@@@=.:::---:--=+%@@@@@@
+@@@@@@@@..#@@@@@@@@@@@@@@@@@
+@@@@@@@@*.*@@%***#@@@@@@@@@@
+@@@@@@@@@::-:=+**=:=%@@@@@@@
+@@@@@@@@@@#@@@@@@@%-:@@@@@@@
+@@@@@@@@@@@@%%@@@@@*.#@@@@@@
+@@@@@@@@@@@*.-##*+-:=%@@@@@@
+@@@@@@@@@@@#:..:--+@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_30217,train+valid
+3,"
+3","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+           BBBBBBB          
+        BBBBBBBBBBBB        
+       BBBBBBBBBBBBB        
+      BBBBBBBBBBBBBBB       
+      BBBBBBB    BBBB       
+      BBBBBB     BBBB       
+       BBBB   BBBBBBB       
+       BB    BBBBBBB        
+           BBBBBBBBB        
+           BBBBBBBBB        
+           BBBBBBBBB        
+             BBBBBBB        
+             BBBBBBBB       
+             BBB BBBB       
+                BBBBB       
+        BB    BBBBBBB       
+        BBBBBBBBBBBB        
+        BBBBBBBBBBBB        
+        BBBBBBBBBBB         
+         BBBBBBBBB          
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_33709,train+valid
+2,"
+8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+             BBBBBBB        
+           BBBBBBBBBB       
+         BBBBBBBBBBBB       
+      BBBBBBBBBBBBBBB       
+     BBBBBBB     BBBB       
+     BBBB       BBBB        
+     BBB       BBBBB        
+     BBB       BBBB         
+      BB      BBBB          
+             BBBB           
+            BBBBB           
+            BBBB            
+           BBBB             
+           BBBB             
+           BBB              
+           BBBB      BBBB   
+           BBBBB  BBBBBBB   
+           BBBBBBBBBBBB     
+            BBBBBBBBBB      
+             BBBBBBB        
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_34650,train+valid
+9,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@*++@@@@@@@
+@@@@@@@@@@@@%*=-.....+@@@@@@
+@@@@@@@@@@@=...:*#*=..@@@@@@
+@@@@@@@@@%:..:+#*=...=@@@@@@
+@@@@@@@@*...-:.....=#@@@@@@@
+@@@@@@@%..........*@@@@@@@@@
+@@@@@@@@=.-+*:..-%@@@@@@@@@@
+@@@@@@@@@@%=..=%@@@@@@@@@@@@
+@@@@@@@@%:..-%@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_34694,train+valid
+7,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+         BBBBBBBB           
+         BBBBBBBBB          
+         BBB  BBBBB         
+         BB     BBB         
+                 BB         
+                 BB         
+                 BB         
+                BBB         
+                BBB         
+               BBBB         
+               BBBB         
+              BBBB          
+              BBBB          
+             BBBB           
+             BBB            
+            BBB             
+           BBB              
+           BBB              
+          BBBB              
+          BB                
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_35998,train+valid
+7,"
+3","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+     BBBBBBBBBBBBBB         
+   BBBBBBBBBBBBBBBBBB       
+   BBBBBBBBBBBBBBBBBBB      
+   BBBBBBBBBBBBBBBBBBB      
+   BBBBBBBBBB  BBBBBBB      
+   BBBBBB        BBBBBB     
+    BBBBB         BBBBB     
+    BBBBB         BBBBB     
+     BBBBB        BBBBB     
+     BBBBB       BBBBBB     
+      BBBB       BBBBBB     
+                BBBBBB      
+                BBBBBB      
+                BBBBBB      
+               BBBBBBB      
+               BBBBBB       
+               BBBBB        
+               BBBBBB       
+               BBBBBB       
+               BBBBBB       
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_36157,train+valid
+3,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+       BBBBBBBBB            
+       BBBBBBBBBBBBB        
+       BBBBBBBBBBBBB        
+        BBBBBBBBBBBBB       
+             BBBBBBBBB      
+                BBBBBB      
+         BBBBB BBBBBBB      
+        BBBBBBBBBBBBB       
+        BBBBBBBBBBBBB       
+         BBBBBBBBBBB        
+          BBBBBBBBBB        
+               BBBBBB       
+                 BBBB       
+     BB          BBBBB      
+    BBBB        BBBBBB      
+    BBBBB      BBBBBB       
+    BBBBBBBBBBBBBBBBB       
+     BBBBBBBBBBBBBBB        
+      BBBBBBBBBBBBBB        
+        BBBBBBBBBB          
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_36671,train+valid
+5,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@%%@@@@@@@@
+@@@@@@@@@@@@@@@%-.:.-=--+@@@
+@@@@@@@@@@@@@=.-*@@@@%%@@@@@
+@@@@@+*%@@@=---%@@@@@@@@@@@@
+@@@@@%*:.-+*#*=-@@@@@@@@@@@@
+@@@@@@@@%#+====-%@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_37413,train+valid
+7,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+          BBBBBBBBBBBBB     
+         BBBBBBBBBBBBBB     
+        BBBBBBBBBBBBBBB     
+       BBBBBBBBBBBBBBBB     
+       BBBBBB    BBBBB      
+       BBBBBB    BBBB       
+               BBBBB        
+               BBBBB        
+              BBBBB         
+             BBBBBB         
+             BBBBB          
+            BBBBB           
+           BBBBB            
+           BBBBB            
+          BBBBB             
+          BBBB              
+         BBBBB              
+         BBBBB              
+        BBBBB               
+        BBBB                
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_38639,train+valid
+4,"
+7","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@#++#@@
+@@@@@@@@@@@@@@@@@@@#=..-+%@@
+@@@@@@@@@@=.+@@@@#...-%@@@@@
+@@@@@@@@*:..*@@#:..-%@@@@@@@
+@@@@@@+....-=-:....=+%@@@@@@
+@@@@@@*=--=-...=#*+%@@@@@@@@
+@@@@@@@@@@*..:#@@@@@@@@@@@@@
+@@@@@@@@@=..+@@@@@@@@@@@@@@@
+@@@@@@@@@.:%@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+7<|im_end|>",train_39443,train+valid
+3,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+              BBBBBB        
+          BBBBBBBBBBB       
+         BBBBBBBBBBBBB      
+         BBBBBBBBBBBBB      
+         BBBBBBB BBBBB      
+           BB  BBBBBBB      
+           BBBBBBBBBBB      
+           BBBBBBBBBB       
+           BBBBBBBBB        
+           BBBBBBBBB        
+            BBBBBBBBB       
+      BB      BBBBBBB       
+      BBB       BBBBB       
+      BBBB     BBBBB        
+      BBBBB    BBBBB        
+       BBBB   BBBBBB        
+       BBBBBBBBBBBBB        
+       BBBBBBBBBBBB         
+        BBBBBBBBBB          
+         BBBBBBBB           
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_39509,train+valid
+8,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@%#+##@@@
+@@@@@@@@@@@@@=...:%-.:=*@@@@
+@@@@@@@@@@@+..+%+..-#@@@@@@@
+@@@@@@@@@%-.-%+:.+@@@@@@@@@@
+@@@@@@@@@=..=.-*@@@@@@@@@@@@
+@@@@@@@@@-...%@@@@@@@@@@@@@@
+@@@@@@@@=.==..+@@@@@@@@@@@@@
+@@@@@@@*.*@@%..=@@@@@@@@@@@@
+@@@@@@@@=::.:-*@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_41183,train+valid
+2,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+               BBBBBBBB     
+             BBBBBBBBBBB    
+             BBBBBBBBBBB    
+            BBBBBBBBBBBB    
+            BBBB     BBB    
+            BBBB     BBB    
+            BBB      BBB    
+            BBB     BBBB    
+                   BBBBB    
+                  BBBBB     
+                 BBBBB      
+          BBBBBBBBBBBB      
+      BBBBBBBBBBBBBB        
+     BBBBBBBBBBBBBBB        
+    BBBBBBBBBBBBBBBBBB      
+    BBBBBBBBBBBBBBBBBB      
+    BBBBBBBBBBB    BBBB     
+    BBBBBBBBB       BBB     
+    BBBBBBB                 
+    BBBBB                   
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_41985,train+valid
+4,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+          BB     BBBBB      
+         BBBB    BBBBB      
+         BBBB    BBBBB      
+        BBBB     BBBB       
+        BBBB     BBBB       
+       BBBBB    BBBBB       
+      BBBBB     BBBBB       
+      BBBBB    BBBBBB       
+      BBBBB  BBBBBBB        
+      BBBBBBBBBBBBBB        
+      BBBBBBBBBBBBB         
+      BBBBBBBBBBBBB         
+      BBBBBBBBBBBB          
+       BBBBBB BBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_42300,train+valid
+2,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+      BBB                   
+      BBBBBB                
+      BBBBBBB               
+          BBB               
+          BBB               
+         BBBB   BBBBBBBBBB  
+         BBBBBBBBBBBBBBBBB  
+        BBBBBBBBBBBBBBBBBB  
+        BBBBBBBB            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_42503,train+valid
+9,"
+8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+             BBBBB          
+            BBBBBB          
+           BBB              
+          BBBB              
+          BBB               
+          BB                
+          BB                
+         BBB BBBB           
+         BBBBBBBB           
+          BBBBBBBB          
+          BBBB  BB          
+                BB          
+                BB          
+                BB          
+                BB          
+                BBB         
+                BBB         
+                 BBB        
+                 BBBB       
+                  BB        
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_43034,train+valid
+9,"
+9","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+               BBBBB        
+              BBBBBB        
+             BBBBBBB        
+             BBBBBBB        
+           BBBBB BBB        
+           BBBB BBBB        
+          BBBB BBBBB        
+          BBB BBBBBB        
+          BBBBBBBBB         
+          BBBBBBBBB         
+          BBBBBBBB          
+           BBBBBB           
+             BBBB           
+            BBBB            
+            BBBBBB          
+            BBBBBB          
+           BBBBBB           
+           BBBBBB           
+          BBBBBB            
+          BBBBB             
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_43207,train+valid
+6,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                 BBB        
+                BBBB        
+                BBB         
+               BBB          
+              BBB           
+              BBB           
+             BBB            
+             BBB            
+            BBB             
+            BBB             
+           BBB              
+           BBB              
+           BBBBBBB          
+          BBBBBBBBB         
+          BBBBBBBBB         
+          BB     BB         
+          BB    BBB         
+          BBB  BBBB         
+          BBBBBBBBB         
+           BBBBBBB          
+                            
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_43582,train+valid
+9,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+           BBBBBBB          
+          BBBBBBBB          
+          BBBBBB            
+          BBBB  BB          
+          BBB  BBB          
+          BBB  BBB          
+          BBBBBBBB          
+          BBBBBBBB          
+          BBBBBBBB          
+           BBBBBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBB           
+              BBB           
+              BBB           
+              BBB           
+              BBB           
+              BBBB          
+              BBBB          
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_46602,train+valid
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@#++%@@@@@@@@@
+@@@@@@@@@@@@@@:...*@@@@@@@@@
+@@@@@@@@@@@@@@....*@@@@@@@@@
+@@@@@@@@@@@@@-...#@@@@@@@@@@
+@@@@@@@@@@@@=..-%@@@@@@@@@@@
+@@@@@@@@@@%-..+@@@@@@@@@@@@@
+@@@@@@@@@@+..-@@@@@@@@@@@@@@
+@@@@@@@@@=..+@@@@@@@@@@@@@@@
+@@@@@@@@@..=@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_48543,train+valid
+7,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@%%%%%###%@@@@@
+@@@@@@@-::::---==+**-.-@@@@@
+@@@@@@@@@@@@@@@@@@#=.=@@@@@@
+@@@@@@@@@@@@@@@#=--*%@@@@@@@
+@@@@@@@@@@@@@#::*@@@@@@@@@@@
+@@@@@@@@@@@%-.+@@@@@@@@@@@@@
+@@@@@@@@@%-.+@@@@@@@@@@@@@@@
+@@@@@@@@+.+@@@@@@@@@@@@@@@@@
+@@@@@@@+.#@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_49053,train+valid
+9,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+            BBBBBBB         
+          BBBBBBBBBB        
+         BBBBBB BBBBB       
+         BBBB    BBBB       
+        BBBB    BBBBBB      
+        BBB     BBBBBB      
+        BBB     BBBBBB      
+       BBBB     BBBBBB      
+       BBBB    BBBB         
+        BBBB BBBBBB         
+        BBBBBBBBBB          
+         BBBBBBBBB          
+          BBBBBBB           
+             BBBB           
+             BBBB           
+            BBBB            
+            BBB             
+            BBB             
+            BBB             
+            BBBBB           
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_51036,train+valid
+4,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@##*+%@@@@@@@
+@@@@@@@@@@@@@*=:..=.+@@@@@@@
+@@@@@@@@@@#=.=#%#@#.+@@@@@@@
+@@@@@@@@*:.=%@@@@@:.%@@@@@@@
+@@@@%+--=#%%%%%%%+.-@@@@@@@@
+@@#-..:-========:..:-#@@@@@@
+@@%*%@@@@@@@@@@%:.%@@@@@@@@@
+@@@@@@@@@@@@@@%:.#@@@@@@@@@@
+@@@@@@@@@@@@@#..#@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_53731,train+valid
+9,"
+9","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+          BBBBBBBB          
+         BBBBBBBBBB         
+         BBBBB BBBB         
+         BBBBB BBBB         
+        BBBBB BBBBB         
+        BBBBB BBBB          
+        BBBBBBBBBB          
+         BBBBBBBBB          
+         BBBBBBBBB          
+          BBBBBBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBBB          
+              BBBBB         
+              BBBBB         
+               BBBB         
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_54170,train+valid
+5,"
+9","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+               BB BBBBBBB   
+           BBBBBBBBBBBBBB   
+         BBBBBBBBBBBBBBBB   
+        BBBBBBBBBBBBB       
+       BBBBBBBBBBB          
+       BBBBBBBBB            
+       BBBBBBBBB            
+        BBBBBBBBB           
+           BBBBBBBB         
+             BBBBBBB        
+              BBBBBBB       
+                BBBBBB      
+      BB         BBBBB      
+     BBBB         BBBB      
+     BBBBB        BBBB      
+     BBBBBBB     BBBBB      
+      BBBBBBBBBBBBBBBB      
+       BBBBBBBBBBBBBB       
+         BBBBBBBBBBB        
+             BBBB           
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_55434,train+valid
+0,"
+5","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+               BBBBBB       
+              BBBBBBBB      
+             BBBBBBBBBB     
+            BBBBBBB BBB     
+           BBBBBBB   BBB    
+           BBBBBB    BBB    
+          BBBBBB      BB    
+          BBBBBB      BB    
+         BBBBBB       BBB   
+        BBBBBB        BBB   
+       BBBBBB         BBB   
+       BBBBB          BBB   
+       BBBB            B    
+       BBBB       BBBBB     
+       BBBB      BBBBBBB    
+       BBBBBBBBBBBBBB       
+       BBBBBBBBBBBBBB       
+         BBBBBBBBBB         
+         BBBBBBBBBB         
+         BBBBBBB            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_56573,train+valid
+4,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+            B     BB        
+           BB     BB        
+          BBB    BBB        
+          BBB    BBB        
+          BBB    BBB        
+         BBB    BBB         
+         BBB    BBB         
+         BBB   BBBB         
+        BBB    BBBB         
+        BBB    BBBBB        
+        BBB  BBBBBB         
+        BBBBBBBBBBB         
+        BBBBBBBBBB          
+        BBBBBBBBB           
+              BBB           
+              BBB           
+             BBBB           
+             BBB            
+             BBB            
+             BB             
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_57102,train+valid
+6,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+               BBBB         
+               BBBB         
+             BBBBB          
+            BBBBB           
+           BBBBB            
+           BBBB             
+          BBBB              
+          BBBB              
+          BBB               
+         BBB                
+         BBB                
+        BBBB                
+        BBB                 
+        BBB     BBBB        
+        BBB    BBBBBB       
+        BBBB BBBBBBBBB      
+        BBBBBBBBBBBBBB      
+         BBBBBBBBBBBBB      
+          BBBBBBBBBB        
+           BBBBBBBBB        
+                            
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_58043,train+valid
+1,"
+8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@%+*@@@@@@@@@
+@@@@@@@@@@@@@@@*:+@@@@@@@@@@
+@@@@@@@@@@@@@@#.*@@@@@@@@@@@
+@@@@@@@@@@@@@@::@@@@@@@@@@@@
+@@@@@@@@@@@@%*.%@@@@@@@@@@@@
+@@@@@@@@@@@@%:*@@@@@@@@@@@@@
+@@@@@@@@@@@@+:@@@@@@@@@@@@@@
+@@@@@@@@@@@#:@@@@@@@@@@@@@@@
+@@@@@@@@@@@:%@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_58091,train+valid
+9,"
+7","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+             BBBBBBBB       
+            BBBBBBBBB       
+           BBBBBBBBBB       
+         BBBBBBBBBBB        
+         BBBBBBBBBBB        
+       BBBBBB BBBBBB        
+       BBBB  BBBBBBB        
+       BBBBBBBBBBBBB        
+       BBBBBBBBBBBB         
+        BBBBBBBBBBB         
+              BBBB          
+             BBBBB          
+             BBBB           
+             BBB            
+            BBBB            
+            BBB             
+           BBBB             
+           BBB              
+           BBB              
+           BB               
+                            
+<|im_end|>
+<|im_start|>assistant
+7<|im_end|>",train_58274,train+valid
+5,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                    BBBBBB  
+             BBB BBBBBBBBB  
+             BBBBBBBBBBB    
+            BBBBBBBBBB      
+           BBBBBBB          
+          BBBBB             
+          BBBB              
+         BBBBBBB            
+         BBBBBBBB           
+         BBBBBBBBB          
+         BBBB BBBBB         
+              BBBBB         
+      BB   BBBBBBBB         
+      BBBBBBBBBBBB          
+      BBBBBBBBB             
+      BBBBBBB               
+                            
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_58989,train+valid
+1,"
+7","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+             BBBB           
+             BBBBB          
+             BBBBB          
+             BBBBB          
+             BBBBB          
+             BBBBB          
+            BBBBB           
+            BBBBB           
+            BBBBB           
+            BBBBB           
+            BBBB            
+            BBBB            
+            BBBB            
+            BBBB            
+            BBBB            
+            BBBB            
+            BBBB            
+            BBBB            
+            BBBB            
+            BBBB            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+7<|im_end|>",train_60135,train+valid
+6,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                  BBBBBB    
+                 BBBBBBB    
+               BBBBBBBB     
+              BBBBBBB       
+             BBBBBBBB       
+           BBBBBBBB         
+           BBBBBBB          
+          BBBBBBB           
+         BBBBBBBB           
+         BBBBBB             
+        BBBBBBB             
+        BBBBBBBBBBB         
+        BBBBBBBBBBBBB       
+        BBBBBBBBBBBBB       
+        BBBBBBBBBBBBB       
+        BBBBBBBBBBBBB       
+        BBBBBBBBBBBBB       
+        BBBBBBBBBBBBB       
+         BBBBBBBBBBB        
+          BBBBBBBBB         
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_62620,train+valid
+3,"
+8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+         BBBBBBBBBB         
+        BBBBBBBBBBBB        
+        BBBBBBBBBBBBB       
+        BBBB    BBBBB       
+              BBBBBBB       
+            BBBBBBBB        
+            BBBBBBB         
+            BBBBBB          
+             BBBBB          
+              BBBBB         
+               BBBB         
+                BBB         
+                BBB         
+               BBBB         
+              BBBBB         
+             BBBBB          
+        BBBBBBBBBB          
+       BBBBBBBBBB           
+        BBBBBBBB            
+        BBBBBBB             
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_62978,train+valid
+6,"
+3","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@+*@@@@@@@@@@@
+@@@@@@@@@@@@@*...*@@@@@@@@@@
+@@@@@@@@@@@*:..:#@@@@@@@@@@@
+@@@@@@@@@@-...+@@@@@@@@@@@@@
+@@@@@@@@@-...=*=...:*@@@@@@@
+@@@@@@@@%......-=*#*:-@@@@@@
+@@@@@@@@%....+@@@@@#.-@@@@@@
+@@@@@@@@=...%@@@@%+.:*@@@@@@
+@@@@@@@@+:=+--=:--+#@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_63383,train+valid
+4,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+          BBBB              
+         BBBBB              
+         BBBBB  BBB         
+         BBBB   BBB         
+         BBB    BBB         
+        BBBB   BBBB         
+        BBBB   BBBB         
+        BBB    BBBBB        
+        BBB    BBBBB        
+       BBBB  BBBBBB         
+       BBBBBBBBBBBB         
+        BBBBBBBBBBB         
+         BBBBBBBBBB         
+           BB  BBBB         
+               BBBB         
+               BBB          
+               BBB          
+               BBBB         
+               BBBB         
+               BBBB         
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_64598,train+valid
+5,"
+9","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@%%##**@@@@
+@@@@@@%#**++=----==+++**@@@@
+@@@@@@*+-..:*@@@@@@@@@@@@@@@
+@@@@@@@@@..-#####%@@@@@@@@@@
+@@@@@@@@@*+++***+=::+%@@@@@@
+@@@@@@@@@@@@@@@@@@@+.-@@@@@@
+@@@@@@@@+.%@@@@@@@@*..@@@@@@
+@@@@@@@@.:=+%@@@%*:.=#@@@@@@
+@@@@@@@@@+=::.:-=*#@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_64766,train+valid
+5,"
+9","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+              BB            
+             BBB       BBB  
+            BBBB BBBBBBBBB  
+           BBBBBBBBBBBBBBB  
+          BBBBBBBBBBB       
+         BBBBBB             
+         BBBB               
+         BBBBBB             
+          BBBBB             
+           BBBBBB           
+      BB     BBBB           
+      BBB     BBBB          
+      BBBBBBBBBBBB          
+       BBBBBBBBBB           
+        BBBBBBBBB           
+                            
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_65111,train+valid
+9,"
+9","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@#+====-.-@@@@@@@@
+@@@@@@@@@*..+@@@@@:.@@@@@@@@
+@@@@@@@@=.-@@@@@@%..@@@@@@@@
+@@@@@@@@=.-+++==:..%@@@@@@@@
+@@@@@@@@@@#++#%#..%@@@@@@@@@
+@@@@@@@@@@@@@@%:.=@@@@@@@@@@
+@@@@@@@@@@@@@#:.*@@@@@@@@@@@
+@@@@@@@@@@@@=..%@@@@@@@@@@@@
+@@@@@@@@@@@@##%@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_65233,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@#++%@@@@@@@@@@@@
+@@@@@@@@@@@@=..:@@@@@@@@@@@@
+@@@@@@@@@@@@#...#@@@@@@@@@@@
+@@@@@@@@@@@@#...#@@@@@@@@@@@
+@@@@@@@@@@@@@:..#@@@@@@@@@@@
+@@@@@@@@@@@@%:..%@@@@@@@@@@@
+@@@@@@@@@@@@@:..#@@@@@@@@@@@
+@@@@@@@@@@@@@*..:@@@@@@@@@@@
+@@@@@@@@@@@@@%:.:@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_65699,train+valid
+0,"
+7","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+              BBBBBB        
+              BBBBBB        
+             BBBBBBB        
+            BBBBBBBBB       
+           BBBBBBBBBB       
+          BBBBBBBBBBB       
+          BBBBB BBBBBB      
+        BBBBBBB  BBBBBB     
+        BBBBBB   BBBBBB     
+        BBBB      BBBBB     
+       BBBBB      BBBBB     
+       BBBBB     BBBBBB     
+      BBBBB      BBBBB      
+      BBBBB     BBBBB       
+      BBBB    BBBBBBB       
+     BBBBB   BBBBBBB        
+     BBBB  BBBBBBBBB        
+     BBBBBBBBBBBBB          
+     BBBBBBBBBBBB           
+      BBBBBBBB              
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+7<|im_end|>",train_67112,train+valid
+1,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                BB          
+                BB          
+               BBB          
+               BBB          
+               BB           
+              BBB           
+              BBB           
+              BBB           
+              BB            
+             BBB            
+             BBB            
+             BBB            
+            BBB             
+           BBBB             
+           BBB              
+          BBBB              
+          BBB               
+          BB                
+          BB                
+          BB                
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_67232,train+valid
+1,"
+6","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@%+*@@@@@@@@
+@@@@@@@@@@@@@@@%-....%@@@@@@
+@@@@@@@@@@@@@@*.....-@@@@@@@
+@@@@@@@@@@@@@*.....=@@@@@@@@
+@@@@@@@@@@@#-....:%@@@@@@@@@
+@@@@@@@@@@#.....=@@@@@@@@@@@
+@@@@@@@@@*.....+@@@@@@@@@@@@
+@@@@@@@@*....:#@@@@@@@@@@@@@
+@@@@@@@@@=.-*@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_67896,train+valid
+5,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+             BB    BB       
+            BBBBBBBBBBBBBB  
+            BBBBBBBBBBBBBB  
+           BBBBBBBBBBBBBB   
+          BBBBB             
+          BBBB              
+          BBBB              
+          BBBB              
+          BBBBBB            
+           BBBBBB           
+       B    BBBBBB          
+      BB      BBBBB         
+      BBB      BBBB         
+      BBBB     BBBB         
+      BBBBBBBBBBBBB         
+       BBBBBBBBBBB          
+        BBBBBBBBBB          
+          BBBBBB            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_68834,train+valid
+1,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@*..#@@@@@
+@@@@@@@@@@@@@@@@@%-.-%@@@@@@
+@@@@@@@@@@@@@@@*:..#@@@@@@@@
+@@@@@@@@@@@@@@+..=@@@@@@@@@@
+@@@@@@@@@@@@#:.-%@@@@@@@@@@@
+@@@@@@@@@@@*..:@@@@@@@@@@@@@
+@@@@@@@@@@=..+@@@@@@@@@@@@@@
+@@@@@@@@+-.:*%@@@@@@@@@@@@@@
+@@@@@@@@#+*@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_68976,train+valid
+4,"
+9","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#-%@@@@@..%@@@@@@@@
+@@@@@@@@-..%@@@@-..*@@@@@@@@
+@@@@@@@=.-%@@@@@...%@@@@@@@@
+@@@@@@+..*@@@@@=..-@@@@@@@@@
+@@@@@@+:..:.......+@@@@@@@@@
+@@@@@@@@@@%%%*.....%@@@@@@@@
+@@@@@@@@@@@@@=.....%@@@@@@@@
+@@@@@@@@@@@@@+....-@@@@@@@@@
+@@@@@@@@@@@@@@#++%@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_5118,train+valid
+2,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@*---..-%@@@@@@@@@
+@@@@@@@#=:-**%@+..%@@@@@@@@@
+@@@@@@.:@@@@@@@+.:%@@@@@@@@@
+@@@@@@@#@@@@@@%..+@@@@@@@@@@
+@@@@@@@@@@@@@%:.=@@@@@@@@@@@
+@@@@@@@@@@#==:.+@@@@@@@@+=@@
+@@@@@@@@#..-.....+*%%#=:.*@@
+@@@@@@@@=...-*@%*==-=-=*@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_7520,train+valid
+1,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                 BBB        
+               BBBBB        
+               BBBBB        
+               BBBBB        
+              BBBBBB        
+              BBBBB         
+              BBBB          
+             BBBBB          
+             BBBBB          
+            BBBBB           
+            BBBB            
+           BBBBB            
+           BBBBB            
+           BBBBB            
+          BBBBB             
+          BBBBB             
+          BBBB              
+          BBBBB             
+          BBBBBB            
+          BBBBBB            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_17704,train+valid
+0,"
+8","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+              BBBB          
+             BBBBBBBB       
+            BBBBBBBBB       
+          BBBBBBBBBBBB      
+         BBBBB      BBB     
+        BBBBB       BBB     
+        BBBB         BBB    
+       BBBB          BBB    
+      BBBB           BBB    
+      BBB            BBBB   
+      BBB             BBB   
+     BBBB             BBB   
+     BBB              BBB   
+     BBB             BBBB   
+     BBB             BBB    
+     BBBB           BBBB    
+     BBBBB       BBBBBB     
+      BBBBBBBBBBBBBBBB      
+      BBBBBBBBBBBBBBB       
+        BBBBBBBBBBB         
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+8<|im_end|>",train_18896,train+valid
+7,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@%#####%@@@@@@@@@@@
+@@@@@@@@#:.........::.:@@@@@
+@@@@@@@:...-+*##*+:...=%@@@@
+@@@@@@=.:-%@@@@@@+..=@@@@@@@
+@@@@@@@@@@@@@@@%:.:%@@@@@@@@
+@@@@@@@@@@@@@@*..-@@@@@@@@@@
+@@@@@@@@@@@@@=..=@@@@@@@@@@@
+@@@@@@@@@@@@+..*@@@@@@@@@@@@
+@@@@@@@@@@@#..:@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_21313,train+valid
+5,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+         BBBBB              
+         BBBBBBBBBB         
+         BBBBBBBBBB         
+         BBBBBBBBBB         
+         BBBBBBBBBB         
+         BBBBB              
+         BBBB               
+        BBBBB               
+        BBBBBBBBB           
+        BBBBBBBBBB          
+        BBBBBBBBBBBB        
+        BBBBBBBBBBBBB       
+         BB     BBBBBB      
+         BB       BBBB      
+         BBB      BBBB      
+         BBBB    BBBBB      
+         BBBBBBBBBBBBB      
+         BBBBBBBBBBBB       
+          BBBBBBBBBB        
+            BBBBBBB         
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_21850,train+valid
+2,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@*-.::--=+%@@@@@@@@
+@@@@@@@@*=*%@@@@@%#-:%@@@@@@
+@@@@@@@@@@@@@@@@@@@=.%@@@@@@
+@@@@@@@@@@@@@@@@@@#.+@@@@@@@
+@@@@@@@@@@%#****#+:*@@@@@@@@
+@@@@@@@#-=##%#*...:%@@@@@@@@
+@@@@@@%.+@@@%+.-#@::@@@@@@@@
+@@@@@@#:=*+==*%@@@*.+@@@@@@@
+@@@@@@@@@@@@@@@@@@@+%@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_22930,train+valid
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+           BBBBBBBB         
+         BBBBBBBBBBB        
+       BBBBBBBBBBBBB        
+       BBBBBBBBBBBBBB       
+        BBBBBB  BBBBB       
+               BBBBBB       
+               BBBBB        
+               BBBBB        
+              BBBBBB        
+              BBBBB         
+            BBBBBBB         
+            BBBBBBB         
+           BBBBBBBB         
+          BBBBBBBB          
+         BBBBBBBBBBB        
+       BBBBBBBBBBBBBBBB     
+      BBBBBBBBBBBBBBBBB     
+      BBBBBBBBBBBBBBBBB     
+       BBBBBBBBB BBB        
+       BBBBBB               
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_24836,train+valid
+4,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@*+@@@@@@@@@
+@@@@@@@@@@@@@*--.-=-=%@@@@@@
+@@@@@@@@@@%-..:*@@-.*@@@@@@@
+@@@@@@@@*-..:%@@#:.-@@@@@@@@
+@@@@@%=:.=+%@@@+...##**=+@@@
+@@@@@-...+****-.....=+#@@@@@
+@@@@@@%=:.......:*#@@@@@@@@@
+@@@@@@@@@@@@@=.=@@@@@@@@@@@@
+@@@@@@@@@@@@@%=%@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_25484,train+valid
+2,"
+5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+       BBBBBBBB             
+       BBBBBBBBB            
+       BBBBBBBBBB           
+             BBBBB          
+               BBBB         
+               BBBB         
+                BBBB        
+                 BBB        
+                 BBB        
+                 BBB        
+                 BBB        
+                 BBB        
+        BBBB    BBBB        
+        BBBBBBBBBBB         
+        BBBBBBBBBBB         
+        BBBBBBBBBBB         
+        BBBBBBBBBBB         
+        BBBBBBBBBBBB        
+        BBBBBBB BBBB        
+         BBBBB   BBB        
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_26690,train+valid
+9,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@*-:-:-*@@@@@@@@@@
+@@@@@@@@@*.:#@@:.:#@@@@@@@@@
+@@@@@@@@#.-@@@-..:@@@@@@@@@@
+@@@@@@@@+.=#+.=%-.%@@@@@@@@@
+@@@@@@@@@%++*%@@-.=@@@@@@@@@
+@@@@@@@@@@@@@@@@=.=@@@@@@@@@
+@@@@@@@@@@@@@@@@#.=@@@@@@@@@
+@@@@@@@@@@@@@@@@@::%@@@@@@@@
+@@@@@@@@@@@@@@@@@%#%@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_27450,train+valid
+9,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+         BBBB BB            
+        BBBBB BBBB          
+       BBBBBB BBBB          
+      BBBBBB  BBBBB         
+      BBBB     BBBB         
+      BBB      BBBBB        
+      BBB     BBBBBB        
+      BBB    BBBBBBB        
+      BBBBBBBBBBBBBB        
+       BBBBBBBB  BBB        
+         BBBB   BBBB        
+                BBBB        
+                BBB         
+                BBB         
+                BB          
+               BBB          
+               BBB          
+               BBB          
+               BBB          
+               BBB          
+                            
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_31524,train+valid
+4,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@-.+@@@@@@@@@+:=@@@@@@@@
+@@@@@*.=@@@@@@@#-..*@@@@@@@@
+@@@@@@:.+@@#*-....:*++=@@@@@
+@@@@@@@#+:.......-+*#%@@@@@@
+@@@@@@@@@#--=*%-.+@@@@@@@@@@
+@@@@@@@@@@@@@@@-.+@@@@@@@@@@
+@@@@@@@@@@@@@@@-.*@@@@@@@@@@
+@@@@@@@@@@@@@@@=.+@@@@@@@@@@
+@@@@@@@@@@@@@@@@#@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_33740,train+valid
+6,"
+6","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+       BBBB                 
+      BBBBB                 
+      BBBBB                 
+     BBBBBB        BBB      
+    BBBBBB      BBBBBBB     
+    BBBBBB    BBBBBBBBBB    
+    BBBBB    BBBBBBBBBBB    
+    BBBB     BBBBBBBBBBB    
+    BBBB     BBBBBBB BBB    
+    BBBB    BBBBB    BBB    
+    BBBB    BBBBB    BBB    
+    BBBB    BBBB     BBB    
+    BBBBB  BBBBB   BBBBB    
+    BBBBBB BBBBBBBBBBBBB    
+    BBBBBBBBBBBBBBBBBBBB    
+    BBBBBBBBBBBBBBBBBBBB    
+     BBBBBBBBBBBBBBBBBB     
+      BBBBBBBBBBBBBBBBB     
+       BBBBBBBBBBBBBBB      
+          BBBBBBBBBBBB      
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_40492,train+valid
+1,"
+9","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+                            
+              BBBB          
+              BBBB          
+              BBBB          
+             BBBBB          
+             BBBBB          
+             BBBBB          
+             BBBBB          
+            BBBBBB          
+            BBBBB           
+            BBBBB           
+            BBBBB           
+            BBBBB           
+           BBBBB            
+           BBBB             
+           BBBB             
+           BBBB             
+           BBBBB            
+           BBBBBB           
+            BBBBB           
+            BBBB            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+9<|im_end|>",train_42462,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@%#***=*++=**%@@@@
+@@@@@@@%*=...-.:........*@@@
+@@@@@@-...-:.:.::*##@@=.*@@@
+@@@@@:.....=+#@@@@@@@@=.-@@@
+@@@@@....%@@@@@@@@@@*-.=%@@@
+@@@@@...+*@@@@@@#*-..:%@@@@@
+@@@@@+=-:......--+*%@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_44063,train+valid
+2,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@#+-....+#@@@@@@@@@@@@
+@@@@@@*-:.:-....-@@@@@@@@@@@
+@@@@@@@@@@@@@+...=@@@@@@@@@@
+@@@@@@@@@@@@@@...-@@@@@@@@@@
+@@@@@@@@@@@@%=..-@@@@@@@@@@@
+@@@@@@@@#+=-:...-@@@@@@@@@@@
+@@@@@@@+:.........:*%@@@@@@@
+@@@@@@@%#*+=**+=::...=#@@@@@
+@@@@@@@@@@@@@@@@@@%+%@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_45832,train+valid
+2,"
+5","<|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+               BBBBBB       
+            BBBBBBBBBB      
+           BBBBBB BBBB      
+           BBBBBB BBBB      
+           BBBBB BBBBB      
+           BBB   BBBBB      
+              BBBBBBBB      
+            BBBBBBBBB       
+           BBBBBBBB         
+         BBBBBBBBBB         
+        BBBBBBBBB           
+       BBBBBBBB             
+      BBBBBBB               
+      BBBBBB BBBBBBBBBB     
+     BBBBBBBBBBBBBBBBBBBB   
+     BBBBBBBBBBBBBBBBBBBB   
+     BBBBBBBBBBBBBBBBBBB    
+     BBBBBBBBBBBBBBBB       
+     BBBBB       BBBB       
+     BBBB                   
+                            
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_58429,train+valid
+7,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@#+=::.:----#@@@@@@@@
+@@@@@@@*.-=*%@@@@#..+@@@@@@@
+@@@@@@@@@@@@@@@@@*..#@@@@@@@
+@@@@@@@@@@@@@@@@=.:#@@@@@@@@
+@@@@@@@@@@@@@@*..=@@@@@@@@@@
+@@@@@@@@@@@@@+..*@@@@@@@@@@@
+@@@@@@@@@@*=:-*@@@@@@@@@@@@@
+@@@@@@@%=..+@@@@@@@@@@@@@@@@
+@@@@@@@%#%@@@@@@@@@@@@@@@@@@
+<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_59774,train+valid
+2,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following MNIST image converted to ascii.
+Respond only with a digit (between 0 and 9), without explanations.
+<|im_end|>
+<|im_start|>user
+
+                            
+                            
+                            
+                            
+             BBBBB          
+           BBBBBBB          
+           BBBBBBB          
+          BBBBBBBB          
+          BBB BBBB          
+         BBBBBBBBB          
+         BBBBBBBBB          
+          BBBBBBBB          
+              BBBB          
+              BBB           
+             BBBB           
+             BBB            
+            BBBB            
+           BBBBB            
+          BBBBBBBB          
+        BBBBBBBBBBB         
+       BBBBBBBBBBBBBB       
+       BBBBBB BBBBBBB       
+       BBBBB    BBBBB       
+       BBBB       BBB       
+                            
+                            
+                            
+                            
+<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_62433,train+valid

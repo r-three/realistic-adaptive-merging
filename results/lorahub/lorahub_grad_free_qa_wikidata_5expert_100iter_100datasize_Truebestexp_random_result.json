@@ -1,0 +1,19 @@
+{
+    "task": "qa_wikidata",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_qa_wikidata",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.9,
+    "test_accuracy": 0.7418092909535452,
+    "weights": [
+        0.7903455777450176,
+        0.09735402411272845,
+        0.23877418401037542,
+        -0.009787596487057529,
+        -0.01967528169704269
+    ]
+}

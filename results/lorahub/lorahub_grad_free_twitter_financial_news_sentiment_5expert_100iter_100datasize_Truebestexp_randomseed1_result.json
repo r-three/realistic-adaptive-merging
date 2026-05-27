@@ -1,0 +1,19 @@
+{
+    "task": "twitter_financial_news_sentiment",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_twitter_financial_news_sentiment",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 0.85,
+    "test_accuracy": 0.6596858638743456,
+    "weights": [
+        0.7012503274384421,
+        0.9470902336688735,
+        0.0034605049021635033,
+        -0.11469883071284523,
+        -0.10602838176605463
+    ]
+}

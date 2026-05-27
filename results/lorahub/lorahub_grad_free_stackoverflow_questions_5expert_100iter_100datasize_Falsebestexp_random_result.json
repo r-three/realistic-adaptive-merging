@@ -1,0 +1,19 @@
+{
+    "task": "stackoverflow_questions",
+    "expert_name": [
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd"
+    ],
+    "valid_accuracy": 0.3157894736842105,
+    "test_accuracy": 0.245060093705439,
+    "weights": [
+        0.6013263092401185,
+        0.25611935403055697,
+        0.09289545554158857,
+        0.5861869576545248,
+        0.4622626069556389
+    ]
+}

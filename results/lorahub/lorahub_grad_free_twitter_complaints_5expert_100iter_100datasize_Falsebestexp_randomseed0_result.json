@@ -1,0 +1,19 @@
+{
+    "task": "twitter_complaints",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.881159420289855,
+    "weights": [
+        0.40630481627384785,
+        0.8000725044052249,
+        0.6806875223704048,
+        1.1125764486132745,
+        0.5253621931165076
+    ]
+}

@@ -1,0 +1,1027 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+\frac{\sqrt{3}}{2}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Solve
+\[\arccos \frac{x}{1+x^2} + \arccos \frac{x^2}{1+x^4} = \frac{\pi}{3}.\]<|im_end|>
+<|im_start|>assistant
+\frac{\sqrt{3}}{2}<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2162,train+valid
+\frac{999}{17},"
+\frac{17}{1}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $x=0.\overline{017}$. Find $\frac{1}{x}$ in simplest form.<|im_end|>
+<|im_start|>assistant
+\frac{17}{1}<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_10380,train+valid
+15,"
+25","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A chef has 5 different types of cake she can make for a wedding: chocolate, vanilla, red velvet, carrot, and lemon. Three different frosting flavors are available for the cake. If each wedding cake requires exactly one type of cake and one frosting flavor, how many different wedding cake combinations are possible?<|im_end|>
+<|im_start|>assistant
+25<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_28279,train+valid
+"(-15 - 2\sqrt{57}, -15 + 2\sqrt{57})","
+\left(16 - 2\sqrt{6}, 16 + 2\sqrt{6}\right)","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Consider the inequality
+\[\frac{x^2 - 16x + 17}{x^2 + 7x + 7} > 2.\]
+where the denominator is always positive, determine the range of values for x.<|im_end|>
+<|im_start|>assistant
+\left(16 - 2\sqrt{6}, 16 + 2\sqrt{6}\right)<|im_end|>",train_32598,train+valid
+13.68,"
+8.42","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A particular savings account has an initial deposit of $\$25,000$and an interest rate of$5.2\%$. The interest is compounded twice a year. How many years will it take for the account to reach a balance of $\$50,000$? Express your answer to the nearest hundredth of a year.<|im_end|>
+<|im_start|>assistant
+8.42<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_45185,train+valid
+1100,"
+\boxed{1000}","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A pirate's treasure map is drawn on a complex plane, where the location of the hidden loot is represented by a complex number. The pirate's ship is currently at the point $-200+300i$, and the treasure is located at $800+400i$. However, the pirate's compass is malfunctioning, and he can only navigate in the direction of the positive real axis or the positive imaginary axis. What is the shortest distance the pirate needs to travel to reach the treasure, and what is the sequence of movements he should make to get there?<|im_end|>
+<|im_start|>assistant
+\boxed{1000}<|im_end|>",train_50306,train+valid
+0.4375,"
+0.4375","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the decimal representation of the fraction $\frac{7}{16}$ using a geometric series.
+
+Express $\frac{7}{16}$ as the sum of an infinite geometric series, and use the formula for the sum of a geometric series to find its decimal representation.<|im_end|>
+<|im_start|>assistant
+0.4375<|im_end|><|endoftext|><|endoftext|>",train_70459,train+valid
+5,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In the decimal representation of  $\frac{1}{2^{100}}$, what is the last non-zero digit before the decimal point?<|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_72455,train+valid
+\frac{1}{2},"
+\frac{1}{16}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Simplify and write the result as a common fraction: $$\sqrt{\sqrt[3]{\sqrt{\frac{1}{4096}}}}$$
+
+Write another problem inspired by this one:
+
+If $x=\sqrt{2\sqrt{3\sqrt{4}}}$, what is the value of $\frac{x^2}{x+1}$?
+
+This new problem requires a different approach as it involves expressing the value of $x$ in a more manageable form and then manipulating the expression to find the value of $\frac{x^2}{x+1}$.<|im_end|>
+<|im_start|>assistant
+\frac{1}{16}<|im_end|>",train_74998,train+valid
+3,"
+1","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+David has collected many silver and copper coins from different years. Copper coins from 1990-1994 are worth 10 cents each, while those from 1995-1999 are worth 5 cents each. Silver coins from 1990-1994 are worth 20 cents each, while those from 1995-1999 are worth 10 cents each.
+
+David wants to give some of his coins to his sister as a gift. If he wants the total value of the copper coins and the silver coins to be equal, what is the smallest number of coins he can give her?<|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_89977,train+valid
+2q + 5,"
+12","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+If $|2x-5|=q$, where $x>5$, then what is $2x+q$ in terms of $q$?<|im_end|>
+<|im_start|>assistant
+12<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_102599,train+valid
+9,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Ava and Liam go to the farmer's market together to buy fruits for a salad. Ava buys 12 apples, and Liam buys a quarter of that amount. Liam buys 9 oranges and Ava buys some, too. If they pay together and end up buying 33 fruits, how many oranges did Ava buy?<|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_112171,train+valid
+5,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+$M$, $N$, $P$, and $Q$ are points on an ellipse such that $MP$, $NP$, and $PQ$ are the medians of triangle $MNQ$. If the length of $MN$ is $10$ and the length of $PQ$ is $8$, find the length of $NP$, given that $NP < NQ$.<|im_end|>
+<|im_start|>assistant
+6<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_117841,train+valid
+2x - 8,"
+$2x - 8$","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $y = |x - 3| + |x - 5|$. If $x > 5$, what is $y$ in terms of $x$?<|im_end|>
+<|im_start|>assistant
+$2x - 8$<|im_end|>",train_149978,train+valid
+-12,"
+\frac{1}{2}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Consider the quadratic equation:
+$$3x^2 + mx - 2 = 0$$
+Find the value of $m$ for which the sum of the roots is equal to 4.
+
+Another problem similar to this one:
+
+Consider the quadratic equation:
+$$2x^2 + nx + 3 = 0$$
+Find the value of $n$ for which the product of the roots is equal to 6.<|im_end|>
+<|im_start|>assistant
+\frac{1}{2}<|im_end|>",train_150263,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A new problem inspired by this one is:
+
+Find the value of the expression $\frac {x^2-x-6}{x-3}$ for $x=2$ by using synthetic division.
+
+We can start by factoring the numerator as $(x+2)(x-3)$ and canceling out the common factor of $(x-3)$ in the numerator and denominator.
+
+The remaining expression is $(x+2)$, which we can evaluate at $x=2$.
+
+$(2+2)=4$
+
+Therefore, the value of the expression for $x=2$ is 4.<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_169402,train+valid
+6,"
+6","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+The point $A$ $(3,4)$ is reflected over the $x$-axis to $B$. Then $B$ is reflected over the line $y=x$ to $C$. What is the area of triangle $ABC$?
+
+
+
+The vertices of a triangle $ABC$ are $A(1,0)$, $B(3,0)$, and $C(0,k)$, where $k$ is a real number. When the vertices of $\triangle ABC$ are reflected over the line $y=x$, the area of the resulting triangle is 6 square units. What is the area of $\triangle ABC$?<|im_end|>
+<|im_start|>assistant
+6<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_179021,train+valid
+99\pi,"
+1570.8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A cylindrical water tank is made up of a number of connected rings, each with a radius of 1 meter and a height of 1 meter. The first ring around the center has a capacity of 6.28 cubic meters. The second ring has a capacity of 18.84 cubic meters. If we continue this process, then what is the volume of water that the 50th ring can hold?<|im_end|>
+<|im_start|>assistant
+1570.8<|im_end|>",train_188497,train+valid
+19,"
+18","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Alex had 36 kilograms of flour. She used 1/3 of the flour to bake bread and 5 kilograms to make cookies. How many kilograms of flour are left?<|im_end|>
+<|im_start|>assistant
+18<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_209790,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Given a sequence of numbers where each term is obtained by concatenating the numbers from 1 to 8 in increasing order (e.g., 1, 12, 123, 1234,..., 12345678), determine the remainder when the sum of these terms is divided by 7.<|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_212311,train+valid
+115,"
+100","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+On a school excursion to the zoo, Ms. Thompson has taken 3/4 times more girls than boys. If their bus has a driver and two chaperones, and the total number of boys on the trip is 40, calculate the total number of people on the bus considering the teacher and her assistant also accompany the students on the bus.<|im_end|>
+<|im_start|>assistant
+100<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_217031,train+valid
+\frac{b}{4},"
+\frac{b}{4}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A rectangle has sides of lengths $a$ and $b$, where $a < b$. The rectangle is divided into two smaller rectangles by a line segment parallel to the longer side. The ratio of the areas of these two smaller rectangles is $\frac{1}{3}$. Find the length of the segment that divides the rectangle.<|im_end|>
+<|im_start|>assistant
+\frac{b}{4}<|im_end|><|endoftext|>",train_232371,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Below is the graph of $y = a \csc bx$ for some positive constants $a$ and $b.$  Find $a.$
+
+[asy]import TrigMacros;
+
+size(500);
+
+real g(real x)
+{
+	return 2*csc(x/3);
+}
+
+draw(graph(g,-6*pi + 0.01, -3*pi - 0.01),red);
+draw(graph(g,-3*pi + 0.01,-0.01),red);
+draw(graph(g,0.01,3*pi - 0.01),red);
+draw(graph(g,3*pi + 0.01,6*pi - 0.01),red);
+limits((-6*pi,-5),(6*pi,5),Crop);
+draw((-3*pi,-5)--(-3*pi,5),dashed);
+draw((3*pi,-5)--(3*pi,5),dashed);
+trig_axes(-6*pi,6*pi,-5,5,pi/2,1);
+layer();
+rm_trig_labels(-11, 11, 2);
+
+label(""$1$"", (0,1), E);
+label(""$2$"", (0,2), E);
+label(""$3$"", (0,3), E);
+label(""$4$"", (0,4), E);
+label(""$-1$"", (0,-1), E);
+label(""$-2$"", (0,-2), E);
+label(""$-3$"", (0,-3), E);
+label(""$-4$"", (0,-4), E);
+[/asy]<|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_240778,train+valid
+\frac{3}{52},"
+\frac{3}{32}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A fair 8-sided die is rolled, and a card is randomly drawn from a standard deck of 52 cards. What is the probability that the number on the die is a multiple of 3 and the card drawn is a face card (king, queen, or jack)?<|im_end|>
+<|im_start|>assistant
+\frac{3}{32}<|im_end|>",train_241017,train+valid
+(x^2 - 8)^2,"
+(x^2 - 8)^2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Factor the expression $x^4 - 16x^2 + 64$ by grouping terms.<|im_end|>
+<|im_start|>assistant
+(x^2 - 8)^2<|im_end|><|endoftext|>",train_262930,train+valid
+\frac{4}{21},"
+\frac{15}{49}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A bag contains 4 red, 5 blue, and 6 green marbles. A marble is drawn at random, and without replacement, another marble is drawn from the remaining ones. What is the probability that the first marble is blue and the second marble is not green? Express your answer as a common fraction.<|im_end|>
+<|im_start|>assistant
+\frac{15}{49}<|im_end|>",train_282671,train+valid
+\frac{5}{3},"
+\frac{5}{3}","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Problem:
+Compute $\cot \left (\operatorname{arctan} \frac{3}{5} \right).$
+
+This problem is inspired by the original one, but requires a different approach to solve. In the original problem, the user is given the arccotangent of a number and asked to find the tangent of that angle. In this new problem, the user is given the arctangent of a number and asked to find the cotangent of that angle. This requires the user to use the relationship between tangent and cotangent, as well as the properties of inverse trigonometric functions, to solve the problem.<|im_end|>
+<|im_start|>assistant
+\frac{5}{3}<|im_end|><|endoftext|><|endoftext|>",train_306285,train+valid
+24,"
+48","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In a music festival, a stage can accommodate 4 bands at a time. Each band performs for 20 minutes, and then another 4 bands take the stage. How many bands can perform on the stage in 2 hours?<|im_end|>
+<|im_start|>assistant
+48<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_313320,train+valid
+2,"
+\pm 2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the value of $b$ that allows the quadratic equation $x^2 + bx + 1 = 0$ to be factored into the product of two binomials with integer coefficients.
+
+Hint: Instead of completing the square, consider using the fact that the product of the roots of a quadratic equation is equal to the constant term divided by the leading coefficient.<|im_end|>
+<|im_start|>assistant
+\pm 2<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_320249,train+valid
+8,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A cube is painted black on three faces, gray on two faces, and green on one face. It is then cut into eight congruent smaller cubes. How many of the smaller cubes have a total number of painted faces (black, gray, or green) that is a multiple of three?<|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_327678,train+valid
+0,"
+\frac{1}{2}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Evaluate $i^{13} + i^{131}$.<|im_end|>
+<|im_start|>assistant
+\frac{1}{2}<|im_end|>",train_330682,train+valid
+22,"
+5","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Consider a pyramid with a square base, where each layer of the pyramid is made up of squares. The number in each square is the sum of the numbers in the two squares directly below it. The top layer of the pyramid contains the number 56, and the second layer contains the numbers 24, 20, and 12. If the third layer contains the numbers 15, 8, 5, 3, and 2, what is the sum of the numbers in the fourth layer?<|im_end|>
+<|im_start|>assistant
+5<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_337891,train+valid
+\frac{3}{4},"
+x = 2, y = 5/2; x = -2, y = -5/2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+For the function $f(x) = \frac{x^2 + 3x - 2}{x^2 - 4}$, determine the values of $x$ for which the function has a hole, and find the corresponding $y$-values.<|im_end|>
+<|im_start|>assistant
+x = 2, y = 5/2; x = -2, y = -5/2<|im_end|>",train_349948,train+valid
+2000_6,"
+1111110","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the base 6 representation of the decimal number $432_{10}$, given that it can be written as a sum of two perfect squares in base 6.<|im_end|>
+<|im_start|>assistant
+1111110<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_429826,train+valid
+2,"
+\frac{1}{2}","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Consider a square with side length 1 and four points $A,$ $B,$ $C,$ $D$ on its sides, one point on each side.  The distance from $A$ to the nearest vertex is $a$, from $B$ to the nearest vertex is $b$, from $C$ to the nearest vertex is $c$, and from $D$ to the nearest vertex is $d.$  Find the largest possible value of
+\[a + b + c + d,\]
+given that the four points are not at the vertices.<|im_end|>
+<|im_start|>assistant
+\frac{1}{2}<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_443476,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find $\cot 45^\circ.$<|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_445615,train+valid
+12,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+How many subsets of the set {1, 2, 3, 4, 5, 6} are there which contain 3 or 4 elements and whose elements add up to a multiple of 3?<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_457271,train+valid
+0,"
+\boxed{1}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $S_n$ be the sum of the first $n$ terms of a geometric sequence with the first term $a$ and the common ratio $r$ such that $a$ and $r$ are positive integers. If $S_4 = S_7 \cdot (1 + r^4)$, how many different possible ordered pairs $(a, r)$ are there?<|im_end|>
+<|im_start|>assistant
+\boxed{1}<|im_end|>",train_468352,train+valid
+568,"
+12","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A set of 12 spheres consists of one sphere with radius $r$ for each integer $r, 1 \le r \le 12.$ A pyramid is to be built using all 12 spheres according to the rules:
+
+Any sphere may be the base sphere in the pyramid.
+The sphere immediately on top of a sphere with radius $r$ must have radius at most $r+3.$
+
+Let $P$ be the number of different pyramids that can be constructed. What is the remainder when $P$ is divided by 2000?<|im_end|>
+<|im_start|>assistant
+12<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_468768,train+valid
+63,"
+80","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Emily came back from a birthday party with a big bag of candies. She had received 8 gummy bears, twice that amount in gummy worms, 12 lollipops, and 15 peppermint sticks. She also had 12 Jolly Ranchers and a third of that amount in caramels. After sharing 4 lollipops with her friend, how many pieces of candy did Emily have left?<|im_end|>
+<|im_start|>assistant
+80<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_468927,train+valid
+2,"
+1","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $a,$ $b,$ $c,$ $d$ be nonzero integers such that
+\[\begin{pmatrix} a & b \\ c & d \end{pmatrix}^3 = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}.\]
+Find the smallest possible value of $\sqrt{a^2 + b^2} + \sqrt{c^2 + d^2}.$<|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_488029,train+valid
+10,"
+15","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $AB$ be a line segment of length $6$ units, with $A$ located at the point $(1,3)$. The line $AB$ is parameterized by the equations $x = 2t + p$ and $y = -3t + q$, where $0 \le t \le 1$, and $t = 1$ corresponds to the point $B$. Determine the value of $p^2 + q^2$.<|im_end|>
+<|im_start|>assistant
+15<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_489110,train+valid
+308700,"
+108","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the smallest perfect square number that can be expressed as a product of three distinct prime factors and a perfect cube of another prime factor.<|im_end|>
+<|im_start|>assistant
+108<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_491811,train+valid
+\frac{5}{16},"
+\frac{105}{128}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A company has 100 employees, and each employee has a unique five-digit ID number. What is the probability that exactly two of the digits in an employee's ID number are even?<|im_end|>
+<|im_start|>assistant
+\frac{105}{128}<|im_end|>",train_509194,train+valid
+6,"
+5","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Consider a sequence of consecutive positive integers starting from 1. Each term in the sequence can be assigned a score based on its prime factors, where the score is the sum of the exponents of its unique prime factors. What is the length of the shortest sequence where the scores of its terms encompass all possible combinations of 0, 1, and 2, representing the exponents of their unique prime factors?<|im_end|>
+<|im_start|>assistant
+5<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_512874,train+valid
+"\left(-\infty, \frac{\pi}{2} + 1\right]","
+\emptyset","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+What is the range of the function $f(x) = \arcsin(x) + \log_{2}(x+1)$? Express your answer in interval notation.<|im_end|>
+<|im_start|>assistant
+\emptyset<|im_end|><|endoftext|><|endoftext|>",train_514032,train+valid
+48,"
+96","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Lily creates a playlist for her workout routine. The warm-up section has 5 songs, the cardio section has 8 songs, and the cool-down section has 3 songs. Each song is 3 minutes long. What is the total duration of Lily's workout playlist?<|im_end|>
+<|im_start|>assistant
+96<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_514483,train+valid
+3,"
+\boxed{5}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the largest integer $k$ for which the number of ways to arrange 5 red and 3 blue marbles in a row is equal to the number of ways to choose $k$ objects from a set of 9 distinct objects.<|im_end|>
+<|im_start|>assistant
+\boxed{5}<|im_end|>",train_543550,train+valid
+2010,"
+\frac{1}{2}","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $f(x) = \frac{x^2}{x-1} + \frac{x^4}{x^2-1} + \frac{x^6}{x^3-1} + \dots + \frac{x^{4020}}{x^{2010}-1}$. Compute the value of $f(1 + i\sqrt{3})$, where $i$ is the imaginary unit.<|im_end|>
+<|im_start|>assistant
+\frac{1}{2}<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_569154,train+valid
+\frac{-1 + \sqrt{11}}{2},"
+\frac{1}{2}","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+If $a,$ $b,$ and $c$ are positive real numbers such that \[5=c^2\left(\dfrac{a^3}{b^3}+\dfrac{b^3}{a^3}\right)+c\left(\dfrac{a^2}{b^2}+\dfrac{b^2}{a^2}\right),\]find the minimum possible value of $c.$<|im_end|>
+<|im_start|>assistant
+\frac{1}{2}<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_581093,train+valid
+9861,"
+972","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the largest four-digit multiple of 27 whose digits' product is 432.<|im_end|>
+<|im_start|>assistant
+972<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_586467,train+valid
+6,"
+\frac{24\pi}{5}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A cylindrical vessel with a height of 10 cm has a spherical ball of radius 1 cm and a rectangular prism inside it. The sum of the volumes of the ball and the prism is equal to half the volume of the vessel. What is the minimum possible surface area of the prism?<|im_end|>
+<|im_start|>assistant
+\frac{24\pi}{5}<|im_end|>",train_600891,train+valid
+"\left(\frac{4}{9}, \frac{12}{7}, -\frac{3}{7}\right)","
+(1,1,1)","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+The vectors $\mathbf{a} = \begin{pmatrix} 2 \\ 2 \\ -1 \end{pmatrix},$ $\mathbf{b} = \begin{pmatrix} 3 \\ -1 \\ 2 \end{pmatrix},$ and $\mathbf{c} = \begin{pmatrix} 1 \\ 3 \\ -2 \end{pmatrix}$ are mutually orthogonal.  There exist scalars $x,$ $y,$ and $z$ such that
+\[\begin{pmatrix} 5 \\ -1 \\ 4 \end{pmatrix} = x \mathbf{a} + y \mathbf{b} + z \mathbf{c}.\]Enter the ordered triple $(x,y,z).$<|im_end|>
+<|im_start|>assistant
+(1,1,1)<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_629357,train+valid
+9,"
+\frac{13}{4}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the maximum value of
+\[(\sin x + \tan x)^2 + (\cos x + \cot x)^2\]for $0 < x < \frac{\pi}{2}.$<|im_end|>
+<|im_start|>assistant
+\frac{13}{4}<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_653620,train+valid
+80,"
+100","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A sequence of numbers is defined recursively by the formula:
+
+a_n = a_{n-1} + a_{n-2} + a_{n-3}
+
+The sum of the first five terms of the sequence is 20, and the sum of the next five terms is 60. Find the sum of the first ten terms of the sequence.<|im_end|>
+<|im_start|>assistant
+100<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_655590,train+valid
+\begin{pmatrix} x \\ y \end{pmatrix},"
+\begin{pmatrix} x \\ y \end{pmatrix}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Given a vector $\mathbf{v} = \begin{pmatrix} 3 \\ 1 \end{pmatrix},$ find all vectors $\mathbf{u}$ such that the projection of $\mathbf{u}$ onto $\mathbf{v}$ equals the projection of $\mathbf{u}$ onto the vector $\begin{pmatrix} 6 \\ 2 \end{pmatrix}.$<|im_end|>
+<|im_start|>assistant
+\begin{pmatrix} x \\ y \end{pmatrix}<|im_end|>",train_663635,train+valid
+9,"
+\frac{1}{2}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $x,$ $y,$ and $z$ be positive real numbers such that $x + y + z = 1.$  Find the maximum value of
+\[\frac{xy + yz + xz}{xyz}.\]<|im_end|>
+<|im_start|>assistant
+\frac{1}{2}<|im_end|>",train_675518,train+valid
+27,"
+67","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In the diagram, $QRS$ is a straight line. What is the measure of $\angle RPS,$ in degrees? [asy]
+pair Q=(0,0);
+pair R=(1.3,0);
+pair SS=(2.3,0);
+pair P=(.8,1);
+
+draw(P--Q--R--SS--P--R);
+
+label(""$Q$"",Q,S);
+label(""$R$"",R,S);
+label(""$S$"",SS,S);
+label(""$P$"",P,N);
+
+label(""$48^\circ$"",Q+(.12,.05),NE);
+label(""$67^\circ$"",P-(.02,.15),S);
+label(""$38^\circ$"",SS+(-.32,.05),NW);
+
+[/asy]<|im_end|>
+<|im_start|>assistant
+67<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_690788,train+valid
+7,"
+12","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the degree of the polynomial $(x^2+2)(x^3-1)(x^2+4)$<|im_end|>
+<|im_start|>assistant
+12<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_713257,train+valid
+25\pi,"
+160","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+The area of the smallest square that will contain a circle of radius 4 is what? Inspired by this problem, here's another one:
+
+The area of the largest circle that can be inscribed in a square of side length 10 is what?<|im_end|>
+<|im_start|>assistant
+160<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_716928,train+valid
+212,"
+102","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A certain integer is represented as 27 in base 8. What will be the representation of this integer in base 3? Express your answer as a string of digits.<|im_end|>
+<|im_start|>assistant
+102<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_724813,train+valid
+64,"
+16","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+The product of the cube root of x and the square root of x is 32. What is the value of x?<|im_end|>
+<|im_start|>assistant
+16<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_749564,train+valid
+16,"
+12","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Three friends, Ben, Charlie, and David, buy a bag of 48 popcorns to share. Ben eats a certain number of popcorns that is a positive multiple of the number of popcorns eaten by Charlie. Meanwhile, David eats the same number of popcorns as Charlie. If all the popcorns are consumed, what is the maximum number of popcorns that Charlie could have eaten?<|im_end|>
+<|im_start|>assistant
+12<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_786644,train+valid
+1,"
+\frac{1}{4}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Determine all values of $a$ for which the expression
+$\sqrt{\sqrt{a}+1}-\sqrt{\sqrt{a}-1}$ can be simplified to $\sqrt{b}$, where $b$ is a positive integer.<|im_end|>
+<|im_start|>assistant
+\frac{1}{4}<|im_end|>",train_790466,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Tom has a collection of 12 boxes, each containing 8 rows of 6 coins. He wants to reorganize the coins into bags, with each bag holding 12 coins. Tom fills up 6 complete bags and starts filling a seventh bag. However, he notices that he can fill the seventh bag completely, but there are not enough coins left to fill an eighth bag. Instead, he decides to use a smaller bag that can hold 4 coins. How many coins are left over after filling the smaller bag?<|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|>",train_792667,train+valid
+120,"
+165","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In a convex hexagon, the sum of the interior angles at opposite vertices is equal. If the measure of the largest angle is $x$ degrees, what is the smallest possible value of $x$?<|im_end|>
+<|im_start|>assistant
+165<|im_end|>",train_804842,train+valid
+1417,"
+154","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the value of the expression $a^2+b^2$, where $a$ and $b$ are positive integers such that $a$ is the greatest common divisor of 55 and 77, and $b$ is the least common multiple of 12 and 18.<|im_end|>
+<|im_start|>assistant
+154<|im_end|>",train_824495,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A hotel has 77 rooms, numbered from 1 to 77. Each room is occupied by a group of guests, and the number of guests in each room is a different integer from 1 to 77. The guests in room 1 are all from city A, the guests in room 2 are all from city B, and so on, with each room containing guests from a different city. One day, a conference is held in the hotel, and each guest attends a session in one of the hotel's conference rooms. The conference rooms are also numbered from 1 to 77. Due to a miscommunication, the guests from each city are sent to the wrong conference room, but in a systematic way: the guests from city A are sent to the room corresponding to the number of guests from city B, the guests from city B are sent to the room corresponding to the number of guests from city C, and so on, with the guests from the last city being sent to the room corresponding to the number of guests from city A. Show that there is at least one city whose guests are sent to a room with the same number as their original room.<|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|><|endoftext|>",train_867632,train+valid
+19,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In the Fibonacci sequence, each term is the sum of the two preceding terms. Find the position of the first occurrence of three consecutive Fibonacci numbers whose greatest common divisor is 13.<|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_872773,train+valid
+16,"
+12","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Mia can paint a room at a rate of 120 square feet in 8 minutes. Her friend, Alex, can paint at twice the rate of speed as Mia. If Alex needs to paint a room that is 480 square feet, how many minutes will it take?<|im_end|>
+<|im_start|>assistant
+12<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_879850,train+valid
+24,"
+14","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Stormi is saving up to buy a bicycle. She washes 3 cars for $10 each. She mows 2 lawns for $13 each. If the bicycle she wants costs $80, how much more money does Stormi need to make to afford the bicycle?<|im_end|>
+<|im_start|>assistant
+14<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_883306,train+valid
+"(2, -1, 4)","
+(1,1,1)","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In 3D coordinate space, the vertices of triangle $DEF$ are given by $D = (2, -1, 4),$ $E = (6, 2, -2),$ and $F = (4, 3, 1).$ Find the orthocenter of triangle $DEF.$<|im_end|>
+<|im_start|>assistant
+(1,1,1)<|im_end|>",train_889455,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Distribute 6 identical stickers among 4 distinct students so that each student gets at least one sticker, and the number of stickers given to each student forms an increasing arithmetic sequence. How many ways are there to do this?<|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_910341,train+valid
+57,"
+\frac{21}{2}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $q(x)$ be a monic cubic polynomial such that $q(1) = 3,$ $q(2) = 6,$ $q(3) = 12,$ and $q(4) = 21.$  Find $q(5).$<|im_end|>
+<|im_start|>assistant
+\frac{21}{2}<|im_end|>",train_921533,train+valid
+6x + 6,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $P(x) = x^4 - 2x^3 - 13x^2 + 14x + 12$. Find the remainder when $P(x)$ is divided by $x^2 + 2x - 3$.<|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_959263,train+valid
+-1,"
+-3","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let
+
+$$f(x) = \begin{cases} 3x - 2 &\text{if } x < -1, \\ x + 5 &\text{if } x \geq -1. \end{cases}$$
+
+If $f(x) = 4$, find the sum of all possible values of $x$.<|im_end|>
+<|im_start|>assistant
+-3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_965083,train+valid
+5,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $*$ be the relation defined by $A * B = A^3 - B^3$. If $A * 3 = 99$, what is the value of $A$ such that $A$ is an integer?<|im_end|>
+<|im_start|>assistant
+6<|im_end|><|endoftext|>",train_967802,train+valid
+50,"
+40","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In the figure shown, six circles are arranged in a circular pattern. Each circle has an area between 25$\pi$ and 70$\pi$ square inches. The total area of all six circles is 300$\pi$ square inches. The areas of three consecutive circles are given as 30$\pi$, 40$\pi$, and $r\pi$ square inches. Find the value of $r$.
+
+[asy]
+for (int i=0; i<6; ++i) {
+draw(Circle((2*cos(60*i),2*sin(60*i)),1));
+}
+label(""30$\pi$"",(-0.5,-0.8));
+label(""40$\pi$"",(0.7,0.5));
+label(""$r\pi$"",(-0.8,0.7));
+[/asy]<|im_end|>
+<|im_start|>assistant
+40<|im_end|>",train_968546,train+valid
+16,"
+15","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Lucas is two years older than Maya. Maya is five years younger than Julian. Sophia is four years younger than Julian. Lucas is 17 years old. How many years old is Sophia?<|im_end|>
+<|im_start|>assistant
+15<|im_end|>",train_996672,train+valid
+\frac{1}{3},"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $x,$ $y,$ and $z$ be real numbers such that
+\[x^3 + y^3 + z^3 - 3xyz = 0.\]Find the maximum value of $x^2y^2 + y^2z^2 + z^2x^2.$<|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|>",train_996969,train+valid
+10,"
+10","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In a triangle, the sum of the lengths of two sides is 20 cm, and the difference between the lengths of these two sides is equal to the length of the third side. Find the length of the third side.<|im_end|>
+<|im_start|>assistant
+10<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_51651,train+valid
+\frac{\sqrt{3}}{2},"
+\frac{\sqrt{3}}{2}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $x$ be the smallest positive real number for which $\cos x,$ $\cos 2x,$ and $\cos 3x$ form a geometric progression, in some order.  Find $\sin x.$<|im_end|>
+<|im_start|>assistant
+\frac{\sqrt{3}}{2}<|im_end|>",train_138784,train+valid
+6,"
+4.5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Ava is preparing for her art class and goes to the store to buy colored pencils and markers. She needs 12 colored pencils and 8 markers. If a colored pencil costs 25 cents each and a marker costs 50% more than the colored pencil, how much money does Ava pay for the art supplies?<|im_end|>
+<|im_start|>assistant
+4.5<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_145311,train+valid
+1,"
+\text{The statement is false.}","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In a regular dodecahedron, the vertices are labeled with positive integers from 1 to 20. A dodecahedron is said to be ""balanced"" if the sum of the numbers on each pair of opposite faces is equal. The dodecahedron is placed on a table, and a series of rotations is performed, where each rotation consists of rotating the dodecahedron by 72 degrees about an axis passing through the centers of two opposite faces. After 25 such rotations, the dodecahedron returns to its original position. Prove that the dodecahedron is balanced if and only if the sum of the numbers on each pair of adjacent vertices is equal.<|im_end|>
+<|im_start|>assistant
+\text{The statement is false.}<|im_end|><|endoftext|>",train_176388,train+valid
+-3,"
+\frac{24}{5}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+If $\tan x \tan y = 5$ and $\tan x + \tan y = 6$, then what is the value of $\tan 2x + \tan 2y$?<|im_end|>
+<|im_start|>assistant
+\frac{24}{5}<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_407378,train+valid
+"0, \frac{32}{27}","
+\frac{1}{2}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+For what values of $b$ does the line $y = 2x + b$ intersect the curve $y = x^3 - x^2 + x + 1$ at exactly two distinct points?<|im_end|>
+<|im_start|>assistant
+\frac{1}{2}<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_504348,train+valid
+\frac{1}{3} - \frac{2}{3}i,"
+\frac{1}{3}-\frac{2}{3}i","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $z_1$, $z_2$, and $z_3$ be complex numbers such that $|z_1|=|z_2|=|z_3|=1$. If $z_1+z_2+z_3=\frac{1}{3}+\frac{2}{3}i$ and $z_1z_2z_3=-1$, find $z_1^{-1}+z_2^{-1}+z_3^{-1}$.<|im_end|>
+<|im_start|>assistant
+\frac{1}{3}-\frac{2}{3}i<|im_end|>",train_512231,train+valid
+5,"
+\frac{1}{2}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $g$ be defined by \[g(x) = \left\{
+\begin{array}{cl}
+x-1 & \text{ if } x \leq 2, \\
+3x-x^2 & \text{ if } x>2.
+\end{array}
+\right.\]Calculate $g^{-1}(-2)+g^{-1}(1)+g^{-1}(4)$.<|im_end|>
+<|im_start|>assistant
+\frac{1}{2}<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_536213,train+valid
+\frac{1}{2},"
+\frac{1}{8}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let $x,$ $y,$ and $z$ be nonnegative real numbers such that $x + y + z = 1$ and $x^2 + y^2 + z^2 = \frac{1}{2}$. Find the maximum value of $x^3 + y^4 + z^5$.<|im_end|>
+<|im_start|>assistant
+\frac{1}{8}<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_604579,train+valid
+5,"
+\frac{2\sqrt{13}}{3}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Find the largest possible distance between a point on the circle $x^2 + y^2 = 4$ and a point on the ellipse $x^2/9 + y^2/4 = 1$.<|im_end|>
+<|im_start|>assistant
+\frac{2\sqrt{13}}{3}<|im_end|>",train_686502,train+valid
+480,"
+240","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+In a recipe for making candles, the ratio of wax to fragrant oil is 5:2. If the total weight of the mixture is 840 grams, how many grams of fragrant oil will be used if the recipe is doubled?<|im_end|>
+<|im_start|>assistant
+240<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_741307,train+valid
+\frac{7}{18}K,"
+\frac{7}{18}K","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Let's say we have a triangle $ABC$ with side lengths $AB = 25, BC = 15, CA = 18.$ Point $D$ lies on $\overline{BC}$ so that $\frac{BD}{DC} = \frac{7}{11}$. If the area of $\triangle ABC$ is $K$, what is the area of $\triangle ABD$? Express your answer in terms of $K$.<|im_end|>
+<|im_start|>assistant
+\frac{7}{18}K<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_772188,train+valid
+133,"
+105","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Ryan takes 3 allergy medication pills and 2 vitamin D supplements every day for the first 3 weeks of the month. For the last week of the month, he reduces his vitamin D intake to one supplement per day. How many pills does Ryan take in that month?<|im_end|>
+<|im_start|>assistant
+105<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_810178,train+valid
+6,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A certain positive integer $n$ has the property that when it is expressed in base $b$, the representation has $b$ digits. What is the largest value of $b$ for which this property holds?<|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_810575,train+valid
+-q,"
+\frac{-p}{q}","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Problem:
+The sum of the roots of the equation $x^3 + ax^2 + bx + c = 0$ is equal to the product of the roots of the equation $x^2 + px + q = 0$. Determine $a$ in terms of $p$ and $q$.<|im_end|>
+<|im_start|>assistant
+\frac{-p}{q}<|im_end|>",train_812821,train+valid
+"(1, 1)","
+(0,0)","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A circle with center $O$ is tangent to a parabola $y = x^2$ at point $P.$  If the circle also passes through the point $Q = (-1, -1),$ find the coordinates of point $P.$<|im_end|>
+<|im_start|>assistant
+(0,0)<|im_end|><|endoftext|><|endoftext|>",train_838606,train+valid
+45,"
+12","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+A number is equal to five times the sum of its digits. What is the number?<|im_end|>
+<|im_start|>assistant
+12<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_850750,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+The number $x$ is a product of three distinct prime numbers, and its factors include 12 and 15. What is the sum of the digits of $x$?<|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_883235,train+valid
+11,"
+5","<|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Lily collected a bunch of seashells on the beach. She gave 5 shells to her brother, 4 to her aunt, 2 to her cousin, and 1 to her pet turtle. Then, she divided the remaining seashells equally among her 4 classmates. How many seashells did each classmate receive if she originally collected 56 seashells?<|im_end|>
+<|im_start|>assistant
+5<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_908269,train+valid
+2^{996} - 1,"
+\frac{2^{1990}}{\sqrt{2}-1}","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving a math problem.
+Return only the correct answer, without explanations. Use LaTeX formatting for answers that involve mathematical symbols or expressions (e.g., fractions, square roots, exponents).
+<|im_end|>
+<|im_start|>user
+Compute $\sqrt{2}^{1990} + \sqrt{2}^{1989} + \cdots + \sqrt{2} + 1$.<|im_end|>
+<|im_start|>assistant
+\frac{2^{1990}}{\sqrt{2}-1}<|im_end|>",train_943626,train+valid

@@ -1,0 +1,29 @@
+{
+    "task": "banking77",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_banking77",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.6818181818181818,
+    "weights": [
+        1.0044186578781318,
+        0.17949212145690105,
+        0.5143367256116341,
+        1.1387912544250849,
+        -0.0838751713934197,
+        0.2592227000145513,
+        0.3596133126023896,
+        -0.12447593698811876,
+        0.2357554591268754,
+        -0.06759889359755156
+    ]
+}

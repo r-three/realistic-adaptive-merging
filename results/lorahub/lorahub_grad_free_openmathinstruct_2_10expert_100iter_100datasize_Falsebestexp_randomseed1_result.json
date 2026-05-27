@@ -1,0 +1,29 @@
+{
+    "task": "openmathinstruct_2",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task",
+        "aleegis10/8ed9fe91-c2b5-42ca-8efb-927b4c8fbf45",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-acctree-16k-75-adapter-new",
+        "clembench-playpen/Llama-3-Clembench-Runs-Successful-Episodes_Top_10_Models_Individual_QA_adapted_image_game",
+        "Yossim/fine_tuned_llama2"
+    ],
+    "valid_accuracy": 0.1,
+    "test_accuracy": 0.07482993197278912,
+    "weights": [
+        -0.5522372853654587,
+        -0.030130959673881547,
+        -0.10669717650043319,
+        -0.30158882694478223,
+        0.8755953653146871,
+        0.7169336996856219,
+        0.7735644163229403,
+        0.010265644025654823,
+        0.6530920254697437,
+        -0.03287171001768209
+    ]
+}

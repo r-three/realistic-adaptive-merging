@@ -1,0 +1,19 @@
+{
+    "task": "overruling",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.9,
+    "test_accuracy": 0.8166666666666667,
+    "weights": [
+        0.004757490119968316,
+        -0.1920688278526385,
+        0.9037244338731945,
+        0.5514791456969773,
+        0.046446855115233034
+    ]
+}

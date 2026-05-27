@@ -1,0 +1,19 @@
+{
+    "task": "object_counting",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_object_counting",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.7,
+    "test_accuracy": 0.6018005540166205,
+    "weights": [
+        0.765034445017186,
+        0.27944445425802233,
+        1.011453300641165,
+        0.4511373749679991,
+        0.5101298242068593
+    ]
+}

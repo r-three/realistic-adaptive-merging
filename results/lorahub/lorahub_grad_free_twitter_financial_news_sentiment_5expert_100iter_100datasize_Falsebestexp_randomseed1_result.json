@@ -1,0 +1,19 @@
+{
+    "task": "twitter_financial_news_sentiment",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task"
+    ],
+    "valid_accuracy": 0.2,
+    "test_accuracy": 0.37591623036649213,
+    "weights": [
+        0.05518484032237049,
+        0.3372518111173628,
+        0.01168703544949306,
+        0.514860001934604,
+        -0.07573111254435276
+    ]
+}

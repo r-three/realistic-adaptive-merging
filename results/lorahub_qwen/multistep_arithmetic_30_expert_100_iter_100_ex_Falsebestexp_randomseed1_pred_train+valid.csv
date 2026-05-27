@@ -1,0 +1,1039 @@
+target,pred_clean,pred_org,example_id,split
+-5,"
+-5","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(1 + -6) = <|im_end|>
+<|im_start|>assistant
+-5<|im_end|>",train_3,train+valid
+-2,"
+-2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 + 6) = <|im_end|>
+<|im_start|>assistant
+-2<|im_end|>",train_77,train+valid
+6,"
+6","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(3 + 3) = <|im_end|>
+<|im_start|>assistant
+6<|im_end|><|endoftext|>",train_206,train+valid
+-4,"
+-4","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 + 4) = <|im_end|>
+<|im_start|>assistant
+-4<|im_end|>",train_252,train+valid
+9,"
+4 - -5 = 9","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(4 - -5) = <|im_end|>
+<|im_start|>assistant
+4 - -5 = 9<|im_end|>",train_289,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(4 + -2) = <|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_314,train+valid
+-16,"
+-16","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 * 2) = <|im_end|>
+<|im_start|>assistant
+-16<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_385,train+valid
+13,"
+13","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(9 + 4) = <|im_end|>
+<|im_start|>assistant
+13<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_462,train+valid
+9,"
+9","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(4 + 6 + -1) = <|im_end|>
+<|im_start|>assistant
+9<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_572,train+valid
+21,"
+To solve the expression $-8 \times -2 + 5$, we follow the order of operations (PEMDAS):
+
+1. **Multip","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 * -2 + 5) = <|im_end|>
+<|im_start|>assistant
+To solve the expression $-8 \times -2 + 5$, we follow the order of operations (PEMDAS):
+
+1. **Multip",train_660,train+valid
+-15,"
+-15","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 + -7 + 0) = <|im_end|>
+<|im_start|>assistant
+-15<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_733,train+valid
+14,"
+To solve the expression (3 - -6 - -5), we need to follow the order of operations:
+
+1. Simplify the expression inside the","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(3 - -6 - -5) = <|im_end|>
+<|im_start|>assistant
+To solve the expression (3 - -6 - -5), we need to follow the order of operations:
+
+1. Simplify the expression inside the",train_745,train+valid
+8,"
+7 * 0 - -8 = 8","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(7 * 0 - -8) = <|im_end|>
+<|im_start|>assistant
+7 * 0 - -8 = 8<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_953,train+valid
+-171,"
+-162","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(3 * 9 * -6 + -9) = <|im_end|>
+<|im_start|>assistant
+-162<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1012,train+valid
+20,"
+(5 * 4 + -8 * 0) = 20 + 0 = 20","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(5 * 4 + -8 * 0) = <|im_end|>
+<|im_start|>assistant
+(5 * 4 + -8 * 0) = 20 + 0 = 20<|im_end|>",train_1112,train+valid
+58,"
+68","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 * -7 - -2 * 1) = <|im_end|>
+<|im_start|>assistant
+68<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1139,train+valid
+6,"
+6","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(6 * 1 + 0 * -1) = <|im_end|>
+<|im_start|>assistant
+6<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1148,train+valid
+14,"
+To solve the expression (0 + -3 + 8 - -9), we can simplify it step by step:
+
+1. Start with 0","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(0 + -3 + 8 - -9) = <|im_end|>
+<|im_start|>assistant
+To solve the expression (0 + -3 + 8 - -9), we can simplify it step by step:
+
+1. Start with 0",train_1213,train+valid
+6,"
+0","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(0 - -6 + -4 - -4) = <|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1276,train+valid
+-8,"
+-10","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-6 + -3 - -4 + -3) = <|im_end|>
+<|im_start|>assistant
+-10<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1293,train+valid
+48,"
+-24 + 72 = 48","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-4 * 6) + (9 * 8)) = <|im_end|>
+<|im_start|>assistant
+-24 + 72 = 48<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1520,train+valid
+-14,"
+-20","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-3 + -5) + (2 * -3)) = <|im_end|>
+<|im_start|>assistant
+-20<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1634,train+valid
+-15,"
+-4","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-2 * 6) - (-4 - -7)) = <|im_end|>
+<|im_start|>assistant
+-4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1652,train+valid
+11,"
+To solve the equation step-by-step:
+
+1. Simplify the expression inside the parentheses:
+   - (-6 - -7) = -6 +","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-6 - -7) + (2 - -8)) = <|im_end|>
+<|im_start|>assistant
+To solve the equation step-by-step:
+
+1. Simplify the expression inside the parentheses:
+   - (-6 - -7) = -6 +",train_1691,train+valid
+-30,"
+-40","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((2 + 4) * (0 - 5)) = <|im_end|>
+<|im_start|>assistant
+-40<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1744,train+valid
+15,"
+To solve the expression ((4 + 4) + (4 + 3)), we follow the order of operations:
+
+1. First, evaluate the","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((4 + 4) + (4 + 3)) = <|im_end|>
+<|im_start|>assistant
+To solve the expression ((4 + 4) + (4 + 3)), we follow the order of operations:
+
+1. First, evaluate the",train_1810,train+valid
+-14,"
+-13","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-5 - 9) + (6 + -6)) = <|im_end|>
+<|im_start|>assistant
+-13<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1969,train+valid
+2,"
+-2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-6 * -1 + -1) + (1 * -3 + 0)) = <|im_end|>
+<|im_start|>assistant
+-2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2007,train+valid
+80,"
+Let's solve this step by step:
+
+1. First, simplify the innermost parentheses:
+   (0 - -9 * 8) = (","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((0 - -9 * 8) + (8 - 0 + 0)) = <|im_end|>
+<|im_start|>assistant
+Let's solve this step by step:
+
+1. First, simplify the innermost parentheses:
+   (0 - -9 * 8) = (",train_2074,train+valid
+121,"
+To solve the expression $((-4 * -4 * 5) + (-7 * -7 - 8))$, we will follow the order","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-4 * -4 * 5) + (-7 * -7 - 8)) = <|im_end|>
+<|im_start|>assistant
+To solve the expression $((-4 * -4 * 5) + (-7 * -7 - 8))$, we will follow the order",train_2312,train+valid
+-24,"
+-24","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-3 - 3 - 8) + (-6 - -2 - 6)) = <|im_end|>
+<|im_start|>assistant
+-24<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2375,train+valid
+29,"
+Let's solve this step by step:
+
+1. Simplify inside the parentheses:
+   - First part: (-5 + 8 - -6 +","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-5 + 8 - -6 + 6) - (-2 + -6 - -1 - 7)) = <|im_end|>
+<|im_start|>assistant
+Let's solve this step by step:
+
+1. Simplify inside the parentheses:
+   - First part: (-5 + 8 - -6 +",train_2560,train+valid
+2240,"
+-448","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((5 - 7 - 8 - 6) * (-2 * -8 * -9 + 4)) = <|im_end|>
+<|im_start|>assistant
+-448<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2858,train+valid
+-44,"
+-11","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-5 - -3 + 6 * -5) + (-1 - -5 - -4 * -4)) = <|im_end|>
+<|im_start|>assistant
+-11<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2897,train+valid
+104,"
+Let's solve this step by step:
+
+1. Simplify inside the parentheses:
+   - (-1 * -5) = 5
+   -","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-1 * -5) + (-3 - -6)) * ((8 - 7) - (-6 - 6))) = <|im_end|>
+<|im_start|>assistant
+Let's solve this step by step:
+
+1. Simplify inside the parentheses:
+   - (-1 * -5) = 5
+   -",train_3036,train+valid
+43,"
+Let's solve this step by step:
+
+1. Calculate the innermost parentheses first:
+   - (0 * 1) = 0
+  ","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((0 * 1) - (-7 + -8)) + ((-5 * -6) - (1 - -1))) = <|im_end|>
+<|im_start|>assistant
+Let's solve this step by step:
+
+1. Calculate the innermost parentheses first:
+   - (0 * 1) = 0
+  ",train_3043,train+valid
+54,"
+-26","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((6 + 1) - (4 - 3)) - ((-4 * -6) * (-3 + 1))) = <|im_end|>
+<|im_start|>assistant
+-26<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3070,train+valid
+1890,"
+-264","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((5 * -3) * (3 * 7)) * ((0 + -9) - (-5 - -2))) = <|im_end|>
+<|im_start|>assistant
+-264<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3088,train+valid
+-840,"
+Let's evaluate the expression step by step:
+
+1. Simplify the innermost parentheses:
+   - (-6 + 9) = 3
+","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-5 * -7) * (-6 + 9)) * ((-2 - 8) + (-5 + 7))) = <|im_end|>
+<|im_start|>assistant
+Let's evaluate the expression step by step:
+
+1. Simplify the innermost parentheses:
+   - (-6 + 9) = 3
+",train_3095,train+valid
+-231,"
+-34","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-7 - 2) - (0 + 2)) * ((-4 * -5) + (-8 + 9))) = <|im_end|>
+<|im_start|>assistant
+-34<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3323,train+valid
+83,"
+11","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((2 + 5) + (-7 + 3)) - ((-1 - 9) * (3 - -5))) = <|im_end|>
+<|im_start|>assistant
+11<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3340,train+valid
+13,"
+Let's solve the expression step by step:
+
+1. **Simplify inside the parentheses:**
+
+   - First part: (8 + 9)","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((8 + 9) - (4 - -9)) + ((8 + 7) - (6 * 1))) = <|im_end|>
+<|im_start|>assistant
+Let's solve the expression step by step:
+
+1. **Simplify inside the parentheses:**
+
+   - First part: (8 + 9)",train_3354,train+valid
+19,"
+-2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((5 - 5) * (-2 - 6)) - ((-7 + -5) + (2 + -9))) = <|im_end|>
+<|im_start|>assistant
+-2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3376,train+valid
+20,"
+Let's solve the expression step by step:
+
+1. Simplify inside the parentheses:
+   (5 + 1) = 6
+   (","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((5 + 1) + (8 + -1)) - ((-5 - 1) - (5 - 4))) = <|im_end|>
+<|im_start|>assistant
+Let's solve the expression step by step:
+
+1. Simplify inside the parentheses:
+   (5 + 1) = 6
+   (",train_3388,train+valid
+36,"
+-101","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-5 * -4) - (5 + -6)) - ((9 + 0) - (-6 * -4))) = <|im_end|>
+<|im_start|>assistant
+-101<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3389,train+valid
+-138,"
+-44","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-5 * -5) + (6 - 8)) * ((7 + -7) - (-6 * -1))) = <|im_end|>
+<|im_start|>assistant
+-44<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3457,train+valid
+396,"
+Let's solve the expression step by step:
+
+1. Simplify inside the parentheses:
+   - (7 + 5 - 6) = ","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((7 + 5 - 6) - (4 + -9 - 1)) * ((6 - -7 + 7) + (4 - -8 - -1))) = <|im_end|>
+<|im_start|>assistant
+Let's solve the expression step by step:
+
+1. Simplify inside the parentheses:
+   - (7 + 5 - 6) = ",train_3537,train+valid
+-68,"
+-103","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-3 - -6 * -2) - (-7 + 9 + -3)) + ((5 * -8 - -2) + (-9 - -1 + -8))) = <|im_end|>
+<|im_start|>assistant
+-103<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3560,train+valid
+-7,"
+-48","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((6 * -2 * -6) * (0 * 1 * -4)) + ((1 * -8 - -1) * (6 + 3 - 8))) = <|im_end|>
+<|im_start|>assistant
+-48<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3582,train+valid
+-64512,"
+-42048","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((8 * 8 * 3) * (-7 * -4 * -1)) * ((-2 - 5 + -5) * (-2 * -2 + -5))) = <|im_end|>
+<|im_start|>assistant
+-42048<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3651,train+valid
+17,"
+Let's solve this step by step:
+
+1) First, solve the innermost parentheses:
+(-4 + 0 * -1) = -4","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-4 + 0 * -1) + (8 + -3 - 6)) - ((-8 - 7 - 0) - (5 + 2 * 1))) = <|im_end|>
+<|im_start|>assistant
+Let's solve this step by step:
+
+1) First, solve the innermost parentheses:
+(-4 + 0 * -1) = -4",train_3745,train+valid
+128,"
+-2","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((1 - 4 + 6) + (-4 - 6 * 6)) + ((2 - -8 + 1) * (9 + -2 + 8))) = <|im_end|>
+<|im_start|>assistant
+-2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3808,train+valid
+42,"
+Let's solve the expression step by step:
+
+1. Simplify inside the parentheses:
+
+(-9 - -9 - 0) = -9 +","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-9 - -9 - 0) * (-3 - -3 + -9)) - ((3 + -7 + 3) * (2 - 8 * -5))) = <|im_end|>
+<|im_start|>assistant
+Let's solve the expression step by step:
+
+1. Simplify inside the parentheses:
+
+(-9 - -9 - 0) = -9 +",train_3995,train+valid
+-46105,"
+-1293","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((9 + 7 * -2 - 3) + (-8 - 3 * 1 - 6)) + ((-4 - -5 * -3 + -5) * (8 * -6 * 5 * -8))) = <|im_end|>
+<|im_start|>assistant
+-1293<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4021,train+valid
+4095,"
+-3436","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-9 + -8 + -9 + 4) - (2 + 8 * 9 - 5)) * ((4 + -5 + 6 + -2) * (2 * -4 - -1 - 8))) = <|im_end|>
+<|im_start|>assistant
+-3436<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4167,train+valid
+-9360,"
+-1608","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((0 + 9 - 7 * -3) * (-6 + -6 - -2 + 6)) * ((8 * 9 - -1 + 6) + (-1 + 7 * 1 - 7))) = <|im_end|>
+<|im_start|>assistant
+-1608<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4218,train+valid
+138,"
+Let's solve the expression step by step:
+
+1. **Simplify inside the parentheses**:
+
+   - First term: `(-3 * -8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-3 * -8 * 2 + -4) * (-4 - 3 + 9 + 1)) + ((-8 - 2 - -2 + -1) - (-6 + 2 + -8 - 3))) = <|im_end|>
+<|im_start|>assistant
+Let's solve the expression step by step:
+
+1. **Simplify inside the parentheses**:
+
+   - First term: `(-3 * -8",train_4222,train+valid
+-1131,"
+Let's evaluate the expression step by step:
+
+1. Simplify inside the first parentheses:
+   -8 - 2 - (-6 * -8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-8 - 2 - -6 * -8) - (-7 - 2 * -3 * -2)) * ((5 - 4 * -6 * -1) - (-2 - -9 * -6 + 8))) = <|im_end|>
+<|im_start|>assistant
+Let's evaluate the expression step by step:
+
+1. Simplify inside the first parentheses:
+   -8 - 2 - (-6 * -8",train_4283,train+valid
+262,"
+113","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-3 * 7 + 5 + 5) - (-7 + 7 - -9 - -7)) - ((-6 - -1 + -9 - 3) * (8 - 6 * -3 + -9))) = <|im_end|>
+<|im_start|>assistant
+113<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4480,train+valid
+333,"
+-34","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-3 - -7) - (2 + 6)) - ((3 + 2) * (-5 + 6))) + (((-1 * -6) + (-9 * 7)) * ((3 - 3) + (-5 - 1)))) = <|im_end|>
+<|im_start|>assistant
+-34<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4538,train+valid
+-350,"
+Let's evaluate the expression step by step:
+
+1. ((1 * 7) - (-8 - -8)) = (7 - 0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((1 * 7) - (-8 - -8)) * ((0 - 9) + (6 + 8))) * (((1 * 1) - (4 - 0)) + ((-6 - -4) - (1 - -4)))) = <|im_end|>
+<|im_start|>assistant
+Let's evaluate the expression step by step:
+
+1. ((1 * 7) - (-8 - -8)) = (7 - 0",train_4543,train+valid
+-14549,"
+-1003","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((0 + 4) - (-3 + -4)) * ((-1 + -1) + (-2 + -9))) - (((8 * 6) - (3 - 4)) * ((1 * 7) * (7 * 6)))) = <|im_end|>
+<|im_start|>assistant
+-1003<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4546,train+valid
+-172,"
+-10","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-3 * -4) * (-5 + -8)) - ((-1 - 2) + (-9 * -3))) - (((-8 - -6) + (-2 - 4)) + ((6 * 0) * (1 - -4)))) = <|im_end|>
+<|im_start|>assistant
+-10<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4571,train+valid
+123,"
+-104","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((8 * 6) + (-4 - 1)) - ((7 - 9) * (6 * 7))) - (((-3 * -2) + (1 - 8)) + ((-6 + 7) * (9 - 4)))) = <|im_end|>
+<|im_start|>assistant
+-104<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4580,train+valid
+-159,"
+-131","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((5 - 4) + (-2 * 2)) - ((8 * 2) + (6 - 1))) + (((2 - -8) * (-5 - 6)) + ((-7 + -5) + (-9 + -4)))) = <|im_end|>
+<|im_start|>assistant
+-131<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_4581,train+valid
+-288,"
+-124108","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-7 * -9) * (-1 * 5)) - ((-7 + 1) - (-7 * -3))) * (((-1 + 7) + (0 + -5)) * ((4 - 1) - (0 + 2)))) = <|im_end|>
+<|im_start|>assistant
+-124108<|im_end|>",train_4593,train+valid
+-210,"
+-110","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-7 + 2) * (1 + 2)) * ((-5 - -4) + (7 - -9))) - (((-7 + 4) + (-8 - -6)) * ((-5 - -1) - (-7 - 0)))) = <|im_end|>
+<|im_start|>assistant
+-110<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_4656,train+valid
+-117,"
+-1084","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((4 * -6) + (-8 - 5)) * ((3 + 1) - (7 - 5))) - (((9 * -8) + (-2 * 3)) + ((8 + 3) * (6 - -5)))) = <|im_end|>
+<|im_start|>assistant
+-1084<|im_end|><|endoftext|><|endoftext|>",train_4764,train+valid
+-99,"
+-263","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((5 + 4) - (1 * 3)) - ((0 + 4) * (8 - -9))) - (((5 + -9) * (4 + 1)) - ((9 - -6) + (8 * -9)))) = <|im_end|>
+<|im_start|>assistant
+-263<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4913,train+valid
+-65,"
+-13","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-1 + 6 + -6) * (3 + -9 * 1)) + ((9 - 8 - -1) - (-1 * -5 * -1))) + (((7 * 0 + 9) * (3 - 8 + -2)) - ((-2 + 3 + 2) * (3 + -6 - -8)))) = <|im_end|>
+<|im_start|>assistant
+-13<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5059,train+valid
+-158760,"
+-11113304","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((4 + 7 * -4) * (9 * 8 + -9)) + ((3 * -1 - 9) * (-8 * 8 - -8))) * (((7 * 5 * 5) + (3 - 5 - 9)) - ((5 - 6 + -8) + (-9 - -2 - 9)))) = <|im_end|>
+<|im_start|>assistant
+-11113304<|im_end|>",train_5124,train+valid
+-4149,"
+-42062","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((5 - 7 * -9) * (-8 - -3 - 1)) - ((9 - -8 - -3) + (-8 * -4 + 1))) * (((-5 - 2 + 8) + (-8 - -8 - 4)) * ((-9 - -1 * 2) + (-9 + 6 + 7)))) = <|im_end|>
+<|im_start|>assistant
+-42062<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_5157,train+valid
+33,"
+-187","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-6 * -5 * 1) * (-2 * 1 + -1)) - ((4 * 3 + -1) + (8 * -7 - -6))) + (((5 - 7 - 1) + (-4 - -5 * -7)) * ((-9 - 6 - -4) + (-3 * 0 + 9)))) = <|im_end|>
+<|im_start|>assistant
+-187<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5170,train+valid
+-112,"
+Let's solve this step by step:
+
+1) Start with the innermost parentheses:
+(-9 + 1 + 0) = -8
+","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-9 + 1 + 0) - (-9 + 5 - 5)) + ((1 - -4 - -8) + (-5 - 2 + 8))) - (((-3 - -5 * 3) - (-6 - 5 + 3)) - ((7 + -6 * 9) + (6 * 5 * -2)))) = <|im_end|>
+<|im_start|>assistant
+Let's solve this step by step:
+
+1) Start with the innermost parentheses:
+(-9 + 1 + 0) = -8
+",train_5258,train+valid
+804132,"
+-187044","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-4 - -1 + 1 + -5) * (8 * 3 * -4 * 6)) * ((4 - -1 * 3 - -6) * (-8 + 7 - -8 + 8))) - (((9 * -7 + 6 * -9) - (0 + 9 - -4 * 4)) * ((-7 + 3 - -3 + -1) * (-4 - -8 * -8 + 5)))) = <|im_end|>
+<|im_start|>assistant
+-187044<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5507,train+valid
+-296780,"
+166668","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-9 + 0 - -5 * 0) - (-7 * 2 - 6 + 0)) * ((-9 * -5 * 4 - 6) + (5 - 1 + -4 * 9))) * (((3 * -9 - 0 * 2) - (4 * -6 * -7 + 7)) + ((4 + 2 * 1 * 3) - (0 - 2 * 5 + 8)))) = <|im_end|>
+<|im_start|>assistant
+166668<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5647,train+valid
+-686,"
+-2394","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((1 * -4 - 0 * -9) + (-5 + 3 * 9 + 2)) * ((8 - 2 + 9 + -3) + (-4 - 8 + -9 - -1))) + (((8 + -4 - -4 - -5) * (5 * -5 - -2 * -8)) - ((-4 - 0 - -1 + -3) - (0 * 8 + -5 - -6)))) = <|im_end|>
+<|im_start|>assistant
+-2394<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5840,train+valid
+204204,"
+-116334880","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((5 - -8 + -6 - -1) - (6 + 2 * -8 * 4)) * ((-9 * 3 - -8 + 7) - (4 - -6 - 6 + 1))) * (((-2 * 4 * -3 * 1) + (9 * 9 + 0 * -1)) - ((7 * -4 * -9 + 4) - (-6 + -5 - 4 * 5)))) = <|im_end|>
+<|im_start|>assistant
+-116334880<|im_end|>",train_5849,train+valid
+12574,"
+-1030","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((6 - -4 + -6 + 2) * (-4 - 5 - -8 - 2)) + ((2 + 1 - -6 * -5) - (7 * 2 * -3 * -7))) + (((-5 + -7 + -1 * -1) + (-5 * -4 * 2 * 9)) * ((-2 * 4 * 2 * -4) - (5 - 6 * -3 + 4)))) = <|im_end|>
+<|im_start|>assistant
+-1030<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5872,train+valid
+-7,"
+-1126","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((4 * -4 - -3 - 3) * (5 + 7 - -9 + -5)) + ((6 + -5 - -5 - 9) - (7 * 1 * -8 * 6))) + (((4 * -2 + 2 * -8) + (-7 + 3 - -3 - 2)) + ((4 - 5 * -2 * -5) + (2 * -6 + -6 - -7)))) = <|im_end|>
+<|im_start|>assistant
+-1126<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5914,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(2 + 0) = <|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_175,train+valid
+-9,"
+-9","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(1 + -6 - 4) = <|im_end|>
+<|im_start|>assistant
+-9<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_820,train+valid
+-17,"
+-2 + -5 + -3 - 7 = -27","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-2 + -5 + -3 - 7) = <|im_end|>
+<|im_start|>assistant
+-2 + -5 + -3 - 7 = -27<|im_end|>",train_1040,train+valid
+61,"
+53","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-1 * 2 - 9 * -7) = <|im_end|>
+<|im_start|>assistant
+53<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1084,train+valid
+14,"
+To solve the expression (6 * 3 - -2 * -2), we follow the order of operations (PEMDAS):
+
+1. First","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(6 * 3 - -2 * -2) = <|im_end|>
+<|im_start|>assistant
+To solve the expression (6 * 3 - -2 * -2), we follow the order of operations (PEMDAS):
+
+1. First",train_1247,train+valid
+640,"
+To solve the expression ((3 * 9 - -5) * (3 - -9 - -8)), we will follow the order of operations","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((3 * 9 - -5) * (3 - -9 - -8)) = <|im_end|>
+<|im_start|>assistant
+To solve the expression ((3 * 9 - -5) * (3 - -9 - -8)), we will follow the order of operations",train_2052,train+valid
+0,"
+-12","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-8 - -1 - -6) * (-7 + 7 - 0)) = <|im_end|>
+<|im_start|>assistant
+-12<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2138,train+valid
+-92,"
+-104","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-5 * 2 * 6) - (5 * 6 + 2)) = <|im_end|>
+<|im_start|>assistant
+-104<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2271,train+valid
+-44,"
+-11","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((7 * 5 + -8) + (2 - 7 * 8)) - ((-2 + 3 * 2) + (6 + 9 + -2))) = <|im_end|>
+<|im_start|>assistant
+-11<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3704,train+valid
+-510,"
+Let's solve this step by step:
+
+1) First, solve the innermost parentheses:
+   -8 - 7 = -15
+  ","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-8 - 7 - -9 - 8) - (-4 + 0 * -6 * -6)) + ((-1 * 9 + -3 + -8) * (-7 * -3 + 0 + 4))) = <|im_end|>
+<|im_start|>assistant
+Let's solve this step by step:
+
+1) First, solve the innermost parentheses:
+   -8 - 7 = -15
+  ",train_4030,train+valid
+2381,"
+-1376","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-3 + 0 + -8 + 0) + (4 * 6 * -8 * -1)) - ((5 * -2 * 5 * -4) * (2 + 8 + -7 * 3))) = <|im_end|>
+<|im_start|>assistant
+-1376<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4097,train+valid
+-2051,"
+-218","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-4 - -9 * -6 - 8) * (1 - -9 - 7 * -3)) + ((-9 + 3 + -4 * 0) + (-9 + -5 - -8 - -7))) = <|im_end|>
+<|im_start|>assistant
+-218<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4098,train+valid
+-1028,"
+-1827","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-6 * 7 * -2 + 6) + (0 * 5 + 6 + -8)) + ((-7 * 8 * -6 * -3) - (9 * -2 * -6 - 0))) = <|im_end|>
+<|im_start|>assistant
+-1827<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4269,train+valid
+-32508,"
+-188136","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-4 - -1 - 0 + -4) - (-1 + 6 - 6 * -5)) * ((5 + -2 * 1 + 3) * (-8 * -8 * 2 - -1))) = <|im_end|>
+<|im_start|>assistant
+-188136<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4333,train+valid
+-97,"
+Let's solve this step by step:
+
+1. First, simplify the innermost parentheses:
+(-7 - 1 - 8 - -1)","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-7 - 1 - 8 - -1) + (6 + -9 + -5 + 7)) - ((-9 + 8 * 4 + -9) - (-6 - 7 - -6 * -9))) = <|im_end|>
+<|im_start|>assistant
+Let's solve this step by step:
+
+1. First, simplify the innermost parentheses:
+(-7 - 1 - 8 - -1)",train_4442,train+valid
+-12636,"
+-5060","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((2 + 5 - 1) - (-4 + -5 * 1)) * ((7 - 9 - 7) * (3 * 8 * 6))) - (((-9 * 3 * 2) * (9 - 5 + -5)) * ((8 - 3 + 9) * (5 - -2 * -7)))) = <|im_end|>
+<|im_start|>assistant
+-5060<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5166,train+valid
+-52002,"
+-170184","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-6 - -4 + -5) * (-5 * -1 + -8)) + ((9 * 7 + 6) * (8 + 4 - 3))) * (((0 - 0 - 7) + (1 * 3 * -6)) + ((6 * -9 - 4) + (-3 + -4 + 9)))) = <|im_end|>
+<|im_start|>assistant
+-170184<|im_end|>",train_5344,train+valid
+221936,"
+-1349","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-7 * -7 + 9 - 7) * (9 + 9 - 9 + 1)) + ((-3 - -3 * 6 - -2) - (-6 + -6 * -4 - -3))) + (((-7 + 8 + -7 * 8) * (-2 + 8 - -9 + 7)) * ((-3 * -4 * 5 * -3) + (-1 * 0 - 5 - -2)))) = <|im_end|>
+<|im_start|>assistant
+-1349<|im_end|><|endoftext|><|endoftext|>",train_5588,train+valid
+-3870,"
+-10164","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((4 * -7 + 0 + -8) - (-4 + -4 + 4 * -5)) - ((5 + 6 * 2 - 8) + (9 * -3 + 9 - 8))) * (((1 + -6 + 5 + 1) + (-2 + 6 + 9 - 9)) * ((-2 - 4 * 9 * 3) - (3 * -9 + 8 + -5)))) = <|im_end|>
+<|im_start|>assistant
+-10164<|im_end|><|endoftext|>",train_5828,train+valid
+-191,"
+-412","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-6 + 9 * -5 - -9) + (0 - 7 - 4 + -6)) + ((6 + 8 * -2 + 6) - (-7 - 3 * 7 * 1))) - (((-1 * -8 * -4 * -1) * (7 - -7 + -6 - 3)) - ((-9 + -7 * 0 * -9) - (-8 - -2 * 0 + -5)))) = <|im_end|>
+<|im_start|>assistant
+-412<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_5927,train+valid

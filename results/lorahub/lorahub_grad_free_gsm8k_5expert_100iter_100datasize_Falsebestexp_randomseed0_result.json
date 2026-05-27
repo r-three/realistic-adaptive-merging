@@ -1,0 +1,19 @@
+{
+    "task": "gsm8k",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.75,
+    "test_accuracy": 0.604245640636846,
+    "weights": [
+        0.22233754528032124,
+        0.01714878491568419,
+        0.5003824954451324,
+        0.42922171824670863,
+        0.7831113116782769
+    ]
+}

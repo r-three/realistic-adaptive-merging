@@ -1,0 +1,19 @@
+{
+    "task": "twitter_financial_news_sentiment",
+    "expert_name": [
+        "daje/model_0.0002_alpha-32_r-64",
+        "aseratus1/80dde36f-b140-4e57-a010-bebb9584c30b",
+        "Tomlord/Llama-3.1-8B-Instruct-LoRA-Hp-adk",
+        "clembench-playpen/llama-3.1-8B-Instruct-rehearsal-steps_playpen_SFT-e3_DFINAL_0.93K-steps",
+        "faridlazuarda/valadapt-llama-3.1-8B-it-german"
+    ],
+    "valid_accuracy": 0.1,
+    "test_accuracy": 0.3319371727748691,
+    "weights": [
+        0.17050321130277477,
+        0.2285860479015288,
+        0.352482469500223,
+        1.0052626340758457,
+        0.2644626287449953
+    ]
+}

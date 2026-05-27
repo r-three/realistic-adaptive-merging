@@ -1,0 +1,1001 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it also explicitly precludes review of """"whether the alien is actually inadmissible or entitled to any relief from removal,"""" id.  1252(e)(5), and of """"any other cause or claim arising from or relating to the implementation or operation of"""" the removal order, id.  1252(a)(2)(a)(i).<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_45,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+our previous construction of the statute, krs 189.070(2),<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_52,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+changes in custody or parenting time may be modified only if the moving party demonstrates that modification is justified by proper cause or because of a change of circumstances.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_66,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+insofar as they hold to the contrary, brown and ray should no longer be followed.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_125,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+there, the cleveland board of education fired loudermill, a security guard, after determining that he had lied on his job application when he stated that he had never been convicted of a felony.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_153,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+d. del. 2006); accord, pls. d.i. 92, ex. a (letter from chetan bachale, consumer account analyst, ocwen loan servicing llc, to daniel tabb (mar. 9, 2016) (""""as the bankruptcy has been discharged, you are no longer personally liable for the debt.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_223,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+further, in mooney v. state, 1999 ok cr 34,  17, 990 p.2d 875, 70 o.b.j. 2412 (aug. 31, 1999), this court adopted ""the united states supreme court's decision in united states v. dixon, 589 u.s. 688, 113 s.ct. 2849, 125 l.ed.2d 556 (1993), overruling grady v. corbin, 495 u.s. 568, 110 s.ct. 2084, 109 l.ed.2d 548 (1990), and [did] away with the `same transaction' test.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_241,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+thus, reliance on the statutory definition would impair the court's analysis because it would not provide a useful comparison to the court's descriptive dictionary definitions of """"producing"""" and """"fabricating.""""<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_278,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we expressly overrule nightclubs on this issue and hold that, as a general matter,  23a.010(4) satisfies the first amendment.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_280,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+now that this court is reexamining that question, i am satisfied with the conclusion that under our statutory law, the husband has no such right and that gist v. french, supra, should be disapproved.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_300,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the department need not prove all of the holley factors as a """"condition precedent"""" to termination, and the absence of some factors does not bar the factfinder from finding by clear and convincing evidence that termination is in a child's best interest.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_312,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+see section iii(a)(3)(b)(i)(2)(c); see also bnsf app'x at 931-32.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_339,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+ct. app. 1992), and state ex rel. department of pub. safety v. 1989 ford probe, vin # 1zvbt21c3k5182641, ok tag # icw579, 854 p.2d 386 (okla.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_348,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we overrule this point.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_364,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+mccaa v. mccaa, supra, and perry v. perry, supra, are overruled insofar as they are inconsistent with this opinion.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_412,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+although she could not recall exactly where he put his penis, she explained it happened so frequently that it was either her vagina or butt.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_421,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a further reason for wiping the rule enunciated in united states v. feinberg off the books is that in practice it is no longer followed in this circuit when reviewing the denial of motions for acquittal for insufficiency of the evidence.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_565,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+moreover, our conclusion today is not intended to alter an insured's ability to assign his or her right to past or presently due benefits to a healthcare provider.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_566,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+in this case, like winnebago and contrary to tyson foods, employer's admission played a substantial role in the case's disposition.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_578,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we have reconsidered the rule of those cases in light of our decisions in law and adams, and we today overrule those cases to the extent that they allow parole revocation to be made effective upon the completion of a sentence imposed for an offense while the prisoner was on parole, or to be made effective in futuro upon similar future occurrence or condition.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_619,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we now apply these principles of appellate review for the sufficiency of evidence for the armed robbery in this case.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_620,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+32 for a time we articulated a standard formulation of waiver that did not mention any requirement of proof of prejudice.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_691,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+fernandes v. dar dev. corp., inc., 222 n.j. 390, 403-04 (2015) (citing townsend v. pierre, 221 n.j. 36, 51 (2015)).<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_737,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+courts must construe briefs """"reasonably yet liberally.""""<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_776,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+people v. suarez, 224 ill. 2d 37, 47, 862 n.e.2d 977, 982 (2007).<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_786,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+wilson was disapproved on other grounds in kellett v. superior court (1966) 63 cal.2d 822, 827 [ 48 cal.rptr. 366, 409 p.2d 206], but the court in kellett nonetheless agreed that the flight from the officer constituted a separate offense from the procurement and threatened use of the gun.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_796,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the timeliness of bradshaw's attempt to obtain a pdr rehearing determines when his conviction became final and when the limitations period began to run.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_818,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+""""when a defendant moves for dismissal, the trial court is to determine whether there is substantial evidence (a) of each essential element of the offense charged, or of a lesser offense included therein, and (b) of defendant's being the perpetrator of the offense.""""<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_830,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+##note: people v. davis was affirmed not overruled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_841,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+fontenot v. petmecky is overruled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_894,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the accident report contains no reference to a low back injury.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_921,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+to the extent that east montgomery water, sewer fire protection authority v. water works sanitary sewer bd. of city of montgomery, 474 so.2d 1088 (ala. 1985), conflicts with this holding, it should no longer be followed.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_925,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+ordinarily, dismissal for failure to state a claim is without prejudice, and the court has discretion to permit a party to amend the pleading to allege additional facts in an effort to state a claim.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_952,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the decision of the fourth district court of appeal holding section 550.081 unconstitutional is disapproved.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1025,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+during the bench trial, appellants also objected to a question by adams bank during cynthia mcvay's testimony.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1037,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+as noted in vesely v. sager, supra, most of the recent decisions have rejected the no-proximate-cause rubric.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1106,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+to the extent that this conclusion is inconsistent with in re e.t . , 2008 vt 48, 184 vt. 273, 959 a.2d 544, or in re l.g. , 158 vt. 639, 603 a.2d 381 (1992) (mem.), those cases are overruled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1142,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+recently, this court receded from hallman to the extent that we held that all newly discovered evidence claims should now be brought in a motion pursuant to florida rule of criminal procedure 3.850 and that such claims would not be cognizable in an application for writ of error coram nobis unless the defendant was not in custody.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1177,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+moreover, here, it was not only foreseeable that the co-employees would negligently fail to install the guardrails, it had actually occurred many times in the past.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1207,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the speedy trial clock tolled from february 28 until march 1, 2017, while martin was without counsel.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1220,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+any language in shymanovitz to the contrary is disapproved.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1243,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we disapprove the conflicting battle and mccullers decisions on this point, as well as the conflicting decision in nelson v. state, 157 so.2d 96 (3d dca fla. 1963), cert. denied, 165 so.2d 178 (fla. 1964).<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1340,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+because our case law does not support the approach set forth in cobarruvias, we affirm division two and hold that a trial court need not expressly state the presumption against waiver, nor must it begin its analysis of voluntariness anew when evaluating the third prong of the thomson analysis.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1357,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+if there is no genuine issue as to any material fact and the moving party is entitled to a judgment as a matter of law, the district court should grant the motion for summary judgment.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1365,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we reject the defendant's contention that the marriage relationship and the right of consortium deriving therefrom preclude the state from ever establishing the nonconsensual entry requisite to the crime of burglary, and we disapprove the third district's contrary ruling in vazquez.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1374,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+respondent clark failed to timely file a brief on appeal within the mandatory time limits of rule 84.05. pursuant to rule 84.05(a), clark was required to file a responsive brief on april 30, 2018, thirty days after the filing of kinsey's brief.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1456,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+to the extent that fiscal court of jefferson county v. ogden, ky.app. 556 s.w.2d 899 (1977) conflicts with the opinion in this case, it is overruled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1511,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+but in light of the language and context of the statute and the term's common meaning and other uses, we cannot accept a definition that would find oppression on either of these bases alone, and we disapprove of the court of appeals decisions that have.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1515,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the state court rejected the argument as a bare, conclusory assertion.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1520,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+applicant was convicted of solicitation of capital murder and sentenced to life years' imprisonment.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1605,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+in fenelon v. state, 594 so.2d 292 (fla. 1992), the supreme court disapproved the giving of the flight instruction on the ground that it constitutes an impermissible comment upon the evidence.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1612,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+to the extent that a contrary rule is expressed in terry v. state, 540 so.2d 782, 783-84 (ala.cr.app. 1988), cert. denied, 540 so.2d 785 (ala. 1989), it is expressly overruled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1629,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+donnelly's claims""""negligence, careless conduct and wrongful tortious conduct""""are all causes of action that sound in tort.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1636,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+as an intermediate appellate court, we are required to follow the holdings of the ohio supreme court, which is the ultimate authority on matters of state law.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1659,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+see, e.g., n. y. c. rules & regs., tit. 1, 27-01 (2018) (requiring signs by elevators showing stair locations); san francisco dept. of health, director's rules & regs., garbage and refuse (july 8, 2010) (requiring property owners to inform tenants about garbage disposal procedures).<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1675,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+applying that standard, i am convinced that fenton erred.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1677,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+any suggestion that our case presents a new phenomenon, then, risks overlooking this long history.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1684,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we recede from fernandez v. state<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1715,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+see bentley v. bunton, 94 s.w.3d 561, 581 (tex. 2002); see also isaacks, 146 s.w.3d at 156-57.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1738,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it is our opinion that smith v. commonwealth should be and it is hereby overruled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1758,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we now disavow that part of the opinion in apple which takes into account only the former ""commencement"" date.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1798,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+in so finding, we not only look to the facts of easterling but also the facts of those cases it explicitly overruled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1802,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we granted certiorari in light of disagreement among the circuits.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1842,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+in its holding, the third district adopted the reasoning of the fifth district's opinion in spilman, while certifying conflict with the fourth district's opinion in hamilton.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1857,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+franks and wingfield, supra, are overruled as far as their inconsistency with this holding.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1862,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we therefore disapprove wickersham's inaccurate assertion that ""unreasonable self-defense"" is a ""defense.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1894,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+at a december 14, 2015 hearing on the parties' motions and exceptions, the trial court maintained the exception of res judicata as to all claims for rescission, avoidance, or nullity of the option agreement, with the caveat that it denied the exception as it related to any claims of termination, reformation, or any other claims not dismissed by the trial court or this court.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1915,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+upon the authority of odom, we hereby recede from our inadvertent comment in singleton.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1968,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the court then denied both of mr. denzmore's motions.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2072,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we overrule valley to the extent it is inconsistent with this opinion.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2096,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+rather than perpetuate that error, we acknowledge our mistake and overrule our prior opinion on that issue.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2119,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+accordingly, we will apply the same standard of review to all of appellant's sufficiency complaints.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2126,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the district court instructed the jury on the lesser included offense of simple battery, yet the jury found green guilty as charged on knowing aggravated battery.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2157,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+ early, 330 ga. app. at 655 (1) (a) (punctuation omitted); accord hardy, 239 ga. app. at 596 (1).<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2174,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we conclude that the neff and ward holdings are inconsistent with the limitations on the maintenance and cure remedy imposed by the supreme court and must be overruled to the extent of such inconsistency.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2184,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the record reflects that defendant asserted his innocence at the outset, ultimately rejecting an offer from the prosecution for him to plead guilty to second-degree murder and possession of a firearm during the commission of a felony (felony-firearm), mcl 750.227b(1).<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2258,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+see, e.g., estate of redden v. redden, 179 n.c. app. 113, 117, 632 s.e.2d 794, 798 (2006) (concluding that an order for partial summary judgement requiring the defendant to pay the sum of $150,000.00 and costs affected a substantial right).<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2311,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+anything in settle that can be read to be contrary to the holding of this case is likewise overruled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2332,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+to the extent that they are inconsistent with our ruling here united states gypsum co. v. shaffer, supra, 7 cal.2d 454, is overruled and bernstein v. rubin, supra, 152 cal.app.2d 51; bank of america v. gesler, supra, 252 cal.app.2d 565 and estate of vose, supra, 4 cal.app.3d 454, are disapproved.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2341,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+however, to the extent that national wildlife suggests that an eis must be prepared where the government has not surrendered its absolute right to prevent the use of resources, national wildlife is in conflict with conner, and is therefore not persuasive precedent.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2349,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+but an inference of a participation in a conspiracy based on presence must be accompanied by evidence that the defendant """"supported, assisted, encouraged, cooperated with, advised, or incited the principal in the commission of the crime, and that the defendant shared the criminal intent of the principal.""""<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_47,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+id. at 49,400-02.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_77,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+father next challenges several portions of mother's testimony that, he alleges, painted an unjustified picture of him as hot-tempered and cruel.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_245,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+bradford and hollingsworth are overruled to the extent that they hold that  5g1.2(d) is discretionary and that remand is necessary where the apprendi violation can be cured by running sentences consecutively under that section.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_813,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we thus overrule marcum, american surety co. of n.y. and harrod, supra, to the extent that they approve submitting the issue to the jury, and other cases that leave this question to the jury.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_849,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+and, the persuasive impact of floyd's confessions must be scrutinized in the light of all the   evidence, presented at trial and new.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_903,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+see id. a trial court may decree an unequal division of an estate as long as a reasonable basis for doing so exists.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1044,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+to the extent that adame v. hernandez, 327 ga.app. 869, 874(3)(b), 761 s.e.2d 402 (2014), holds that the trial court must support, with written findings, its exercise of discretion and consideration of the best interest of the child for whom child support is being awarded when applying a theoretical child support order under ocga  19615(f)(5)(c), it is hereby overruled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1144,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+moreover, here, as in ankrom, hicks followed the denial of her motion to dismiss the indictment with the entry of a guilty plea.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1239,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+therefore,  39-17-417 is divisible among the various subsections with respect to drug type and quantity, and the record documents further make clear that petitioner was convicted of violating subsections (a)(4) and (g)(2), see ar 821-825, which only apply to possession with intent to manufacture, deliver, or sell between ten and seventy pounds of marijuana.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1248,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+insofar as inconsistent with trappey and our decision herein, we overrule the cited intermediate decisions in leger, cockerham, and bersuder, as well as obiol v. industrial outdoor displays, 288 so.2d 425 (la.app. 4th cir. 1974) which followed them.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1369,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we accordingly quash tricam industries and disapprove of nissan motor and nacra.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1392,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we find no error in the trial court's judgment.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1704,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+people v. laiwa is not overruled (same line of cases).<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1873,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we disapprove that decision to the extent it implies that parties to all dissolution proceedings involving minor children have an absolute privacy right to seal the file.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2017,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+if some evidence supports a court's decision to impose sanctions, we will not hold that it abused its discretion.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2056,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the royal & sun opinion articulated those factors as follows:<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2088,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+we therefore overrule leonard and palmer.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2127,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+therefore, to the extent that the ica in prior decisions has applied harmless error analysis to violations of the principles set forth in grindles , 70 haw. 528, 777 p.2d 1187, these decisions are overruled<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2194,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a part of court statement. Classify it as 1 if it is a statement related to overruling, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+rather, the court would consider it an action for """"recovery"""" of property under article 2934, which is exempt.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2245,train+valid

@@ -1,0 +1,19 @@
+{
+    "task": "super_glue_rte",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.75,
+    "test_accuracy": 0.7429718875502008,
+    "weights": [
+        0.17493147082503804,
+        -0.6515739226305621,
+        1.2322629640054605,
+        0.9722220731408974,
+        0.3521904165515768
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "task": "arc_challenge",
+    "expert_name": [
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter"
+    ],
+    "valid_accuracy": 0.7,
+    "test_accuracy": 0.7056313993174061,
+    "weights": [
+        -0.08756929693042197,
+        0.03298078394885666,
+        0.03215883609905234,
+        -0.00846249833418161,
+        -0.009101549574144071,
+        0.12725132742842712,
+        0.5103382511671193,
+        -0.0010784322932993876,
+        -0.007605101802752582,
+        -0.007935847136985546
+    ]
+}

@@ -1,0 +1,2201 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jason went to the movies. Between what times could they have gone?
+We know that: 
+Jason woke up at 10am.
+Linda saw Jason getting a coffee at the cafe from 10am to 3pm.
+Jennifer saw Jason walking towards the Statue of Liberty from 6pm to 7pm.
+Sean saw Jason buying a phone at the electronics store from 7pm to 10pm.
+The movies was closed after 10pm.
+Between what times could Jason have gone to the movies? [SEP] 
+OPTIONS - 0: 3pm to 6pm 
+1: 10am to 3pm 
+2: 7pm to 10pm 
+3: 6pm to 7pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_4,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Sarah went to the clothing store. Between what times could they have gone?
+We know that: 
+Sarah woke up at 9am.
+William saw Sarah buying a bike at the bike shop from 9am to 12pm.
+Emily saw Sarah waiting at the airport from 12pm to 1pm.
+Jennifer saw Sarah taking photos near the Eiffel Tower from 2pm to 5pm.
+Jason saw Sarah driving to the water park from 5pm to 6pm.
+The clothing store was closed after 6pm.
+Between what times could Sarah have gone to the clothing store? [SEP] 
+OPTIONS - 0: 12pm to 1pm 
+1: 1pm to 2pm 
+2: 5pm to 6pm 
+3: 9am to 12pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_10,test
+3,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Betty went to the art show. Between what times could they have gone?
+We know that: 
+Betty woke up at 8am.
+Elizabeth saw Betty buying lunch at the deli from 8am to 10am.
+Tiffany saw Betty fixing their computer at the electronic store from 10am to 1pm.
+Susan saw Betty taking photos near the Eiffel Tower from 1pm to 2pm.
+Betty saw Betty getting a coffee at the cafe from 7pm to 10pm.
+The art show was closed after 10pm.
+Between what times could Betty have gone to the art show? [SEP] 
+OPTIONS - 0: 1pm to 2pm 
+1: 7pm to 10pm 
+2: 8am to 10am 
+3: 2pm to 7pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_13,test
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Ashley went to the bookstore. Between what times could they have gone?
+We know that: 
+Ashley woke up at 5am.
+Jason saw Ashley buying lunch at the deli from 11am to 1pm.
+Emily saw Ashley driving to the water park from 1pm to 3pm.
+Kimberly saw Ashley stretching at a yoga studio from 3pm to 6pm.
+The bookstore was closed after 6pm.
+Between what times could Ashley have gone to the bookstore? [SEP] 
+OPTIONS - 0: 1pm to 3pm 
+1: 11am to 1pm 
+2: 5am to 11am 
+3: 3pm to 6pm<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_19,test
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, David went to the gas station. Between what times could they have gone?
+We know that: 
+David woke up at 7am.
+Michael saw David waiting at the train station from 7am to 12pm.
+Thomas saw David sitting on a rooftop from 12pm to 2pm.
+Tiffany saw David getting a coffee at the cafe from 2pm to 3pm.
+James saw David fixing their computer at the electronic store from 3pm to 5pm.
+Mark saw David reading at the library from 5pm to 6pm.
+The gas station was closed after 8pm.
+Between what times could David have gone to the gas station? [SEP] 
+OPTIONS - 0: 6pm to 8pm 
+1: 5pm to 6pm 
+2: 7am to 12pm 
+3: 2pm to 3pm<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_26,test
+1,"
+0","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Anthony went to the orchestra hall. Between what times could they have gone?
+We know that: 
+Anthony woke up at 6am.
+Samantha saw Anthony stretching at a yoga studio from 6am to 12pm.
+Nancy saw Anthony driving to the water park from 12pm to 2pm.
+David saw Anthony watching a movie at the theater from 2pm to 3pm.
+William saw Anthony fixing their computer at the electronic store from 5pm to 6pm.
+Sarah saw Anthony reading at the library from 6pm to 7pm.
+The orchestra hall was closed after 7pm.
+Between what times could Anthony have gone to the orchestra hall? [SEP] 
+OPTIONS - 0: 6pm to 7pm 
+1: 3pm to 5pm 
+2: 12pm to 2pm 
+3: 2pm to 3pm<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_36,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Emily went to the bakery. Between what times could they have gone?
+We know that: 
+Emily woke up at 5am.
+Nancy saw Emily sitting on a rooftop from 6am to 7am.
+Betty saw Emily reading at the library from 7am to 8am.
+Jason saw Emily buying lunch at the deli from 8am to 6pm.
+David saw Emily attending class at the school from 6pm to 7pm.
+Samantha saw Emily driving to the water park from 7pm to 10pm.
+The bakery was closed after 10pm.
+Between what times could Emily have gone to the bakery? [SEP] 
+OPTIONS - 0: 6pm to 7pm 
+1: 8am to 6pm 
+2: 5am to 6am 
+3: 7am to 8am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_54,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Sarah went to the art show. Between what times could they have gone?
+We know that: 
+Sarah woke up at 11am.
+Lisa saw Sarah working at the office from 11am to 2pm.
+Hannah saw Sarah reading at the library from 2pm to 4pm.
+Elizabeth saw Sarah fixing their computer at the electronic store from 4pm to 7pm.
+The art show was closed after 9pm.
+Between what times could Sarah have gone to the art show? [SEP] 
+OPTIONS - 0: 7pm to 9pm 
+1: 2pm to 4pm 
+2: 4pm to 7pm 
+3: 11am to 2pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_78,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Tiffany went to the library. Between what times could they have gone?
+We know that: 
+Tiffany woke up at 5am.
+Anthony saw Tiffany walking in the garden from 6am to 8am.
+Emily saw Tiffany working out at the gym from 8am to 5pm.
+Kimberly saw Tiffany working at the office from 5pm to 7pm.
+Thomas saw Tiffany playing tennis at the tennis court from 7pm to 8pm.
+The library was closed after 8pm.
+Between what times could Tiffany have gone to the library? [SEP] 
+OPTIONS - 0: 7pm to 8pm 
+1: 5am to 6am 
+2: 8am to 5pm 
+3: 6am to 8am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_91,test
+2,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jessica went to the dance studio. Between what times could they have gone?
+We know that: 
+Jessica woke up at 5am.
+Jennifer saw Jessica taking photos near the Leaning Tower of Pisa from 8am to 1pm.
+Susan saw Jessica reading at the library from 1pm to 3pm.
+Jason saw Jessica taking photos near the Eiffel Tower from 3pm to 6pm.
+Sarah saw Jessica working out at the gym from 6pm to 7pm.
+Betty saw Jessica fixing their computer at the electronic store from 7pm to 8pm.
+The dance studio was closed after 8pm.
+Between what times could Jessica have gone to the dance studio? [SEP] 
+OPTIONS - 0: 3pm to 6pm 
+1: 7pm to 8pm 
+2: 5am to 8am 
+3: 6pm to 7pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_101,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the swimming pool. Between what times could they have gone?
+We know that: 
+William woke up at 5am.
+Jennifer saw William walking in the garden from 7am to 5pm.
+Mary saw William reading at the library from 5pm to 6pm.
+William saw William buying lunch at the deli from 6pm to 10pm.
+The swimming pool was closed after 10pm.
+Between what times could William have gone to the swimming pool? [SEP] 
+OPTIONS - 0: 6pm to 10pm 
+1: 5am to 7am 
+2: 7am to 5pm 
+3: 5pm to 6pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_106,test
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Mary went to the dance studio. Between what times could they have gone?
+We know that: 
+Mary woke up at 9am.
+Sarah saw Mary getting a coffee at the cafe from 9am to 10am.
+Mary saw Mary walking in the garden from 12pm to 1pm.
+Tiffany saw Mary driving to the water park from 1pm to 10pm.
+The dance studio was closed after 10pm.
+Between what times could Mary have gone to the dance studio? [SEP] 
+OPTIONS - 0: 9am to 10am 
+1: 1pm to 10pm 
+2: 10am to 12pm 
+3: 12pm to 1pm<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_125,test
+3,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Leslie went to the beach. Between what times could they have gone?
+We know that: 
+Leslie woke up at 5am.
+Emily saw Leslie attending class at the school from 5am to 9am.
+Anthony saw Leslie watching a movie at the theater from 9am to 11am.
+Thomas saw Leslie buying cookies at a bakery from 11am to 4pm.
+Ashley saw Leslie fixing their computer at the electronic store from 4pm to 5pm.
+Susan saw Leslie walking towards the Statue of Liberty from 9pm to 10pm.
+The beach was closed after 10pm.
+Between what times could Leslie have gone to the beach? [SEP] 
+OPTIONS - 0: 4pm to 5pm 
+1: 9am to 11am 
+2: 9pm to 10pm 
+3: 5pm to 9pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_129,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Andrew went to the construction site. Between what times could they have gone?
+We know that: 
+Andrew woke up at 9am.
+Anthony saw Andrew buying clothes at the mall from 9am to 2pm.
+Mark saw Andrew taking photos near the Leaning Tower of Pisa from 2pm to 3pm.
+Tiffany saw Andrew sitting on a rooftop from 4pm to 7pm.
+Samantha saw Andrew waiting at the train station from 7pm to 9pm.
+The construction site was closed after 9pm.
+Between what times could Andrew have gone to the construction site? [SEP] 
+OPTIONS - 0: 3pm to 4pm 
+1: 2pm to 3pm 
+2: 4pm to 7pm 
+3: 7pm to 9pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_137,test
+3,"
+2","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, David went to the clothing store. Between what times could they have gone?
+We know that: 
+David woke up at 6am.
+Sarah saw David walking towards the Statue of Liberty from 8am to 9am.
+Leslie saw David watching a movie at the theater from 9am to 11am.
+Emily saw David buying clothes at the mall from 11am to 1pm.
+Hannah saw David walking in the garden from 1pm to 3pm.
+Samantha saw David reading at the library from 3pm to 4pm.
+The clothing store was closed after 4pm.
+Between what times could David have gone to the clothing store? [SEP] 
+OPTIONS - 0: 8am to 9am 
+1: 1pm to 3pm 
+2: 11am to 1pm 
+3: 6am to 8am<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_142,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Elizabeth went to the bakery. Between what times could they have gone?
+We know that: 
+Elizabeth woke up at 8am.
+David saw Elizabeth attending class at the school from 8am to 4pm.
+Elizabeth saw Elizabeth fixing their computer at the electronic store from 4pm to 5pm.
+Ashley saw Elizabeth getting a coffee at the cafe from 5pm to 9pm.
+The bakery was closed after 10pm.
+Between what times could Elizabeth have gone to the bakery? [SEP] 
+OPTIONS - 0: 4pm to 5pm 
+1: 9pm to 10pm 
+2: 5pm to 9pm 
+3: 8am to 4pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_147,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jason went to the park. Between what times could they have gone?
+We know that: 
+Jason woke up at 5am.
+Nancy saw Jason buying clothes at the mall from 5am to 2pm.
+Emily saw Jason walking in the garden from 2pm to 4pm.
+John saw Jason reading at the library from 5pm to 8pm.
+Jennifer saw Jason buying lunch at the deli from 8pm to 9pm.
+The park was closed after 9pm.
+Between what times could Jason have gone to the park? [SEP] 
+OPTIONS - 0: 8pm to 9pm 
+1: 4pm to 5pm 
+2: 5am to 2pm 
+3: 2pm to 4pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_150,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Anthony went to the dance studio. Between what times could they have gone?
+We know that: 
+Anthony woke up at 8am.
+William saw Anthony driving to the water park from 10am to 12pm.
+David saw Anthony sitting on a rooftop from 12pm to 1pm.
+Richard saw Anthony buying a phone at the electronics store from 1pm to 4pm.
+The dance studio was closed after 4pm.
+Between what times could Anthony have gone to the dance studio? [SEP] 
+OPTIONS - 0: 1pm to 4pm 
+1: 12pm to 1pm 
+2: 8am to 10am 
+3: 10am to 12pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_151,test
+0,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Hannah went to the soccer field. Between what times could they have gone?
+We know that: 
+Hannah woke up at 5am.
+Jessica saw Hannah buying clothes at the mall from 5am to 6am.
+Kimberly saw Hannah watching a movie at the theater from 6am to 11am.
+Sarah saw Hannah getting a coffee at the cafe from 11am to 1pm.
+Steven saw Hannah working at the office from 1pm to 3pm.
+Hannah saw Hannah waiting at the airport from 3pm to 5pm.
+The soccer field was closed after 6pm.
+Between what times could Hannah have gone to the soccer field? [SEP] 
+OPTIONS - 0: 5pm to 6pm 
+1: 1pm to 3pm 
+2: 3pm to 5pm 
+3: 11am to 1pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_169,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Michael went to the construction site. Between what times could they have gone?
+We know that: 
+Michael woke up at 5am.
+Sean saw Michael attending class at the school from 5am to 10am.
+Lisa saw Michael walking in the garden from 5pm to 7pm.
+Anthony saw Michael getting a coffee at the cafe from 7pm to 10pm.
+The construction site was closed after 10pm.
+Between what times could Michael have gone to the construction site? [SEP] 
+OPTIONS - 0: 10am to 5pm 
+1: 5am to 10am 
+2: 5pm to 7pm 
+3: 7pm to 10pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_181,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jason went to the gas station. Between what times could they have gone?
+We know that: 
+Jason woke up at 5am.
+Sean saw Jason walking in the garden from 5am to 8am.
+David saw Jason buying lunch at the deli from 8am to 2pm.
+Jennifer saw Jason driving to the water park from 2pm to 5pm.
+Lisa saw Jason watching a movie at the theater from 6pm to 7pm.
+Mary saw Jason buying cookies at a bakery from 7pm to 10pm.
+The gas station was closed after 10pm.
+Between what times could Jason have gone to the gas station? [SEP] 
+OPTIONS - 0: 5pm to 6pm 
+1: 6pm to 7pm 
+2: 8am to 2pm 
+3: 2pm to 5pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_182,test
+3,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Ashley went to the gas station. Between what times could they have gone?
+We know that: 
+Ashley woke up at 5am.
+Nancy saw Ashley buying cookies at a bakery from 6am to 7am.
+David saw Ashley working at the office from 7am to 1pm.
+Tiffany saw Ashley buying a phone at the electronics store from 1pm to 3pm.
+Mary saw Ashley getting a coffee at the cafe from 3pm to 4pm.
+Lisa saw Ashley buying lunch at the deli from 4pm to 10pm.
+The gas station was closed after 10pm.
+Between what times could Ashley have gone to the gas station? [SEP] 
+OPTIONS - 0: 3pm to 4pm 
+1: 6am to 7am 
+2: 7am to 1pm 
+3: 5am to 6am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_188,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the restaurant. Between what times could they have gone?
+We know that: 
+William woke up at 11am.
+Nancy saw William buying clothes at the mall from 3pm to 5pm.
+Leslie saw William buying a phone at the electronics store from 5pm to 7pm.
+David saw William playing tennis at the tennis court from 7pm to 10pm.
+The restaurant was closed after 10pm.
+Between what times could William have gone to the restaurant? [SEP] 
+OPTIONS - 0: 11am to 3pm 
+1: 7pm to 10pm 
+2: 5pm to 7pm 
+3: 3pm to 5pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_192,test
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Sarah went to the dance studio. Between what times could they have gone?
+We know that: 
+Sarah woke up at 5am.
+Susan saw Sarah buying a phone at the electronics store from 5am to 7am.
+Emily saw Sarah playing tennis at the tennis court from 7am to 11am.
+Thomas saw Sarah sitting on a rooftop from 1pm to 6pm.
+The dance studio was closed after 6pm.
+Between what times could Sarah have gone to the dance studio? [SEP] 
+OPTIONS - 0: 11am to 1pm 
+1: 5am to 7am 
+2: 1pm to 6pm 
+3: 7am to 11am<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_194,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Tiffany went to the clothing store. Between what times could they have gone?
+We know that: 
+Tiffany woke up at 10am.
+John saw Tiffany taking photos near the Leaning Tower of Pisa from 10am to 12pm.
+William saw Tiffany taking photos near the Eiffel Tower from 1pm to 6pm.
+Lisa saw Tiffany driving to the water park from 6pm to 7pm.
+The clothing store was closed after 7pm.
+Between what times could Tiffany have gone to the clothing store? [SEP] 
+OPTIONS - 0: 10am to 12pm 
+1: 12pm to 1pm 
+2: 6pm to 7pm 
+3: 1pm to 6pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_209,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Thomas went to the restaurant. Between what times could they have gone?
+We know that: 
+Thomas woke up at 9am.
+Linda saw Thomas waiting at the airport from 9am to 12pm.
+Susan saw Thomas buying lunch at the deli from 5pm to 7pm.
+Lisa saw Thomas watching a movie at the theater from 7pm to 10pm.
+The restaurant was closed after 10pm.
+Between what times could Thomas have gone to the restaurant? [SEP] 
+OPTIONS - 0: 12pm to 5pm 
+1: 7pm to 10pm 
+2: 5pm to 7pm 
+3: 9am to 12pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_211,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Anthony went to the dance studio. Between what times could they have gone?
+We know that: 
+Anthony woke up at 7am.
+Kimberly saw Anthony walking in the garden from 7am to 9am.
+Linda saw Anthony waiting at the train station from 10am to 1pm.
+Susan saw Anthony attending class at the school from 1pm to 4pm.
+David saw Anthony fixing their computer at the electronic store from 4pm to 7pm.
+Tiffany saw Anthony reading at the library from 7pm to 8pm.
+The dance studio was closed after 8pm.
+Between what times could Anthony have gone to the dance studio? [SEP] 
+OPTIONS - 0: 7am to 9am 
+1: 4pm to 7pm 
+2: 9am to 10am 
+3: 7pm to 8pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_230,test
+2,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jennifer went to the swimming pool. Between what times could they have gone?
+We know that: 
+Jennifer woke up at 5am.
+Richard saw Jennifer working at the office from 5am to 8am.
+Samantha saw Jennifer reading at the library from 12pm to 1pm.
+Betty saw Jennifer buying a bike at the bike shop from 1pm to 2pm.
+Sarah saw Jennifer buying a phone at the electronics store from 2pm to 9pm.
+Thomas saw Jennifer walking towards the Statue of Liberty from 9pm to 10pm.
+The swimming pool was closed after 10pm.
+Between what times could Jennifer have gone to the swimming pool? [SEP] 
+OPTIONS - 0: 2pm to 9pm 
+1: 9pm to 10pm 
+2: 8am to 12pm 
+3: 12pm to 1pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_240,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Thomas went to the orchestra hall. Between what times could they have gone?
+We know that: 
+Thomas woke up at 10am.
+William saw Thomas driving to the water park from 1pm to 4pm.
+Sarah saw Thomas working at the office from 4pm to 6pm.
+Betty saw Thomas buying a bike at the bike shop from 6pm to 9pm.
+The orchestra hall was closed after 9pm.
+Between what times could Thomas have gone to the orchestra hall? [SEP] 
+OPTIONS - 0: 1pm to 4pm 
+1: 6pm to 9pm 
+2: 4pm to 6pm 
+3: 10am to 1pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_242,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the bakery. Between what times could they have gone?
+We know that: 
+William woke up at 5am.
+Jennifer saw William waiting at the train station from 5am to 9am.
+Nancy saw William walking towards the Statue of Liberty from 9am to 11am.
+Steven saw William sitting on a rooftop from 11am to 12pm.
+Michael saw William walking in the garden from 12pm to 1pm.
+Sean saw William working out at the gym from 1pm to 2pm.
+The bakery was closed after 8pm.
+Between what times could William have gone to the bakery? [SEP] 
+OPTIONS - 0: 11am to 12pm 
+1: 9am to 11am 
+2: 12pm to 1pm 
+3: 2pm to 8pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_253,test
+2,"
+2","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Thomas went to the basketball court. Between what times could they have gone?
+We know that: 
+Thomas woke up at 5am.
+Michael saw Thomas getting a coffee at the cafe from 5am to 8am.
+Nancy saw Thomas buying lunch at the deli from 8am to 9am.
+Susan saw Thomas taking photos near the Leaning Tower of Pisa from 9am to 12pm.
+Betty saw Thomas buying a bike at the bike shop from 12pm to 3pm.
+Sean saw Thomas working at the office from 3pm to 5pm.
+The basketball court was closed after 9pm.
+Between what times could Thomas have gone to the basketball court? [SEP] 
+OPTIONS - 0: 12pm to 3pm 
+1: 5am to 8am 
+2: 5pm to 9pm 
+3: 9am to 12pm<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_293,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, David went to the amusement park. Between what times could they have gone?
+We know that: 
+David woke up at 5am.
+Linda saw David buying a phone at the electronics store from 7am to 8am.
+Jennifer saw David buying lunch at the deli from 8am to 10am.
+Sarah saw David stretching at a yoga studio from 10am to 11am.
+The amusement park was closed after 11am.
+Between what times could David have gone to the amusement park? [SEP] 
+OPTIONS - 0: 7am to 8am 
+1: 8am to 10am 
+2: 5am to 7am 
+3: 10am to 11am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_299,test
+1,"
+0","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Ashley went to the physics classroom. Between what times could they have gone?
+We know that: 
+Ashley woke up at 5am.
+Mark saw Ashley fixing their computer at the electronic store from 5am to 8am.
+Nancy saw Ashley waiting at the airport from 8am to 11am.
+Lisa saw Ashley walking in the garden from 11am to 12pm.
+Betty saw Ashley getting a coffee at the cafe from 12pm to 3pm.
+John saw Ashley attending class at the school from 5pm to 8pm.
+The physics classroom was closed after 8pm.
+Between what times could Ashley have gone to the physics classroom? [SEP] 
+OPTIONS - 0: 5pm to 8pm 
+1: 3pm to 5pm 
+2: 8am to 11am 
+3: 11am to 12pm<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_300,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Tiffany went to the orchestra hall. Between what times could they have gone?
+We know that: 
+Tiffany woke up at 6am.
+Lisa saw Tiffany reading at the library from 6am to 8am.
+Kimberly saw Tiffany taking photos near the Eiffel Tower from 8am to 2pm.
+John saw Tiffany buying a bike at the bike shop from 3pm to 5pm.
+The orchestra hall was closed after 5pm.
+Between what times could Tiffany have gone to the orchestra hall? [SEP] 
+OPTIONS - 0: 3pm to 5pm 
+1: 2pm to 3pm 
+2: 6am to 8am 
+3: 8am to 2pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_340,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Mark went to the movies. Between what times could they have gone?
+We know that: 
+Mark woke up at 6am.
+Leslie saw Mark working at the office from 6am to 10am.
+Nancy saw Mark buying lunch at the deli from 1pm to 5pm.
+Michael saw Mark taking photos near the Eiffel Tower from 5pm to 7pm.
+Emily saw Mark buying clothes at the mall from 7pm to 8pm.
+Anthony saw Mark walking in the garden from 8pm to 9pm.
+The movies was closed after 9pm.
+Between what times could Mark have gone to the movies? [SEP] 
+OPTIONS - 0: 1pm to 5pm 
+1: 8pm to 9pm 
+2: 6am to 10am 
+3: 10am to 1pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_343,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Elizabeth went to the football field. Between what times could they have gone?
+We know that: 
+Elizabeth woke up at 5am.
+Linda saw Elizabeth buying cookies at a bakery from 6am to 11am.
+Sarah saw Elizabeth driving to the water park from 11am to 1pm.
+Betty saw Elizabeth fixing their computer at the electronic store from 1pm to 5pm.
+James saw Elizabeth buying lunch at the deli from 5pm to 9pm.
+The football field was closed after 9pm.
+Between what times could Elizabeth have gone to the football field? [SEP] 
+OPTIONS - 0: 1pm to 5pm 
+1: 5am to 6am 
+2: 5pm to 9pm 
+3: 6am to 11am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_361,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Andrew went to the library. Between what times could they have gone?
+We know that: 
+Andrew woke up at 7am.
+Kimberly saw Andrew walking towards the Statue of Liberty from 7am to 9am.
+Emily saw Andrew buying a phone at the electronics store from 9am to 2pm.
+Richard saw Andrew driving to the water park from 3pm to 7pm.
+Jennifer saw Andrew watching a movie at the theater from 7pm to 8pm.
+The library was closed after 8pm.
+Between what times could Andrew have gone to the library? [SEP] 
+OPTIONS - 0: 2pm to 3pm 
+1: 7am to 9am 
+2: 9am to 2pm 
+3: 3pm to 7pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_371,test
+0,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Sarah went to the art studio. Between what times could they have gone?
+We know that: 
+Sarah woke up at 5am.
+David saw Sarah buying lunch at the deli from 5am to 6am.
+Sarah saw Sarah working at the office from 6am to 8am.
+Kimberly saw Sarah working out at the gym from 8am to 11am.
+Jessica saw Sarah buying clothes at the mall from 11am to 6pm.
+Andrew saw Sarah stretching at a yoga studio from 6pm to 7pm.
+The art studio was closed after 8pm.
+Between what times could Sarah have gone to the art studio? [SEP] 
+OPTIONS - 0: 7pm to 8pm 
+1: 5am to 6am 
+2: 6pm to 7pm 
+3: 8am to 11am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_380,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the dance studio. Between what times could they have gone?
+We know that: 
+William woke up at 6am.
+Ashley saw William attending class at the school from 6am to 9am.
+Elizabeth saw William working out at the gym from 9am to 12pm.
+Mark saw William playing tennis at the tennis court from 12pm to 2pm.
+The dance studio was closed after 8pm.
+Between what times could William have gone to the dance studio? [SEP] 
+OPTIONS - 0: 2pm to 8pm 
+1: 12pm to 2pm 
+2: 9am to 12pm 
+3: 6am to 9am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_394,test
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Elizabeth went to the football field. Between what times could they have gone?
+We know that: 
+Elizabeth woke up at 5am.
+Jessica saw Elizabeth getting a coffee at the cafe from 5am to 12pm.
+Mary saw Elizabeth taking photos near the Eiffel Tower from 12pm to 3pm.
+Thomas saw Elizabeth walking in the garden from 5pm to 10pm.
+The football field was closed after 10pm.
+Between what times could Elizabeth have gone to the football field? [SEP] 
+OPTIONS - 0: 5am to 12pm 
+1: 12pm to 3pm 
+2: 5pm to 10pm 
+3: 3pm to 5pm<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_395,test
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Leslie went to the clothing store. Between what times could they have gone?
+We know that: 
+Leslie woke up at 7am.
+Jessica saw Leslie reading at the library from 7am to 10am.
+Hannah saw Leslie taking photos near the Eiffel Tower from 10am to 12pm.
+Jennifer saw Leslie waiting at the airport from 6pm to 9pm.
+The clothing store was closed after 9pm.
+Between what times could Leslie have gone to the clothing store? [SEP] 
+OPTIONS - 0: 10am to 12pm 
+1: 12pm to 6pm 
+2: 6pm to 9pm 
+3: 7am to 10am<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_400,test
+3,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, David went to the football field. Between what times could they have gone?
+We know that: 
+David woke up at 5am.
+Susan saw David sitting on a rooftop from 5am to 9am.
+Nancy saw David stretching at a yoga studio from 9am to 11am.
+Mark saw David reading at the library from 11am to 12pm.
+David saw David working at the office from 2pm to 3pm.
+Tiffany saw David taking photos near the Leaning Tower of Pisa from 3pm to 6pm.
+The football field was closed after 6pm.
+Between what times could David have gone to the football field? [SEP] 
+OPTIONS - 0: 2pm to 3pm 
+1: 3pm to 6pm 
+2: 9am to 11am 
+3: 12pm to 2pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_402,test
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Kimberly went to the park. Between what times could they have gone?
+We know that: 
+Kimberly woke up at 5am.
+Steven saw Kimberly sitting on a rooftop from 5am to 7am.
+Linda saw Kimberly buying a bike at the bike shop from 7am to 8am.
+Susan saw Kimberly walking towards the Statue of Liberty from 8am to 6pm.
+The park was closed after 8pm.
+Between what times could Kimberly have gone to the park? [SEP] 
+OPTIONS - 0: 6pm to 8pm 
+1: 8am to 6pm 
+2: 5am to 7am 
+3: 7am to 8am<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_403,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Lisa went to the bookstore. Between what times could they have gone?
+We know that: 
+Lisa woke up at 11am.
+Sarah saw Lisa watching a movie at the theater from 1pm to 2pm.
+David saw Lisa buying clothes at the mall from 2pm to 7pm.
+Steven saw Lisa buying a bike at the bike shop from 7pm to 8pm.
+The bookstore was closed after 8pm.
+Between what times could Lisa have gone to the bookstore? [SEP] 
+OPTIONS - 0: 1pm to 2pm 
+1: 7pm to 8pm 
+2: 2pm to 7pm 
+3: 11am to 1pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_406,test
+1,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Kimberly went to the beach. Between what times could they have gone?
+We know that: 
+Kimberly woke up at 8am.
+Samantha saw Kimberly taking photos near the Eiffel Tower from 8am to 9am.
+Linda saw Kimberly buying a phone at the electronics store from 9am to 11am.
+Mark saw Kimberly buying a bike at the bike shop from 11am to 2pm.
+Jessica saw Kimberly playing tennis at the tennis court from 2pm to 3pm.
+David saw Kimberly reading at the library from 9pm to 10pm.
+The beach was closed after 10pm.
+Between what times could Kimberly have gone to the beach? [SEP] 
+OPTIONS - 0: 2pm to 3pm 
+1: 3pm to 9pm 
+2: 9pm to 10pm 
+3: 9am to 11am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_413,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Lisa went to the swimming pool. Between what times could they have gone?
+We know that: 
+Lisa woke up at 8am.
+William saw Lisa reading at the library from 8am to 11am.
+Anthony saw Lisa sitting on a rooftop from 11am to 5pm.
+Sarah saw Lisa playing tennis at the tennis court from 5pm to 6pm.
+Thomas saw Lisa stretching at a yoga studio from 6pm to 7pm.
+The swimming pool was closed after 8pm.
+Between what times could Lisa have gone to the swimming pool? [SEP] 
+OPTIONS - 0: 7pm to 8pm 
+1: 8am to 11am 
+2: 11am to 5pm 
+3: 6pm to 7pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_416,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Susan went to the construction site. Between what times could they have gone?
+We know that: 
+Susan woke up at 5am.
+Samantha saw Susan buying a bike at the bike shop from 5am to 9am.
+John saw Susan driving to the water park from 2pm to 5pm.
+Thomas saw Susan taking photos near the Eiffel Tower from 5pm to 6pm.
+Lisa saw Susan getting a coffee at the cafe from 6pm to 8pm.
+Mary saw Susan sitting on a rooftop from 8pm to 9pm.
+The construction site was closed after 9pm.
+Between what times could Susan have gone to the construction site? [SEP] 
+OPTIONS - 0: 9am to 2pm 
+1: 5am to 9am 
+2: 6pm to 8pm 
+3: 5pm to 6pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_444,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Sarah went to the coffee shop. Between what times could they have gone?
+We know that: 
+Sarah woke up at 5am.
+Thomas saw Sarah buying a phone at the electronics store from 5am to 9am.
+Michael saw Sarah buying clothes at the mall from 9am to 10am.
+David saw Sarah sitting on a rooftop from 10am to 11am.
+Lisa saw Sarah walking in the garden from 11am to 12pm.
+Nancy saw Sarah driving to the water park from 2pm to 7pm.
+The coffee shop was closed after 7pm.
+Between what times could Sarah have gone to the coffee shop? [SEP] 
+OPTIONS - 0: 9am to 10am 
+1: 5am to 9am 
+2: 11am to 12pm 
+3: 12pm to 2pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_445,test
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Kimberly went to the beach. Between what times could they have gone?
+We know that: 
+Kimberly woke up at 5am.
+Jason saw Kimberly buying a bike at the bike shop from 1pm to 2pm.
+Betty saw Kimberly buying a phone at the electronics store from 2pm to 3pm.
+William saw Kimberly attending class at the school from 3pm to 4pm.
+David saw Kimberly stretching at a yoga studio from 4pm to 5pm.
+Elizabeth saw Kimberly buying clothes at the mall from 5pm to 7pm.
+The beach was closed after 7pm.
+Between what times could Kimberly have gone to the beach? [SEP] 
+OPTIONS - 0: 5am to 1pm 
+1: 5pm to 7pm 
+2: 2pm to 3pm 
+3: 1pm to 2pm<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_446,test
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Anthony went to the football field. Between what times could they have gone?
+We know that: 
+Anthony woke up at 6am.
+Sarah saw Anthony watching a movie at the theater from 6am to 7am.
+James saw Anthony buying cookies at a bakery from 7am to 11am.
+Jessica saw Anthony sitting on a rooftop from 5pm to 7pm.
+The football field was closed after 7pm.
+Between what times could Anthony have gone to the football field? [SEP] 
+OPTIONS - 0: 11am to 5pm 
+1: 7am to 11am 
+2: 5pm to 7pm 
+3: 6am to 7am<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_447,test
+2,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Mark went to the beach. Between what times could they have gone?
+We know that: 
+Mark woke up at 6am.
+John saw Mark walking towards the Statue of Liberty from 6am to 10am.
+Tiffany saw Mark buying lunch at the deli from 10am to 11am.
+Thomas saw Mark fixing their computer at the electronic store from 11am to 12pm.
+Nancy saw Mark working at the office from 12pm to 6pm.
+William saw Mark driving to the water park from 8pm to 10pm.
+The beach was closed after 10pm.
+Between what times could Mark have gone to the beach? [SEP] 
+OPTIONS - 0: 11am to 12pm 
+1: 6am to 10am 
+2: 6pm to 8pm 
+3: 8pm to 10pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_451,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jason went to the park. Between what times could they have gone?
+We know that: 
+Jason woke up at 6am.
+Nancy saw Jason stretching at a yoga studio from 6am to 7am.
+Michael saw Jason taking photos near the Leaning Tower of Pisa from 7am to 11am.
+John saw Jason playing tennis at the tennis court from 12pm to 2pm.
+Samantha saw Jason reading at the library from 2pm to 8pm.
+The park was closed after 8pm.
+Between what times could Jason have gone to the park? [SEP] 
+OPTIONS - 0: 12pm to 2pm 
+1: 6am to 7am 
+2: 11am to 12pm 
+3: 2pm to 8pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_459,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, David went to the restaurant. Between what times could they have gone?
+We know that: 
+David woke up at 6am.
+Mark saw David reading at the library from 6am to 7am.
+Lisa saw David watching a movie at the theater from 11am to 6pm.
+David saw David waiting at the train station from 6pm to 9pm.
+The restaurant was closed after 9pm.
+Between what times could David have gone to the restaurant? [SEP] 
+OPTIONS - 0: 6am to 7am 
+1: 11am to 6pm 
+2: 6pm to 9pm 
+3: 7am to 11am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_464,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, David went to the park. Between what times could they have gone?
+We know that: 
+David woke up at 10am.
+Steven saw David waiting at the train station from 10am to 12pm.
+David saw David sitting on a rooftop from 12pm to 1pm.
+Tiffany saw David watching a movie at the theater from 8pm to 9pm.
+Jessica saw David attending class at the school from 9pm to 10pm.
+The park was closed after 10pm.
+Between what times could David have gone to the park? [SEP] 
+OPTIONS - 0: 10am to 12pm 
+1: 8pm to 9pm 
+2: 1pm to 8pm 
+3: 9pm to 10pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_513,test
+0,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Andrew went to the construction site. Between what times could they have gone?
+We know that: 
+Andrew woke up at 10am.
+Emily saw Andrew fixing their computer at the electronic store from 10am to 12pm.
+Richard saw Andrew walking in the garden from 12pm to 1pm.
+David saw Andrew sitting on a rooftop from 1pm to 6pm.
+William saw Andrew buying a bike at the bike shop from 7pm to 8pm.
+Kimberly saw Andrew working out at the gym from 8pm to 9pm.
+The construction site was closed after 9pm.
+Between what times could Andrew have gone to the construction site? [SEP] 
+OPTIONS - 0: 6pm to 7pm 
+1: 12pm to 1pm 
+2: 10am to 12pm 
+3: 7pm to 8pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_539,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, John went to the art studio. Between what times could they have gone?
+We know that: 
+John woke up at 5am.
+John saw John fixing their computer at the electronic store from 5am to 6am.
+Jessica saw John waiting at the train station from 7am to 11am.
+Sarah saw John buying cookies at a bakery from 11am to 1pm.
+Kimberly saw John sitting on a rooftop from 1pm to 4pm.
+David saw John getting a coffee at the cafe from 4pm to 9pm.
+The art studio was closed after 9pm.
+Between what times could John have gone to the art studio? [SEP] 
+OPTIONS - 0: 6am to 7am 
+1: 7am to 11am 
+2: 4pm to 9pm 
+3: 11am to 1pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_540,test
+2,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Betty went to the bakery. Between what times could they have gone?
+We know that: 
+Betty woke up at 6am.
+Kimberly saw Betty buying clothes at the mall from 6am to 10am.
+Samantha saw Betty attending class at the school from 10am to 12pm.
+David saw Betty buying a phone at the electronics store from 12pm to 8pm.
+Leslie saw Betty taking photos near the Eiffel Tower from 9pm to 10pm.
+The bakery was closed after 10pm.
+Between what times could Betty have gone to the bakery? [SEP] 
+OPTIONS - 0: 10am to 12pm 
+1: 6am to 10am 
+2: 8pm to 9pm 
+3: 12pm to 8pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_543,test
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the park. Between what times could they have gone?
+We know that: 
+William woke up at 7am.
+Thomas saw William buying clothes at the mall from 11am to 3pm.
+Jason saw William taking photos near the Eiffel Tower from 3pm to 6pm.
+Sarah saw William working at the office from 6pm to 8pm.
+The park was closed after 8pm.
+Between what times could William have gone to the park? [SEP] 
+OPTIONS - 0: 3pm to 6pm 
+1: 6pm to 8pm 
+2: 7am to 11am 
+3: 11am to 3pm<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_558,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, David went to the movies. Between what times could they have gone?
+We know that: 
+David woke up at 7am.
+Mark saw David driving to the water park from 7am to 3pm.
+James saw David reading at the library from 3pm to 5pm.
+Samantha saw David attending class at the school from 6pm to 7pm.
+The movies was closed after 7pm.
+Between what times could David have gone to the movies? [SEP] 
+OPTIONS - 0: 7am to 3pm 
+1: 5pm to 6pm 
+2: 6pm to 7pm 
+3: 3pm to 5pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_569,test
+1,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Nancy went to the basketball court. Between what times could they have gone?
+We know that: 
+Nancy woke up at 8am.
+Lisa saw Nancy fixing their computer at the electronic store from 11am to 1pm.
+William saw Nancy working out at the gym from 1pm to 7pm.
+James saw Nancy taking photos near the Leaning Tower of Pisa from 7pm to 9pm.
+Betty saw Nancy playing tennis at the tennis court from 9pm to 10pm.
+The basketball court was closed after 10pm.
+Between what times could Nancy have gone to the basketball court? [SEP] 
+OPTIONS - 0: 11am to 1pm 
+1: 8am to 11am 
+2: 1pm to 7pm 
+3: 9pm to 10pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_574,test
+1,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Samantha went to the restaurant. Between what times could they have gone?
+We know that: 
+Samantha woke up at 7am.
+Jennifer saw Samantha sitting on a rooftop from 7am to 10am.
+Michael saw Samantha buying clothes at the mall from 12pm to 1pm.
+Betty saw Samantha getting a coffee at the cafe from 1pm to 5pm.
+Anthony saw Samantha stretching at a yoga studio from 5pm to 6pm.
+Sean saw Samantha playing tennis at the tennis court from 6pm to 9pm.
+The restaurant was closed after 9pm.
+Between what times could Samantha have gone to the restaurant? [SEP] 
+OPTIONS - 0: 12pm to 1pm 
+1: 10am to 12pm 
+2: 1pm to 5pm 
+3: 5pm to 6pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_591,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the physics classroom. Between what times could they have gone?
+We know that: 
+William woke up at 5am.
+Michael saw William working out at the gym from 5am to 7am.
+Betty saw William buying lunch at the deli from 7am to 1pm.
+David saw William fixing their computer at the electronic store from 1pm to 4pm.
+Jason saw William taking photos near the Leaning Tower of Pisa from 4pm to 5pm.
+The physics classroom was closed after 8pm.
+Between what times could William have gone to the physics classroom? [SEP] 
+OPTIONS - 0: 5am to 7am 
+1: 5pm to 8pm 
+2: 4pm to 5pm 
+3: 7am to 1pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_605,test
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Richard went to the museum. Between what times could they have gone?
+We know that: 
+Richard woke up at 6am.
+Tiffany saw Richard waiting at the airport from 6am to 12pm.
+Mark saw Richard walking in the garden from 12pm to 1pm.
+Jason saw Richard working out at the gym from 1pm to 2pm.
+Steven saw Richard playing tennis at the tennis court from 2pm to 3pm.
+The museum was closed after 5pm.
+Between what times could Richard have gone to the museum? [SEP] 
+OPTIONS - 0: 2pm to 3pm 
+1: 3pm to 5pm 
+2: 1pm to 2pm 
+3: 6am to 12pm<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_611,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Mary went to the park. Between what times could they have gone?
+We know that: 
+Mary woke up at 7am.
+Elizabeth saw Mary working at the office from 7am to 1pm.
+John saw Mary reading at the library from 2pm to 5pm.
+Nancy saw Mary playing tennis at the tennis court from 5pm to 7pm.
+The park was closed after 7pm.
+Between what times could Mary have gone to the park? [SEP] 
+OPTIONS - 0: 2pm to 5pm 
+1: 5pm to 7pm 
+2: 7am to 1pm 
+3: 1pm to 2pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_617,test
+0,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Elizabeth went to the art studio. Between what times could they have gone?
+We know that: 
+Elizabeth woke up at 8am.
+Elizabeth saw Elizabeth buying a phone at the electronics store from 9am to 12pm.
+Kimberly saw Elizabeth stretching at a yoga studio from 12pm to 4pm.
+Jason saw Elizabeth walking in the garden from 4pm to 5pm.
+William saw Elizabeth buying cookies at a bakery from 5pm to 7pm.
+Hannah saw Elizabeth fixing their computer at the electronic store from 7pm to 10pm.
+The art studio was closed after 10pm.
+Between what times could Elizabeth have gone to the art studio? [SEP] 
+OPTIONS - 0: 8am to 9am 
+1: 4pm to 5pm 
+2: 7pm to 10pm 
+3: 12pm to 4pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_624,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Michael went to the gas station. Between what times could they have gone?
+We know that: 
+Michael woke up at 8am.
+Thomas saw Michael stretching at a yoga studio from 1pm to 2pm.
+Anthony saw Michael sitting on a rooftop from 2pm to 4pm.
+Emily saw Michael buying cookies at a bakery from 4pm to 5pm.
+Sean saw Michael reading at the library from 5pm to 6pm.
+The gas station was closed after 6pm.
+Between what times could Michael have gone to the gas station? [SEP] 
+OPTIONS - 0: 5pm to 6pm 
+1: 4pm to 5pm 
+2: 2pm to 4pm 
+3: 8am to 1pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_630,test
+3,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, John went to the movies. Between what times could they have gone?
+We know that: 
+John woke up at 5am.
+Michael saw John taking photos near the Eiffel Tower from 7am to 11am.
+Susan saw John waiting at the train station from 11am to 12pm.
+Jason saw John attending class at the school from 12pm to 4pm.
+The movies was closed after 4pm.
+Between what times could John have gone to the movies? [SEP] 
+OPTIONS - 0: 12pm to 4pm 
+1: 7am to 11am 
+2: 11am to 12pm 
+3: 5am to 7am<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_643,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Betty went to the art studio. Between what times could they have gone?
+We know that: 
+Betty woke up at 8am.
+Elizabeth saw Betty taking photos near the Leaning Tower of Pisa from 8am to 10am.
+Susan saw Betty buying a bike at the bike shop from 10am to 5pm.
+Samantha saw Betty driving to the water park from 8pm to 9pm.
+The art studio was closed after 9pm.
+Between what times could Betty have gone to the art studio? [SEP] 
+OPTIONS - 0: 8am to 10am 
+1: 8pm to 9pm 
+2: 10am to 5pm 
+3: 5pm to 8pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_647,test
+1,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, John went to the market. Between what times could they have gone?
+We know that: 
+John woke up at 10am.
+Jennifer saw John buying a bike at the bike shop from 10am to 11am.
+William saw John sitting on a rooftop from 12pm to 1pm.
+Mark saw John reading at the library from 1pm to 2pm.
+Betty saw John getting a coffee at the cafe from 2pm to 5pm.
+David saw John buying cookies at a bakery from 5pm to 8pm.
+The market was closed after 8pm.
+Between what times could John have gone to the market? [SEP] 
+OPTIONS - 0: 1pm to 2pm 
+1: 11am to 12pm 
+2: 5pm to 8pm 
+3: 10am to 11am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_681,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the soccer field. Between what times could they have gone?
+We know that: 
+William woke up at 5am.
+Andrew saw William working at the office from 6am to 4pm.
+Ashley saw William taking photos near the Eiffel Tower from 4pm to 7pm.
+Jessica saw William walking towards the Statue of Liberty from 7pm to 8pm.
+Susan saw William waiting at the airport from 8pm to 9pm.
+The soccer field was closed after 9pm.
+Between what times could William have gone to the soccer field? [SEP] 
+OPTIONS - 0: 5am to 6am 
+1: 6am to 4pm 
+2: 4pm to 7pm 
+3: 7pm to 8pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_689,test
+3,"
+3","<|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, David went to the beach. Between what times could they have gone?
+We know that: 
+David woke up at 5am.
+Elizabeth saw David taking photos near the Leaning Tower of Pisa from 5am to 6am.
+Mark saw David walking in the garden from 8am to 12pm.
+Sean saw David stretching at a yoga studio from 12pm to 2pm.
+Andrew saw David driving to the water park from 2pm to 5pm.
+William saw David fixing their computer at the electronic store from 5pm to 6pm.
+The beach was closed after 6pm.
+Between what times could David have gone to the beach? [SEP] 
+OPTIONS - 0: 2pm to 5pm 
+1: 8am to 12pm 
+2: 5am to 6am 
+3: 6am to 8am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_697,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the art show. Between what times could they have gone?
+We know that: 
+William woke up at 5am.
+Sarah saw William watching a movie at the theater from 8am to 10am.
+Jennifer saw William buying a bike at the bike shop from 10am to 1pm.
+Jason saw William buying a phone at the electronics store from 1pm to 6pm.
+Linda saw William buying cookies at a bakery from 6pm to 8pm.
+The art show was closed after 8pm.
+Between what times could William have gone to the art show? [SEP] 
+OPTIONS - 0: 5am to 8am 
+1: 8am to 10am 
+2: 10am to 1pm 
+3: 1pm to 6pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_705,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Mary went to the soccer field. Between what times could they have gone?
+We know that: 
+Mary woke up at 6am.
+Betty saw Mary buying lunch at the deli from 6am to 9am.
+Jason saw Mary attending class at the school from 9am to 1pm.
+Susan saw Mary playing tennis at the tennis court from 7pm to 8pm.
+Jennifer saw Mary waiting at the train station from 8pm to 9pm.
+The soccer field was closed after 9pm.
+Between what times could Mary have gone to the soccer field? [SEP] 
+OPTIONS - 0: 9am to 1pm 
+1: 6am to 9am 
+2: 1pm to 7pm 
+3: 8pm to 9pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_706,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Leslie went to the park. Between what times could they have gone?
+We know that: 
+Leslie woke up at 7am.
+William saw Leslie sitting on a rooftop from 7am to 11am.
+Thomas saw Leslie playing tennis at the tennis court from 11am to 12pm.
+Sarah saw Leslie waiting at the airport from 12pm to 5pm.
+Emily saw Leslie working out at the gym from 5pm to 6pm.
+The park was closed after 8pm.
+Between what times could Leslie have gone to the park? [SEP] 
+OPTIONS - 0: 7am to 11am 
+1: 11am to 12pm 
+2: 6pm to 8pm 
+3: 12pm to 5pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_709,test
+3,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Richard went to the construction site. Between what times could they have gone?
+We know that: 
+Richard woke up at 7am.
+William saw Richard getting a coffee at the cafe from 7am to 2pm.
+Betty saw Richard stretching at a yoga studio from 3pm to 6pm.
+Sarah saw Richard buying a bike at the bike shop from 6pm to 8pm.
+Susan saw Richard taking photos near the Leaning Tower of Pisa from 8pm to 9pm.
+The construction site was closed after 9pm.
+Between what times could Richard have gone to the construction site? [SEP] 
+OPTIONS - 0: 3pm to 6pm 
+1: 6pm to 8pm 
+2: 7am to 2pm 
+3: 2pm to 3pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_716,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, John went to the park. Between what times could they have gone?
+We know that: 
+John woke up at 11am.
+Ashley saw John waiting at the airport from 12pm to 7pm.
+Tiffany saw John fixing their computer at the electronic store from 7pm to 9pm.
+Susan saw John playing tennis at the tennis court from 9pm to 10pm.
+The park was closed after 10pm.
+Between what times could John have gone to the park? [SEP] 
+OPTIONS - 0: 12pm to 7pm 
+1: 9pm to 10pm 
+2: 7pm to 9pm 
+3: 11am to 12pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_748,test
+1,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Hannah went to the soccer field. Between what times could they have gone?
+We know that: 
+Hannah woke up at 6am.
+Susan saw Hannah buying a phone at the electronics store from 6am to 7am.
+Michael saw Hannah stretching at a yoga studio from 7am to 9am.
+Jason saw Hannah buying clothes at the mall from 12pm to 3pm.
+Mark saw Hannah walking towards the Statue of Liberty from 3pm to 6pm.
+Emily saw Hannah buying a bike at the bike shop from 6pm to 9pm.
+The soccer field was closed after 9pm.
+Between what times could Hannah have gone to the soccer field? [SEP] 
+OPTIONS - 0: 6pm to 9pm 
+1: 9am to 12pm 
+2: 7am to 9am 
+3: 6am to 7am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_759,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Leslie went to the art show. Between what times could they have gone?
+We know that: 
+Leslie woke up at 9am.
+Elizabeth saw Leslie waiting at the airport from 9am to 1pm.
+Betty saw Leslie sitting on a rooftop from 8pm to 9pm.
+Samantha saw Leslie getting a coffee at the cafe from 9pm to 10pm.
+The art show was closed after 10pm.
+Between what times could Leslie have gone to the art show? [SEP] 
+OPTIONS - 0: 9am to 1pm 
+1: 9pm to 10pm 
+2: 8pm to 9pm 
+3: 1pm to 8pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_764,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jason went to the orchestra hall. Between what times could they have gone?
+We know that: 
+Jason woke up at 7am.
+Steven saw Jason buying a phone at the electronics store from 7am to 10am.
+Sarah saw Jason attending class at the school from 10am to 11am.
+Jennifer saw Jason taking photos near the Eiffel Tower from 1pm to 3pm.
+William saw Jason walking in the garden from 3pm to 5pm.
+The orchestra hall was closed after 5pm.
+Between what times could Jason have gone to the orchestra hall? [SEP] 
+OPTIONS - 0: 1pm to 3pm 
+1: 11am to 1pm 
+2: 10am to 11am 
+3: 3pm to 5pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_775,test
+1,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jessica went to the construction site. Between what times could they have gone?
+We know that: 
+Jessica woke up at 10am.
+Jason saw Jessica playing tennis at the tennis court from 10am to 12pm.
+Thomas saw Jessica walking in the garden from 12pm to 1pm.
+Sarah saw Jessica reading at the library from 1pm to 5pm.
+Richard saw Jessica sitting on a rooftop from 6pm to 9pm.
+Susan saw Jessica walking towards the Statue of Liberty from 9pm to 10pm.
+The construction site was closed after 10pm.
+Between what times could Jessica have gone to the construction site? [SEP] 
+OPTIONS - 0: 9pm to 10pm 
+1: 5pm to 6pm 
+2: 1pm to 5pm 
+3: 10am to 12pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_789,test
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Hannah went to the clothing store. Between what times could they have gone?
+We know that: 
+Hannah woke up at 7am.
+William saw Hannah buying a phone at the electronics store from 7am to 11am.
+Jessica saw Hannah driving to the water park from 11am to 4pm.
+Ashley saw Hannah buying cookies at a bakery from 8pm to 10pm.
+The clothing store was closed after 10pm.
+Between what times could Hannah have gone to the clothing store? [SEP] 
+OPTIONS - 0: 4pm to 8pm 
+1: 8pm to 10pm 
+2: 7am to 11am 
+3: 11am to 4pm<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_791,test
+3,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Thomas went to the restaurant. Between what times could they have gone?
+We know that: 
+Thomas woke up at 6am.
+Jennifer saw Thomas fixing their computer at the electronic store from 6am to 8am.
+Michael saw Thomas walking in the garden from 8am to 10am.
+Sarah saw Thomas working at the office from 12pm to 2pm.
+Emily saw Thomas buying clothes at the mall from 2pm to 4pm.
+David saw Thomas buying a phone at the electronics store from 4pm to 5pm.
+The restaurant was closed after 5pm.
+Between what times could Thomas have gone to the restaurant? [SEP] 
+OPTIONS - 0: 4pm to 5pm 
+1: 8am to 10am 
+2: 2pm to 4pm 
+3: 10am to 12pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_804,test
+2,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the basketball court. Between what times could they have gone?
+We know that: 
+William woke up at 6am.
+Michael saw William buying lunch at the deli from 6am to 10am.
+Betty saw William reading at the library from 10am to 2pm.
+Linda saw William stretching at a yoga studio from 2pm to 3pm.
+William saw William working out at the gym from 5pm to 7pm.
+Elizabeth saw William attending class at the school from 7pm to 8pm.
+The basketball court was closed after 8pm.
+Between what times could William have gone to the basketball court? [SEP] 
+OPTIONS - 0: 7pm to 8pm 
+1: 6am to 10am 
+2: 3pm to 5pm 
+3: 10am to 2pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_806,test
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Linda went to the art show. Between what times could they have gone?
+We know that: 
+Linda woke up at 6am.
+Elizabeth saw Linda attending class at the school from 8am to 9am.
+Richard saw Linda walking in the garden from 9am to 1pm.
+Lisa saw Linda buying a bike at the bike shop from 1pm to 9pm.
+The art show was closed after 9pm.
+Between what times could Linda have gone to the art show? [SEP] 
+OPTIONS - 0: 6am to 8am 
+1: 1pm to 9pm 
+2: 9am to 1pm 
+3: 8am to 9am<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_815,test
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jennifer went to the basketball court. Between what times could they have gone?
+We know that: 
+Jennifer woke up at 7am.
+John saw Jennifer stretching at a yoga studio from 7am to 8am.
+Emily saw Jennifer getting a coffee at the cafe from 11am to 3pm.
+David saw Jennifer waiting at the airport from 3pm to 6pm.
+Jason saw Jennifer working at the office from 6pm to 9pm.
+The basketball court was closed after 9pm.
+Between what times could Jennifer have gone to the basketball court? [SEP] 
+OPTIONS - 0: 8am to 11am 
+1: 3pm to 6pm 
+2: 6pm to 9pm 
+3: 7am to 8am<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_825,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Susan went to the gas station. Between what times could they have gone?
+We know that: 
+Susan woke up at 5am.
+Kimberly saw Susan playing tennis at the tennis court from 5am to 10am.
+David saw Susan walking in the garden from 10am to 2pm.
+Hannah saw Susan attending class at the school from 2pm to 3pm.
+The gas station was closed after 10pm.
+Between what times could Susan have gone to the gas station? [SEP] 
+OPTIONS - 0: 2pm to 3pm 
+1: 5am to 10am 
+2: 3pm to 10pm 
+3: 10am to 2pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_826,test
+0,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Elizabeth went to the art studio. Between what times could they have gone?
+We know that: 
+Elizabeth woke up at 6am.
+Sean saw Elizabeth buying clothes at the mall from 6am to 9am.
+Samantha saw Elizabeth taking photos near the Leaning Tower of Pisa from 9am to 11am.
+William saw Elizabeth playing tennis at the tennis court from 11am to 12pm.
+James saw Elizabeth buying cookies at a bakery from 2pm to 8pm.
+The art studio was closed after 8pm.
+Between what times could Elizabeth have gone to the art studio? [SEP] 
+OPTIONS - 0: 12pm to 2pm 
+1: 11am to 12pm 
+2: 9am to 11am 
+3: 2pm to 8pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_848,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Steven went to the library. Between what times could they have gone?
+We know that: 
+Steven woke up at 6am.
+Richard saw Steven driving to the water park from 6am to 8am.
+Michael saw Steven buying lunch at the deli from 8am to 9am.
+Leslie saw Steven working at the office from 12pm to 4pm.
+The library was closed after 4pm.
+Between what times could Steven have gone to the library? [SEP] 
+OPTIONS - 0: 6am to 8am 
+1: 9am to 12pm 
+2: 12pm to 4pm 
+3: 8am to 9am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_858,test
+1,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the market. Between what times could they have gone?
+We know that: 
+William woke up at 6am.
+Elizabeth saw William driving to the water park from 6am to 7am.
+Betty saw William sitting on a rooftop from 7am to 8am.
+James saw William buying a bike at the bike shop from 8am to 9am.
+Jason saw William fixing their computer at the electronic store from 9am to 10am.
+Kimberly saw William working at the office from 10am to 11am.
+The market was closed after 12pm.
+Between what times could William have gone to the market? [SEP] 
+OPTIONS - 0: 7am to 8am 
+1: 11am to 12pm 
+2: 10am to 11am 
+3: 8am to 9am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_860,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Michael went to the art studio. Between what times could they have gone?
+We know that: 
+Michael woke up at 9am.
+Leslie saw Michael driving to the water park from 2pm to 4pm.
+Andrew saw Michael stretching at a yoga studio from 4pm to 6pm.
+Anthony saw Michael working out at the gym from 6pm to 7pm.
+The art studio was closed after 7pm.
+Between what times could Michael have gone to the art studio? [SEP] 
+OPTIONS - 0: 4pm to 6pm 
+1: 2pm to 4pm 
+2: 6pm to 7pm 
+3: 9am to 2pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_902,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Richard went to the orchestra hall. Between what times could they have gone?
+We know that: 
+Richard woke up at 9am.
+Susan saw Richard driving to the water park from 9am to 12pm.
+Jason saw Richard fixing their computer at the electronic store from 12pm to 1pm.
+Lisa saw Richard playing tennis at the tennis court from 1pm to 2pm.
+Jennifer saw Richard working out at the gym from 2pm to 4pm.
+Emily saw Richard stretching at a yoga studio from 5pm to 6pm.
+The orchestra hall was closed after 6pm.
+Between what times could Richard have gone to the orchestra hall? [SEP] 
+OPTIONS - 0: 12pm to 1pm 
+1: 9am to 12pm 
+2: 4pm to 5pm 
+3: 2pm to 4pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_917,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, David went to the soccer field. Between what times could they have gone?
+We know that: 
+David woke up at 5am.
+Leslie saw David playing tennis at the tennis court from 6am to 11am.
+Thomas saw David attending class at the school from 11am to 6pm.
+Emily saw David stretching at a yoga studio from 6pm to 7pm.
+Kimberly saw David sitting on a rooftop from 7pm to 9pm.
+John saw David walking in the garden from 9pm to 10pm.
+The soccer field was closed after 10pm.
+Between what times could David have gone to the soccer field? [SEP] 
+OPTIONS - 0: 6am to 11am 
+1: 7pm to 9pm 
+2: 6pm to 7pm 
+3: 5am to 6am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_941,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Jennifer went to the library. Between what times could they have gone?
+We know that: 
+Jennifer woke up at 5am.
+William saw Jennifer working at the office from 5am to 8am.
+David saw Jennifer taking photos near the Leaning Tower of Pisa from 8am to 10am.
+Jason saw Jennifer driving to the water park from 10am to 1pm.
+Sarah saw Jennifer stretching at a yoga studio from 4pm to 7pm.
+The library was closed after 7pm.
+Between what times could Jennifer have gone to the library? [SEP] 
+OPTIONS - 0: 5am to 8am 
+1: 8am to 10am 
+2: 1pm to 4pm 
+3: 4pm to 7pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_942,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Sean went to the orchestra hall. Between what times could they have gone?
+We know that: 
+Sean woke up at 7am.
+Hannah saw Sean buying cookies at a bakery from 7am to 11am.
+David saw Sean watching a movie at the theater from 4pm to 6pm.
+Jennifer saw Sean waiting at the airport from 6pm to 7pm.
+Michael saw Sean buying clothes at the mall from 7pm to 9pm.
+The orchestra hall was closed after 9pm.
+Between what times could Sean have gone to the orchestra hall? [SEP] 
+OPTIONS - 0: 11am to 4pm 
+1: 7am to 11am 
+2: 7pm to 9pm 
+3: 6pm to 7pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_944,test
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Hannah went to the gas station. Between what times could they have gone?
+We know that: 
+Hannah woke up at 5am.
+Samantha saw Hannah taking photos near the Leaning Tower of Pisa from 5am to 10am.
+Nancy saw Hannah buying clothes at the mall from 10am to 11am.
+Linda saw Hannah watching a movie at the theater from 11am to 1pm.
+Sarah saw Hannah buying cookies at a bakery from 4pm to 6pm.
+The gas station was closed after 6pm.
+Between what times could Hannah have gone to the gas station? [SEP] 
+OPTIONS - 0: 1pm to 4pm 
+1: 4pm to 6pm 
+2: 11am to 1pm 
+3: 10am to 11am<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_947,test
+1,"
+3","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Elizabeth went to the art studio. Between what times could they have gone?
+We know that: 
+Elizabeth woke up at 5am.
+Jennifer saw Elizabeth working out at the gym from 5am to 9am.
+Thomas saw Elizabeth getting a coffee at the cafe from 10am to 4pm.
+William saw Elizabeth buying a bike at the bike shop from 4pm to 7pm.
+Susan saw Elizabeth taking photos near the Leaning Tower of Pisa from 7pm to 8pm.
+Emily saw Elizabeth sitting on a rooftop from 8pm to 10pm.
+The art studio was closed after 10pm.
+Between what times could Elizabeth have gone to the art studio? [SEP] 
+OPTIONS - 0: 7pm to 8pm 
+1: 9am to 10am 
+2: 4pm to 7pm 
+3: 5am to 9am<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_954,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, William went to the soccer field. Between what times could they have gone?
+We know that: 
+William woke up at 5am.
+Mark saw William walking towards the Statue of Liberty from 5am to 6am.
+Jason saw William working at the office from 6am to 9am.
+Andrew saw William playing tennis at the tennis court from 3pm to 5pm.
+The soccer field was closed after 5pm.
+Between what times could William have gone to the soccer field? [SEP] 
+OPTIONS - 0: 5am to 6am 
+1: 9am to 3pm 
+2: 6am to 9am 
+3: 3pm to 5pm<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_955,test
+2,"
+2","<|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Susan went to the restaurant. Between what times could they have gone?
+We know that: 
+Susan woke up at 5am.
+Susan saw Susan getting a coffee at the cafe from 5am to 6am.
+Sarah saw Susan reading at the library from 6am to 7am.
+Nancy saw Susan buying clothes at the mall from 7am to 8am.
+William saw Susan playing tennis at the tennis court from 8am to 1pm.
+Hannah saw Susan buying cookies at a bakery from 1pm to 6pm.
+The restaurant was closed after 9pm.
+Between what times could Susan have gone to the restaurant? [SEP] 
+OPTIONS - 0: 5am to 6am 
+1: 1pm to 6pm 
+2: 6pm to 9pm 
+3: 8am to 1pm<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_966,test
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Samantha went to the park. Between what times could they have gone?
+We know that: 
+Samantha woke up at 6am.
+Emily saw Samantha buying a bike at the bike shop from 6am to 7am.
+Nancy saw Samantha stretching at a yoga studio from 7am to 1pm.
+Tiffany saw Samantha watching a movie at the theater from 5pm to 7pm.
+The park was closed after 7pm.
+Between what times could Samantha have gone to the park? [SEP] 
+OPTIONS - 0: 5pm to 7pm 
+1: 1pm to 5pm 
+2: 7am to 1pm 
+3: 6am to 7am<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_971,test
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with analyzing temporal relationship.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, 2 or 3), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Today, Leslie went to the soccer field. Between what times could they have gone?
+We know that: 
+Leslie woke up at 5am.
+Jennifer saw Leslie walking in the garden from 5am to 1pm.
+Richard saw Leslie buying a bike at the bike shop from 2pm to 3pm.
+Hannah saw Leslie watching a movie at the theater from 3pm to 7pm.
+The soccer field was closed after 7pm.
+Between what times could Leslie have gone to the soccer field? [SEP] 
+OPTIONS - 0: 3pm to 7pm 
+1: 5am to 1pm 
+2: 1pm to 2pm 
+3: 2pm to 3pm<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_975,test

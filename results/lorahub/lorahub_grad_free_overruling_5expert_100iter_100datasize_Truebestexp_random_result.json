@@ -1,0 +1,19 @@
+{
+    "task": "overruling",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_overruling",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.95,
+    "weights": [
+        0.5716303508186157,
+        0.000128289602410039,
+        0.25456051403471597,
+        0.0004949601896734768,
+        0.0009175850048705778
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "task": "circa",
+    "expert_name": [
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd"
+    ],
+    "valid_accuracy": 0.35,
+    "test_accuracy": 0.43478260869565216,
+    "weights": [
+        -0.5166581466817152,
+        0.7569024167070959,
+        0.16374862629990972,
+        0.6118785319706351,
+        0.7099455472464236
+    ]
+}

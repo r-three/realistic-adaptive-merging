@@ -1,0 +1,19 @@
+{
+    "task": "sports_understanding",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_sports_understanding",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.8752711496746204,
+    "weights": [
+        0.9838562944489152,
+        0.04687984029475674,
+        0.043602426956827325,
+        0.026599434781061155,
+        -0.017155897897951307
+    ]
+}

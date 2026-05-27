@@ -1,0 +1,19 @@
+{
+    "task": "mnist_ascii",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.05,
+    "test_accuracy": 0.0974,
+    "weights": [
+        -0.04956360952672327,
+        -0.03765044454413677,
+        0.6391064294078271,
+        0.8011748719369429,
+        0.9621081368554858
+    ]
+}

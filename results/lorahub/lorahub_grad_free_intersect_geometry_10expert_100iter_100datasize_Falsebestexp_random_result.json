@@ -1,0 +1,29 @@
+{
+    "task": "intersect_geometry",
+    "expert_name": [
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter"
+    ],
+    "valid_accuracy": 0.1,
+    "test_accuracy": 0.136,
+    "weights": [
+        0.19337539084671745,
+        -0.11942553128624096,
+        0.5876550027374331,
+        0.21454788638777794,
+        0.5407004204692373,
+        0.1573004829674759,
+        -0.2117392141930383,
+        -0.04830234701905346,
+        0.6628209070608849,
+        1.0930571963268196
+    ]
+}

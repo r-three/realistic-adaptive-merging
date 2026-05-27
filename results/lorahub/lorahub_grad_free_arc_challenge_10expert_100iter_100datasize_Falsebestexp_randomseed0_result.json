@@ -1,0 +1,29 @@
+{
+    "task": "arc_challenge",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304",
+        "barc0/induction-run2-gpt4omini-20k-100seeds-barc-llama3.1-8b-instruct-lora64_lr2e-4_epoch3"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.6988054607508533,
+    "weights": [
+        0.0008924849390777263,
+        0.0003212804091266812,
+        0.00011527599629956086,
+        0.00023330226173002354,
+        0.0008026741397117883,
+        -0.0042515909398944465,
+        0.0016587336691855973,
+        0.00037822213925556617,
+        0.00021284909403641107,
+        0.001548840730708515
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "task": "object_counting",
+    "expert_name": [
+        "daje/model_0.0002_alpha-32_r-64",
+        "aseratus1/80dde36f-b140-4e57-a010-bebb9584c30b",
+        "Tomlord/Llama-3.1-8B-Instruct-LoRA-Hp-adk",
+        "clembench-playpen/llama-3.1-8B-Instruct-rehearsal-steps_playpen_SFT-e3_DFINAL_0.93K-steps",
+        "faridlazuarda/valadapt-llama-3.1-8B-it-german"
+    ],
+    "valid_accuracy": 0.3,
+    "test_accuracy": 0.36426592797783935,
+    "weights": [
+        -0.5777026727123925,
+        0.02846112290847931,
+        0.949861083202519,
+        0.9681797868999812,
+        0.7716221588324371
+    ]
+}

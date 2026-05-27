@@ -1,0 +1,19 @@
+{
+    "task": "commonsense_qa",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task"
+    ],
+    "valid_accuracy": 0.0,
+    "test_accuracy": 0.012307692307692308,
+    "weights": [
+        0.1432424173045723,
+        0.17306557431733618,
+        -0.01927654233659414,
+        0.6450304976121354,
+        0.5254495712892711
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "task": "elementary_math_qa_question_only",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304",
+        "barc0/induction-run2-gpt4omini-20k-100seeds-barc-llama3.1-8b-instruct-lora64_lr2e-4_epoch3"
+    ],
+    "valid_accuracy": 0.35,
+    "test_accuracy": 0.19505851755526657,
+    "weights": [
+        0.30400930264114395,
+        0.5254574355626266,
+        0.8879471253663014,
+        0.8837968851617077,
+        0.20205741446130698,
+        -0.050574850930561514,
+        0.2721602216548369,
+        1.2005890200754814,
+        0.813579125648039,
+        0.29070454558967385
+    ]
+}

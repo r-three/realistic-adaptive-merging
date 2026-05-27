@@ -1,0 +1,2101 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Wanna go for some Chinese food? [SEP] 
+ANSWER - that sounds great<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1475,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are childhood neighbours who unexpectedly run into each other at a cafe. [SEP] 
+QUESTION - Have you lived there your whole life? [SEP] 
+ANSWER - I've never seen a reason to leave.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2338,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you like live music? [SEP] 
+ANSWER - I love going to the Croc to see bands.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2605,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are colleagues who are leaving work on a Friday at the same time. [SEP] 
+QUESTION - Did you have a good day today? [SEP] 
+ANSWER - It wasn't great.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2810,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are colleagues who are leaving work on a Friday at the same time. [SEP] 
+QUESTION - Do you know if it's raining outside? [SEP] 
+ANSWER - I believe it is<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2939,train+valid
+1,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Want to visit anyone else while you're here? [SEP] 
+ANSWER - I'd rather just hang out with you.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3322,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Do you stay up late? [SEP] 
+ANSWER - I go to sleep before the sun goes down.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3660,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is thinking of buying a flat in New York. [SEP] 
+QUESTION - Have you lived in New York before? [SEP] 
+ANSWER - Once when I was young.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4169,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are colleagues who are leaving work on a Friday at the same time. [SEP] 
+QUESTION - Have you been up to anything new? [SEP] 
+ANSWER - Same old<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_4263,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Are you allergic to soy? [SEP] 
+ANSWER - I have no allergies.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4319,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Are you gluten intolerant? [SEP] 
+ANSWER - I have no intolerances.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4320,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Will you eat raw or under cooked meat? [SEP] 
+ANSWER - I like my meats well done.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4952,train+valid
+-1,"
+2","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - It is too far from where you live? [SEP] 
+ANSWER - It could be closer.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5429,train+valid
+1,"
+2","<|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Want to go to a concert with me? [SEP] 
+ANSWER - I find live concerts to be goo loud.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5475,train+valid
+0,"
+2","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Are you into trying a mom and pop burger place near me? [SEP] 
+ANSWER - I'm free on Friday.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5634,train+valid
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Was it a smooth trip? [SEP] 
+ANSWER - The flight was exhausting.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_5908,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Have you been to warped tour? [SEP] 
+ANSWER - I like country music.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5948,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Do you enjoy burgers and fries? [SEP] 
+ANSWER - It's not my favorite.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6006,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Have you ever read Neil Gaiman? [SEP] 
+ANSWER - That sounds too serious for me.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6251,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Do you like murder mystery novels? [SEP] 
+ANSWER - If they are short.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_6370,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Are you a fan of comic books [SEP] 
+ANSWER - I read an Archie every time I have lunch.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7575,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - Do you feel appreciated? [SEP] 
+ANSWER - My boss treats me well.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_7815,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you like to sing? [SEP] 
+ANSWER - At home alone!<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_7934,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is thinking of buying a flat in New York. [SEP] 
+QUESTION - Will you live alone? [SEP] 
+ANSWER - With my husband.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8366,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - Were you sitting all day? [SEP] 
+ANSWER - I was most days.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_9810,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - Have you gone down to the river? [SEP] 
+ANSWER - I haven't been down there yet.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_10564,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Do you like roller coasters? [SEP] 
+ANSWER - On when they aren't too extreme.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_11484,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is thinking of buying a flat in New York. [SEP] 
+QUESTION - Can you see yourself living in a condo? [SEP] 
+ANSWER - I can imagine myself in a condo.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11565,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you like classical music? [SEP] 
+ANSWER - I go to sleep to it.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12269,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - Want to visit the park this weekend? [SEP] 
+ANSWER - I am away this weekend.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12475,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you play any instrument? [SEP] 
+ANSWER - The cello is my true love.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12961,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Have you tried the tex mex here? [SEP] 
+ANSWER - I haven't tried it yet<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_13464,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - How about a collection by various authors? [SEP] 
+ANSWER - Actually, that sounds pretty neat.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13914,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are childhood neighbours who unexpectedly run into each other at a cafe. [SEP] 
+QUESTION - Is your mom doing OK? [SEP] 
+ANSWER - She's got a bad bad at the moment.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_14411,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - Have you ever played any group sports? [SEP] 
+ANSWER - I play football and hockey.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14761,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Does Italian food appeal to you? [SEP] 
+ANSWER - I love pasta very much.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15126,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are childhood neighbours who unexpectedly run into each other at a cafe. [SEP] 
+QUESTION - Have you gone by to see your old house? [SEP] 
+ANSWER - I haven't for a while<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_15211,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just moved into a neighbourhood and meets his/her new neighbour X. [SEP] 
+QUESTION - Have you been downtown yet? [SEP] 
+ANSWER - I've not had a chance yet.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_15957,train+valid
+-1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are colleagues who are leaving work on a Friday at the same time. [SEP] 
+QUESTION - Are you going home? [SEP] 
+ANSWER - I need to stop at the grocery store.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_16405,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Can we go for a walk? [SEP] 
+ANSWER - I'd like to lie down.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_16935,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - Is spending time outdoors something you enjoy? [SEP] 
+ANSWER - I like to be outdoors<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17135,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Have you tried Valentina's BBQ? [SEP] 
+ANSWER - I gave up meat.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_17167,train+valid
+4,"
+2","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are childhood neighbours who unexpectedly run into each other at a cafe. [SEP] 
+QUESTION - When was the last time we saw each other? [SEP] 
+ANSWER - Your guess is as good as mine.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_17219,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - Have you ever worked in a kitchen? [SEP] 
+ANSWER - I'd love the chance!<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_17385,train+valid
+0,"
+3","<|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - Are you into art and culture? [SEP] 
+ANSWER - I went to art school for college.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_17764,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Are you into Chinese cuisine? [SEP] 
+ANSWER - I love all Chinese food.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_18057,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just moved into a neighbourhood and meets his/her new neighbour X. [SEP] 
+QUESTION - What city did you move from? [SEP] 
+ANSWER - I moved from Orlando.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_18672,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you listen to music while you cook? [SEP] 
+ANSWER - When I'm not listening to a podcast instead.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_18825,train+valid
+0,"
+2","<|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are colleagues who are leaving work on a Friday at the same time. [SEP] 
+QUESTION - Are you leaving as well? [SEP] 
+ANSWER - I think I'm ready to go.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_19077,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - Do you like cycling? [SEP] 
+ANSWER - My back is out.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_19211,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are childhood neighbours who unexpectedly run into each other at a cafe. [SEP] 
+QUESTION - Did you serve in the military? [SEP] 
+ANSWER - My bone spurs kept me from serving.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_19537,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Are you vegan? [SEP] 
+ANSWER - I'll eat anything you serve me.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_20024,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Are you an avid reader? [SEP] 
+ANSWER - I read at least one book a month<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_20418,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are colleagues who are leaving work on a Friday at the same time. [SEP] 
+QUESTION - Did you have a good workday? [SEP] 
+ANSWER - It was so grueling.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_21881,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Are you a jazz buff? [SEP] 
+ANSWER - Only when I'm talking about  modern jazz.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_22029,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you like country and western bands ? [SEP] 
+ANSWER - I like retro county.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_22405,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Are you a science fiction fan? [SEP] 
+ANSWER - I like some science fiction but<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_22970,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you like relaxing music? [SEP] 
+ANSWER - I listen to it all the time<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_23783,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is thinking of buying a flat in New York. [SEP] 
+QUESTION - Isn't New York apartment worth investment? [SEP] 
+ANSWER - I think I'll get a good return on the investment.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_23987,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Hey since the weather has gotten colder did you want to grab some potato soup? [SEP] 
+ANSWER - I could go for the potato soup at Bob Evans.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_24076,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - Is it similar to your current role? [SEP] 
+ANSWER - It's a different department.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_24713,train+valid
+1,"
+3","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Have you learned how to play an instrument? [SEP] 
+ANSWER - I'm going to start guitar lessons next month.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_24910,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - Do you paint? [SEP] 
+ANSWER - thats not something I really do<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_25623,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Do you like fiction? [SEP] 
+ANSWER - I can read anything.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_25827,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Do you find the weather pleasant? [SEP] 
+ANSWER - I only like winter weather really<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_25954,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you play any musical instruments? [SEP] 
+ANSWER - I'm a virtuoso guitarist.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_27045,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - Have you seen the new art exhibition that is in the town hall? [SEP] 
+ANSWER - Oh, is it open already?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_27394,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you listen to the radio? [SEP] 
+ANSWER - When I'm in the car I turn it on.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_27591,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Are you interested in going to a Brazilian steakhouse? [SEP] 
+ANSWER - I don't like steak<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_28553,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are childhood neighbours who unexpectedly run into each other at a cafe. [SEP] 
+QUESTION - Hasn't time flown by? [SEP] 
+ANSWER - We're definitely not seven anymore.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_28620,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Could you go for a salad? [SEP] 
+ANSWER - If we can go to Panera.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_29532,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Do you enjoy fine dining? [SEP] 
+ANSWER - On special occasions.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_29773,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - Is your job a manual labor? [SEP] 
+ANSWER - It's physically demanding.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_29939,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Are you interested in mysteries? [SEP] 
+ANSWER - Sherlock Holmes is my favorite character.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_32601,train+valid
+3,"
+3","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - Have you been at your current job for at least two years? [SEP] 
+ANSWER - Only if you count my internship.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_32624,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is thinking of buying a flat in New York. [SEP] 
+QUESTION - Are you moving soon? [SEP] 
+ANSWER - In about a week I'll start packing.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_33372,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Do you like jazz concerts? [SEP] 
+ANSWER - I prefer rock.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_33501,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Do you enjoy long books? [SEP] 
+ANSWER - I never want a good book to end!<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_33914,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are childhood neighbours who unexpectedly run into each other at a cafe. [SEP] 
+QUESTION - Are things okay? [SEP] 
+ANSWER - Things have never been better.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_34071,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's music preferences. [SEP] 
+QUESTION - Are you interested in trap music? [SEP] 
+ANSWER - I prefer hip-hop.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_34225,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just travelled from a different city to meet X. [SEP] 
+QUESTION - Want to grab a bite to eat? [SEP] 
+ANSWER - I just had a snack.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1711,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Are you going to watch Star Wars at the movies? [SEP] 
+ANSWER - I've already seen that film.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2609,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - Have you had any interviews? [SEP] 
+ANSWER - I'm waiting to hear back from a few.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3416,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know about Y's food preferences. [SEP] 
+QUESTION - Have you had pho? [SEP] 
+ANSWER - Vietnamese is my favorite.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3630,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Will you be joining any book clubs? [SEP] 
+ANSWER - The Romance Club sounds cool.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_6690,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just moved into a neighbourhood and meets his/her new neighbour X. [SEP] 
+QUESTION - Can I invite you over tomorrow? [SEP] 
+ANSWER - I'd love to come over tomorrow.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8280,train+valid
+1,"
+4","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are childhood neighbours who unexpectedly run into each other at a cafe. [SEP] 
+QUESTION - Did you grow up to be what you wanted to as a kid? [SEP] 
+ANSWER - Not too many people become wizards!<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_9487,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - Can I come to you to the park? [SEP] 
+ANSWER - I am free later.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_10124,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what activities Y likes to do during weekends. [SEP] 
+QUESTION - is there an activity you really enjoy doing?\\ [SEP] 
+ANSWER - Pottery or painting.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10750,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are colleagues who are leaving work on a Friday at the same time. [SEP] 
+QUESTION - Will you be driving? [SEP] 
+ANSWER - I probably wlil be<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_12287,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is thinking of buying a flat in New York. [SEP] 
+QUESTION - Will you be on the top floor? [SEP] 
+ANSWER - It's called the penthouse.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_13321,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Do you like scary contents? [SEP] 
+ANSWER - I don't like to be scared.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13450,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is thinking of buying a flat in New York. [SEP] 
+QUESTION - Is it close to a metro stop? [SEP] 
+ANSWER - It's right next to one.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17842,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is thinking of buying a flat in New York. [SEP] 
+QUESTION - Does your new apartment have a good view? [SEP] 
+ANSWER - That's not one of its selling points.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_20589,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Have you read the Harry Potter collection? [SEP] 
+ANSWER - It's the best book series of all time.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_22050,train+valid
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just moved into a neighbourhood and meets his/her new neighbour X. [SEP] 
+QUESTION - Are you into the cinema? [SEP] 
+ANSWER - Is there one nearby?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_23803,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - Did you spend a lot of time building your career? [SEP] 
+ANSWER - I have been at it for 25 years.<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_25395,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Y has just told X that he/she is considering switching his/her job. [SEP] 
+QUESTION - Is your salary okay? [SEP] 
+ANSWER - It will stay the same.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_28232,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X wants to know what sorts of books Y likes to read. [SEP] 
+QUESTION - Did you like the Harry Potter books? [SEP] 
+ANSWER - They are too childish for me.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_32317,train+valid
+-1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant evaluating a question-and-answer dialogue. 
+Below is a list of categories that characterize the intention of the answer to a question, formatted as ""category description"", starting from category 0.
+
+0 Yes
+1 No
+2 Neither yes or no
+3 Conditional yes
+4 Other, the question does not require a strict yes or no
+
+You are given a dialogue formatted as ""CONTEXT - sentence1 [SEP] QUESTION - sentence2 [SEP] ANSWER - sentence3"".
+Classify the answer (sentence3) into one of the categories above.
+Return only the corresponding category number (0-4), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - X and Y are childhood neighbours who unexpectedly run into each other at a cafe. [SEP] 
+QUESTION - Will you be in the area long? [SEP] 
+ANSWER - I live on the other side of town.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_34211,train+valid

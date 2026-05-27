@@ -1,0 +1,19 @@
+{
+    "task": "anli",
+    "expert_name": [
+        "daje/model_0.0002_alpha-32_r-64",
+        "aseratus1/80dde36f-b140-4e57-a010-bebb9584c30b",
+        "Tomlord/Llama-3.1-8B-Instruct-LoRA-Hp-adk",
+        "clembench-playpen/llama-3.1-8B-Instruct-rehearsal-steps_playpen_SFT-e3_DFINAL_0.93K-steps",
+        "faridlazuarda/valadapt-llama-3.1-8B-it-german"
+    ],
+    "valid_accuracy": 0.45,
+    "test_accuracy": 0.388,
+    "weights": [
+        0.5954044901226928,
+        0.4035136152350087,
+        -0.14016186399492592,
+        0.5246407260807922,
+        -0.07105863262978096
+    ]
+}

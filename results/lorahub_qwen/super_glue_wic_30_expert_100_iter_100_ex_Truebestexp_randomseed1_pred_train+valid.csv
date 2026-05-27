@@ -1,0 +1,1301 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - space [SEP] 
+SENTENCE1 - They stopped at an open space in the jungle. [SEP] 
+SENTENCE2 - The astronauts walked in outer space without a tether.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_36,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - cycle [SEP] 
+SENTENCE1 - The cycle of the seasons, or of the year. [SEP] 
+SENTENCE2 - The never-ending cycle of the seasons.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_57,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - unit [SEP] 
+SENTENCE1 - A unit of wheat is a bushel. [SEP] 
+SENTENCE2 - He was a member of a special police unit.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_101,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - float [SEP] 
+SENTENCE1 - Float the plaster. [SEP] 
+SENTENCE2 - The balloon floated off into the distance.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_129,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - vaccinate [SEP] 
+SENTENCE1 - We vaccinate against scarlet fever. [SEP] 
+SENTENCE2 - The nurse vaccinated the children in the school.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_143,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - noise [SEP] 
+SENTENCE1 - During the firework display that ended the gala the noise reached 98 decibels. [SEP] 
+SENTENCE2 - He enjoyed the street noises.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_194,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - take [SEP] 
+SENTENCE1 - Take the gun from your pocket. [SEP] 
+SENTENCE2 - Mother took our plates away and came back with some fruit for us to eat.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_268,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - school [SEP] 
+SENTENCE1 - The school was built in 1932. [SEP] 
+SENTENCE2 - Our children attend a public school in our neighborhood.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_320,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - play [SEP] 
+SENTENCE1 - Play cards. [SEP] 
+SENTENCE2 - Gielgud played Hamlet.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_363,train+valid
+0,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - stick [SEP] 
+SENTENCE1 - Stick your thumb in the crack. [SEP] 
+SENTENCE2 - Stick some feathers in the turkey before you serve it.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_379,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - stay [SEP] 
+SENTENCE1 - They had a nice stay in Paris. [SEP] 
+SENTENCE2 - A lengthy hospital stay.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_498,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - support [SEP] 
+SENTENCE1 - The statue stood on a marble support. [SEP] 
+SENTENCE2 - The government provides support to the arts in several ways.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_666,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - call [SEP] 
+SENTENCE1 - He was ejected for protesting the call. [SEP] 
+SENTENCE2 - After two raises there was a call.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_742,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - cover [SEP] 
+SENTENCE1 - There's a $15 cover tonight. [SEP] 
+SENTENCE2 - They made a cover of a Beatles' song.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_751,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - floor [SEP] 
+SENTENCE1 - The room has a wooden floor. [SEP] 
+SENTENCE2 - We spread our sleeping bags on the dry floor of the tent.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_827,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - skin [SEP] 
+SENTENCE1 - Your skin is the largest organ of your body. [SEP] 
+SENTENCE2 - He is so disgusting he makes my skin crawl.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_856,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - break [SEP] 
+SENTENCE1 - The newsman wanted to break a big story, something that would make him famous. [SEP] 
+SENTENCE2 - When news of their divorce broke, ...<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1053,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - quotation [SEP] 
+SENTENCE1 - Let's get a quotation for repairing the roof before we decide whether it's worth doing. [SEP] 
+SENTENCE2 - Since he lacks originality he must rely on quotation.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1058,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - cover [SEP] 
+SENTENCE1 - When the pot comes to a boil, cover it and reduce the heat to medium. [SEP] 
+SENTENCE2 - The caravan covered almost 100 miles each day.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1135,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - weapon [SEP] 
+SENTENCE1 - The club that is now mostly used for golf was once a common weapon. [SEP] 
+SENTENCE2 - He used all his conversational weapons.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1144,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - empty [SEP] 
+SENTENCE1 - To empty a well or a cistern. [SEP] 
+SENTENCE2 - Empty the water.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1242,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - stand [SEP] 
+SENTENCE1 - We had to stand for the entire performance! [SEP] 
+SENTENCE2 - The statue stood on the corner.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1272,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - vicinity [SEP] 
+SENTENCE1 - The plane crashed in the vicinity of Asheville. [SEP] 
+SENTENCE2 - There is a hurricane in the vicinity of the Bahamas.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1285,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - song [SEP] 
+SENTENCE1 - A bird will not learn its song unless it hears it at an early age. [SEP] 
+SENTENCE2 - I love hearing the song of canary birds.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1371,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - night [SEP] 
+SENTENCE1 - From noon till night. [SEP] 
+SENTENCE2 - They worked from morning to night.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1382,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - fun [SEP] 
+SENTENCE1 - They began to fight like fun. [SEP] 
+SENTENCE2 - He was fun to be with.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1408,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - ground [SEP] 
+SENTENCE1 - They fought to regain the lost ground. [SEP] 
+SENTENCE2 - The worm crawls through the ground.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1431,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - admit [SEP] 
+SENTENCE1 - We can not admit non-members into our club building. [SEP] 
+SENTENCE2 - To admit a serious thought into the mind.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1485,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - excitement [SEP] 
+SENTENCE1 - He could hardly conceal his excitement when she agreed. [SEP] 
+SENTENCE2 - His face was flushed with excitement and his hands trembled.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1557,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - point [SEP] 
+SENTENCE1 - They sailed south around the point. [SEP] 
+SENTENCE2 - She scored three points.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1616,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - cover [SEP] 
+SENTENCE1 - Cover the child with a blanket. [SEP] 
+SENTENCE2 - Cover the grave with flowers.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1755,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - krona [SEP] 
+SENTENCE1 - Kronas kurss -- the exchange rate of the krona. [SEP] 
+SENTENCE2 - Grāmata maksā piecas kronas -- the book costs five krona.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1758,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - cast [SEP] 
+SENTENCE1 - Her features had a delicate cast to them. [SEP] 
+SENTENCE2 - The delicate cast of his features.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2013,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - sense [SEP] 
+SENTENCE1 - A sense of happiness. [SEP] 
+SENTENCE2 - In the best sense charity is really a duty.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2089,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - order [SEP] 
+SENTENCE1 - Men from the fraternal order will staff the soup kitchen today. [SEP] 
+SENTENCE2 - An explosion of a low order of magnitude.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2111,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - glass [SEP] 
+SENTENCE1 - We looked through the glass to see stars. [SEP] 
+SENTENCE2 - Would you like a glass of milk?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2208,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - see [SEP] 
+SENTENCE1 - I just can't see your point. [SEP] 
+SENTENCE2 - Now I see!<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2250,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - unit [SEP] 
+SENTENCE1 - A unit of wheat is a bushel. [SEP] 
+SENTENCE2 - The centimetre is a unit of length.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2293,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - visit [SEP] 
+SENTENCE1 - Did you ever visit Paris? [SEP] 
+SENTENCE2 - The principal visited his rage on the students.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2365,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - cuddle [SEP] 
+SENTENCE1 - I'm cold; can you roll over here and cuddle me, honey? [SEP] 
+SENTENCE2 - She cuddled the infant before bedtime.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2468,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - grip [SEP] 
+SENTENCE1 - The grip of a sword. [SEP] 
+SENTENCE2 - There are several good grips on the northern face of this rock.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2472,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - channelize [SEP] 
+SENTENCE1 - Channelize a stream. [SEP] 
+SENTENCE2 - Channelize the country for better transportation.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2545,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - come [SEP] 
+SENTENCE1 - Come into the room. [SEP] 
+SENTENCE2 - Come with me to the Casbah.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2699,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - vehicle [SEP] 
+SENTENCE1 - A congregation is a vehicle of group identity. [SEP] 
+SENTENCE2 - The play was just a vehicle to display her talents.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2724,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - area [SEP] 
+SENTENCE1 - The area of a rectangle. [SEP] 
+SENTENCE2 - The spacious cooking area provided plenty of room for servants.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2729,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - case [SEP] 
+SENTENCE1 - The teaching consists of theory lessons and case studies. [SEP] 
+SENTENCE2 - A window case.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2977,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - trade [SEP] 
+SENTENCE1 - Will you trade your precious watch for my earring? [SEP] 
+SENTENCE2 - The stock traded around $20 a share.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3024,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - crack [SEP] 
+SENTENCE1 - He opened the window a crack. [SEP] 
+SENTENCE2 - I'd like to take a crack at that game.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3370,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - have [SEP] 
+SENTENCE1 - What do we have here? [SEP] 
+SENTENCE2 - Have, throw, or make a party.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3390,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - treat [SEP] 
+SENTENCE1 - Treat the lawn with chemicals. [SEP] 
+SENTENCE2 - Don't worry about the expensive wine -- I'm treating.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3433,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - gather [SEP] 
+SENTENCE1 - Let's gather in the dining room. [SEP] 
+SENTENCE2 - Gather some stones.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3573,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - bum [SEP] 
+SENTENCE1 - A lazy bum. [SEP] 
+SENTENCE2 - That guy keeps interrupting the concert. Throw the bum out!<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3605,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - eye [SEP] 
+SENTENCE1 - He tried to catch her eye. [SEP] 
+SENTENCE2 - The thread wouldn't go through the eye.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3627,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - authority [SEP] 
+SENTENCE1 - Respect my authority! [SEP] 
+SENTENCE2 - She spoke with authority.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3653,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - course [SEP] 
+SENTENCE1 - If you persist in that course you will surely fail. [SEP] 
+SENTENCE2 - Once a nation is embarked on a course of action it becomes extremely difficult for any retraction to take place.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3718,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - stretch [SEP] 
+SENTENCE1 - A stretch of clear water. [SEP] 
+SENTENCE2 - He did a stretch in the federal penitentiary.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3729,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - strike [SEP] 
+SENTENCE1 - Strike a balance. [SEP] 
+SENTENCE2 - Strike a bargain.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3731,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - change [SEP] 
+SENTENCE1 - The product is undergoing a change in order to improve it. [SEP] 
+SENTENCE2 - This storm is certainly a change for the worse.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3759,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - follow [SEP] 
+SENTENCE1 - Can you follow her argument? [SEP] 
+SENTENCE2 - A terrible tsunami followed the earthquake.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3779,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - drag [SEP] 
+SENTENCE1 - He took a drag on his cigarette and expelled the smoke slowly. [SEP] 
+SENTENCE2 - He performed in drag.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3840,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - carry [SEP] 
+SENTENCE1 - I always carry money. [SEP] 
+SENTENCE2 - The troops carried the town after a brief fight.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3969,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - drive [SEP] 
+SENTENCE1 - Can you drive this four-wheel truck? [SEP] 
+SENTENCE2 - What are you driving at?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4061,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - pay [SEP] 
+SENTENCE1 - Pay an obligation. [SEP] 
+SENTENCE2 - Pay a debt.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4198,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - shell [SEP] 
+SENTENCE1 - Nuts shell in falling. [SEP] 
+SENTENCE2 - Wheat or rye shells in reaping.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4305,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - window [SEP] 
+SENTENCE1 - The expanded window will give us time to catch the thieves. [SEP] 
+SENTENCE2 - Launch window.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4382,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - leak [SEP] 
+SENTENCE1 - A leak in a gas pipe. [SEP] 
+SENTENCE2 - A leak in a roof.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4440,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - take [SEP] 
+SENTENCE1 - How should I take this message? [SEP] 
+SENTENCE2 - Looking at him as he came into the room, I took him for his father.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4451,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - air [SEP] 
+SENTENCE1 - Open a window and let in some air. [SEP] 
+SENTENCE2 - As he waited he could feel the air on his neck.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4591,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - difference [SEP] 
+SENTENCE1 - It just won't make much difference to me. [SEP] 
+SENTENCE2 - His support made a real difference.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4664,train+valid
+1,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - voice [SEP] 
+SENTENCE1 - The Times is not the voice of New York. [SEP] 
+SENTENCE2 - The voice of the law.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4695,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - be [SEP] 
+SENTENCE1 - I shall be writing to you soon. [SEP] 
+SENTENCE2 - There were two hundred people at his funeral.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4769,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - shuck [SEP] 
+SENTENCE1 - Shuck oysters. [SEP] 
+SENTENCE2 - Shall we shuck walnuts?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4789,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - draw [SEP] 
+SENTENCE1 - Draw the shades. [SEP] 
+SENTENCE2 - The ship drew near the shore.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4877,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - uncork [SEP] 
+SENTENCE1 - Uncork the French wine. [SEP] 
+SENTENCE2 - Uncork a bottle of wine.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5007,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - move [SEP] 
+SENTENCE1 - To move in a matter. [SEP] 
+SENTENCE2 - She moved the queen closer to the centre of the board.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5106,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - center [SEP] 
+SENTENCE1 - Shopping center. [SEP] 
+SENTENCE2 - The center fumbled the handoff.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5112,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - ride [SEP] 
+SENTENCE1 - I ride to work in a bus. [SEP] 
+SENTENCE2 - Ship rides at anchor.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5148,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - language [SEP] 
+SENTENCE1 - The speed with which a program can be executed depends on the language in which it is written. [SEP] 
+SENTENCE2 - The language introduced is standard throughout the text.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5287,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - admit [SEP] 
+SENTENCE1 - To admit evidence in the trial of a cause. [SEP] 
+SENTENCE2 - A ticket admits one into a playhouse.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5400,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - constriction [SEP] 
+SENTENCE1 - Emotion caused a constriction of his throat. [SEP] 
+SENTENCE2 - He felt a constriction in her chest.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5427,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - bang [SEP] 
+SENTENCE1 - He got a bang on the head. [SEP] 
+SENTENCE2 - They got a great bang out of it.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_13,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - strand [SEP] 
+SENTENCE1 - A strand of pearls. [SEP] 
+SENTENCE2 - He tried to pick up the strands of his former life.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_51,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - denizen [SEP] 
+SENTENCE1 - The bald eagle is a denizen of the northern part of the state. [SEP] 
+SENTENCE2 - The giant squid is one of many denizens of the deep.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_76,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - bottom [SEP] 
+SENTENCE1 - They started at the bottom of the hill. [SEP] 
+SENTENCE2 - They did much of their overseas trade in foreign bottoms.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_96,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - mate [SEP] 
+SENTENCE1 - He's my best mate. [SEP] 
+SENTENCE2 - I'm going to the pub with a few mates.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_97,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - branch [SEP] 
+SENTENCE1 - We opened a new branch in London. [SEP] 
+SENTENCE2 - Our main branch is downtown.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_137,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - horse [SEP] 
+SENTENCE1 - A clothes horse. [SEP] 
+SENTENCE2 - 500 horse led the attack.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_199,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - club [SEP] 
+SENTENCE1 - Each club played six home games with teams in its own division. [SEP] 
+SENTENCE2 - He played the drums at a jazz club.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_218,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - elapse [SEP] 
+SENTENCE1 - He allowed a month to elapse before beginning the work. [SEP] 
+SENTENCE2 - Several days elapsed before they met again.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_258,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - exalt [SEP] 
+SENTENCE1 - These paintings exalt the imagination. [SEP] 
+SENTENCE2 - The man was exalted from a humble carpenter to a minister.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_287,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - cooperation [SEP] 
+SENTENCE1 - Economic cooperation. [SEP] 
+SENTENCE2 - They agreed on a policy of cooperation.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_383,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - mixture [SEP] 
+SENTENCE1 - He drank a mixture of beer and lemonade. [SEP] 
+SENTENCE2 - The mixture of sulphuric acid and water produces heat.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_402,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - appreciate [SEP] 
+SENTENCE1 - I appreciate your efforts. [SEP] 
+SENTENCE2 - The yen appreciated again!<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_411,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - want [SEP] 
+SENTENCE1 - Want the strength to go on living. [SEP] 
+SENTENCE2 - Flood victims wanting food and shelter.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_415,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - exile [SEP] 
+SENTENCE1 - He lived in exile. [SEP] 
+SENTENCE2 - She lived as an exile.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_447,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - longevity [SEP] 
+SENTENCE1 - Had unusual longevity in the company. [SEP] 
+SENTENCE2 - Her longevity as a star.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_458,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - beat [SEP] 
+SENTENCE1 - In the old days a policeman walked a beat and knew all his people by name. [SEP] 
+SENTENCE2 - A beat of the heart.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_477,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - refrigerate [SEP] 
+SENTENCE1 - Please refrigerate your uncooked meats at or below 40 Fahrenheit. [SEP] 
+SENTENCE2 - Refrigerate this medicine.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_498,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - torrent [SEP] 
+SENTENCE1 - The houses were swept away in the torrent. [SEP] 
+SENTENCE2 - They endured a torrent of inquiries.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_577,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given two sentences and a word that appears in both sentences, formatted as ""WORD - word [SEP] SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the word is used in the same sense in both sentences, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+WORD - love [SEP] 
+SENTENCE1 - I love French food. [SEP] 
+SENTENCE2 - I loved to write.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_588,train+valid

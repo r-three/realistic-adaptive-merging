@@ -1,0 +1,29 @@
+{
+    "task": "stackoverflow_questions",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_stackoverflow_questions",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a"
+    ],
+    "valid_accuracy": 0.3684210526315789,
+    "test_accuracy": 0.2487268282745977,
+    "weights": [
+        1.01487889667745,
+        0.8030845544785216,
+        0.00725280533148704,
+        0.5963147638741404,
+        0.40056530440049976,
+        -0.060841736013414596,
+        0.025706472474373687,
+        0.5427719794963853,
+        0.015182730874143962,
+        0.020611199339098704
+    ]
+}

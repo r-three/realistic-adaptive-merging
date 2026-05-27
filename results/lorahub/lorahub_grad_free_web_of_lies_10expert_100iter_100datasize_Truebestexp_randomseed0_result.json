@@ -1,0 +1,29 @@
+{
+    "task": "web_of_lies",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_web_of_lies",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304"
+    ],
+    "valid_accuracy": 0.7,
+    "test_accuracy": 0.5687919463087249,
+    "weights": [
+        0.498687014265821,
+        0.5001397938141017,
+        -8.123787420021926e-05,
+        -0.024965947154346035,
+        -0.027049827876390226,
+        0.004932778652534109,
+        -4.6984397359687644e-05,
+        -6.828652826132222e-05,
+        -0.0004647882248726341,
+        1.9543625840526337e-05
+    ]
+}

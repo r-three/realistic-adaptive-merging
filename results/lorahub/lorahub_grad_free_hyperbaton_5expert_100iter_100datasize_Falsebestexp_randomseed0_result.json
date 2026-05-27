@@ -1,0 +1,19 @@
+{
+    "task": "hyperbaton",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.5574,
+    "weights": [
+        -0.0004867868921029762,
+        0.0025227771861985235,
+        0.5250866255555199,
+        0.0001698937335542204,
+        -0.00021000789073570846
+    ]
+}

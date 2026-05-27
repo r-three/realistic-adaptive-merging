@@ -1,0 +1,1108 @@
+target,pred_clean,pred_org,example_id,split
+D,"
+E","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Each of the following equations has at least one solution EXCEPT D . Is it true ? [SEP] 
+CHOICES - ['A ) - 2 * - a = 2 a', 'B ) 2 * a = ( – 2 ) * - a', 'C ) - 4 * a = - 3 - a', 'D ) - 3 * a = - 3 - a', 'E ) ( – 2 ) - a = – 2 - a']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_134,train+valid
+E,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If 2 / a + 3 / a + 6 / a is an integer , which of the following must also be an integer ? [SEP] 
+CHOICES - ['A ) 12 / a', 'B ) 3 / a', 'C ) 6 / a', 'D ) 9 / a', 'E ) 11 / a']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_390,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The value of x + x ( xx ) when x = 2 is :
+( a ) 10 , ( b ) 16 , ( c ) 18 , ( d ) 36 , ( e ) 64 [SEP] 
+CHOICES - ['A ) 10', 'B ) 2', 'C ) 8', 'D ) 6', 'E ) 4']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1109,train+valid
+E,"
+D","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - You need to print a document of the area 216 sq cm . Condition is 3 cm margin is to be left at both top & bottom and 2 cm at the sides . What is the optimized size of your paper ? [SEP] 
+CHOICES - ['A ) 60 sq . cm', 'B ) 70 sq . cm', 'C ) 95 sq . cm', 'D ) 80 sq . cm', 'E ) 90 sq . cm']<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1491,train+valid
+C,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - there are 4 consonants 3 vowels how many 6 letter strings can u form with atleast one vowels in each ? [SEP] 
+CHOICES - ['A ) 5', 'B ) 6', 'C ) 7', 'D ) 8', 'E ) 9']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1811,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - 4 dice are thrown simultaneously on the board . Find the probability show the same face . [SEP] 
+CHOICES - ['A ) 1 / 113', 'B ) 2 / 213', 'C ) 1 / 216', 'D ) 2 / 215', 'E ) 3 / 211']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_3190,train+valid
+D,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A motor car starts with the speed of 70 km / hr with its speed increasing every two hours by 10 kmph . In how many hours will it cover 345 kms [SEP] 
+CHOICES - ['A ) 4 hrs', 'B ) 5 hrs', 'C ) 6 hrs', 'D ) 4 ½ hrs', 'E ) 5 hrs']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_4345,train+valid
+C,"
+A","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Divide $ 1162 among A , B , C in the ratio 35 : 28 : 20 . [SEP] 
+CHOICES - ['A ) 490 , 490,490', 'B ) 360 , 392,460', 'C ) 490 , 382,280', 'D ) 260 , 160,60', 'E ) 492 , 390,280']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_4435,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Point ( g , h ) is on the circle represented by g ^ 2 + h ^ 2 = 10 , and g , h are integers . How many such points are possible ? [SEP] 
+CHOICES - ['A ) 0', 'B ) 2', 'C ) 4', 'D ) 6', 'E ) 8']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_6069,train+valid
+D,"
+E","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A customer went to a shop and paid a total of $ 30 , out of which $ 1.28 was for sales tax on taxable purchases . If the tax rate was 8 % , then what was the cost of the tax free items ? [SEP] 
+CHOICES - ['A ) $ 9.84', 'B ) $ 10.68', 'C ) $ 11.26', 'D ) $ 12.72', 'E ) $ 13.54']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_7497,train+valid
+D,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - When tossed , a certain coin has equal probability of landing on either side . If the coin is tossed 3 times , what is the probability that it will land once on heads and twice tails ? [SEP] 
+CHOICES - ['A ) 1 / 3', 'B ) 1 / 6', 'C ) 1 / 4', 'D ) 1 / 8', 'E ) 1 / 5']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_7685,train+valid
+A,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - In a bag , there are coins of 25 p , 10 p and 5 p in the ratio of 1 : 2 : 3 . If there is
+Rs . 30 in all , how many 5 p coins are there ? [SEP] 
+CHOICES - ['A ) 150', 'B ) 130', 'C ) 120', 'D ) 110', 'E ) 140']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_11449,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - An error 3 % in excess is made while measuring the side of a square . What is the percentage of error in the calculated area of the square ? [SEP] 
+CHOICES - ['A ) 9.09 %', 'B ) 4.02 %', 'C ) 4 %', 'D ) 3 %', 'E ) 2 %']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_13278,train+valid
+E,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The length of a rectangle is increased to 2 times its original size and its width is increased to 3 times its original size . If the area of the new rectangle is equal to 1800 square meters , what is the area of the original rectangle ? [SEP] 
+CHOICES - ['A ) 5 hours 5 minutes', 'B ) 8 hours 5 minutes', 'C ) 7 hours 5 minutes', 'D ) 6 hours 5 minutes', 'E ) 3 hours 5 minutes']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_13812,train+valid
+B,"
+E","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - In a recent election , Ms . Robbins received 5,000 votes cast by independent voters , that is , voters not registered with a specific political party . She also received 10 percent of the votes cast by those voters registered with a political party . If N is the total number of votes cast in the election and 40 percent of the votes cast were cast by independent voters , which of the following represents the number of votes that Ms . Robbins received ? [SEP] 
+CHOICES - ['A ) 0.06 N + 3,200', 'B ) 0.06 N + 5,000', 'C ) 0.4 N + 7,200', 'D ) 0.1 N + 8,000', 'E ) 0.06 N + 8,000']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_13897,train+valid
+A,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - 5355 x 51 = ? [SEP] 
+CHOICES - ['A ) 273105', 'B ) 273243', 'C ) 273247', 'D ) 273250', 'E ) 273258']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_16131,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If goods be purchased for Rs . 840 and one - fourth be sold at a loss of 20 % at what gain percent should the remainder be sold so as to gain 20 % on the whole transaction ? [SEP] 
+CHOICES - ['A ) 30 %', 'B ) 33 %', 'C ) 33 1 / 3 %', 'D ) 35 %', 'E ) 34 %']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_18814,train+valid
+D,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Sum of two numbers is 20 . Two times of the first exceeds by 5 from the three times of the other . Then the numbers will be ? [SEP] 
+CHOICES - ['A ) A ) 5', 'B ) B ) 9', 'C ) C ) 11', 'D ) D ) 13', 'E ) E ) 15']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_19702,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The average weight of 12 person ' s increases by 4 kg when a new person comes in place of one of them weighing 58 kg . What is the weight of the new person ? [SEP] 
+CHOICES - ['A ) 85', 'B ) 80', 'C ) 95', 'D ) 90', 'E ) 106']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_19788,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The difference between the local value and the face value of 7 in the numeral 32675149 is [SEP] 
+CHOICES - ['A ) 69950', 'B ) 69993', 'C ) 69997', 'D ) 70000', 'E ) 01000']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_20081,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A bag contains 9 red , 2 green balls . 3 balls are drawn randomly . What is the probability that balls drawn contain exactly two green balls ? [SEP] 
+CHOICES - ['A ) 1 / 7', 'B ) 2 / 9', 'C ) 3 / 11', 'D ) 3 / 55', 'E ) 2 / 3']<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_22190,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Two cylinders are of the same height . Their radii are in the ratio 1 : 3 . If the volume of the first cylinder is 40 cc . Find the volume of the second cylinder ? [SEP] 
+CHOICES - ['A ) 360', 'B ) 982', 'C ) 279', 'D ) 270', 'E ) 289']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_24633,train+valid
+A,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Sonika deposited Rs . 8000 which amounted to Rs . 9200 after 3 years at simple interest . Had the interest been 2 % more . She would get how much ? [SEP] 
+CHOICES - ['A ) 9680', 'B ) 9687', 'C ) 96809', 'D ) 9683', 'E ) 9682']<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_25381,train+valid
+D,"
+A","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Dave has no fashion sense , and will wear any combination of garments regardless of whether someone thinks they “ match . ” Every day Dave chooses an outfit consisting of one of each of the following garments : jacket , tie , shirt , pants , boxers , right sock , left sock , right shoe , left shoe . If Dave has more than one of each of the listed garments , and can make 63,000 different outfits , then for how many garments does Dave have exactly five choices ? [SEP] 
+CHOICES - ['A ) 0', 'B ) 1', 'C ) 2', 'D ) 3', 'E ) 4']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_25526,train+valid
+D,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If a number is chosen at random from the set of first 20 natural numbers , The probability that it is either an even number or a prime number is ? [SEP] 
+CHOICES - ['A ) 15 / 20', 'B ) 8 / 20', 'C ) 10 / 20', 'D ) 17 / 20', 'E ) 18 / 20']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_26754,train+valid
+B,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - a man spends $ 2.6 for parking and $ 34.4 for petrol to travel in car from monday to friday . if he travel by public transport it costs $ 1.06 , find the percentage of savings ? [SEP] 
+CHOICES - ['A ) 75.6', 'B ) 85.6', 'C ) 85.7', 'D ) 95.7', 'E ) 105.7']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_28530,train+valid
+C,"
+B","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If set A = { 2 , 2,2 , . . . . , n times } , set B = { 3,3 , 3,3 . . . . m times } and set C = { 12 , 12,12 . . . k time } , then in terms of m , n and k , how many possible subsets from sets A , B , and C can be created ? [SEP] 
+CHOICES - ['A ) a ) k ( n + m + mn ) + k', 'B ) b ) ( 1 + n + m + mn ) ( k + 1 )', 'C ) c ) k ^ 2 ( mn + n / m )', 'D ) d ) kmn ( k + m + n )', 'E ) e ) None of the above .']<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_33676,train+valid
+D,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If s , t , and u are distinct positive prime numbers , then ( s ^ 3 ) ( t ) ( u ) has how many different positive factors greater than 1 ? [SEP] 
+CHOICES - ['A ) a . 8', 'B ) b . 9', 'C ) c . 12', 'D ) d . 7', 'E ) e . 27']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_35067,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A cistern has a leak which would empty the cistern in 20 minutes . A tap is turned on which admits 4 liters a minute into the cistern , and it is emptied in 24 minutes . How many liters does the cistern hold ? [SEP] 
+CHOICES - ['A ) 480', 'B ) 487', 'C ) 481', 'D ) 729', 'E ) 268']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_35182,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The simple interest accrued on an amount of Rs . 49500 at he end of three is Rs . 17820 . What would be the compound interest accured on the same amount at teh same rate in the same period ? ( Round off your answer to two decimal places ) [SEP] 
+CHOICES - ['A ) Rs . 20043.94', 'B ) Rs . 18654.81', 'C ) Rs . 20264.46', 'D ) Rs . 19612.41', 'E ) None of these']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_36656,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If you are a genius , you can solve it easily .
+Use three 9 ' s in a mathematical expression such that it forms the number one . You are not allowed to divide or multiply them . [SEP] 
+CHOICES - ['A ) Not possible', 'B ) Possible', 'C ) Do know', 'D ) Doubt', ""E ) Ca n ' t do""]<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_38795,train+valid
+D,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If m is an integer , which of the following must be an even integer ? [SEP] 
+CHOICES - ['A ) m ^ 2 - m - 1', 'B ) m ^ 2 - 4 m + 6', 'C ) m ^ 2 - 5 m + 5', 'D ) m ^ 2 + 3 m + 8', 'E ) m ^ 2 + 2 m + 10']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_39041,train+valid
+D,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The letters of the word LUCKNOW are arranged among themselves . Find the probability of always having NOW in the word . [SEP] 
+CHOICES - ['A ) 1 / 31', 'B ) 1 / 32', 'C ) 1 / 41', 'D ) 1 / 42', 'E ) None of these']<|im_end|>
+<|im_start|>assistant
+A<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_39464,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The average age of a group of persons going for tour is 16 years . Twenty new persons with an average age of 15 years join the group on the spot due to which their average age becomes 15.5 years . The number of persons initially going for tour is : [SEP] 
+CHOICES - ['A ) 5', 'B ) 10', 'C ) 20', 'D ) 30', 'E ) 40']<|im_end|>
+<|im_start|>assistant
+C<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_40050,train+valid
+E,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Suppose son name is 120 , his brother name is 150 and his mother name is 230 . find out his father ' s name ? ? ? [SEP] 
+CHOICES - ['A ) 190', 'B ) 210', 'C ) 230', 'D ) 240', 'E ) 260']<|im_end|>
+<|im_start|>assistant
+A<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_40533,train+valid
+D,"
+A ) Rs . 3240","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A is a working partner and B is a sleeping partner in the business . A puts in Rs . 15000 and B Rs . 25000 , A receives 10 % of the profit for managing the business the rest being divided in proportion of their capitals . Out of a total profit of Rs . 9600 , money received by A is ? [SEP] 
+CHOICES - ['A ) Rs . 3240', 'B ) Rs . 3600', 'C ) Rs . 3800', 'D ) Rs . 4200', 'E ) Rs . 4250']<|im_end|>
+<|im_start|>assistant
+A ) Rs . 3240<|im_end|>",train_40797,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A train crosses a platform of 150 m in 15 sec , same train crosses another platform of length 250 m in 20 sec . then find the length of the train ? [SEP] 
+CHOICES - ['A ) 150', 'B ) 878', 'C ) 277', 'D ) 992', 'E ) 187']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_41414,train+valid
+D,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A man is 24 years older than his son . In two years , his age will be twice the age of his son . The present age of his son is : [SEP] 
+CHOICES - ['A ) 14 years', 'B ) 18 years', 'C ) 20 years', 'D ) 22 years', 'E ) 16 years']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_43573,train+valid
+B,"
+D","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The ratio of investments of two partners P and Q is 7 : 5 and the ratio of their profits is 7 : 14 . If P invested the money for 5 months , find for how much time did Q invest the money ? [SEP] 
+CHOICES - ['A ) 19', 'B ) 14', 'C ) 13', 'D ) 10', 'E ) 12']<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_45719,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A train 220 m long is running with a speed of 60 km / hr . In what time will it pass a man who is running at 4 km / hr in the direction opposite to that in which the train is going ? [SEP] 
+CHOICES - ['A ) 5', 'B ) 12', 'C ) 7', 'D ) 9', 'E ) 5']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_46976,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Salesperson A ' s compensation for any week is $ 240 plus 6 percent of the portion of A ' s total sales above $ 1,000 for that week . Salesperson B ' s compensation for any week is 8 percent of B ' s total sales for that week . For what amount of total weekly sales would both salespeople earn the same compensation ? [SEP] 
+CHOICES - ['A ) $ 7000', 'B ) $ 9000', 'C ) $ 11,000', 'D ) $ 13,000', 'E ) $ 15,000']<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_47157,train+valid
+E,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Miguel is 46 years old . He is 6 years older than twice his son ’ s age . Find the age of his son . [SEP] 
+CHOICES - ['A ) 11 years', 'B ) 12 years', 'C ) 13 years', 'D ) 14 years', 'E ) 20 years']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_51524,train+valid
+C,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A tap can fill a tank in 4 hours . After half the tank is filled , three more similar taps are opened . What is the total time taken to fill the tank completely ? [SEP] 
+CHOICES - ['A ) 3 hr', 'B ) 1 hr 30 min', 'C ) 2 hr 30 min', 'D ) 2 hr', 'E ) 4 hr']<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_51985,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If 3 y + x > 2 and x + 2 y < = 3 , What can be said about the value of y ? [SEP] 
+CHOICES - ['A ) y = 1', 'B ) y > 1', 'C ) y > - 2', 'D ) y > - 1', 'E ) None of these']<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_52049,train+valid
+A,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Ram and Shyam have a cube each . Ram paints four faces of cube with red color and rest with blue color . Ram asks Shyam to paint his cube as well with some sides red and some side blue . They now start rolling the cubes simultaneously . After doing this for very long Ram observes that probability of both cubes coming up with same color is 1 / 3 . How many faces of his cube did Shyam paint red ? [SEP] 
+CHOICES - ['A ) 0', 'B ) 2', 'C ) 3', 'D ) 4', 'E ) 5']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_52709,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A FIVE DIGIT NUMBER IS FORMED BY USING THE DIGITS 1,2 , 3,4 WITH OUT REPETITIONS . WHAT IS THE PROBABILITY THE NUMBER IS DIVISIBLE BY 2 ? [SEP] 
+CHOICES - ['A ) 1 / 4', 'B ) 5 / 6', 'C ) 4 / 5', 'D ) 7 / 3', 'E ) 2 / 7']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_54448,train+valid
+E,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A train running at a speed of 36 kmph crosses an electric pole in 12 seconds . In how much time will it cross a 370 m long platform ? [SEP] 
+CHOICES - ['A ) 19', 'B ) 27', 'C ) 29', 'D ) 47', 'E ) 49']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_56259,train+valid
+C,"
+E","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - P , Q , R , S , T and U are six cities which are in a row in the same order . A bus , b 1 travels from P to U and another bus b 2 travel from U to P . The bus b 1 reaches S at 10 : 40 and bus b 2 reaches Q at 10 : 35 if the travel time between any two adjacent cities is 40 minutes and the stoppage time at each city is 15 minutes , then at what time do they start at their respective destinations ? [SEP] 
+CHOICES - ['A ) 8 : 00 , 7 : 00', 'B ) 8 : 00 , 7 : 10', 'C ) 8 : 10 , 7 : 10', 'D ) 8 : 15 , 7 : 25', 'E ) 8 : 10 , 7 : 00']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_58213,train+valid
+B,"
+E","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Tom started a new grocery store business . During his first month he bought groceries for $ 650 $ 650 and sold them for $ 800 $ 800 , while in the second month he bought with $ 800 $ 800 and sold for $ 1200 $ 1200 . We need to know if Tom made more profit or not and profit or loss percentage [SEP] 
+CHOICES - ['A ) 50 % loss', 'B ) 50 % Profit', 'C ) 40 % loss', 'D ) 60 % Profit', 'E ) None']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_59409,train+valid
+D,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A thief is spotted by a policeman from a distance of 200 meters . When the policeman starts the chase , the thief also starts running . If the speed of the thief be 8 km / hr and that of the policeman 10 km / hr , how far the thief will have run before he is overtaken ? [SEP] 
+CHOICES - ['A ) 350 m', 'B ) 200 m', 'C ) 400 m', 'D ) 800 m', 'E ) None of them']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_61749,train+valid
+A,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A car was driving at 66 Km / h for 30 minutes , and then at 100 Km / h for another 45 minutes . What was its average speed ? [SEP] 
+CHOICES - ['A ) 84 .', 'B ) 75 .', 'C ) 70 .', 'D ) 65 .', 'E ) 54 .']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_66645,train+valid
+A,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A square , with perimeter 40 , is inscribed in a circle . What is the area of the circle ? [SEP] 
+CHOICES - ['A ) 50 π', 'B ) 40 π', 'C ) 30 π', 'D ) 25 π', 'E ) 35 π']<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_68882,train+valid
+D,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - What is the greatest value of n such that 18 ^ n is a factor of 18 ! ? [SEP] 
+CHOICES - ['A ) 1', 'B ) 2', 'C ) 3', 'D ) 4', 'E ) 5']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_69668,train+valid
+D,"
+C","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - There were 35 students in a hostel . Due to the admission of 7 new students , ; he expenses of the mess were increased by Rs . 42 per day while the average expenditure per head diminished by Rs 1 . What was the original expenditure of the mess ? [SEP] 
+CHOICES - ['A ) 320', 'B ) 120', 'C ) 400', 'D ) 420', 'E ) 514']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_69803,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If a man walks to his office at ¾ of his usual rate , he reaches office 1 / 3 of an hour late than usual . What is his usual time to reach office ? [SEP] 
+CHOICES - ['A ) 1', 'B ) 5', 'C ) 6', 'D ) 7', 'E ) 3']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_71163,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Two trains are running in opposite directions with the same speed . If the length of each train is 300 m and they cross each other in 10 sec , then the speed of each train is ? [SEP] 
+CHOICES - ['A ) 30', 'B ) 108', 'C ) 36', 'D ) 25', 'E ) 24']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_71816,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A pharmaceutical company received $ 3 million in royalties on the first $ 20 million in sales of and then $ 8 million in royalties on the next $ 108 million in sales . By approximately what percentage did the ratio of royalties to sales decrease from the first $ 20 million in sales to the next $ 108 million in sales ? [SEP] 
+CHOICES - ['A ) 8 %', 'B ) 15 %', 'C ) 46 %', 'D ) 52 %', 'E ) 56 %']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_71968,train+valid
+C,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - In a school 10 % of the boys are same in number as 1 / 3 th of the girls . what is the ratio of boys to the girls in the school ? [SEP] 
+CHOICES - ['A ) 5 : 2', 'B ) 2 : 3', 'C ) 10 : 3', 'D ) 3 : 7', 'E ) 2 : 5']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_72366,train+valid
+C,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - 20 workers can finish a work in 30 days . After how many days should 5 workers leave the job so the work is completed in 35 days ? [SEP] 
+CHOICES - ['A ) 7', 'B ) 6', 'C ) 15', 'D ) 4', 'E ) 3']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_73686,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Of the three - digit integers greater than 200 , how many have two digits that are equal to each other and the remaining digit different from the other two ? [SEP] 
+CHOICES - ['A ) 90', 'B ) 82', 'C ) 80', 'D ) 45', 'E ) 36']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_75248,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A reduction of 10 % in the price of oil enables a house wife to obtain 6 kgs more for Rs . 900 , what is the reduced price for kg ? [SEP] 
+CHOICES - ['A ) 13', 'B ) 15', 'C ) 25', 'D ) 17', 'E ) 19']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_75981,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Let f ( x ) = x ^ 2 + bx + c . If f ( 4 ) = 0 and f ( - 3 ) = 0 , then b + c = [SEP] 
+CHOICES - ['A ) 18', 'B ) 15', 'C ) - 13', 'D ) - 21', 'E ) - 24']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_76307,train+valid
+C,"
+E","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The symphony sells two kinds of tickets : orchestra , for $ 30 , and upper tiers , for $ 12 . On a certain night , the symphony sells 90 tickets and gets $ 1800 in revenue from the sales . How many orchestra tickets did they sell ? [SEP] 
+CHOICES - ['A ) 20', 'B ) 30', 'C ) 40', 'D ) 50', 'E ) 60']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_79667,train+valid
+D,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - On a clock , how many times a day do the minute and hour hand overlap ? [SEP] 
+CHOICES - ['A ) 10', 'B ) 11', 'C ) 20', 'D ) 22', 'E ) 24']<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_82529,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The average age of husband , wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years . The present age of the husband is [SEP] 
+CHOICES - ['A ) 22', 'B ) 40', 'C ) 38', 'D ) 21', 'E ) 11']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_82530,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - 4 men and 12 boys finish a piece of work in 4 days , 7 men and 6 boys do it in 5 days . The ratio between the efficiencies of a man and boy is ? [SEP] 
+CHOICES - ['A ) 18 : 19', 'B ) 17 : 19', 'C ) 15 : 19', 'D ) 18 : 14', 'E ) 18 : 11']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_87808,train+valid
+C,"
+B","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If Rs . 1000 be invested at interest rate of 5 % & the interest be added to the principal every 10 yrs , then the no . of yrs in which it will amount to Rs . 2000 is : [SEP] 
+CHOICES - ['A ) 15', 'B ) 17 1 / 3', 'C ) 16 2 / 3', 'D ) 19 2 / 5', 'E ) 21 1 / 5']<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_87851,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - 5 men or 8 women do equal amount of work in a day . a job requires 3 men and 5 women to finish the job in 10 days how many woman are required to finish the job in 14 days . [SEP] 
+CHOICES - ['A ) 10', 'B ) 7', 'C ) 6', 'D ) 12', 'E ) 13']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_88689,train+valid
+C,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - How many consonants are present between the first and third vowel in the sequence of English alphabet ? [SEP] 
+CHOICES - ['A ) 12', 'B ) 13', 'C ) 6', 'D ) 10', 'E ) None of these']<|im_end|>
+<|im_start|>assistant
+E<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_88853,train+valid
+C,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - 1600 men have provisions for 28 days in the temple . If after 4 days , 400 men leave the temple , how long will the food last now ? [SEP] 
+CHOICES - ['A ) 82 days', 'B ) 26 days', 'C ) 32 days', 'D ) 34 days', 'E ) 25 days']<|im_end|>
+<|im_start|>assistant
+A<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_89198,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A = { 2 , 3 , 5 , 7 , 11 }
+B = { 2 , 4 , 6 , 13 }
+Two integers will be randomly selected from sets A and B , one integer from set A and one from set B , and then multiplied together . How many different products can be obtained ? [SEP] 
+CHOICES - ['A ) 15', 'B ) 16', 'C ) 19', 'D ) 20', 'E ) 36']<|im_end|>
+<|im_start|>assistant
+C<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_89515,train+valid
+C,"
+D ) 3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - | x + 3 | – | 4 - x | = | 7 + x | How many solutions will this equation have ? [SEP] 
+CHOICES - ['A ) 0', 'B ) 1', 'C ) 2', 'D ) 3', 'E ) 4']<|im_end|>
+<|im_start|>assistant
+D ) 3<|im_end|>",train_89563,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following is not a prime number ? [SEP] 
+CHOICES - ['A ) 2', 'B ) 3', 'C ) 11', 'D ) 19', 'E ) 20']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_90281,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The area of a square is equal to twice the area of a rectangle of dimensions 32 cm * 64 cm . What is the perimeter of the square ? [SEP] 
+CHOICES - ['A ) 236', 'B ) 256', 'C ) 456', 'D ) 656', 'E ) 756']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_90356,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A triangle has a perimeter 14 . The two shorter sides have integer lengths equal to x and x + 1 . Which of the following could be the length of the other side ? [SEP] 
+CHOICES - ['A ) 6', 'B ) 7', 'C ) 8', 'D ) 9', 'E ) 5']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_90421,train+valid
+C,"
+E","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Water is poured into a cylindrical well at the rate of 22 cubic meters per hour , the level of water in the tank rises at a rate of 0.7 meters per hour . Which of the following best approximates the diameter of the tank in meters ? [SEP] 
+CHOICES - ['A ) √ 10 / 2', 'B ) √ 10', 'C ) 2 √ 10', 'D ) 5', 'E ) 10']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_91542,train+valid
+D,"
+A","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - An order was placed for the supply of a carpet whose breadth was 6 m and length was 1.44 times the breadth . What be the cost of a carpet whose length and breadth are 40 % more and 25 % more respectively than the first carpet . Given that the ratio of carpet is Rs . 45 per sq m ? [SEP] 
+CHOICES - ['A ) Rs . 4082.67', 'B ) Rs . 4082.49', 'C ) Rs . 4082.48', 'D ) Rs . 4082.40', 'E ) Rs . 4082.13']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_92979,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - X percents of the rooms are suits , Y percent of the rooms are painted light blue . Which of the following best represents the least percentage of the light blue painted suits ? [SEP] 
+CHOICES - ['A ) X - Y', 'B ) Y - X + 100', 'C ) 100 X - Y', 'D ) X + Y - 100', 'E ) 100 - XY']<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_93582,train+valid
+C,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A train of 24 carriages , each of 60 meters length , when an engine also of 60 meters length is running at a speed of 60 kmph . In what time will the train cross a bridge 3.5 km long ? [SEP] 
+CHOICES - ['A ) 4', 'B ) 3', 'C ) 5', 'D ) 7', 'E ) 9']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_94067,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - How many litres of pure acid are there in 12 litres of a 40 % solution [SEP] 
+CHOICES - ['A ) 3.6', 'B ) 4.8', 'C ) 3.5', 'D ) 2.3', 'E ) 4.4']<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_95509,train+valid
+B,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Alex has enough money to buy 30 bricks . If the bricks each cost 20 cents less , Grace could buy 10 more bricks . How much money does Grace have to spend on bricks ? [SEP] 
+CHOICES - ['A ) 30', 'B ) 32', 'C ) 42', 'D ) 45', 'E ) 36']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",validation_16,train+valid
+B,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Lucy has enough money to go to Canada every 6 years , while Luke has enough to go every 9 years . If they pool their money , how often can they go ? [SEP] 
+CHOICES - ['A ) 2 times per year', 'B ) once every 15 years', 'C ) 5 times every 18 years', 'D ) 15 times a year', 'E ) once every 7.5 years']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",validation_23,train+valid
+B,"
+A","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A cube shaped pool is half full of water . If the water is 36 inches deep , how much would the
+water in the pool weigh if the pool were filled to the brim ? ( 1 cubic foot weighs 56 pounds ) [SEP] 
+CHOICES - ['A ) 22,096 pounds of water', 'B ) 12,096 pounds of water', 'C ) 52,096 pounds of water', 'D ) 42,096 pounds of water', 'E ) 35,096 pounds of water']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_31,train+valid
+A,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If ( x # y ) represents the remainder that results when the positive integer x is divided by the positive integer y , what is the sum of all the possible values of y such that ( 16 # y ) = 3 ? [SEP] 
+CHOICES - ['A ) 14', 'B ) 9', 'C ) 16', 'D ) 23', 'E ) 24']<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",validation_39,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If the ratio of the ages of Maya and Chhaya is 6 : 5 at present , and fifteen years from now , the ratio will get changed to 9 : 8 , then find Maya ' s present age . [SEP] 
+CHOICES - ['A ) 24 years', 'B ) 30 years', 'C ) 18 years', 'D ) 33 years', 'E ) None']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_48,train+valid
+A,"
+B","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Two trains under a controlled experiment begin at a speed of 100 mph in the opposite direction in a tunnel . A supersonic bee is left in the tunnel which can fly at a speed of 1000 mph . The tunnel is 200 miles long . When the trains start running on a constant speed of 100 mph , the supersonic bee starts flying from one train towards the other . As soon as the bee reaches the second train , it starts flying back towards the first train .
+If the bee keeps flying to and fro in the tunnel till the trains collide , how much distance will it have covered in total ? [SEP] 
+CHOICES - ['A ) 1000 miles .', 'B ) 2000 miles .', 'C ) 3000 miles .', 'D ) 4000 miles .', 'E ) 5000 miles .']<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",validation_50,train+valid
+C,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Tanya ' s grandfather was 8 times older to her 16 years ago . He would be 3 times of her age 8 years from now . What was ratio of ages of Tanya and her grandfather 8 years ago . [SEP] 
+CHOICES - ['A ) 11 : 50', 'B ) 11 : 51', 'C ) 11 : 53', 'D ) 11 : 54', 'E ) None of these']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_69,train+valid
+B,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following is the equation of a line that goes through the point ( 10,5 ) and has an x - intercept of 5 . [SEP] 
+CHOICES - ['A ) y = x - 4', 'B ) y = x - 5', 'C ) y = 2 x - 4', 'D ) y = 2 x - 5', 'E ) y = 3 x - 4']<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",validation_74,train+valid
+D,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If P represents a single digit in the four digit number x = 18 P 6 , how many different values of P are there such that x is divisible by 8 ? [SEP] 
+CHOICES - ['A ) 0', 'B ) 1', 'C ) 2', 'D ) 3', 'E ) 4']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_84,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Vegetables contains 68 % water and green vegetables contains 20 % water . How much green vegetables can be obtained from 100 kg of Vegetables ? [SEP] 
+CHOICES - ['A ) 30', 'B ) 35', 'C ) 25', 'D ) 20', 'E ) 40']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",validation_85,train+valid
+B,"
+C","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - John buys koolaid for 12 $ at a local store . If he bought it at the wholesale store he would get an extra liter of koolaid for the same cost . Also , the koolaid is 1 $ cheaper per liter at the wholesale store . What is the price per liter of the koolaid at the local store ? [SEP] 
+CHOICES - ['A ) 3', 'B ) 4', 'C ) 5', 'D ) 6', 'E ) 7']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",validation_96,train+valid
+C,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - For a candidate to clear an examination , he / she must score 55 % marks . If he / she gets 120 and fails by 78 marks , the total marks for the examination is [SEP] 
+CHOICES - ['A ) 176', 'B ) 877', 'C ) 360', 'D ) 169', 'E ) 191']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_109,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - If 300 billion French francs is equivalent to 50 billion United States dollars , which of the following expressions represents the number of United States dollars equivalent to f francs ? [SEP] 
+CHOICES - ['A ) f / 7', 'B ) f / 6', 'C ) f / 8', 'D ) f / 10', 'E ) 10 f']<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_117,train+valid
+B,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A girl counted in the following way on the fingers of her left hand : She started by calling the thumb 1 , the index finger 2 , middle finger 3 , ring finger 4 , little finger 5 and then reversed direction calling the ring finger 6 , middle finger 7 and so on . She counted upto 1994 . She ended counting on which finger ? [SEP] 
+CHOICES - ['A ) Thumb', 'B ) Index finger', 'C ) Middle finger', 'D ) Ring finger', 'E ) none']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",validation_123,train+valid
+A,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - Company X has 40 employees and company Y has 50 employees . Both companies have the same number of full time employees , but company Y has 4 more than twice the number of part - time employees that Company X has . How many part - time employees does Company Y have ? [SEP] 
+CHOICES - ['A ) 16', 'B ) 14', 'C ) 12', 'D ) 10', 'E ) 8']<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",validation_132,train+valid
+B,"
+C","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - A printer started its work at 8.15 a . m and ended its work at 9.20 p . m . It was interrupted twice for the time duration of 42 min . It can print 100 instructions per hour . Approximate how many instructions it printed ? [SEP] 
+CHOICES - ['A ) 1268.333', 'B ) 1168.333', 'C ) 1368.333', 'D ) 2168.333', 'E ) 1868.333']<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",validation_166,train+valid
+B,"
+A ) $ 18","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The cost of Brand V paper is proportional to the weight . If 12 ounces of Brand V paper cost $ 12 , what is the cost of 16 ounces of Brand V paper ? [SEP] 
+CHOICES - ['A ) $ 18', 'B ) $ 16', 'C ) $ 15', 'D ) $ 14', 'E ) $ 20']<|im_end|>
+<|im_start|>assistant
+A ) $ 18<|im_end|>",validation_181,train+valid
+D,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - The prices of a scooter and a television set are in the ratio 3 : 2 . If a scooter costs Rs . 6000 more than the television set , the price of the scooter is : [SEP] 
+CHOICES - ['A ) Rs . 6000', 'B ) Rs . 10,000', 'C ) Rs . 12,000', 'D ) Rs . 18,000', 'E ) None']<|im_end|>
+<|im_start|>assistant
+B<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",validation_207,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - An engine of length 1000 m moving at 10 m / s . A bird is flying from the start of the engine to the end at x kmph and coming back at 2 x . Take total time of bird traveling as 187.5 seconds . Find x and 2 x [SEP] 
+CHOICES - ['A ) 17.456 m / sec', 'B ) 18.456 m / sec', 'C ) 19.456 m / sec', 'D ) 27.456 m / sec', 'E ) 21.456 m / sec']<|im_end|>
+<|im_start|>assistant
+A<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",validation_212,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant tasked with solving algebraic word problems.
+You are given a multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+Return only the letter (A, B, C, D, or E) corresponding to the correct choice, without explanations and without special character "")"".
+<|im_end|>
+<|im_start|>user
+QUESTION - At a company meeting , M men and W women meet in a conference room . If the ratio of men to women is 2 : 3 at the meeting and the conference room can hold no more than 64 people , then what is the maximum number of women who can be at the meeting ? [SEP] 
+CHOICES - ['A ) 35', 'B ) 36', 'C ) 37', 'D ) 38', 'E ) 39']<|im_end|>
+<|im_start|>assistant
+A<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",validation_251,train+valid

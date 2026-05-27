@@ -1,0 +1,19 @@
+{
+    "task": "web_of_lies",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_web_of_lies",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.6,
+    "test_accuracy": 0.5704697986577181,
+    "weights": [
+        0.4595529423486504,
+        0.49377633833991347,
+        0.4505709003784272,
+        0.03997014183994321,
+        -0.0031157172121537946
+    ]
+}

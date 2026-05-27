@@ -1,0 +1,941 @@
+target,pred_clean,pred_org,example_id,split
+-5,"
+1 + -6 = -5","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(1 + -6) = <|im_end|>
+<|im_start|>assistant
+1 + -6 = -5<|im_end|>",train_3,train+valid
+-2,"
+-2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 + 6) = <|im_end|>
+<|im_start|>assistant
+-2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_77,train+valid
+6,"
+6","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(3 + 3) = <|im_end|>
+<|im_start|>assistant
+6<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_206,train+valid
+-4,"
+-4","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 + 4) = <|im_end|>
+<|im_start|>assistant
+-4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_252,train+valid
+9,"
+9","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(4 - -5) = <|im_end|>
+<|im_start|>assistant
+9<|im_end|><|endoftext|><|endoftext|>",train_289,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(4 + -2) = <|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|>",train_314,train+valid
+-16,"
+-16","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 * 2) = <|im_end|>
+<|im_start|>assistant
+-16<|im_end|>",train_385,train+valid
+13,"
+13","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(9 + 4) = <|im_end|>
+<|im_start|>assistant
+13<|im_end|><|endoftext|>",train_462,train+valid
+9,"
+9","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(4 + 6 + -1) = <|im_end|>
+<|im_start|>assistant
+9<|im_end|><|endoftext|><|endoftext|>",train_572,train+valid
+21,"
+39","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 * -2 + 5) = <|im_end|>
+<|im_start|>assistant
+39<|im_end|><|endoftext|>",train_660,train+valid
+-15,"
+-15","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 + -7 + 0) = <|im_end|>
+<|im_start|>assistant
+-15<|im_end|>",train_733,train+valid
+14,"
+2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(3 - -6 - -5) = <|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|>",train_745,train+valid
+8,"
+3","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(7 * 0 - -8) = <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_953,train+valid
+-171,"
+-162","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(3 * 9 * -6 + -9) = <|im_end|>
+<|im_start|>assistant
+-162<|im_end|>",train_1012,train+valid
+20,"
+20","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(5 * 4 + -8 * 0) = <|im_end|>
+<|im_start|>assistant
+20<|im_end|><|endoftext|><|endoftext|>",train_1112,train+valid
+58,"
+58","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-8 * -7 - -2 * 1) = <|im_end|>
+<|im_start|>assistant
+58<|im_end|><|endoftext|><|endoftext|>",train_1139,train+valid
+6,"
+6","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(6 * 1 + 0 * -1) = <|im_end|>
+<|im_start|>assistant
+6<|im_end|><|endoftext|><|endoftext|>",train_1148,train+valid
+14,"
+0","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(0 + -3 + 8 - -9) = <|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|>",train_1213,train+valid
+6,"
+0","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(0 - -6 + -4 - -4) = <|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|>",train_1276,train+valid
+-8,"
+-18","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-6 + -3 - -4 + -3) = <|im_end|>
+<|im_start|>assistant
+-18<|im_end|>",train_1293,train+valid
+48,"
+-4 * 6 = -24
+
+9 * 8 = 72
+
+-24 + 72 = 48","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-4 * 6) + (9 * 8)) = <|im_end|>
+<|im_start|>assistant
+-4 * 6 = -24
+
+9 * 8 = 72
+
+-24 + 72 = 48",train_1520,train+valid
+-14,"
+-20","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-3 + -5) + (2 * -3)) = <|im_end|>
+<|im_start|>assistant
+-20<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1634,train+valid
+-15,"
+-1","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-2 * 6) - (-4 - -7)) = <|im_end|>
+<|im_start|>assistant
+-1<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1652,train+valid
+11,"
+-5","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-6 - -7) + (2 - -8)) = <|im_end|>
+<|im_start|>assistant
+-5<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1691,train+valid
+-30,"
+-40","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((2 + 4) * (0 - 5)) = <|im_end|>
+<|im_start|>assistant
+-40<|im_end|>",train_1744,train+valid
+15,"
+15","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((4 + 4) + (4 + 3)) = <|im_end|>
+<|im_start|>assistant
+15<|im_end|><|endoftext|>",train_1810,train+valid
+-14,"
+-1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-5 - 9) + (6 + -6)) = <|im_end|>
+<|im_start|>assistant
+-1<|im_end|><|endoftext|>",train_1969,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-6 * -1 + -1) + (1 * -3 + 0)) = <|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|>",train_2007,train+valid
+80,"
+72","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((0 - -9 * 8) + (8 - 0 + 0)) = <|im_end|>
+<|im_start|>assistant
+72<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2074,train+valid
+121,"
+89","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-4 * -4 * 5) + (-7 * -7 - 8)) = <|im_end|>
+<|im_start|>assistant
+89<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2312,train+valid
+-24,"
+-32","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-3 - 3 - 8) + (-6 - -2 - 6)) = <|im_end|>
+<|im_start|>assistant
+-32<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2375,train+valid
+29,"
+(-5 + 8 - -6 + 6) - (-2 + -6 - -1 - 7) = 1","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-5 + 8 - -6 + 6) - (-2 + -6 - -1 - 7)) = <|im_end|>
+<|im_start|>assistant
+(-5 + 8 - -6 + 6) - (-2 + -6 - -1 - 7) = 1<|im_end|>",train_2560,train+valid
+2240,"
+-97","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((5 - 7 - 8 - 6) * (-2 * -8 * -9 + 4)) = <|im_end|>
+<|im_start|>assistant
+-97<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2858,train+valid
+-44,"
+-4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-5 - -3 + 6 * -5) + (-1 - -5 - -4 * -4)) = <|im_end|>
+<|im_start|>assistant
+-4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2897,train+valid
+104,"
+(-1 * -5) = 5
+
+(8 - 7) = 1
+
+(-6 - 6) = -12","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-1 * -5) + (-3 - -6)) * ((8 - 7) - (-6 - 6))) = <|im_end|>
+<|im_start|>assistant
+(-1 * -5) = 5
+
+(8 - 7) = 1
+
+(-6 - 6) = -12",train_3036,train+valid
+43,"
+7","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((0 * 1) - (-7 + -8)) + ((-5 * -6) - (1 - -1))) = <|im_end|>
+<|im_start|>assistant
+7<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3043,train+valid
+54,"
+5","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((6 + 1) - (4 - 3)) - ((-4 * -6) * (-3 + 1))) = <|im_end|>
+<|im_start|>assistant
+5<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3070,train+valid
+1890,"
+-165","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((5 * -3) * (3 * 7)) * ((0 + -9) - (-5 - -2))) = <|im_end|>
+<|im_start|>assistant
+-165<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3088,train+valid
+-840,"
+-176","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-5 * -7) * (-6 + 9)) * ((-2 - 8) + (-5 + 7))) = <|im_end|>
+<|im_start|>assistant
+-176<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3095,train+valid
+-231,"
+(((-7 - 2) - (0 + 2)) * ((-4 * -5) + (-8 + 9))) =","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-7 - 2) - (0 + 2)) * ((-4 * -5) + (-8 + 9))) = <|im_end|>
+<|im_start|>assistant
+(((-7 - 2) - (0 + 2)) * ((-4 * -5) + (-8 + 9))) =",train_3323,train+valid
+83,"
+-2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((2 + 5) + (-7 + 3)) - ((-1 - 9) * (3 - -5))) = <|im_end|>
+<|im_start|>assistant
+-2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3340,train+valid
+13,"
+3","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((8 + 9) - (4 - -9)) + ((8 + 7) - (6 * 1))) = <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3354,train+valid
+19,"
+((5 - 5) * (-2 - 6)) = 0
+
+((-7 + -5) + (2 + -9))","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((5 - 5) * (-2 - 6)) - ((-7 + -5) + (2 + -9))) = <|im_end|>
+<|im_start|>assistant
+((5 - 5) * (-2 - 6)) = 0
+
+((-7 + -5) + (2 + -9))",train_3376,train+valid
+20,"
+-4","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((5 + 1) + (8 + -1)) - ((-5 - 1) - (5 - 4))) = <|im_end|>
+<|im_start|>assistant
+-4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3388,train+valid
+36,"
+-1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-5 * -4) - (5 + -6)) - ((9 + 0) - (-6 * -4))) = <|im_end|>
+<|im_start|>assistant
+-1<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3389,train+valid
+-138,"
+(-5 * -5) = 25
+
+6 - 8 = -2
+
+25 + -2 = 23
+
+7","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-5 * -5) + (6 - 8)) * ((7 + -7) - (-6 * -1))) = <|im_end|>
+<|im_start|>assistant
+(-5 * -5) = 25
+
+6 - 8 = -2
+
+25 + -2 = 23
+
+7",train_3457,train+valid
+396,"
+26","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((7 + 5 - 6) - (4 + -9 - 1)) * ((6 - -7 + 7) + (4 - -8 - -1))) = <|im_end|>
+<|im_start|>assistant
+26<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3537,train+valid
+-68,"
+-6","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-3 - -6 * -2) - (-7 + 9 + -3)) + ((5 * -8 - -2) + (-9 - -1 + -8))) = <|im_end|>
+<|im_start|>assistant
+-6<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3560,train+valid
+-7,"
+-20","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((6 * -2 * -6) * (0 * 1 * -4)) + ((1 * -8 - -1) * (6 + 3 - 8))) = <|im_end|>
+<|im_start|>assistant
+-20<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_3582,train+valid
+-64512,"
+-18984","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((8 * 8 * 3) * (-7 * -4 * -1)) * ((-2 - 5 + -5) * (-2 * -2 + -5))) = <|im_end|>
+<|im_start|>assistant
+-18984<|im_end|>",train_3651,train+valid
+17,"
+-6","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-4 + 0 * -1) + (8 + -3 - 6)) - ((-8 - 7 - 0) - (5 + 2 * 1))) = <|im_end|>
+<|im_start|>assistant
+-6<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3745,train+valid
+128,"
+-2","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((1 - 4 + 6) + (-4 - 6 * 6)) + ((2 - -8 + 1) * (9 + -2 + 8))) = <|im_end|>
+<|im_start|>assistant
+-2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3808,train+valid
+42,"
+(((-9 - -9 - 0) * (-3 - -3 + -9)) - ((3 + -7 + 3)","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-9 - -9 - 0) * (-3 - -3 + -9)) - ((3 + -7 + 3) * (2 - 8 * -5))) = <|im_end|>
+<|im_start|>assistant
+(((-9 - -9 - 0) * (-3 - -3 + -9)) - ((3 + -7 + 3)",train_3995,train+valid
+-46105,"
+26","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((9 + 7 * -2 - 3) + (-8 - 3 * 1 - 6)) + ((-4 - -5 * -3 + -5) * (8 * -6 * 5 * -8))) = <|im_end|>
+<|im_start|>assistant
+26<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4021,train+valid
+4095,"
+-275","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-9 + -8 + -9 + 4) - (2 + 8 * 9 - 5)) * ((4 + -5 + 6 + -2) * (2 * -4 - -1 - 8))) = <|im_end|>
+<|im_start|>assistant
+-275<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4167,train+valid
+-9360,"
+276","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((0 + 9 - 7 * -3) * (-6 + -6 - -2 + 6)) * ((8 * 9 - -1 + 6) + (-1 + 7 * 1 - 7))) = <|im_end|>
+<|im_start|>assistant
+276<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4218,train+valid
+138,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-3 * -8 * 2 + -4) * (-4 - 3 + 9 + 1)) + ((-8 - 2 - -2 + -1) - (-6 + 2 + -8 - 3))) = <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|>",train_4222,train+valid
+-1131,"
+47","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-8 - 2 - -6 * -8) - (-7 - 2 * -3 * -2)) * ((5 - 4 * -6 * -1) - (-2 - -9 * -6 + 8))) = <|im_end|>
+<|im_start|>assistant
+47<|im_end|>",train_4283,train+valid
+262,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-3 * 7 + 5 + 5) - (-7 + 7 - -9 - -7)) - ((-6 - -1 + -9 - 3) * (8 - 6 * -3 + -9))) = <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_4480,train+valid
+333,"
+6","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-3 - -7) - (2 + 6)) - ((3 + 2) * (-5 + 6))) + (((-1 * -6) + (-9 * 7)) * ((3 - 3) + (-5 - 1)))) = <|im_end|>
+<|im_start|>assistant
+6<|im_end|><|endoftext|>",train_4538,train+valid
+-350,"
+-1796","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((1 * 7) - (-8 - -8)) * ((0 - 9) + (6 + 8))) * (((1 * 1) - (4 - 0)) + ((-6 - -4) - (1 - -4)))) = <|im_end|>
+<|im_start|>assistant
+-1796<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4543,train+valid
+-14549,"
+15","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((0 + 4) - (-3 + -4)) * ((-1 + -1) + (-2 + -9))) - (((8 * 6) - (3 - 4)) * ((1 * 7) * (7 * 6)))) = <|im_end|>
+<|im_start|>assistant
+15<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4546,train+valid
+-172,"
+(-2 + 4) * 1 = 2
+-1 + 8 = 7
+-2 + -4 = -6","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-3 * -4) * (-5 + -8)) - ((-1 - 2) + (-9 * -3))) - (((-8 - -6) + (-2 - 4)) + ((6 * 0) * (1 - -4)))) = <|im_end|>
+<|im_start|>assistant
+(-2 + 4) * 1 = 2
+-1 + 8 = 7
+-2 + -4 = -6",train_4571,train+valid
+123,"
+-2","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((8 * 6) + (-4 - 1)) - ((7 - 9) * (6 * 7))) - (((-3 * -2) + (1 - 8)) + ((-6 + 7) * (9 - 4)))) = <|im_end|>
+<|im_start|>assistant
+-2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4580,train+valid
+-159,"
+-9","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((5 - 4) + (-2 * 2)) - ((8 * 2) + (6 - 1))) + (((2 - -8) * (-5 - 6)) + ((-7 + -5) + (-9 + -4)))) = <|im_end|>
+<|im_start|>assistant
+-9<|im_end|><|endoftext|>",train_4581,train+valid
+-288,"
+264","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-7 * -9) * (-1 * 5)) - ((-7 + 1) - (-7 * -3))) * (((-1 + 7) + (0 + -5)) * ((4 - 1) - (0 + 2)))) = <|im_end|>
+<|im_start|>assistant
+264<|im_end|>",train_4593,train+valid
+-210,"
+47","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-7 + 2) * (1 + 2)) * ((-5 - -4) + (7 - -9))) - (((-7 + 4) + (-8 - -6)) * ((-5 - -1) - (-7 - 0)))) = <|im_end|>
+<|im_start|>assistant
+47<|im_end|><|endoftext|>",train_4656,train+valid
+-117,"
+-14","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((4 * -6) + (-8 - 5)) * ((3 + 1) - (7 - 5))) - (((9 * -8) + (-2 * 3)) + ((8 + 3) * (6 - -5)))) = <|im_end|>
+<|im_start|>assistant
+-14<|im_end|>",train_4764,train+valid
+-99,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((5 + 4) - (1 * 3)) - ((0 + 4) * (8 - -9))) - (((5 + -9) * (4 + 1)) - ((9 - -6) + (8 * -9)))) = <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_4913,train+valid
+-65,"
+1","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-1 + 6 + -6) * (3 + -9 * 1)) + ((9 - 8 - -1) - (-1 * -5 * -1))) + (((7 * 0 + 9) * (3 - 8 + -2)) - ((-2 + 3 + 2) * (3 + -6 - -8)))) = <|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|>",train_5059,train+valid
+-158760,"
+87","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((4 + 7 * -4) * (9 * 8 + -9)) + ((3 * -1 - 9) * (-8 * 8 - -8))) * (((7 * 5 * 5) + (3 - 5 - 9)) - ((5 - 6 + -8) + (-9 - -2 - 9)))) = <|im_end|>
+<|im_start|>assistant
+87<|im_end|>",train_5124,train+valid
+-4149,"
+1","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((5 - 7 * -9) * (-8 - -3 - 1)) - ((9 - -8 - -3) + (-8 * -4 + 1))) * (((-5 - 2 + 8) + (-8 - -8 - 4)) * ((-9 - -1 * 2) + (-9 + 6 + 7)))) = <|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|>",train_5157,train+valid
+33,"
+((((-6 * -5 * 1) * (-2 * 1 + -1)) - ((4 * 3 + -1)","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-6 * -5 * 1) * (-2 * 1 + -1)) - ((4 * 3 + -1) + (8 * -7 - -6))) + (((5 - 7 - 1) + (-4 - -5 * -7)) * ((-9 - 6 - -4) + (-3 * 0 + 9)))) = <|im_end|>
+<|im_start|>assistant
+((((-6 * -5 * 1) * (-2 * 1 + -1)) - ((4 * 3 + -1)",train_5170,train+valid
+-112,"
+8","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-9 + 1 + 0) - (-9 + 5 - 5)) + ((1 - -4 - -8) + (-5 - 2 + 8))) - (((-3 - -5 * 3) - (-6 - 5 + 3)) - ((7 + -6 * 9) + (6 * 5 * -2)))) = <|im_end|>
+<|im_start|>assistant
+8<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5258,train+valid
+804132,"
+4784","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-4 - -1 + 1 + -5) * (8 * 3 * -4 * 6)) * ((4 - -1 * 3 - -6) * (-8 + 7 - -8 + 8))) - (((9 * -7 + 6 * -9) - (0 + 9 - -4 * 4)) * ((-7 + 3 - -3 + -1) * (-4 - -8 * -8 + 5)))) = <|im_end|>
+<|im_start|>assistant
+4784<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5507,train+valid
+-296780,"
+364","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-9 + 0 - -5 * 0) - (-7 * 2 - 6 + 0)) * ((-9 * -5 * 4 - 6) + (5 - 1 + -4 * 9))) * (((3 * -9 - 0 * 2) - (4 * -6 * -7 + 7)) + ((4 + 2 * 1 * 3) - (0 - 2 * 5 + 8)))) = <|im_end|>
+<|im_start|>assistant
+364<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5647,train+valid
+-686,"
+14","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((1 * -4 - 0 * -9) + (-5 + 3 * 9 + 2)) * ((8 - 2 + 9 + -3) + (-4 - 8 + -9 - -1))) + (((8 + -4 - -4 - -5) * (5 * -5 - -2 * -8)) - ((-4 - 0 - -1 + -3) - (0 * 8 + -5 - -6)))) = <|im_end|>
+<|im_start|>assistant
+14<|im_end|><|endoftext|>",train_5840,train+valid
+204204,"
+1","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((5 - -8 + -6 - -1) - (6 + 2 * -8 * 4)) * ((-9 * 3 - -8 + 7) - (4 - -6 - 6 + 1))) * (((-2 * 4 * -3 * 1) + (9 * 9 + 0 * -1)) - ((7 * -4 * -9 + 4) - (-6 + -5 - 4 * 5)))) = <|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|><|endoftext|>",train_5849,train+valid
+12574,"
+197","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((6 - -4 + -6 + 2) * (-4 - 5 - -8 - 2)) + ((2 + 1 - -6 * -5) - (7 * 2 * -3 * -7))) + (((-5 + -7 + -1 * -1) + (-5 * -4 * 2 * 9)) * ((-2 * 4 * 2 * -4) - (5 - 6 * -3 + 4)))) = <|im_end|>
+<|im_start|>assistant
+197<|im_end|>",train_5872,train+valid
+-7,"
+23","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((4 * -4 - -3 - 3) * (5 + 7 - -9 + -5)) + ((6 + -5 - -5 - 9) - (7 * 1 * -8 * 6))) + (((4 * -2 + 2 * -8) + (-7 + 3 - -3 - 2)) + ((4 - 5 * -2 * -5) + (2 * -6 + -6 - -7)))) = <|im_end|>
+<|im_start|>assistant
+23<|im_end|><|endoftext|>",train_5914,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(2 + 0) = <|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_175,train+valid
+-9,"
+-9","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(1 + -6 - 4) = <|im_end|>
+<|im_start|>assistant
+-9<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_820,train+valid
+-17,"
+-2 + -5 + -3 + -7 = -17","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-2 + -5 + -3 - 7) = <|im_end|>
+<|im_start|>assistant
+-2 + -5 + -3 + -7 = -17<|im_end|>",train_1040,train+valid
+61,"
+53","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(-1 * 2 - 9 * -7) = <|im_end|>
+<|im_start|>assistant
+53<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1084,train+valid
+14,"
+-2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(6 * 3 - -2 * -2) = <|im_end|>
+<|im_start|>assistant
+-2<|im_end|><|endoftext|>",train_1247,train+valid
+640,"
+90","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((3 * 9 - -5) * (3 - -9 - -8)) = <|im_end|>
+<|im_start|>assistant
+90<|im_end|><|endoftext|>",train_2052,train+valid
+0,"
+2","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-8 - -1 - -6) * (-7 + 7 - 0)) = <|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|>",train_2138,train+valid
+-92,"
+-12","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((-5 * 2 * 6) - (5 * 6 + 2)) = <|im_end|>
+<|im_start|>assistant
+-12<|im_end|>",train_2271,train+valid
+-44,"
+-7","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((7 * 5 + -8) + (2 - 7 * 8)) - ((-2 + 3 * 2) + (6 + 9 + -2))) = <|im_end|>
+<|im_start|>assistant
+-7<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_3704,train+valid
+-510,"
+(-7 + -6 + -6) * (-6 + 1) = -63","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-8 - 7 - -9 - 8) - (-4 + 0 * -6 * -6)) + ((-1 * 9 + -3 + -8) * (-7 * -3 + 0 + 4))) = <|im_end|>
+<|im_start|>assistant
+(-7 + -6 + -6) * (-6 + 1) = -63<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4030,train+valid
+2381,"
+(-3 + 0 + -8 + 0) = -11
+
+4 * 6 * -8 * -1 = 1","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-3 + 0 + -8 + 0) + (4 * 6 * -8 * -1)) - ((5 * -2 * 5 * -4) * (2 + 8 + -7 * 3))) = <|im_end|>
+<|im_start|>assistant
+(-3 + 0 + -8 + 0) = -11
+
+4 * 6 * -8 * -1 = 1",train_4097,train+valid
+-2051,"
+-6","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-4 - -9 * -6 - 8) * (1 - -9 - 7 * -3)) + ((-9 + 3 + -4 * 0) + (-9 + -5 - -8 - -7))) = <|im_end|>
+<|im_start|>assistant
+-6<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4098,train+valid
+-1028,"
+-137","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-6 * 7 * -2 + 6) + (0 * 5 + 6 + -8)) + ((-7 * 8 * -6 * -3) - (9 * -2 * -6 - 0))) = <|im_end|>
+<|im_start|>assistant
+-137<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4269,train+valid
+-32508,"
+399","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-4 - -1 - 0 + -4) - (-1 + 6 - 6 * -5)) * ((5 + -2 * 1 + 3) * (-8 * -8 * 2 - -1))) = <|im_end|>
+<|im_start|>assistant
+399<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_4333,train+valid
+-97,"
+(((-7 - 1 - 8 - -1) + (6 + -9 + -5 + 7)) - ((-9","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+(((-7 - 1 - 8 - -1) + (6 + -9 + -5 + 7)) - ((-9 + 8 * 4 + -9) - (-6 - 7 - -6 * -9))) = <|im_end|>
+<|im_start|>assistant
+(((-7 - 1 - 8 - -1) + (6 + -9 + -5 + 7)) - ((-9",train_4442,train+valid
+-12636,"
+28","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((2 + 5 - 1) - (-4 + -5 * 1)) * ((7 - 9 - 7) * (3 * 8 * 6))) - (((-9 * 3 * 2) * (9 - 5 + -5)) * ((8 - 3 + 9) * (5 - -2 * -7)))) = <|im_end|>
+<|im_start|>assistant
+28<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_5166,train+valid
+-52002,"
+677","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-6 - -4 + -5) * (-5 * -1 + -8)) + ((9 * 7 + 6) * (8 + 4 - 3))) * (((0 - 0 - 7) + (1 * 3 * -6)) + ((6 * -9 - 4) + (-3 + -4 + 9)))) = <|im_end|>
+<|im_start|>assistant
+677<|im_end|>",train_5344,train+valid
+221936,"
+286","<|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-7 * -7 + 9 - 7) * (9 + 9 - 9 + 1)) + ((-3 - -3 * 6 - -2) - (-6 + -6 * -4 - -3))) + (((-7 + 8 + -7 * 8) * (-2 + 8 - -9 + 7)) * ((-3 * -4 * 5 * -3) + (-1 * 0 - 5 - -2)))) = <|im_end|>
+<|im_start|>assistant
+286<|im_end|>",train_5588,train+valid
+-3870,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((4 * -7 + 0 + -8) - (-4 + -4 + 4 * -5)) - ((5 + 6 * 2 - 8) + (9 * -3 + 9 - 8))) * (((1 + -6 + 5 + 1) + (-2 + 6 + 9 - 9)) * ((-2 - 4 * 9 * 3) - (3 * -9 + 8 + -5)))) = <|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|><|endoftext|>",train_5828,train+valid
+-191,"
+13","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a multistep arithmetic task.
+Return only the final numerical answer without explanations.
+<|im_end|>
+<|im_start|>user
+((((-6 + 9 * -5 - -9) + (0 - 7 - 4 + -6)) + ((6 + 8 * -2 + 6) - (-7 - 3 * 7 * 1))) - (((-1 * -8 * -4 * -1) * (7 - -7 + -6 - 3)) - ((-9 + -7 * 0 * -9) - (-8 - -2 * 0 + -5)))) = <|im_end|>
+<|im_start|>assistant
+13<|im_end|><|endoftext|>",train_5927,train+valid

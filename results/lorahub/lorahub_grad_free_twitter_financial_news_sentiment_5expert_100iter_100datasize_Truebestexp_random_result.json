@@ -1,0 +1,19 @@
+{
+    "task": "twitter_financial_news_sentiment",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_twitter_financial_news_sentiment",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.8,
+    "test_accuracy": 0.7549738219895288,
+    "weights": [
+        0.7016782313273646,
+        0.45847678733976416,
+        0.7604634787093675,
+        -0.13197840650984075,
+        0.5338774538129243
+    ]
+}

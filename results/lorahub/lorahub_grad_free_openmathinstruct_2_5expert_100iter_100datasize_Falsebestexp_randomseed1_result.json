@@ -1,0 +1,19 @@
+{
+    "task": "openmathinstruct_2",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task"
+    ],
+    "valid_accuracy": 0.0,
+    "test_accuracy": 0.019407763105242098,
+    "weights": [
+        0.09975967373266852,
+        0.14507953761042436,
+        -0.022527503105083974,
+        0.0012709442916988912,
+        1.2659810985691682
+    ]
+}

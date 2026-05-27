@@ -1,0 +1,19 @@
+{
+    "task": "multistep_arithmetic",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_multistep_arithmetic",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.15,
+    "test_accuracy": 0.215,
+    "weights": [
+        1.0095101481404316,
+        0.7625069014765249,
+        0.5268257164426269,
+        -0.0009594608239749705,
+        -0.03325162616922976
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "task": "tracking_shuffled_objects",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_tracking_shuffled_objects",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.45,
+    "test_accuracy": 0.2826666666666667,
+    "weights": [
+        0.9615332341708022,
+        0.5306814816693188,
+        0.006016328712830891,
+        0.006335058037540619,
+        0.47315447209648603
+    ]
+}

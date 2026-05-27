@@ -1,0 +1,19 @@
+{
+    "task": "elementary_math_qa_question_only",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_elementary_math_qa_question_only",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.3,
+    "test_accuracy": 0.19245773732119636,
+    "weights": [
+        0.5245786872785625,
+        0.4597242744196336,
+        -0.03147755214434952,
+        0.47467920975526695,
+        0.015036256505700528
+    ]
+}

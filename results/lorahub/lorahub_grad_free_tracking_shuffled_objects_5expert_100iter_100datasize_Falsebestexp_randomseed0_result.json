@@ -1,0 +1,19 @@
+{
+    "task": "tracking_shuffled_objects",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.0,
+    "test_accuracy": 0.0,
+    "weights": [
+        -0.3007701013610491,
+        -0.05041344781025707,
+        -0.11065374301631459,
+        -0.9406245701619647,
+        1.1789676231462007
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "task": "overruling",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task"
+    ],
+    "valid_accuracy": 0.85,
+    "test_accuracy": 0.8375,
+    "weights": [
+        0.27964228577703937,
+        -0.09604056137328582,
+        -0.13683620779809386,
+        0.382958531634085,
+        0.06195414547750944
+    ]
+}

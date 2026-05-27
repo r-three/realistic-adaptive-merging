@@ -1,0 +1,19 @@
+{
+    "task": "openmathinstruct_2",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_openmathinstruct_2",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.15,
+    "test_accuracy": 0.13205282112845138,
+    "weights": [
+        1.0977850992947888,
+        0.10470504117927035,
+        0.7146678452339956,
+        0.4911215283416312,
+        0.04871055392821714
+    ]
+}

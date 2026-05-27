@@ -1,0 +1,1705 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+2","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a green ball, Bob has a black ball, and Claire has a blue ball. 
+
+As the game progresses, pairs of players trade balls. First, Bob and Alice swap balls. Then, Claire and Alice swap balls. Finally, Alice and Bob swap balls. At the end of the game, Claire has the  [SEP] 
+OPTIONS - 0: green ball 
+1: black ball 
+2: blue ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_29,train+valid
+0,"
+2","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a purple ball, Bob has a blue ball, and Claire has a black ball. 
+
+As the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Claire and Alice swap balls. At the end of the game, Bob has the  [SEP] 
+OPTIONS - 0: purple ball 
+1: blue ball 
+2: black ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_34,train+valid
+0,"
+2","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a yellow ball, Bob has a green ball, and Claire has a blue ball. 
+
+As the game progresses, pairs of players trade balls. First, Alice and Bob swap balls. Then, Alice and Claire swap balls. Finally, Claire and Bob swap balls. At the end of the game, Claire has the  [SEP] 
+OPTIONS - 0: yellow ball 
+1: green ball 
+2: blue ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_65,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a black ball, and Claire has a pink ball. 
+
+As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Bob and Alice swap balls. Finally, Alice and Claire swap balls. At the end of the game, Alice has the  [SEP] 
+OPTIONS - 0: blue ball 
+1: black ball 
+2: pink ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_75,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a blue ball, and Claire has a purple ball. 
+
+As the game progresses, pairs of players trade balls. First, Bob and Alice swap balls. Then, Claire and Alice swap balls. Finally, Bob and Claire swap balls. At the end of the game, Claire has the  [SEP] 
+OPTIONS - 0: brown ball 
+1: blue ball 
+2: purple ball<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_80,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a black ball, and Claire has a pink ball. 
+
+As the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Claire and Alice swap balls. At the end of the game, Bob has the  [SEP] 
+OPTIONS - 0: blue ball 
+1: black ball 
+2: pink ball<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_130,train+valid
+2,"
+0","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a yellow present, Bob has a purple present, and Claire has a green present. 
+
+As the event progresses, pairs of people swap gifts. First, Claire and Alice swap their gifts. Then, Bob and Claire swap their gifts. Finally, Alice and Bob swap their gifts. At the end of the event, Bob has the  [SEP] 
+OPTIONS - 0: yellow present 
+1: purple present 
+2: green present<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_157,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a yellow present, and Claire has a orange ball. 
+
+As the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Alice and Claire swap their gifts. Finally, Bob and Claire swap their gifts. At the end of the event, Bob has the  [SEP] 
+OPTIONS - 0: pink ball 
+1: yellow present 
+2: orange ball<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_187,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a orange ball, Bob has a black ball, and Claire has a brown present. 
+
+As the event progresses, pairs of people swap gifts. First, Alice and Claire swap their gifts. Then, Bob and Claire swap their gifts. Finally, Claire and Alice swap their gifts. At the end of the event, Alice has the  [SEP] 
+OPTIONS - 0: orange ball 
+1: black ball 
+2: brown present<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_201,train+valid
+2,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left winger, Bob is playing cheerleader, and Claire is playing benchwarmer. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Bob and Alice trade positions. Then, Bob and Claire trade positions. Finally, Alice and Claire trade positions. At the end of the match, Bob is playing  [SEP] 
+OPTIONS - 0: left winger 
+1: cheerleader 
+2: benchwarmer<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_346,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing cheerleader, and Claire is playing right midfielder. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Bob and Alice trade positions. Then, Claire and Bob trade positions. Finally, Claire and Alice trade positions. At the end of the match, Claire is playing  [SEP] 
+OPTIONS - 0: goalkeeper 
+1: cheerleader 
+2: right midfielder<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_368,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing left midfielder, and Claire is playing center midfielder. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Claire and Alice trade positions. Then, Bob and Alice trade positions. Finally, Claire and Bob trade positions. At the end of the match, Bob is playing  [SEP] 
+OPTIONS - 0: right winger 
+1: left midfielder 
+2: center midfielder<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_370,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing fullback, Bob is playing goalkeeper, and Claire is playing left midfielder. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Claire and Alice trade positions. Then, Bob and Claire trade positions. Finally, Alice and Claire trade positions. At the end of the match, Claire is playing  [SEP] 
+OPTIONS - 0: fullback 
+1: goalkeeper 
+2: left midfielder<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_374,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left midfielder, Bob is playing fullback, and Claire is playing right midfielder. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Alice and Claire trade positions. Then, Bob and Alice trade positions. Finally, Claire and Alice trade positions. At the end of the match, Alice is playing  [SEP] 
+OPTIONS - 0: left midfielder 
+1: fullback 
+2: right midfielder<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_408,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing cheerleader, and Claire is playing center midfielder. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Bob and Alice trade positions. Then, Alice and Claire trade positions. Finally, Alice and Bob trade positions. At the end of the match, Alice is playing  [SEP] 
+OPTIONS - 0: goalkeeper 
+1: cheerleader 
+2: center midfielder<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_432,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Odyssey, Bob gets Ulysses, and Claire gets The Great Gatsby. 
+
+As the semester proceeds, they start trading around the new books. First, Claire and Bob swap books. Then, Alice and Bob swap books. Finally, Claire and Bob swap books. At the end of the semester, Alice has   [SEP] 
+OPTIONS - 0: The Odyssey 
+1: Ulysses 
+2: The Great Gatsby<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_501,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Odyssey, Bob gets Moby Dick, and Claire gets Catch-22. 
+
+As the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Bob and Alice swap books. Finally, Alice and Claire swap books. At the end of the semester, Alice has   [SEP] 
+OPTIONS - 0: The Odyssey 
+1: Moby Dick 
+2: Catch-22<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_549,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Lolita, Bob gets Hound of the Baskervilles, and Claire gets The Fellowship of the Ring. 
+
+As the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Alice and Bob swap books. Finally, Bob and Claire swap books. At the end of the semester, Bob has   [SEP] 
+OPTIONS - 0: Lolita 
+1: Hound of the Baskervilles 
+2: The Fellowship of the Ring<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_571,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Lolita, Bob gets Catch-22, and Claire gets Moby Dick. 
+
+As the semester proceeds, they start trading around the new books. First, Claire and Alice swap books. Then, Bob and Claire swap books. Finally, Claire and Alice swap books. At the end of the semester, Claire has   [SEP] 
+OPTIONS - 0: Lolita 
+1: Catch-22 
+2: Moby Dick<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_584,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Rodrigo, Bob is dancing with Jamie, and Claire is dancing with Izzi. 
+
+Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Claire and Alice switch partners. Finally, Bob and Claire switch partners. At the end of the dance, Claire is dancing with   [SEP] 
+OPTIONS - 0: Rodrigo 
+1: Jamie 
+2: Izzi<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_620,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Rodrigo, Bob is dancing with Jamie, and Claire is dancing with Sam. 
+
+Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Bob and Claire switch partners. Finally, Alice and Claire switch partners. At the end of the dance, Bob is dancing with   [SEP] 
+OPTIONS - 0: Rodrigo 
+1: Jamie 
+2: Sam<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_631,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Rodrigo, and Claire is dancing with Ophelia. 
+
+Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Claire and Alice switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Claire is dancing with   [SEP] 
+OPTIONS - 0: Jamie 
+1: Rodrigo 
+2: Ophelia<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_650,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Jamie, and Claire is dancing with Melissa. 
+
+Throughout the song, the dancers often trade partners. First, Alice and Claire switch partners. Then, Bob and Alice switch partners. Finally, Claire and Bob switch partners. At the end of the dance, Alice is dancing with   [SEP] 
+OPTIONS - 0: Ophelia 
+1: Jamie 
+2: Melissa<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_666,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Helga, and Claire is dancing with Izzi. 
+
+Throughout the song, the dancers often trade partners. First, Bob and Claire switch partners. Then, Claire and Alice switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Claire is dancing with   [SEP] 
+OPTIONS - 0: Jamie 
+1: Helga 
+2: Izzi<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_728,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Lola, and Claire is dancing with Izzi. 
+
+Throughout the song, the dancers often trade partners. First, Alice and Bob switch partners. Then, Alice and Claire switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Alice is dancing with   [SEP] 
+OPTIONS - 0: Melissa 
+1: Lola 
+2: Izzi<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_729,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Rodrigo, Bob is dancing with Melissa, and Claire is dancing with Jamie. 
+
+Throughout the song, the dancers often trade partners. First, Bob and Claire switch partners. Then, Alice and Bob switch partners. Finally, Bob and Claire switch partners. At the end of the dance, Alice is dancing with   [SEP] 
+OPTIONS - 0: Rodrigo 
+1: Melissa 
+2: Jamie<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_735,train+valid
+1,"
+3","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a brown ball, Claire has a green ball, Dave has a white ball, and Eve has a red ball. 
+
+As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Dave and Eve swap balls. Then, Alice and Eve swap balls. Then, Dave and Claire swap balls. Finally, Bob and Dave swap balls. At the end of the game, Bob has the  [SEP] 
+OPTIONS - 0: blue ball 
+1: brown ball 
+2: green ball 
+3: white ball 
+4: red ball<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_836,train+valid
+3,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a red ball, Bob has a pink ball, Claire has a brown ball, Dave has a yellow ball, and Eve has a orange ball. 
+
+As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Claire and Eve swap balls. Then, Alice and Dave swap balls. Then, Bob and Alice swap balls. Finally, Dave and Bob swap balls. At the end of the game, Dave has the  [SEP] 
+OPTIONS - 0: red ball 
+1: pink ball 
+2: brown ball 
+3: yellow ball 
+4: orange ball<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_883,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a black ball, Claire has a white ball, Dave has a yellow ball, and Eve has a purple ball. 
+
+As the game progresses, pairs of players trade balls. First, Claire and Dave swap balls. Then, Alice and Eve swap balls. Then, Dave and Bob swap balls. Then, Alice and Eve swap balls. Finally, Claire and Eve swap balls. At the end of the game, Alice has the  [SEP] 
+OPTIONS - 0: brown ball 
+1: black ball 
+2: white ball 
+3: yellow ball 
+4: purple ball<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_910,train+valid
+4,"
+2","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a red ball, Bob has a green ball, Claire has a brown ball, Dave has a black ball, and Eve has a orange ball. 
+
+As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Dave and Eve swap balls. Then, Claire and Eve swap balls. Then, Bob and Claire swap balls. Finally, Alice and Claire swap balls. At the end of the game, Dave has the  [SEP] 
+OPTIONS - 0: red ball 
+1: green ball 
+2: brown ball 
+3: black ball 
+4: orange ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_963,train+valid
+1,"
+3","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a white ball, Bob has a yellow ball, Claire has a blue ball, Dave has a orange ball, and Eve has a brown ball. 
+
+As the game progresses, pairs of players trade balls. First, Eve and Alice swap balls. Then, Dave and Bob swap balls. Then, Claire and Alice swap balls. Then, Alice and Dave swap balls. Finally, Eve and Alice swap balls. At the end of the game, Eve has the  [SEP] 
+OPTIONS - 0: white ball 
+1: yellow ball 
+2: blue ball 
+3: orange ball 
+4: brown ball<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_984,train+valid
+2,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a green ball, Bob has a white ball, Claire has a purple ball, Dave has a orange ball, and Eve has a black ball. 
+
+As the game progresses, pairs of players trade balls. First, Bob and Dave swap balls. Then, Claire and Eve swap balls. Then, Bob and Dave swap balls. Then, Alice and Claire swap balls. Finally, Eve and Alice swap balls. At the end of the game, Alice has the  [SEP] 
+OPTIONS - 0: green ball 
+1: white ball 
+2: purple ball 
+3: orange ball 
+4: black ball<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_985,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a orange ball, Claire has a purple present, Dave has a yellow present, and Eve has a white present. 
+
+As the event progresses, pairs of people swap gifts. First, Bob and Eve swap their gifts. Then, Bob and Claire swap their gifts. Then, Dave and Alice swap their gifts. Then, Bob and Eve swap their gifts. Finally, Alice and Bob swap their gifts. At the end of the event, Claire has the  [SEP] 
+OPTIONS - 0: brown present 
+1: orange ball 
+2: purple present 
+3: yellow present 
+4: white present<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1107,train+valid
+2,"
+3","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a purple present, Bob has a white present, Claire has a brown present, Dave has a red present, and Eve has a yellow present. 
+
+As the event progresses, pairs of people swap gifts. First, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Bob and Dave swap their gifts. Then, Claire and Eve swap their gifts. Finally, Alice and Dave swap their gifts. At the end of the event, Eve has the  [SEP] 
+OPTIONS - 0: purple present 
+1: white present 
+2: brown present 
+3: red present 
+4: yellow present<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1129,train+valid
+1,"
+3","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a orange ball, Claire has a green present, Dave has a blue present, and Eve has a white present. 
+
+As the event progresses, pairs of people swap gifts. First, Eve and Bob swap their gifts. Then, Eve and Claire swap their gifts. Then, Eve and Dave swap their gifts. Then, Dave and Alice swap their gifts. Finally, Claire and Dave swap their gifts. At the end of the event, Dave has the  [SEP] 
+OPTIONS - 0: brown present 
+1: orange ball 
+2: green present 
+3: blue present 
+4: white present<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1153,train+valid
+3,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a yellow present, Bob has a orange ball, Claire has a red present, Dave has a purple present, and Eve has a green present. 
+
+As the event progresses, pairs of people swap gifts. First, Alice and Eve swap their gifts. Then, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Claire and Eve swap their gifts. Finally, Dave and Alice swap their gifts. At the end of the event, Claire has the  [SEP] 
+OPTIONS - 0: yellow present 
+1: orange ball 
+2: red present 
+3: purple present 
+4: green present<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1187,train+valid
+2,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a yellow present, Bob has a orange ball, Claire has a red present, Dave has a purple present, and Eve has a green present. 
+
+As the event progresses, pairs of people swap gifts. First, Alice and Eve swap their gifts. Then, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Claire and Eve swap their gifts. Finally, Dave and Alice swap their gifts. At the end of the event, Eve has the  [SEP] 
+OPTIONS - 0: yellow present 
+1: orange ball 
+2: red present 
+3: purple present 
+4: green present<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1189,train+valid
+2,"
+3","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a blue present, Claire has a red present, Dave has a yellow present, and Eve has a purple present. 
+
+As the event progresses, pairs of people swap gifts. First, Claire and Alice swap their gifts. Then, Bob and Eve swap their gifts. Then, Alice and Dave swap their gifts. Then, Bob and Dave swap their gifts. Finally, Dave and Eve swap their gifts. At the end of the event, Bob has the  [SEP] 
+OPTIONS - 0: green present 
+1: blue present 
+2: red present 
+3: yellow present 
+4: purple present<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1216,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a blue present, Claire has a red present, Dave has a yellow present, and Eve has a purple present. 
+
+As the event progresses, pairs of people swap gifts. First, Claire and Alice swap their gifts. Then, Bob and Eve swap their gifts. Then, Alice and Dave swap their gifts. Then, Bob and Dave swap their gifts. Finally, Dave and Eve swap their gifts. At the end of the event, Claire has the  [SEP] 
+OPTIONS - 0: green present 
+1: blue present 
+2: red present 
+3: yellow present 
+4: purple present<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1217,train+valid
+3,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a purple present, Bob has a brown present, Claire has a black ball, Dave has a red present, and Eve has a yellow present. 
+
+As the event progresses, pairs of people swap gifts. First, Dave and Eve swap their gifts. Then, Eve and Claire swap their gifts. Then, Dave and Bob swap their gifts. Then, Claire and Bob swap their gifts. Finally, Dave and Alice swap their gifts. At the end of the event, Bob has the  [SEP] 
+OPTIONS - 0: purple present 
+1: brown present 
+2: black ball 
+3: red present 
+4: yellow present<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1246,train+valid
+0,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing center midfielder, Bob is playing left midfielder, Claire is playing right midfielder, Dave is playing benchwarmer, and Eve is playing left winger. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Bob trade positions. Then, Alice and Bob trade positions. Then, Alice and Dave trade positions. Then, Claire and Alice trade positions. Finally, Dave and Eve trade positions. At the end of the match, Bob is playing  [SEP] 
+OPTIONS - 0: center midfielder 
+1: left midfielder 
+2: right midfielder 
+3: benchwarmer 
+4: left winger<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1266,train+valid
+3,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing cheerleader, Bob is playing right winger, Claire is playing left winger, Dave is playing goalkeeper, and Eve is playing striker. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Bob and Dave trade positions. Then, Alice and Eve trade positions. Then, Claire and Dave trade positions. Then, Claire and Bob trade positions. Finally, Eve and Bob trade positions. At the end of the match, Claire is playing  [SEP] 
+OPTIONS - 0: cheerleader 
+1: right winger 
+2: left winger 
+3: goalkeeper 
+4: striker<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1317,train+valid
+3,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing benchwarmer, Bob is playing right midfielder, Claire is playing cheerleader, Dave is playing striker, and Eve is playing left winger. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Alice and Eve trade positions. Then, Claire and Alice trade positions. Then, Eve and Alice trade positions. Then, Bob and Dave trade positions. Finally, Dave and Eve trade positions. At the end of the match, Bob is playing  [SEP] 
+OPTIONS - 0: benchwarmer 
+1: right midfielder 
+2: cheerleader 
+3: striker 
+4: left winger<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1396,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing center midfielder, Claire is playing goalkeeper, Dave is playing left winger, and Eve is playing right winger. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Claire and Eve trade positions. Then, Claire and Dave trade positions. Then, Alice and Claire trade positions. Then, Bob and Alice trade positions. Finally, Dave and Claire trade positions. At the end of the match, Alice is playing  [SEP] 
+OPTIONS - 0: striker 
+1: center midfielder 
+2: goalkeeper 
+3: left winger 
+4: right winger<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1495,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Moby Dick, Claire gets The Pearl, Dave gets Lolita, and Eve gets The Odyssey. 
+
+As the semester proceeds, they start trading around the new books. First, Eve and Claire swap books. Then, Dave and Alice swap books. Then, Dave and Eve swap books. Then, Alice and Dave swap books. Finally, Bob and Eve swap books. At the end of the semester, Eve has   [SEP] 
+OPTIONS - 0: The Great Gatsby 
+1: Moby Dick 
+2: The Pearl 
+3: Lolita 
+4: The Odyssey<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1504,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets The Pearl, Claire gets Ulysses, Dave gets Hound of the Baskervilles, and Eve gets Moby Dick. 
+
+As the semester proceeds, they start trading around the new books. First, Dave and Claire swap books. Then, Claire and Eve swap books. Then, Alice and Claire swap books. Then, Claire and Bob swap books. Finally, Dave and Eve swap books. At the end of the semester, Alice has   [SEP] 
+OPTIONS - 0: The Great Gatsby 
+1: The Pearl 
+2: Ulysses 
+3: Hound of the Baskervilles 
+4: Moby Dick<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1545,train+valid
+4,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Frankenstein, Claire gets Moby Dick, Dave gets The Fellowship of the Ring, and Eve gets Catch-22. 
+
+As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Dave and Eve swap books. Then, Eve and Alice swap books. Then, Dave and Eve swap books. Finally, Claire and Dave swap books. At the end of the semester, Eve has   [SEP] 
+OPTIONS - 0: The Great Gatsby 
+1: Frankenstein 
+2: Moby Dick 
+3: The Fellowship of the Ring 
+4: Catch-22<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1579,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Fellowship of the Ring, Bob gets The Odyssey, Claire gets Catch-22, Dave gets The Great Gatsby, and Eve gets Lolita. 
+
+As the semester proceeds, they start trading around the new books. First, Alice and Eve swap books. Then, Claire and Eve swap books. Then, Alice and Eve swap books. Then, Eve and Dave swap books. Finally, Alice and Bob swap books. At the end of the semester, Alice has   [SEP] 
+OPTIONS - 0: The Fellowship of the Ring 
+1: The Odyssey 
+2: Catch-22 
+3: The Great Gatsby 
+4: Lolita<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1610,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Izzi, Bob is dancing with Patrick, Claire is dancing with Helga, Dave is dancing with Rodrigo, and Eve is dancing with Karl. 
+
+Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Claire and Dave switch partners. Then, Alice and Claire switch partners. Then, Eve and Bob switch partners. Finally, Claire and Eve switch partners. At the end of the dance, Alice is dancing with   [SEP] 
+OPTIONS - 0: Izzi 
+1: Patrick 
+2: Helga 
+3: Rodrigo 
+4: Karl<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1775,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Jamie, Claire is dancing with Melissa, Dave is dancing with Lola, and Eve is dancing with Ophelia. 
+
+Throughout the song, the dancers often trade partners. First, Bob and Claire switch partners. Then, Alice and Dave switch partners. Then, Bob and Alice switch partners. Then, Claire and Eve switch partners. Finally, Eve and Alice switch partners. At the end of the dance, Eve is dancing with   [SEP] 
+OPTIONS - 0: Karl 
+1: Jamie 
+2: Melissa 
+3: Lola 
+4: Ophelia<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1799,train+valid
+1,"
+3","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Sam, Bob is dancing with Izzi, Claire is dancing with Karl, Dave is dancing with Helga, and Eve is dancing with Ophelia. 
+
+Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Alice and Claire switch partners. Then, Alice and Dave switch partners. Then, Alice and Eve switch partners. Finally, Dave and Claire switch partners. At the end of the dance, Dave is dancing with   [SEP] 
+OPTIONS - 0: Sam 
+1: Izzi 
+2: Karl 
+3: Helga 
+4: Ophelia<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1873,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Jamie, Claire is dancing with Sam, Dave is dancing with Melissa, and Eve is dancing with Rodrigo. 
+
+Throughout the song, the dancers often trade partners. First, Eve and Dave switch partners. Then, Alice and Bob switch partners. Then, Dave and Bob switch partners. Then, Bob and Alice switch partners. Finally, Alice and Claire switch partners. At the end of the dance, Bob is dancing with   [SEP] 
+OPTIONS - 0: Ophelia 
+1: Jamie 
+2: Sam 
+3: Melissa 
+4: Rodrigo<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1906,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Patrick, Bob is dancing with Jamie, Claire is dancing with Izzi, Dave is dancing with Karl, and Eve is dancing with Rodrigo. 
+
+Throughout the song, the dancers often trade partners. First, Dave and Eve switch partners. Then, Eve and Claire switch partners. Then, Alice and Dave switch partners. Then, Claire and Eve switch partners. Finally, Eve and Bob switch partners. At the end of the dance, Dave is dancing with   [SEP] 
+OPTIONS - 0: Patrick 
+1: Jamie 
+2: Izzi 
+3: Karl 
+4: Rodrigo<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1913,train+valid
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Melissa, Claire is dancing with Lola, Dave is dancing with Sam, and Eve is dancing with Izzi. 
+
+Throughout the song, the dancers often trade partners. First, Claire and Dave switch partners. Then, Eve and Bob switch partners. Then, Claire and Alice switch partners. Then, Eve and Alice switch partners. Finally, Claire and Dave switch partners. At the end of the dance, Claire is dancing with   [SEP] 
+OPTIONS - 0: Karl 
+1: Melissa 
+2: Lola 
+3: Sam 
+4: Izzi<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1987,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a white ball, Claire has a brown ball, Dave has a red ball, Eve has a yellow ball, Fred has a black ball, and Gertrude has a green ball. 
+
+As the game progresses, pairs of players trade balls. First, Alice and Eve swap balls. Then, Alice and Claire swap balls. Then, Bob and Claire swap balls. Then, Dave and Gertrude swap balls. Then, Bob and Fred swap balls. Then, Eve and Claire swap balls. Finally, Gertrude and Dave swap balls. At the end of the game, Claire has the  [SEP] 
+OPTIONS - 0: orange ball 
+1: white ball 
+2: brown ball 
+3: red ball 
+4: yellow ball 
+5: black ball 
+6: green ball<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2009,train+valid
+6,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a red ball, Claire has a brown ball, Dave has a purple ball, Eve has a black ball, Fred has a pink ball, and Gertrude has a green ball. 
+
+As the game progresses, pairs of players trade balls. First, Fred and Alice swap balls. Then, Claire and Gertrude swap balls. Then, Bob and Dave swap balls. Then, Eve and Alice swap balls. Then, Claire and Bob swap balls. Then, Dave and Eve swap balls. Finally, Claire and Bob swap balls. At the end of the game, Claire has the  [SEP] 
+OPTIONS - 0: blue ball 
+1: red ball 
+2: brown ball 
+3: purple ball 
+4: black ball 
+5: pink ball 
+6: green ball<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2093,train+valid
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a black ball, Claire has a blue ball, Dave has a brown ball, Eve has a red ball, Fred has a purple ball, and Gertrude has a pink ball. 
+
+As the game progresses, pairs of players trade balls. First, Gertrude and Eve swap balls. Then, Fred and Bob swap balls. Then, Fred and Eve swap balls. Then, Alice and Gertrude swap balls. Then, Gertrude and Claire swap balls. Then, Gertrude and Dave swap balls. Finally, Alice and Bob swap balls. At the end of the game, Dave has the  [SEP] 
+OPTIONS - 0: orange ball 
+1: black ball 
+2: blue ball 
+3: brown ball 
+4: red ball 
+5: purple ball 
+6: pink ball<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2157,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a purple ball, Claire has a green ball, Dave has a orange ball, Eve has a black ball, Fred has a pink ball, and Gertrude has a white ball. 
+
+As the game progresses, pairs of players trade balls. First, Dave and Bob swap balls. Then, Alice and Gertrude swap balls. Then, Gertrude and Eve swap balls. Then, Claire and Eve swap balls. Then, Eve and Fred swap balls. Then, Eve and Claire swap balls. Finally, Dave and Fred swap balls. At the end of the game, Eve has the  [SEP] 
+OPTIONS - 0: blue ball 
+1: purple ball 
+2: green ball 
+3: orange ball 
+4: black ball 
+5: pink ball 
+6: white ball<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2312,train+valid
+4,"
+6","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a orange ball, Claire has a pink ball, Dave has a red present, Eve has a black ball, Fred has a yellow present, and Gertrude has a blue present. 
+
+As the event progresses, pairs of people swap gifts. First, Bob and Eve swap their gifts. Then, Dave and Eve swap their gifts. Then, Dave and Fred swap their gifts. Then, Alice and Fred swap their gifts. Then, Claire and Bob swap their gifts. Then, Claire and Eve swap their gifts. Finally, Claire and Gertrude swap their gifts. At the end of the event, Eve has the  [SEP] 
+OPTIONS - 0: green present 
+1: orange ball 
+2: pink ball 
+3: red present 
+4: black ball 
+5: yellow present 
+6: blue present<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_2459,train+valid
+3,"
+6","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a blue present, Bob has a brown present, Claire has a orange ball, Dave has a red present, Eve has a black ball, Fred has a purple present, and Gertrude has a green present. 
+
+As the event progresses, pairs of people swap gifts. First, Claire and Gertrude swap their gifts. Then, Fred and Gertrude swap their gifts. Then, Gertrude and Eve swap their gifts. Then, Dave and Eve swap their gifts. Then, Dave and Alice swap their gifts. Then, Eve and Alice swap their gifts. Finally, Bob and Dave swap their gifts. At the end of the event, Alice has the  [SEP] 
+OPTIONS - 0: blue present 
+1: brown present 
+2: orange ball 
+3: red present 
+4: black ball 
+5: purple present 
+6: green present<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_2483,train+valid
+5,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a blue present, Claire has a orange ball, Dave has a yellow present, Eve has a white present, Fred has a brown present, and Gertrude has a red present. 
+
+As the event progresses, pairs of people swap gifts. First, Fred and Eve swap their gifts. Then, Gertrude and Alice swap their gifts. Then, Alice and Bob swap their gifts. Then, Alice and Dave swap their gifts. Then, Fred and Alice swap their gifts. Then, Eve and Alice swap their gifts. Finally, Fred and Claire swap their gifts. At the end of the event, Alice has the  [SEP] 
+OPTIONS - 0: pink ball 
+1: blue present 
+2: orange ball 
+3: yellow present 
+4: white present 
+5: brown present 
+6: red present<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2490,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a white present, Bob has a orange ball, Claire has a black ball, Dave has a yellow present, Eve has a green present, Fred has a purple present, and Gertrude has a pink ball. 
+
+As the event progresses, pairs of people swap gifts. First, Fred and Alice swap their gifts. Then, Eve and Claire swap their gifts. Then, Dave and Bob swap their gifts. Then, Gertrude and Alice swap their gifts. Then, Eve and Bob swap their gifts. Then, Eve and Gertrude swap their gifts. Finally, Dave and Bob swap their gifts. At the end of the event, Bob has the  [SEP] 
+OPTIONS - 0: white present 
+1: orange ball 
+2: black ball 
+3: yellow present 
+4: green present 
+5: purple present 
+6: pink ball<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2533,train+valid
+0,"
+2","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a orange ball, Bob has a brown present, Claire has a pink ball, Dave has a blue present, Eve has a green present, Fred has a yellow present, and Gertrude has a white present. 
+
+As the event progresses, pairs of people swap gifts. First, Dave and Gertrude swap their gifts. Then, Gertrude and Alice swap their gifts. Then, Claire and Bob swap their gifts. Then, Eve and Claire swap their gifts. Then, Fred and Alice swap their gifts. Then, Gertrude and Alice swap their gifts. Finally, Bob and Gertrude swap their gifts. At the end of the event, Alice has the  [SEP] 
+OPTIONS - 0: orange ball 
+1: brown present 
+2: pink ball 
+3: blue present 
+4: green present 
+5: yellow present 
+6: white present<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2574,train+valid
+6,"
+2","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a yellow present, Claire has a red present, Dave has a white present, Eve has a pink ball, Fred has a blue present, and Gertrude has a purple present. 
+
+As the event progresses, pairs of people swap gifts. First, Fred and Eve swap their gifts. Then, Dave and Claire swap their gifts. Then, Bob and Gertrude swap their gifts. Then, Fred and Dave swap their gifts. Then, Bob and Gertrude swap their gifts. Then, Dave and Gertrude swap their gifts. Finally, Claire and Alice swap their gifts. At the end of the event, Dave has the  [SEP] 
+OPTIONS - 0: green present 
+1: yellow present 
+2: red present 
+3: white present 
+4: pink ball 
+5: blue present 
+6: purple present<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2633,train+valid
+1,"
+6","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left midfielder, Bob is playing goalkeeper, Claire is playing right winger, Dave is playing left winger, Eve is playing striker, Fred is playing benchwarmer, and Gertrude is playing cheerleader. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Gertrude and Eve trade positions. Then, Fred and Claire trade positions. Then, Claire and Alice trade positions. Then, Dave and Bob trade positions. Then, Alice and Bob trade positions. Then, Dave and Bob trade positions. Finally, Bob and Alice trade positions. At the end of the match, Alice is playing  [SEP] 
+OPTIONS - 0: left midfielder 
+1: goalkeeper 
+2: right winger 
+3: left winger 
+4: striker 
+5: benchwarmer 
+6: cheerleader<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_2728,train+valid
+5,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right midfielder, Bob is playing fullback, Claire is playing center midfielder, Dave is playing left midfielder, Eve is playing striker, Fred is playing cheerleader, and Gertrude is playing goalkeeper. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Gertrude and Bob trade positions. Then, Eve and Alice trade positions. Then, Gertrude and Dave trade positions. Then, Dave and Fred trade positions. Then, Claire and Eve trade positions. Then, Fred and Gertrude trade positions. Finally, Fred and Claire trade positions. At the end of the match, Dave is playing  [SEP] 
+OPTIONS - 0: right midfielder 
+1: fullback 
+2: center midfielder 
+3: left midfielder 
+4: striker 
+5: cheerleader 
+6: goalkeeper<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2773,train+valid
+2,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left midfielder, Bob is playing benchwarmer, Claire is playing right midfielder, Dave is playing cheerleader, Eve is playing left winger, Fred is playing goalkeeper, and Gertrude is playing right winger. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Fred and Claire trade positions. Then, Fred and Dave trade positions. Then, Alice and Bob trade positions. Then, Gertrude and Eve trade positions. Then, Dave and Bob trade positions. Then, Dave and Eve trade positions. Finally, Dave and Alice trade positions. At the end of the match, Bob is playing  [SEP] 
+OPTIONS - 0: left midfielder 
+1: benchwarmer 
+2: right midfielder 
+3: cheerleader 
+4: left winger 
+5: goalkeeper 
+6: right winger<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2841,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing benchwarmer, Bob is playing goalkeeper, Claire is playing striker, Dave is playing right midfielder, Eve is playing center midfielder, Fred is playing cheerleader, and Gertrude is playing left midfielder. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Dave and Claire trade positions. Then, Dave and Fred trade positions. Then, Claire and Fred trade positions. Then, Eve and Gertrude trade positions. Then, Alice and Fred trade positions. Then, Dave and Fred trade positions. Finally, Dave and Bob trade positions. At the end of the match, Alice is playing  [SEP] 
+OPTIONS - 0: benchwarmer 
+1: goalkeeper 
+2: striker 
+3: right midfielder 
+4: center midfielder 
+5: cheerleader 
+6: left midfielder<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2910,train+valid
+6,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right midfielder, Bob is playing left midfielder, Claire is playing goalkeeper, Dave is playing center midfielder, Eve is playing fullback, Fred is playing cheerleader, and Gertrude is playing right winger. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Bob and Dave trade positions. Then, Gertrude and Fred trade positions. Then, Claire and Fred trade positions. Then, Eve and Bob trade positions. Then, Eve and Alice trade positions. Then, Eve and Gertrude trade positions. Finally, Dave and Gertrude trade positions. At the end of the match, Claire is playing  [SEP] 
+OPTIONS - 0: right midfielder 
+1: left midfielder 
+2: goalkeeper 
+3: center midfielder 
+4: fullback 
+5: cheerleader 
+6: right winger<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2989,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right winger, Claire is playing left winger, Dave is playing benchwarmer, Eve is playing goalkeeper, Fred is playing center midfielder, and Gertrude is playing cheerleader. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Alice trade positions. Then, Fred and Bob trade positions. Then, Dave and Fred trade positions. Then, Fred and Bob trade positions. Then, Bob and Eve trade positions. Finally, Claire and Alice trade positions. At the end of the match, Gertrude is playing  [SEP] 
+OPTIONS - 0: striker 
+1: right winger 
+2: left winger 
+3: benchwarmer 
+4: goalkeeper 
+5: center midfielder 
+6: cheerleader<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3021,train+valid
+5,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets Frankenstein, Claire gets Moby Dick, Dave gets The Odyssey, Eve gets The Great Gatsby, Fred gets Lolita, and Gertrude gets The Pearl. 
+
+As the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Eve and Alice swap books. Then, Alice and Dave swap books. Then, Gertrude and Dave swap books. Then, Alice and Bob swap books. Then, Eve and Claire swap books. Finally, Alice and Fred swap books. At the end of the semester, Alice has   [SEP] 
+OPTIONS - 0: Ulysses 
+1: Frankenstein 
+2: Moby Dick 
+3: The Odyssey 
+4: The Great Gatsby 
+5: Lolita 
+6: The Pearl<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3085,train+valid
+4,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Hound of the Baskervilles, Bob gets Lolita, Claire gets The Great Gatsby, Dave gets The Odyssey, Eve gets Ulysses, Fred gets The Pearl, and Gertrude gets Frankenstein. 
+
+As the semester proceeds, they start trading around the new books. First, Gertrude and Fred swap books. Then, Dave and Gertrude swap books. Then, Dave and Claire swap books. Then, Alice and Bob swap books. Then, Eve and Claire swap books. Then, Alice and Gertrude swap books. Finally, Bob and Alice swap books. At the end of the semester, Claire has   [SEP] 
+OPTIONS - 0: Hound of the Baskervilles 
+1: Lolita 
+2: The Great Gatsby 
+3: The Odyssey 
+4: Ulysses 
+5: The Pearl 
+6: Frankenstein<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3094,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Catch-22, Bob gets The Pearl, Claire gets Lolita, Dave gets Moby Dick, Eve gets The Odyssey, Fred gets The Fellowship of the Ring, and Gertrude gets Hound of the Baskervilles. 
+
+As the semester proceeds, they start trading around the new books. First, Claire and Bob swap books. Then, Alice and Claire swap books. Then, Dave and Fred swap books. Then, Gertrude and Eve swap books. Then, Bob and Dave swap books. Then, Fred and Eve swap books. Finally, Bob and Dave swap books. At the end of the semester, Claire has   [SEP] 
+OPTIONS - 0: Catch-22 
+1: The Pearl 
+2: Lolita 
+3: Moby Dick 
+4: The Odyssey 
+5: The Fellowship of the Ring 
+6: Hound of the Baskervilles<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3157,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Pearl, Bob gets The Fellowship of the Ring, Claire gets Catch-22, Dave gets The Great Gatsby, Eve gets Frankenstein, Fred gets Ulysses, and Gertrude gets The Odyssey. 
+
+As the semester proceeds, they start trading around the new books. First, Gertrude and Bob swap books. Then, Alice and Fred swap books. Then, Gertrude and Claire swap books. Then, Fred and Eve swap books. Then, Claire and Dave swap books. Then, Eve and Bob swap books. Finally, Fred and Gertrude swap books. At the end of the semester, Claire has   [SEP] 
+OPTIONS - 0: The Pearl 
+1: The Fellowship of the Ring 
+2: Catch-22 
+3: The Great Gatsby 
+4: Frankenstein 
+5: Ulysses 
+6: The Odyssey<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3360,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Izzi, Claire is dancing with Jamie, Dave is dancing with Melissa, Eve is dancing with Lola, Fred is dancing with Patrick, and Gertrude is dancing with Rodrigo. 
+
+Throughout the song, the dancers often trade partners. First, Alice and Eve switch partners. Then, Eve and Bob switch partners. Then, Gertrude and Dave switch partners. Then, Eve and Claire switch partners. Then, Alice and Bob switch partners. Then, Bob and Fred switch partners. Finally, Fred and Claire switch partners. At the end of the dance, Fred is dancing with   [SEP] 
+OPTIONS - 0: Karl 
+1: Izzi 
+2: Jamie 
+3: Melissa 
+4: Lola 
+5: Patrick 
+6: Rodrigo<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3433,train+valid
+6,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Melissa, Claire is dancing with Patrick, Dave is dancing with Rodrigo, Eve is dancing with Izzi, Fred is dancing with Ophelia, and Gertrude is dancing with Sam. 
+
+Throughout the song, the dancers often trade partners. First, Alice and Gertrude switch partners. Then, Dave and Gertrude switch partners. Then, Fred and Gertrude switch partners. Then, Eve and Bob switch partners. Then, Gertrude and Alice switch partners. Then, Dave and Eve switch partners. Finally, Claire and Eve switch partners. At the end of the dance, Gertrude is dancing with   [SEP] 
+OPTIONS - 0: Lola 
+1: Melissa 
+2: Patrick 
+3: Rodrigo 
+4: Izzi 
+5: Ophelia 
+6: Sam<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3469,train+valid
+2,"
+5","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Rodrigo, Claire is dancing with Jamie, Dave is dancing with Helga, Eve is dancing with Ophelia, Fred is dancing with Izzi, and Gertrude is dancing with Patrick. 
+
+Throughout the song, the dancers often trade partners. First, Fred and Eve switch partners. Then, Bob and Eve switch partners. Then, Fred and Dave switch partners. Then, Bob and Fred switch partners. Then, Bob and Gertrude switch partners. Then, Fred and Dave switch partners. Finally, Claire and Alice switch partners. At the end of the dance, Alice is dancing with   [SEP] 
+OPTIONS - 0: Melissa 
+1: Rodrigo 
+2: Jamie 
+3: Helga 
+4: Ophelia 
+5: Izzi 
+6: Patrick<|im_end|>
+<|im_start|>assistant
+5<|im_end|>",train_3505,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Melissa, Claire is dancing with Helga, Dave is dancing with Izzi, Eve is dancing with Rodrigo, Fred is dancing with Sam, and Gertrude is dancing with Patrick. 
+
+Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Eve and Fred switch partners. Then, Claire and Alice switch partners. Then, Eve and Alice switch partners. Then, Alice and Gertrude switch partners. Then, Dave and Eve switch partners. Finally, Gertrude and Alice switch partners. At the end of the dance, Eve is dancing with   [SEP] 
+OPTIONS - 0: Lola 
+1: Melissa 
+2: Helga 
+3: Izzi 
+4: Rodrigo 
+5: Sam 
+6: Patrick<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3649,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Helga, Claire is dancing with Sam, Dave is dancing with Melissa, Eve is dancing with Jamie, Fred is dancing with Rodrigo, and Gertrude is dancing with Patrick. 
+
+Throughout the song, the dancers often trade partners. First, Dave and Claire switch partners. Then, Gertrude and Claire switch partners. Then, Claire and Eve switch partners. Then, Gertrude and Eve switch partners. Then, Fred and Claire switch partners. Then, Bob and Alice switch partners. Finally, Eve and Claire switch partners. At the end of the dance, Alice is dancing with   [SEP] 
+OPTIONS - 0: Lola 
+1: Helga 
+2: Sam 
+3: Melissa 
+4: Jamie 
+5: Rodrigo 
+6: Patrick<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3715,train+valid
+6,"
+3","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Sam, Claire is dancing with Jamie, Dave is dancing with Izzi, Eve is dancing with Lola, Fred is dancing with Rodrigo, and Gertrude is dancing with Ophelia. 
+
+Throughout the song, the dancers often trade partners. First, Gertrude and Alice switch partners. Then, Dave and Claire switch partners. Then, Bob and Claire switch partners. Then, Gertrude and Eve switch partners. Then, Claire and Fred switch partners. Then, Fred and Alice switch partners. Finally, Gertrude and Dave switch partners. At the end of the dance, Fred is dancing with   [SEP] 
+OPTIONS - 0: Melissa 
+1: Sam 
+2: Jamie 
+3: Izzi 
+4: Lola 
+5: Rodrigo 
+6: Ophelia<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3734,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a yellow ball, Bob has a blue ball, and Claire has a pink ball. 
+
+As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Alice and Bob swap balls. Finally, Claire and Bob swap balls. At the end of the game, Claire has the  [SEP] 
+OPTIONS - 0: yellow ball 
+1: blue ball 
+2: pink ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_26,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a red ball, and Claire has a purple ball. 
+
+As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Alice and Claire swap balls. Finally, Alice and Bob swap balls. At the end of the game, Bob has the  [SEP] 
+OPTIONS - 0: brown ball 
+1: red ball 
+2: purple ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_67,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a green ball, Bob has a blue ball, and Claire has a brown ball. 
+
+As the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Alice and Claire swap balls. Finally, Alice and Bob swap balls. At the end of the game, Claire has the  [SEP] 
+OPTIONS - 0: green ball 
+1: blue ball 
+2: brown ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_125,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a yellow present, and Claire has a orange ball. 
+
+As the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Alice and Claire swap their gifts. Finally, Bob and Claire swap their gifts. At the end of the event, Alice has the  [SEP] 
+OPTIONS - 0: pink ball 
+1: yellow present 
+2: orange ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_186,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a red present, Bob has a black ball, and Claire has a white present. 
+
+As the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Bob and Alice swap their gifts. Finally, Claire and Bob swap their gifts. At the end of the event, Bob has the  [SEP] 
+OPTIONS - 0: red present 
+1: black ball 
+2: white present<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_217,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing cheerleader, and Claire is playing right midfielder. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Bob and Alice trade positions. Then, Claire and Bob trade positions. Finally, Claire and Alice trade positions. At the end of the match, Bob is playing  [SEP] 
+OPTIONS - 0: goalkeeper 
+1: cheerleader 
+2: right midfielder<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_367,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a brown ball, Claire has a red ball, Dave has a white ball, and Eve has a green ball. 
+
+As the game progresses, pairs of players trade balls. First, Bob and Alice swap balls. Then, Alice and Claire swap balls. Then, Eve and Alice swap balls. Then, Claire and Bob swap balls. Finally, Claire and Dave swap balls. At the end of the game, Eve has the  [SEP] 
+OPTIONS - 0: black ball 
+1: brown ball 
+2: red ball 
+3: white ball 
+4: green ball<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_899,train+valid
+0,"
+2","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing benchwarmer, Bob is playing center midfielder, Claire is playing cheerleader, Dave is playing left winger, and Eve is playing left midfielder. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Alice trade positions. Then, Eve and Claire trade positions. Then, Eve and Alice trade positions. Then, Claire and Dave trade positions. Finally, Eve and Bob trade positions. At the end of the match, Dave is playing  [SEP] 
+OPTIONS - 0: benchwarmer 
+1: center midfielder 
+2: cheerleader 
+3: left winger 
+4: left midfielder<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1343,train+valid
+0,"
+4","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Hound of the Baskervilles, Bob gets Moby Dick, Claire gets The Fellowship of the Ring, Dave gets Catch-22, and Eve gets Frankenstein. 
+
+As the semester proceeds, they start trading around the new books. First, Claire and Dave swap books. Then, Alice and Eve swap books. Then, Bob and Eve swap books. Then, Dave and Bob swap books. Finally, Alice and Dave swap books. At the end of the semester, Alice has   [SEP] 
+OPTIONS - 0: Hound of the Baskervilles 
+1: Moby Dick 
+2: The Fellowship of the Ring 
+3: Catch-22 
+4: Frankenstein<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1530,train+valid
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Patrick, Claire is dancing with Izzi, Dave is dancing with Lola, and Eve is dancing with Rodrigo. 
+
+Throughout the song, the dancers often trade partners. First, Alice and Claire switch partners. Then, Dave and Eve switch partners. Then, Alice and Claire switch partners. Then, Alice and Eve switch partners. Finally, Dave and Bob switch partners. At the end of the dance, Claire is dancing with   [SEP] 
+OPTIONS - 0: Melissa 
+1: Patrick 
+2: Izzi 
+3: Lola 
+4: Rodrigo<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1802,train+valid
+4,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Patrick, Claire is dancing with Jamie, Dave is dancing with Izzi, and Eve is dancing with Helga. 
+
+Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Bob and Claire switch partners. Then, Dave and Claire switch partners. Then, Claire and Bob switch partners. Finally, Eve and Dave switch partners. At the end of the dance, Dave is dancing with   [SEP] 
+OPTIONS - 0: Karl 
+1: Patrick 
+2: Jamie 
+3: Izzi 
+4: Helga<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1838,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Patrick, Bob is dancing with Sam, Claire is dancing with Jamie, Dave is dancing with Lola, and Eve is dancing with Melissa. 
+
+Throughout the song, the dancers often trade partners. First, Dave and Eve switch partners. Then, Dave and Alice switch partners. Then, Eve and Alice switch partners. Then, Claire and Bob switch partners. Finally, Dave and Alice switch partners. At the end of the dance, Dave is dancing with   [SEP] 
+OPTIONS - 0: Patrick 
+1: Sam 
+2: Jamie 
+3: Lola 
+4: Melissa<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1903,train+valid
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a black ball, Claire has a red ball, Dave has a yellow ball, Eve has a pink ball, Fred has a white ball, and Gertrude has a orange ball. 
+
+As the game progresses, pairs of players trade balls. First, Eve and Gertrude swap balls. Then, Dave and Alice swap balls. Then, Fred and Dave swap balls. Then, Bob and Fred swap balls. Then, Claire and Dave swap balls. Then, Dave and Alice swap balls. Finally, Bob and Dave swap balls. At the end of the game, Dave has the  [SEP] 
+OPTIONS - 0: brown ball 
+1: black ball 
+2: red ball 
+3: yellow ball 
+4: pink ball 
+5: white ball 
+6: orange ball<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2087,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a red ball, Claire has a yellow ball, Dave has a pink ball, Eve has a white ball, Fred has a purple ball, and Gertrude has a blue ball. 
+
+As the game progresses, pairs of players trade balls. First, Gertrude and Bob swap balls. Then, Eve and Alice swap balls. Then, Dave and Fred swap balls. Then, Gertrude and Alice swap balls. Then, Alice and Claire swap balls. Then, Bob and Eve swap balls. Finally, Claire and Dave swap balls. At the end of the game, Fred has the  [SEP] 
+OPTIONS - 0: black ball 
+1: red ball 
+2: yellow ball 
+3: pink ball 
+4: white ball 
+5: purple ball 
+6: blue ball<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2271,train+valid
+3,"
+6","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a yellow present, Claire has a white present, Dave has a blue present, Eve has a purple present, Fred has a red present, and Gertrude has a orange ball. 
+
+As the event progresses, pairs of people swap gifts. First, Gertrude and Dave swap their gifts. Then, Fred and Eve swap their gifts. Then, Bob and Fred swap their gifts. Then, Alice and Dave swap their gifts. Then, Claire and Alice swap their gifts. Then, Claire and Fred swap their gifts. Finally, Alice and Eve swap their gifts. At the end of the event, Gertrude has the  [SEP] 
+OPTIONS - 0: pink ball 
+1: yellow present 
+2: white present 
+3: blue present 
+4: purple present 
+5: red present 
+6: orange ball<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_2454,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing right midfielder, Claire is playing cheerleader, Dave is playing striker, Eve is playing center midfielder, Fred is playing benchwarmer, and Gertrude is playing left midfielder. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Gertrude and Dave trade positions. Then, Bob and Claire trade positions. Then, Fred and Dave trade positions. Then, Gertrude and Fred trade positions. Then, Fred and Claire trade positions. Finally, Claire and Alice trade positions. At the end of the match, Claire is playing  [SEP] 
+OPTIONS - 0: right winger 
+1: right midfielder 
+2: cheerleader 
+3: striker 
+4: center midfielder 
+5: benchwarmer 
+6: left midfielder<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2814,train+valid
+5,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing fullback, Bob is playing benchwarmer, Claire is playing center midfielder, Dave is playing goalkeeper, Eve is playing left winger, Fred is playing left midfielder, and Gertrude is playing striker. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Dave and Alice trade positions. Then, Dave and Bob trade positions. Then, Claire and Fred trade positions. Then, Fred and Alice trade positions. Then, Eve and Gertrude trade positions. Then, Gertrude and Dave trade positions. Finally, Eve and Claire trade positions. At the end of the match, Eve is playing  [SEP] 
+OPTIONS - 0: fullback 
+1: benchwarmer 
+2: center midfielder 
+3: goalkeeper 
+4: left winger 
+5: left midfielder 
+6: striker<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2970,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets Frankenstein, Claire gets Moby Dick, Dave gets The Odyssey, Eve gets The Great Gatsby, Fred gets Lolita, and Gertrude gets The Pearl. 
+
+As the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Eve and Alice swap books. Then, Alice and Dave swap books. Then, Gertrude and Dave swap books. Then, Alice and Bob swap books. Then, Eve and Claire swap books. Finally, Alice and Fred swap books. At the end of the semester, Bob has   [SEP] 
+OPTIONS - 0: Ulysses 
+1: Frankenstein 
+2: Moby Dick 
+3: The Odyssey 
+4: The Great Gatsby 
+5: Lolita 
+6: The Pearl<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3086,train+valid
+6,"
+6","<|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets The Great Gatsby, Claire gets The Fellowship of the Ring, Dave gets The Pearl, Eve gets Hound of the Baskervilles, Fred gets Lolita, and Gertrude gets Catch-22. 
+
+As the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Dave and Bob swap books. Then, Claire and Fred swap books. Then, Claire and Dave swap books. Then, Fred and Eve swap books. Then, Alice and Dave swap books. Finally, Fred and Gertrude swap books. At the end of the semester, Fred has   [SEP] 
+OPTIONS - 0: Ulysses 
+1: The Great Gatsby 
+2: The Fellowship of the Ring 
+3: The Pearl 
+4: Hound of the Baskervilles 
+5: Lolita 
+6: Catch-22<|im_end|>
+<|im_start|>assistant
+6<|im_end|>",train_3104,train+valid
+4,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specializing in tracking shuffled objects.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] OPTIONS - {options}"".
+Return only the correct answer key (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Patrick, Bob is dancing with Izzi, Claire is dancing with Sam, Dave is dancing with Karl, Eve is dancing with Lola, Fred is dancing with Jamie, and Gertrude is dancing with Ophelia. 
+
+Throughout the song, the dancers often trade partners. First, Alice and Claire switch partners. Then, Bob and Alice switch partners. Then, Dave and Alice switch partners. Then, Alice and Eve switch partners. Then, Claire and Fred switch partners. Then, Claire and Gertrude switch partners. Finally, Alice and Eve switch partners. At the end of the dance, Eve is dancing with   [SEP] 
+OPTIONS - 0: Patrick 
+1: Izzi 
+2: Sam 
+3: Karl 
+4: Lola 
+5: Jamie 
+6: Ophelia<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3712,train+valid

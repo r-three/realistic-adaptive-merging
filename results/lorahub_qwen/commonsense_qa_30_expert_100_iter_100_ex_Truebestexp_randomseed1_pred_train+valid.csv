@@ -1,0 +1,1201 @@
+target,pred_clean,pred_org,example_id,split
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is a great place to lay in the sun? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['in the basement', 'west', 'solar system', 'beach', 'beans']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_36,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What would an adult man do to get ready for work? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['dress herself', 'shower', 'dress himself', 'drink beer', 'drive train']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_245,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Why would you not want to be working with wood? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['blisters', 'frustration', 'being paid', 'make money', 'money']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_408,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - John's RV needs electricity so that he can cook lunch.  Where would he go to plug in? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['toy store', 'basement', 'school', 'rest area', 'building']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_479,train+valid
+D,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Dancing for a long time will lead you to become what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['sore', 'intercourse', 'fatigue', 'become tired', 'expression']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_489,train+valid
+B,"
+B","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - If I recieve a letter from a friend over seas, why might I read it? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['pudding', 'get news', 'strain', 'answer', 'though']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_657,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - I was shopping at a car dealership, what did a salesman do? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['appear suddenly', 'bottom out', 'go downtown', 'scream', 'roll over']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_828,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - If a person does something to hurt someone else, they might do what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['feel sorry', 'trust god', 'cross street', 'ride a bike', 'lend money']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_917,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The city was very bright this time of year.  There was a much smaller population where? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['suburbs', 'town', 'wilderness', 'outside', 'countryside']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_1105,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where would you go to argue about important bills? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['mail box', 'the post office', 'congress', 'restaurant', 'trash']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_1417,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Billy liked going to the party.  He enjoyed mixing.  He liked to do what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['plan', 'meet new people', 'getting drunk', 'have fun', 'the watusi']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1487,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Why would you stop chatting with friends? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['learning about', 'meeting', 'misunderstanding', 'laughter', 'silliness']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_1524,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is likely to be a long term negative consequence of of over eating hamburger? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['gaining weight', 'stomach ache', 'get full', 'losing weight', 'death']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1755,train+valid
+C,"
+B","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - They wanted to build a new entertainment complex down town, but the costs were doing what to the budget? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['demolition', 'increasing', 'destroying', 'tear down', 'break']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1758,train+valid
+E,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - It was a nice day out, good weather to fire up the grill out in the what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['restaurant', 'kitchen', 'park', 'back yard', 'backyard']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1862,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where would you store a violin along with all of your other instruments? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['string quartet', 'orchestra', 'band room', 'attic', 'music room']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_2133,train+valid
+E,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where is the wrong place to throw garbage? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['at a friend', 'ground', 'television', 'trashcan', 'floor']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_2199,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The family wanted to live with carpeting, so where did they end up putting it? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['istanbul', 'fireplace', 'gym', 'houses', 'bedroom']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_2278,train+valid
+E,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What will someone like be if they receive a surprising bill? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['annoyance', 'happy', 'humor', 'might scare', 'irritated']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_2405,train+valid
+B,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where is a good place to store water? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['toilet', 'jar', 'bridge', 'ocean', 'boot']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_2693,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Dave didn't mind that Josh was punishing him, because he was experiencing what emotion? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['feel sorry for', 'hatred', 'feel guilty', 'retribution', 'worried']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_2705,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - As the fox ran into the forest it disappeared into the what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['nantucket', 'barn', 'northern hemisphere', 'hen house', 'undergrowth']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_2941,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What would be a cheap way for a medieval family to satisfy their hunger? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['go to the store', 'make bread', 'bring home fish', 'go to market', 'eat hamburger']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_2986,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Having a dog is a responsibility.  To prevent overpopulation you should have them fixed.  And, of course, they also do what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['ball stopped', 'reproduce', 'go outside', 'need food', 'own people']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_3155,train+valid
+B,"
+B","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - When going to the market, you will be happy when you? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['buy things', 'arriving at desination', 'impulse buying', 'carrying bags', 'push a cart']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_3326,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The cow was a star.  Everyone knew it from the what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['wisconsin', 'fairy tale', 'nebraska', 'advertisement', 'countryside']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_3335,train+valid
+C,"
+E","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - She was determined that night, she was a flirt looking to do what with the right man? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['attract attention', 'get in bed', 'have sex', 'train', 'get laid']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_3409,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What does an apple tree need to create new trees? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['new york', 'farm yard', 'new jersey', 'grass', 'flowers']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_3527,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - When someone is deeply involved while they watch a film, the film must be very? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['ike director', 'have fun', 'see what happens', 'interesting', 'pass time']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_3544,train+valid
+B,"
+B","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - He came across a raw item but his pack was full, he had to abandon something if he was to what the item? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['join', 'acquire', 'engage', 'maintain', 'remit']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_3792,train+valid
+D,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where will you store a bowl while not in use? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['apartment', 'outside', 'dishwasher', 'cabinet', 'restaurant']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_3824,train+valid
+E,"
+D","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Jealousy led to the best contestant actually having scorecards lower, afterwards the what was investigated for their score given? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['love else', 'wage war', 'ocean', 'compete', 'judge']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_3936,train+valid
+B,"
+B","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Residents though the city should manage garbage waste, so what did the city create to handle it? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['garbage can', 'garbage dump', 'sewer', 'street', 'gutter']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_4016,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The teacher told her students to listen, what did she want from them? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['able to hear', 'concentrate', 'pay attention', 'stop talking', 'eyes on her']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_4125,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - If you want the comfort of the familiar, where might you go? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['uneasy', 'distress', 'bed', 'home', ""friend's house""]}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_4148,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Both sides in World War I used what to cause death that is now banned? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['homicide', 'poisonous gas', 'cyanide', 'nuclear weapons', 'massive weapons']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_4428,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where are woods likely to not have evergreens? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['tract of undevolped land', 'country', 'cut trees deer', 'rural area', 'northeast']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_4670,train+valid
+B,"
+B","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - John stood in the courtyard and watched the bulls.  Where might he have been? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['lawn', 'spain', 'tv room', 'versailles', 'english countryhouse']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_4958,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - He was applying for a job, what did he promise to do when he spoke with the manager? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['frustration', 'working hard', 'over time', 'stress', 'employment']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_5023,train+valid
+B,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A creek can be located in a tree are called what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['outdoors', 'forest', 'valley', 'nature', 'countryside']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_5276,train+valid
+E,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What might intense competing cause someone to feel? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['argument', 'tension', 'anger', 'happiness', 'stress']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_5466,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Why is it necessary for someone to be going to bed? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['pregnancy', 'feeling refreshed', 'mowing lawn', 'might dream', 'good sleep']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_5499,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - If someone is a mechanic, what are likely issues they will be asked to fix? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['machine tool', 'oil squeaky joints', 'oil engine', 'machine parts', 'servicing airplane']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_5919,train+valid
+D,"
+D","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Sam came to despise his sister.  On the other hand, she felt what for him? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['love', 'worship', 'cherish', 'admire', 'honor']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_6006,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where is a good place to keep personal money? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['supermarket', 'cash register', 'pocket', 'bucket of water', 'art show']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_6149,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where is too much snow likely to cause damage? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['north pole', 'trees', 'surface of earth', 'roof', 'ground']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_6161,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The results were wildly erratic towards either end of the spectrum, it was actually quite what to actually get the average result? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['strange', 'best', 'hyperbolic', 'uncommon', 'special']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_6228,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What old models are likely to be made of wood? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['car', 'tree', 'hardware store', 'lumberyard', 'boat']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_6271,train+valid
+D,"
+D","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - He just needed to pick up one more thing off his list and fill his cart, he grabbed some coffee on his way to checking out of where? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['curch', 'fast food restaurant', ""friend's house"", 'grocery store', 'internet cafe']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_6410,train+valid
+E,"
+E","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - John noticed that there was a lot of water on his map. Water covered more than half of his map, in fact.   What might his map have been of? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['car', 'puddle', 'ocean', 'sink', 'surface of earth']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_6639,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - His anger reached a boiling point, the therapist said they should take a break and what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['cool off', 'fight', 'destroy enemy', 'illustrate point', 'write letter']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_6838,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Feet that have been in boots all day will what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['walk', 'hands', 'stay still', 'stink', 'sing']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_6921,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Paper work and research is the bulk of a lawyers what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['work', 'food', 'courtroom', 'keep quiet', 'office building']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_7061,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - I need to string a bass, where should I get the necessary supplies? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['manual', 'orchestra', 'marching band', 'bass guitar', 'music shop']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_7103,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Sarah thought that the movie was entertaining but vapid.   How might Sarah feel about the book? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['tired', 'appreciate more', 'like', 'making friends', 'getting paid for']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_7215,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The child was complaining of boredom, so his dad began to goof around to do what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['entertain', 'listen to music', 'play chess', 'knit sweaters', 'meet interesting people']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_7309,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Plenty of love, candy and a small dog always awaited them, so the children always loved visiting where? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['own home', 'basket', ""grandmother's house"", 'apartment complex', 'trailer park']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_7464,train+valid
+C,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What state has a city called columbia? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['south carolina', 'tennessee', 'missouri', 'washington', 'wyoming']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_7596,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - You can use a stick to swat at what growing in a field? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['woods', 'forest', 'bicycle spokes', 'home', 'grass']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_7699,train+valid
+C,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - If geese are invading a secure installation from where will they be spotted first? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['fly', 'group together', 'guard house', 'ground', 'follow ultralight airplane']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_7813,train+valid
+E,"
+E","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where would you get a washcloth if you do not have one? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['bathing', 'bathroom sink', 'garage', 'linen closet', 'walmart']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_7874,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - How does the fur of a puppy feel after it takes a bath? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['soft', 'shiny', 'one choice for pet', 'cute', 'kennel']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_7934,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Dogs are omnivores which mean they consume plants and what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['rubbish', 'drink water', 'eat meat', 'four legs', 'sleep']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_8032,train+valid
+D,"
+D","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Dying due to suffocation means you have what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['getting cold', 'would cease to exist', 'no more air', 'stop breathing', 'death and decay']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_8089,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - You want strong steel cable in your what if you're going to be off road driving? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['ground', 'ship', 'construction site', 'winch', 'tool box']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_8121,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where is a good place to keep an eyeglasses case in traffic? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['car', 'shirt pocket', 'bag', 'drawer', 'street']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_8217,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - She was a very vain person, in a crowd she loved nothing more than to do what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['come home', 'make money', 'draw attention to themselves', 'say thank you', 'catch cold']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_8270,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The annoying person always had a comment to share, he must think he must what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['know everything', 'compliments', 'confidence', 'care about', 'spare time']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_8303,train+valid
+A,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What do people usually do when listening to music? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['dance', 'learning', 'enjoyment', 'shout', 'keep time']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_8397,train+valid
+A,"
+A","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What does someone who likes to hear someone play violin enjoy? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['like music', 'inspiring', 'make music', 'learn how to play', 'ears']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_8529,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where is one unlikely to find a concert hall? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['stadium', 'city', 'commercial building', 'theater', 'university building']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_8640,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The host seated everybody for the meal and took his seat where? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['welcome guests', 'sofa', 'expect company', 'head table', 'spring for dinner']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_8729,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Sometimes when people think some wrongdoing has ocurred in government, how do they react? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['talk to each other', 'cook food', 'demand justice', 'learn from each other', 'share food']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_8964,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What dirty method of getting from one place to another in large cities may not allow you to see daylight? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['ground', 'subway', 'over bridge', 'street', 'race track']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_9053,train+valid
+E,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where would be an unusual place for a harmonica? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['country band', 'blues band', 'pocket', 'music store', 'rock band']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_9250,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where does litter end up when it's tossed from a car? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['roadsides', 'street corner', 'not in the garbage', 'park', 'ground']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_9269,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Joe wants to have a relationship with someone.  He thinks that loving another will bring him what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['wonderful', 'enjoyment', 'jealousy', 'satisfaction', 'happiness']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_9355,train+valid
+A,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - All the artist had to do was paint the lips, what would his end result be on the canvas? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['human face', 'motion', 'faces', 'body', 'clown']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_9403,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What do you add to you dough when making bread to make it rise? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['yeast', 'oven', 'mess', 'flour', 'biscuit']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_9536,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what is another word for getting drunk? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['intoxication', 'blazed', 'vomiting', 'hangover', 'being sick']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_9671,train+valid
+A,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - James was looking for a good place to buy farmland.  Where might he look? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['midwest', 'countryside', 'estate', 'farming areas', 'illinois']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",valid_4,train+valid
+D,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - When drinking booze what can you do to stay busy? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['reach tentative agreement', 'stay in bed', 'stop bicycle', 'examine thing', 'suicide']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",valid_16,train+valid
+E,"
+E","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['music store', 'obesity', 'symphony orchestra', 'ochestra', 'violin case']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",valid_47,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is a place that has a bench nestled in trees? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['state park', 'bus stop', 'bus depot', 'statue', 'train station']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",valid_64,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - If you are awaking multiple times throughout the night because a lot is on your mind, what is a likely cause? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['irritability', 'depression', 'getting out of bed', 'happiness', 'discomfort']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",valid_75,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where could a person avoid the rain? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['bus stop', 'tunnel', 'synagogue', 'fairy tale', 'street corner']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",valid_117,train+valid
+B,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Sam was a stranger.  Even so, Mark treated him like what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['friend', 'family', 'known person', 'park', 'outsider']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",valid_142,train+valid
+E,"
+E","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Donald is a prominent figure for the federal government, so in what city does he likely spend a lot of time? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['everything', 'capitol building', 'tourist sites', 'canada', 'washington d.c']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",valid_301,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What kind of service is my body a part of when I'm no longer here? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['bodycam', 'home', 'coffin', 'funeral', 'graveyard']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",valid_419,train+valid
+E,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What would you do to a crime scene before asking a question? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['express information', 'touch everything', 'think', 'give clue', 'analyse']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",valid_422,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Sage loved communicating  He liked doing what with his peers? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['exchanging ideas', 'confusion', 'peer pressure', 'response', 'learning']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",valid_447,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where would you get a shower curtain if you do not have one? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['department store', 'restaurant', 'hotel', 'dime store', 'bathtub']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",valid_471,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In what country are the most fast food restaurants? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['new york', 'blocks of flats', 'center of town', 'america', 'big cities']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",valid_564,train+valid
+B,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What will happen if you inject water into yourself? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['dilute', 'thin blood', 'take several forms', 'wet clothes', 'move mountains']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",valid_582,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Danny is having fun just dancing and singing with his friends. He wasn't concerned with things that weren't fun. For him having fun is the same as what? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['injuries', 'smiling', 'being happy', 'glee', 'jump']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",valid_643,train+valid
+C,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - If there is a pond with trees around it, where it it likely located? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['ground', 'bathroom', 'forest', 'countryside', 'rural area']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",valid_669,train+valid
+A,"
+B","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What are you playing if you're fiddling on a violin? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['bluegrass music', 'make music', 'drop', 'string instrument', 'troubles']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",valid_690,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - When a person with mental illness receives medication and therapy, what has happened? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['cause irrational behaviour', 'recur', 'effectively treated', 'managed', 'cause suffering']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",valid_815,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where can you buy a two wheel transportation machine? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['boat', 'michigan', 'train station', 'bicycle shop', 'trunk of car']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",valid_1047,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a commonsense multiple-choice question formatted as ""QUESTION - question [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Return only the answer key (A, B, C, D, or E) corresponding to the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - How does going jogging generally affect one's self esteem? [SEP] 
+CHOICES - {'label': ['A', 'B', 'C', 'D', 'E'], 'text': ['feel better', 'feel pride', 'sweating', 'ocean', 'arthritis']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",valid_1098,train+valid

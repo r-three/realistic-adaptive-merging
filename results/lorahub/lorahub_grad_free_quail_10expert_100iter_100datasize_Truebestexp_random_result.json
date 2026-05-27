@@ -1,0 +1,29 @@
+{
+    "task": "quail",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_quail",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a"
+    ],
+    "valid_accuracy": 0.8,
+    "test_accuracy": 0.7053658536585365,
+    "weights": [
+        0.8135652173407021,
+        0.5227370231104937,
+        0.5683272230028168,
+        0.06466699645319886,
+        0.04560084953352491,
+        0.04605682315046048,
+        -0.02345160877401279,
+        0.058146190638830836,
+        -0.07623360152584074,
+        0.33965936048512246
+    ]
+}

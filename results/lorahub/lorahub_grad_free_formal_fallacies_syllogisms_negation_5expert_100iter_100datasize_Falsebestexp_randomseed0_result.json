@@ -1,0 +1,19 @@
+{
+    "task": "formal_fallacies_syllogisms_negation",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.55,
+    "test_accuracy": 0.5211267605633803,
+    "weights": [
+        0.003460026839148654,
+        -7.488516327795695e-05,
+        -0.024744556910407077,
+        2.0153594754305125e-07,
+        -0.0008537586117749044
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "task": "arc_easy",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task",
+        "aleegis10/8ed9fe91-c2b5-42ca-8efb-927b4c8fbf45",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-acctree-16k-75-adapter-new",
+        "clembench-playpen/Llama-3-Clembench-Runs-Successful-Episodes_Top_10_Models_Individual_QA_adapted_image_game",
+        "Yossim/fine_tuned_llama2"
+    ],
+    "valid_accuracy": 0.8,
+    "test_accuracy": 0.8800505050505051,
+    "weights": [
+        -0.04692205772145421,
+        0.016912115081320445,
+        0.6026373365967523,
+        0.4076666544242842,
+        -0.03043816465688276,
+        0.5138792936321815,
+        0.08974069264148966,
+        0.5729145701721071,
+        -0.05269603455099921,
+        -0.029860994685841028
+    ]
+}

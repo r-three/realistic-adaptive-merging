@@ -1,0 +1,1001 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The more obnoxious Fred, the less you should pay attention to him.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_173,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The more people I ask what he will give to the more he reads.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_188,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The more he eats, the fatter he goes to a doctor when he gets.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_198,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+He gets angry, the longer John has to wait.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_248,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+How do you wonder whether John said Mary solved the problem?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_360,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Mary wondered which picture of himself Bill saw?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_366,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I believed these students to all like John.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_473,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+John perfectly learned French immediately.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_690,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Every man who said he would buy some salmon did buy some salmon.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_902,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+This is a hat which I'm going to see that my wife buys.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1199,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Who does Phineas know a girl who is behind?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1204,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+If he sees a hot dog, he'll bring me one.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1574,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Here's a razor for that you will be shaved with to be announced.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1654,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I have some papers to grade.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1757,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+There will be the hole in Jack's pocket.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1883,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The time bomb had a snake behind the car which it was sitting in.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1909,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Bill believes Anna and him to be similar.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1965,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I sent the package all the way around the world.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2038,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Fred gave the ball over Molly.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2045,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The books stood on the table.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2556,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Carmen bought a dress.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2739,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Marble carves easily.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2865,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Brenda haggled Molly.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3033,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Ellen conferred for Helen to come.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3077,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+She always wore purple dresses.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3180,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Jennifer baked Idaho potatoes.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3254,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The music echoed.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3313,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I presented a solution yesterday.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3346,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+John offers few advice.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3483,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+People now drink less beer.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3493,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The squirrel ran right quickly.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3670,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+They spoil their kids rotten.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3782,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+John studied hard to pass the exam.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3814,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We placed the cheese in the refrigerator.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3864,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+John deposited some money in the checking account and Mary did the same thing in the savings account.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3905,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We caught them ate the bananas.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4007,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The monkey seems despondent.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4014,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Many people were dying of thirst.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4175,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+He is afraid of foxes.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4190,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The cat seems to be out of the bag.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4289,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Kim has danced, and Sandy has, too.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4529,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The lesson got read by a priest.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4734,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+How happy has John been?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4775,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Peter will decide which book we should review.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4795,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A man came into the room with blond hair.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5060,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I've never seen a man taller than my mother.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5334,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I am more angry today than I was yesterday.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5340,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I have six too many marbles.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5462,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+So much of a scholar is here.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5502,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I hope nobody will hurt themselves.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5623,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+John knew that there would be a picture of himself hanging in the post.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5767,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I loved intensely the policeman with all my heart.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5796,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The swing blasted the golf ball across the green.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5855,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+No man has ever beaten the centaur.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5867,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Michael accidentally broke the glass.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5878,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Calvin will be eating.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6076,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+What did Stacy say Becky bought?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6165,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+How do you think John bought the sweater?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6187,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+John was bitten by an advertising executive.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6210,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I asked Mike if he had seen the Yeti.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6229,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Any pilot on duty today must be flying this plane.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6437,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Confiscate any of this liquor.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6451,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The talkative and a bully man entered.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6549,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Maisie drove her car from Morningside to Leith on Wednesday.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6633,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Who thought up the proposal that the committee be abolished?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6718,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Tess knocked at the door.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6949,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Frank Churchill crosses the street.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6956,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Have you ever visited Doubtful Sound?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6962,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I love but you hate ice milk tea.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7175,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+John promised us to be gentle.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7217,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Mary should buy some flowers on Sunday at 5 o'clock.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7297,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+They specialized.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7402,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+John will endorse the treaty, but Georges will not endorse the treaty.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7481,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+John believes the rice to have been cooked by Bill.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7681,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I sent Mary money.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7689,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Anson very happily demonized David.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7821,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Poseidon was asleep, when the executioner arrived.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7917,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Anson danced extremely frantically at Trade.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8129,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Gilgamesh didn't fly the broomstick.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8307,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Which temple did Athena contemplate the reason that her devotees had built?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8489,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+As you eat the most, you want the least.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_4,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Fluffy is sick, which not everybody knows.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_106,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Brown presented a plaque to Jones.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_176,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The needle poked the cloth.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_181,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Carrie touched that cat.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_182,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The gardener grew that acorn into an oak tree.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_190,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The children amused.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_192,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+It's not because I have any sympathy for urban guerillas that I helped him.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_326,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Anybody who attended last week's huge rally signed the petition.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_390,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Frank Churchill crossed the street.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_423,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I gave money to the charity.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_448,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+to steal talismans from witches is dangerous<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_474,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Who did they see someone?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_608,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+The magazines were sent to herself by Mary.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_630,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_676,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We tried to amuse them that Kim was singing.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_702,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+We celebrated in the streets in the rain on Tuesday in the morning.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_838,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Few dog barked.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_860,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+That Chris knew the answer occurred to Pat.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_943,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the given sentence as 1 if it is grammatically acceptable, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+It would prove our theory to be untenable for carrots to be vegetables.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_1021,train+valid

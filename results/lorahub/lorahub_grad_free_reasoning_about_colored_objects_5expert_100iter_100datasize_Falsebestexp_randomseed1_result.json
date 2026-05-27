@@ -1,0 +1,19 @@
+{
+    "task": "reasoning_about_colored_objects",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task"
+    ],
+    "valid_accuracy": 0.4,
+    "test_accuracy": 0.4525,
+    "weights": [
+        -0.14455749566964093,
+        0.23581683627725397,
+        0.4237802747484011,
+        0.44275231405559273,
+        0.02889226472445148
+    ]
+}

@@ -1,0 +1,3201 @@
+target,pred_clean,pred_org,example_id,split
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of cg, 16 dg is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hcd, 36 kcd is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_12,test
+0,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilocandelas, 47.4 centicandelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_13,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of centihertz, 31 kilohertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_18,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of daA, 42 mA is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_45,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+27.6 decacandelas expressed in units of hectocandelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_49,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectopascals, 54.1 millipascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_54,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+44.7 cL expressed in units of kL is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_55,test
+1,"
+4100","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of cmol, 41 mol is <|im_end|>
+<|im_start|>assistant
+4100<|im_end|>",train_58,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of N, 18 mN is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_59,test
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilonewtons, 54 decinewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_73,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+47.7 hHz expressed in units of dHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_88,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of meters, 6 decameters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_91,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+25 dg expressed in units of hg is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_100,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+15 hectoamps expressed in units of milliamps is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_107,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kiloamps, 20 hectoamps is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_119,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectoliters, 12 deciliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_120,test
+0,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of centiliters, 47.6 kiloliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_152,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of daPa, 18.1 mPa is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_156,test
+0,"
+2","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectonewtons, 29.4 kilonewtons is <|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_159,test
+1,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+33.4 dPa expressed in units of cPa is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_169,test
+0,"
+3700","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of cm, 37 m is <|im_end|>
+<|im_start|>assistant
+3700<|im_end|>",train_178,test
+0,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of cd, 37.4 mcd is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_188,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+31 Hz expressed in units of kHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_199,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+40 millihertz expressed in units of decahertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_232,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of L, 49 cL is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_240,test
+2,"
+4
+
+Explanation:  
+1 hectopascal (hPa) = 100 pascals (Pa)  
+1 pascal = ","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of millipascals, 51.7 hectopascals is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 hectopascal (hPa) = 100 pascals (Pa)  
+1 pascal = ",train_252,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hA, 16.6 cA is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_255,test
+2,"
+15.0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+15.0 hm expressed in units of m is <|im_end|>
+<|im_start|>assistant
+15.0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_258,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decicandelas, 53.7 centicandelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_263,test
+4,"
+3
+
+Explanation:  
+1 hectonewton (hN) = 100 newtons (N)  
+1 centinewton","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of cN, 20 hN is <|im_end|>
+<|im_start|>assistant
+3
+
+Explanation:  
+1 hectonewton (hN) = 100 newtons (N)  
+1 centinewton",train_264,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+7 mK expressed in units of dK is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_266,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+46 milliliters expressed in units of liters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_275,test
+3,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hL, 12.5 cL is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_283,test
+1,"
+43","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+43 kilokelvin expressed in units of centikelvin is <|im_end|>
+<|im_start|>assistant
+43<|im_end|>",train_284,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectohertz, 37 decahertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_299,test
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+40.4 millimeters expressed in units of centimeters is <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_316,test
+0,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of pascals, 30.8 hectopascals is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_320,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of centikelvin, 13 Kelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_322,test
+3,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+34.6 centipascals expressed in units of decipascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_325,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+51 daN expressed in units of kN is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_334,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+35.9 kiloliters expressed in units of hectoliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_348,test
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of grams, 7 decagrams is <|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_363,test
+0,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of mPa, 9.09 Pa is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_380,test
+3,"
+3","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of dmol, 32.0 kmol is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_430,test
+0,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kilopascals, 26 pascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_436,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectoliters, 5.78 liters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_447,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decahertz, 34 centihertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_464,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of mHz, 13.0 hHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_513,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of cPa, 52.7 kPa is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_516,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of K, 5 dK is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_524,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+25.8 ccd expressed in units of kcd is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_535,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+26 cL expressed in units of hL is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_545,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of meters, 40 decameters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_546,test
+0,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectopascals, 33.1 centipascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_550,test
+2,"
+420","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of cN, 21 N is <|im_end|>
+<|im_start|>assistant
+420<|im_end|>",train_552,test
+0,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+43.8 Amps expressed in units of decaamps is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_565,test
+2,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hmol, 15 kmol is <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_572,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hcd, 6.26 cd is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_576,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of dK, 39.8 K is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_579,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hPa, 6.88 Pa is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_592,test
+1,"
+4
+
+Explanation:  
+1 kilogram = 10,000 decigrams (since 1 kg = 1000 g","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decigrams, 23 kilograms is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 kilogram = 10,000 decigrams (since 1 kg = 1000 g",train_606,test
+1,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hectomoles, 19.6 decimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_607,test
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decapascals, 51.9 decipascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_624,test
+1,"
+4
+
+Explanation:  
+1 hectoliter (hL) = 100 liters  
+1 liter = 100 centiliters","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of centiliters, 28.2 hectoliters is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 hectoliter (hL) = 100 liters  
+1 liter = 100 centiliters",train_627,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+6 Newtons expressed in units of centinewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_632,test
+1,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of millipascals, 15 kilopascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_641,test
+0,"
+2.44","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decipascals, 44.4 centipascals is <|im_end|>
+<|im_start|>assistant
+2.44<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_642,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilograms, 33 milligrams is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_643,test
+0,"
+3
+
+Explanation:  
+1 kmol = 1000 mol  
+1 mol = 10 dmol → 1 kmol =","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of dmol, 18.7 kmol is <|im_end|>
+<|im_start|>assistant
+3
+
+Explanation:  
+1 kmol = 1000 mol  
+1 mol = 10 dmol → 1 kmol =",train_648,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of dam, 36 km is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_657,test
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of dA, 14.9 cA is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_663,test
+0,"
+4120000","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of cm, 41.2 km is <|im_end|>
+<|im_start|>assistant
+4120000<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_674,test
+2,"
+2
+
+Explanation:  
+1 centimole (cmmol) = 0.01 mole  
+1 millimole (mmol)","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of millimoles, 37.7 centimoles is <|im_end|>
+<|im_start|>assistant
+2
+
+Explanation:  
+1 centimole (cmmol) = 0.01 mole  
+1 millimole (mmol)",train_682,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+31 cHz expressed in units of kHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_685,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of millinewtons, 32 decanewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_693,test
+4,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+17.5 decakelvin expressed in units of hectokelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_697,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+17 hectocandelas expressed in units of decicandelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_702,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilomoles, 48.4 decimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_733,test
+1,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+31.9 decakelvin expressed in units of hectokelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_734,test
+1,"
+4
+
+Explanation:  
+1 hectometer = 100 meters  
+1 meter = 1000 millimeters  
+So, 1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of millimeters, 19 hectometers is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 hectometer = 100 meters  
+1 meter = 1000 millimeters  
+So, 1",train_739,test
+3,"
+3.0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of daN, 23 hN is <|im_end|>
+<|im_start|>assistant
+3.0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_744,test
+0,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kiloliters, 23 hectoliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_750,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kilopascals, 23 decipascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_780,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+39.1 centinewtons expressed in units of hectonewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_782,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hectoliters, 26 liters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_784,test
+1,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decaliters, 31.2 centiliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_799,test
+1,"
+3.92e3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decipascals, 49.0 decapascals is <|im_end|>
+<|im_start|>assistant
+3.92e3<|im_end|>",train_808,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilokelvin, 36 decakelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_816,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+11 decihertz expressed in units of millihertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_823,test
+4,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of centiliters, 11 milliliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_826,test
+0,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of centipascals, 7 hectopascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_830,test
+0,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hectokelvin, 48 Kelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_837,test
+4,"
+4
+
+Explanation:  
+1 kilometer = 10,000 decimeters (since 1 km = 1000 m","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decimeters, 33 kilometers is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 kilometer = 10,000 decimeters (since 1 km = 1000 m",train_841,test
+1,"
+4
+
+Explanation:  
+1 kilogram = 100,000 centigrams  
+So, 15 kg = 15","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+15 kilograms expressed in units of centigrams is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 kilogram = 100,000 centigrams  
+So, 15 kg = 15",train_850,test
+2,"
+3","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+30.4 Amps expressed in units of kiloamps is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_868,test
+2,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+28.3 decamoles expressed in units of hectomoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_869,test
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kiloliters, 48.7 liters is <|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_878,test
+3,"
+4
+
+Explanation:  
+1 kilomole = 1,000 moles  
+So, 22.9 kilomoles =","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+22.9 kilomoles expressed in units of moles is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 kilomole = 1,000 moles  
+So, 22.9 kilomoles =",train_888,test
+3,"
+35","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+7 cm expressed in units of mm is <|im_end|>
+<|im_start|>assistant
+35<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_922,test
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of millikelvin, 33 kilokelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_923,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decahertz, 46 decihertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_932,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decigrams, 46 milligrams is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_952,test
+4,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decamoles, 26 decimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_957,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+42.3 decamoles expressed in units of centimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_988,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectonewtons, 16.0 decinewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_992,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+30 decipascals expressed in units of kilopascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_993,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kilonewtons, 6 decanewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_994,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+43.4 deciamps expressed in units of decaamps is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1003,test
+2,"
+470","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+23.5 Amps expressed in units of deciamps is <|im_end|>
+<|im_start|>assistant
+470<|im_end|>",train_1009,test
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decacandelas, 18.6 millicandelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1018,test
+1,"
+400","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+16 daA expressed in units of dA is <|im_end|>
+<|im_start|>assistant
+400<|im_end|>",train_1030,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of cm, 48 hm is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1034,test
+2,"
+4
+
+Explanation:  
+1 kA = 1,000 A  
+So, 25.4 kA = 25","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of mA, 25.4 kA is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 kA = 1,000 A  
+So, 25.4 kA = 25",train_1041,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+6 decimeters expressed in units of decameters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1079,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of centicandelas, 8.16 candelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1088,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of millipascals, 37.1 hectopascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_1090,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+12 decimoles expressed in units of decamoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_1101,test
+3,"
+471","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+47.1 hPa expressed in units of cPa is <|im_end|>
+<|im_start|>assistant
+471<|im_end|><|endoftext|>",train_1125,test
+4,"
+3.14","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decicandelas, 13 millicandelas is <|im_end|>
+<|im_start|>assistant
+3.14<|im_end|>",train_1128,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of daHz, 43 mHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1132,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decapascals, 11 millipascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1151,test
+3,"
+4
+
+Explanation:  
+Convert 34 hectometers (hm) to millimeters (mm).  
+
+1 hectometer = 100 meters","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+34 hm expressed in units of mm is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+Convert 34 hectometers (hm) to millimeters (mm).  
+
+1 hectometer = 100 meters",train_1170,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of cd, 28.3 dacd is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1174,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+5.86 moles expressed in units of hectomoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1205,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+8 milliliters expressed in units of decaliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1223,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decinewtons, 7 centinewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1233,test
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of g, 32.1 dg is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1243,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of daPa, 18 Pa is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1274,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilokelvin, 29 centikelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1278,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decahertz, 37 centihertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1305,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decimeters, 44 kilometers is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1317,test
+1,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+29.0 Newtons expressed in units of kilonewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1328,test
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of Kelvin, 27.1 kilokelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1341,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hectometers, 11 meters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1342,test
+3,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of daHz, 11.1 dHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1366,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kiloamps, 34.9 decaamps is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1402,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of Kelvin, 49 decakelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1422,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+50 mA expressed in units of kA is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1435,test
+1,"
+440","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+44.0 Newtons expressed in units of decinewtons is <|im_end|>
+<|im_start|>assistant
+440<|im_end|>",train_1438,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+11 dHz expressed in units of hHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1445,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decapascals, 47.9 decipascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1446,test
+4,"
+3.2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of cmol, 16 mmol is <|im_end|>
+<|im_start|>assistant
+3.2<|im_end|>",train_1464,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+42 hPa expressed in units of dPa is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1475,test
+0,"
+36","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+36 decagrams expressed in units of grams is <|im_end|>
+<|im_start|>assistant
+36<|im_end|>",train_1509,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+19 milliliters expressed in units of liters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_1525,test
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of dcd, 54.7 ccd is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_1532,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+43 Hz expressed in units of cHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_1538,test
+3,"
+420000","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+42.0 kilokelvin expressed in units of centikelvin is <|im_end|>
+<|im_start|>assistant
+420000<|im_end|>",train_1545,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decacandelas, 40.5 centicandelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1551,test
+0,"
+3.096","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of mol, 5.29 hmol is <|im_end|>
+<|im_start|>assistant
+3.096<|im_end|><|endoftext|>",train_1560,test
+0,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of millipascals, 31.2 decapascals is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1561,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+41.7 centihertz expressed in units of decahertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_1572,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decamoles, 48 decimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_1579,test
+1,"
+4376","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of centipascals, 54.7 pascals is <|im_end|>
+<|im_start|>assistant
+4376<|im_end|>",train_1605,test
+4,"
+2","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of deciliters, 19 centiliters is <|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_1610,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+54.8 millimeters expressed in units of decameters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1614,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectomoles, 34.4 decimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1629,test
+2,"
+49000000","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decipascals, 49 kilopascals is <|im_end|>
+<|im_start|>assistant
+49000000<|im_end|>",train_1645,test
+0,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+6.17 candelas expressed in units of decacandelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1648,test
+0,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hN, 38.4 N is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1649,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+47.6 ccd expressed in units of kcd is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1652,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilohertz, 23 decahertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1659,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+16.8 decigrams expressed in units of decagrams is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1664,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+43 dA expressed in units of daA is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1682,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kilokelvin, 10.8 decakelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1692,test
+3,"
+3.5","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of millihertz, 28 decihertz is <|im_end|>
+<|im_start|>assistant
+3.5<|im_end|>",train_1704,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of centigrams, 49.5 hectograms is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_1766,test
+0,"
+3","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of cd, 39.7 kcd is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1788,test
+0,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+52.5 hectocandelas expressed in units of candelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1809,test
+3,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hmol, 19 cmol is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1814,test
+3,"
+3.6 × 10⁴ mol","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of damol, 6 hmol is <|im_end|>
+<|im_start|>assistant
+3.6 × 10⁴ mol<|im_end|>",train_1822,test
+4,"
+4000","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decaliters, 26 kiloliters is <|im_end|>
+<|im_start|>assistant
+4000<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1835,test
+2,"
+2.7","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decipascals, 30 centipascals is <|im_end|>
+<|im_start|>assistant
+2.7<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1839,test
+4,"
+3.09496667","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectohertz, 22.1 kilohertz is <|im_end|>
+<|im_start|>assistant
+3.09496667<|im_end|>",train_1843,test
+1,"
+3480","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of millimeters, 44.8 decimeters is <|im_end|>
+<|im_start|>assistant
+3480<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_1870,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+28.3 millipascals expressed in units of decapascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_1872,test
+4,"
+35","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of dmol, 35 mol is <|im_end|>
+<|im_start|>assistant
+35<|im_end|>",train_1879,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+7 millihertz expressed in units of kilohertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_1883,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of deciliters, 14 kiloliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_1887,test
+3,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of milliamps, 33.5 deciamps is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1891,test
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+30.0 Hertz expressed in units of kilohertz is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1892,test
+3,"
+2","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kmol, 8.38 dmol is <|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1913,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of dHz, 22 mHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1941,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+35.3 kiloamps expressed in units of hectoamps is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1949,test
+0,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of Hertz, 51.0 centihertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1952,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+52.5 dL expressed in units of daL is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1973,test
+1,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decimoles, 53.1 millimoles is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1977,test
+3,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of dmol, 35 kmol is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_1979,test
+4,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+41.2 decimeters expressed in units of decameters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1983,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of mcd, 15.7 dacd is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1988,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decihertz, 32 kilohertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1989,test
+2,"
+4
+
+Explanation:  
+We are converting 25 kiloliters (kL) to centiliters (cL).  
+
+Step ","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of cL, 25 kL is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+We are converting 25 kiloliters (kL) to centiliters (cL).  
+
+Step ",train_1990,test
+0,"
+4
+
+Explanation:  
+To convert kilograms (kg) to milligrams (mg), use the conversion factors:  
+1 kg = 1,0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of mg, 29 kg is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+To convert kilograms (kg) to milligrams (mg), use the conversion factors:  
+1 kg = 1,0",train_2000,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+45 kHz expressed in units of hHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2007,test
+3,"
+40000","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decimeters, 16 kilometers is <|im_end|>
+<|im_start|>assistant
+40000<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2008,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+42.6 decikelvin expressed in units of kilokelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2015,test
+3,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hectomoles, 47.4 decimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2024,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decaliters, 11.7 milliliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2028,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of Pa, 51 mPa is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2038,test
+3,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kilomoles, 48.8 centimoles is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2062,test
+4,"
+3
+
+Explanation:  
+1 hectogram (hg) = 100 grams (g)  
+So, 13.9 hg =","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of grams, 13.9 hectograms is <|im_end|>
+<|im_start|>assistant
+3
+
+Explanation:  
+1 hectogram (hg) = 100 grams (g)  
+So, 13.9 hg =",train_2064,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+37.0 mol expressed in units of damol is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2080,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+15.4 centiamps expressed in units of hectoamps is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2088,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilograms, 29 decagrams is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2089,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decakelvin, 23.4 decikelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2097,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+40 milliamps expressed in units of kiloamps is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2099,test
+0,"
+2.86","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of dL, 18.6 cL is <|im_end|>
+<|im_start|>assistant
+2.86<|im_end|>",train_2106,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+23 centiliters expressed in units of liters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2107,test
+1,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of meters, 17 millimeters is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2125,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+43.8 decimoles expressed in units of millimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2151,test
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+54.6 decimeters expressed in units of meters is <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2154,test
+3,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectokelvin, 8 decikelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2162,test
+0,"
+4
+
+Explanation:  
+1 kiloamp = 1000 amps  
+1 decaamp = 10 amps  
+
+So, ","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+26 kiloamps expressed in units of decaamps is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 kiloamp = 1000 amps  
+1 decaamp = 10 amps  
+
+So, ",train_2176,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+39 hN expressed in units of kN is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2186,test
+2,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hectohertz, 31.8 kilohertz is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2193,test
+4,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decikelvin, 5.73 centikelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2197,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of centimoles, 35 decamoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2207,test
+4,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kilocandelas, 23 decicandelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2211,test
+4,"
+2
+
+Explanation:  
+1 hectoliter (hL) = 100 liters (L)  
+1 kiloliter (kL","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kiloliters, 53.6 hectoliters is <|im_end|>
+<|im_start|>assistant
+2
+
+Explanation:  
+1 hectoliter (hL) = 100 liters (L)  
+1 kiloliter (kL",train_2224,test
+2,"
+1","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilocandelas, 42.3 candelas is <|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|><|endoftext|>",train_2235,test
+0,"
+400","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectomoles, 20 kilomoles is <|im_end|>
+<|im_start|>assistant
+400<|im_end|>",train_2237,test
+2,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectomoles, 51.5 centimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_2239,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of mHz, 34.1 cHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_2240,test
+4,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectonewtons, 26 Newtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2258,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+50.6 g expressed in units of kg is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2259,test
+1,"
+4
+
+Explanation:  
+To convert kilopascals (kPa) to millipascals (mPa), use the conversion factor:  
+","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of millipascals, 53 kilopascals is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+To convert kilopascals (kPa) to millipascals (mPa), use the conversion factor:  
+",train_2288,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+41 cd expressed in units of kcd is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2297,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+17 mmol expressed in units of dmol is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2303,test
+4,"
+4.02","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+22.7 dN expressed in units of cN is <|im_end|>
+<|im_start|>assistant
+4.02<|im_end|>",train_2306,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of cg, 37.8 dg is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2313,test
+0,"
+3.0","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of centiliters, 11.6 deciliters is <|im_end|>
+<|im_start|>assistant
+3.0<|im_end|><|endoftext|>",train_2319,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kcd, 25.4 dcd is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2321,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectoliters, 38.4 milliliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2323,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+43.2 Kelvin expressed in units of kilokelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2329,test
+0,"
+4
+
+Explanation:  
+1 kg = 10 hg (since ""hg"" stands for hectogram, and 1 hectogram = 1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hg, 20 kg is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 kg = 10 hg (since ""hg"" stands for hectogram, and 1 hectogram = 1",train_2335,test
+4,"
+3.5","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectoamps, 49 Amps is <|im_end|>
+<|im_start|>assistant
+3.5<|im_end|>",train_2355,test
+0,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of decigrams, 49.1 hectograms is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_2369,test
+2,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kL, 32 hL is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|>",train_2371,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+36.2 decaliters expressed in units of centiliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_2390,test
+3,"
+3.92","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hL, 49 kL is <|im_end|>
+<|im_start|>assistant
+3.92<|im_end|>",train_2397,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of millihertz, 11 Hertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2411,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+25 cN expressed in units of mN is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2413,test
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decahertz, 52.7 hectohertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2433,test
+4,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of cK, 20.9 hK is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|>",train_2443,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectohertz, 32 centihertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_2445,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of dg, 7 mg is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|>",train_2458,test
+0,"
+400","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of dL, 17 L is <|im_end|>
+<|im_start|>assistant
+400<|im_end|>",train_2482,test
+2,"
+3.9","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kiloliters, 13.9 hectoliters is <|im_end|>
+<|im_start|>assistant
+3.9<|im_end|><|endoftext|>",train_2500,test
+3,"
+4305","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+8.61 mPa expressed in units of dPa is <|im_end|>
+<|im_start|>assistant
+4305<|im_end|>",train_2504,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+50 kL expressed in units of dL is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2522,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+7.1 hectopascals expressed in units of millipascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2529,test
+2,"
+4
+
+Explanation:  
+1 hectometer = 100 meters  
+1 meter = 100 centimeters  
+So, 1 hect","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of centimeters, 28 hectometers is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 hectometer = 100 meters  
+1 meter = 100 centimeters  
+So, 1 hect",train_2544,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hectokelvin, 9.07 Kelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2556,test
+3,"
+3.0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of mN, 25.0 cN is <|im_end|>
+<|im_start|>assistant
+3.0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2563,test
+4,"
+1","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of kilomoles, 11.3 moles is <|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2589,test
+2,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hectokelvin, 10.3 Kelvin is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2603,test
+3,"
+3
+
+Explanation:  
+1 decimole = 10 millimoles  
+So, 50.1 decimoles = 5","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of millimoles, 50.1 decimoles is <|im_end|>
+<|im_start|>assistant
+3
+
+Explanation:  
+1 decimole = 10 millimoles  
+So, 50.1 decimoles = 5",train_2605,test
+3,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hA, 42.1 cA is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2606,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+8 dK expressed in units of kK is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2635,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of Hertz, 31.0 decihertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2639,test
+4,"
+46","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+46 hectoliters expressed in units of decaliters is <|im_end|>
+<|im_start|>assistant
+46<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2646,test
+3,"
+44200","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+22.1 Newtons expressed in units of millinewtons is <|im_end|>
+<|im_start|>assistant
+44200<|im_end|>",train_2665,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+50.6 milligrams expressed in units of hectograms is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2671,test
+2,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectomoles, 19 kilomoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2673,test
+1,"
+5440","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+54.4 meters expressed in units of centimeters is <|im_end|>
+<|im_start|>assistant
+5440<|im_end|>",train_2676,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectonewtons, 48 millinewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2683,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of daK, 5 dK is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2690,test
+4,"
+43000","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of milliliters, 43 liters is <|im_end|>
+<|im_start|>assistant
+43000<|im_end|>",train_2702,test
+0,"
+2.04","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectoamps, 10.2 Amps is <|im_end|>
+<|im_start|>assistant
+2.04<|im_end|><|endoftext|>",train_2711,test
+2,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+47 centipascals expressed in units of kilopascals is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2731,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+49 daA expressed in units of kA is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2732,test
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of Newtons, 29.9 millinewtons is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2753,test
+1,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of milliamps, 36 deciamps is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2762,test
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of daHz, 30 kHz is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2767,test
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decihertz, 30.8 hectohertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2774,test
+0,"
+4
+
+Explanation:  
+Convert 52 hectograms (hg) to centigrams (cg).  
+
+- 1 hg = 100","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of cg, 52 hg is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+Convert 52 hectograms (hg) to centigrams (cg).  
+
+- 1 hg = 100",train_2796,test
+1,"
+3.784 × 10⁷","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of millihertz, 47.3 kilohertz is <|im_end|>
+<|im_start|>assistant
+3.784 × 10⁷<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2799,test
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kHz, 35 daHz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2804,test
+3,"
+3.0","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of centipascals, 28 decapascals is <|im_end|>
+<|im_start|>assistant
+3.0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2807,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+51 mN expressed in units of hN is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2811,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of kilograms, 46 grams is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2838,test
+2,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of liters, 48.1 milliliters is <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2851,test
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of millicandelas, 30 hectocandelas is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2860,test
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+45 milliliters expressed in units of decaliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2872,test
+0,"
+3
+
+Explanation:  
+1 decahertz (daHz) = 10 hertz (Hz)  
+So, 11.","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of Hertz, 11.3 decahertz is <|im_end|>
+<|im_start|>assistant
+3
+
+Explanation:  
+1 decahertz (daHz) = 10 hertz (Hz)  
+So, 11.",train_2877,test
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+13.5 decamoles expressed in units of kilomoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2884,test
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+32 milligrams expressed in units of centigrams is <|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2887,test
+1,"
+4
+
+Explanation:  
+1 hectoliter (hL) = 100 liters  
+1 liter = 10 deciliters (","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of deciliters, 50.5 hectoliters is <|im_end|>
+<|im_start|>assistant
+4
+
+Explanation:  
+1 hectoliter (hL) = 100 liters  
+1 liter = 10 deciliters (",train_2901,test
+3,"
+29.0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+29.0 dm expressed in units of cm is <|im_end|>
+<|im_start|>assistant
+29.0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2914,test
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decimeters, 32.1 millimeters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2915,test
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+48.4 mm expressed in units of dam is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2922,test
+0,"
+46","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of hectopascals, 46 kilopascals is <|im_end|>
+<|im_start|>assistant
+46<|im_end|><|endoftext|><|endoftext|>",train_2939,test
+0,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of hectomoles, 32.5 centimoles is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2941,test
+0,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of centihertz, 26.9 decahertz is <|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2952,test
+3,"
+3.43","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of N, 6.86 dN is <|im_end|>
+<|im_start|>assistant
+3.43<|im_end|>",train_2954,test
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+30.0 kiloliters expressed in units of deciliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2957,test
+3,"
+4","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+48 decaliters expressed in units of hectoliters is <|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2962,test
+2,"
+3","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When converted to units of decameters, 36 hectometers is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2981,test
+1,"
+3","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice unit converison problem within the SI system.
+Return only the correct answer key (between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+When expressed in units of cA, 14.7 mA is <|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2996,test

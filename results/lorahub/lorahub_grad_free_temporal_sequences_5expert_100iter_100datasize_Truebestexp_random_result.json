@@ -1,0 +1,19 @@
+{
+    "task": "temporal_sequences",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_temporal_sequences",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 1.0,
+    "weights": [
+        0.49985345196098946,
+        -0.00021141562031265496,
+        0.00023547433365431127,
+        6.211617377917731e-05,
+        3.9308527364770285e-05
+    ]
+}

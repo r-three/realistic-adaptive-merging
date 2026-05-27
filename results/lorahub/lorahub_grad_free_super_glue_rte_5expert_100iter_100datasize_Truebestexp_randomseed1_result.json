@@ -1,0 +1,19 @@
+{
+    "task": "super_glue_rte",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_super_glue_rte",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 0.8,
+    "test_accuracy": 0.8112449799196787,
+    "weights": [
+        0.8833923460582437,
+        0.013215323614494623,
+        0.035836702180516926,
+        -0.4431693871400766,
+        0.15631791011924992
+    ]
+}

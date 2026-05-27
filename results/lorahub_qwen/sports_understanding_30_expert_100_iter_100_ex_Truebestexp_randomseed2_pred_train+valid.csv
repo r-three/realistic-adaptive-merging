@@ -1,0 +1,1001 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Kristaps Porzingis took a side-step three<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_73,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Lamar Jackson drew a flag on the play in the AFC divisional round<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_91,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Nikola Jokic dunked the ball<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_142,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Zion Williamson converted the first down in the NFC divisional round<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_456,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Will Fuller hit the screen pass<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_476,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Marvin Jones converted the first down in the AFC divisional round<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_741,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Anthony Miller struck out<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1120,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Mitchell Trubisky stepped on first base<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1242,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Matthew Stafford earned a red card<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1291,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Elias Lindholm called for the screen<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1443,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+D'Angelo Russell scored on the power play<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1486,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Franmil Reyes shot with the left foot in the Champions Leage Semifinal<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1587,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Damian Lillard backhanded a shot in the Stanley Cup<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1747,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Evgeni Malkin launched the half court shot<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1770,train+valid
+1,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Mario Götze committed a handball in the FA Cup<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1835,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Rudy Gobert scored a penalty kick<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1880,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Carlos Tevez entered the attacking zone<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2016,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Drew Brees took a charge<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2089,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Cristiano Ronaldo was caught in a rundown<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2218,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Max Scherzer pitched a shutout in the National League Championship Series<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2251,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Arjen Robben performed a cruyff turn<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2401,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Nikola Vucevic went in studs up<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2494,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Jimmy Butler watched the pitch go by<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2497,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Max Pacioretty was called for slashing<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2607,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Angel Di Maria scored in extra time<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2745,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Jordan Binnington threw a touchdown in the NFC divisional round<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2876,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Max Pacioretty scored a touchdown<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2954,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Luis Robert was out at first in the American League Championship Series<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3009,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Drew Lock scored a touchdown<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3011,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Jarrett Allen hit the back shoulder fade<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3100,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Darijo Srna hit the back shoulder fade<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3129,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Mark Scheifele skated behind the net<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3167,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Rafael Devers was safe at home<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3374,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Anze Kopitar skated behind the net<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3379,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Auston Matthews flew out to center<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3817,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Roman Josi spent time in the penalty box<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4066,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+David Luiz skated behind the net<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4174,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Dwayne Haskins banked the shot in<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4281,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Tom Wilson went five hole<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4312,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Teddy Bridgewater gained five yards<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4413,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Cristiano Ronaldo got into the endzone<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4489,train+valid
+1,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Taysom Hill hit the wheel route<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4497,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Clayton Kershaw took the snap<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4636,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Mats Hummels gained five yards<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4720,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+DJ Chark drew a flag on the play in the AFC championship<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4773,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Patrice Bergeron went five hole<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4807,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Marvin Jones shot from beyond the arc<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4932,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Whit Merrifield took a charge in the NBA Championship<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5544,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Ilya Samsonov was safe at home<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5784,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Clayton Kershaw converted the double play<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5900,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Leon Draisaitl was called for slashing<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6020,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Jacob deGrom got on base<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6022,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Stephen Curry took a side-step three<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6054,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Timo Meier converted the first down<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6346,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Mason Plumlee hit a single in the World Series<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6512,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Bryce Harper was caught in a rundown<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6528,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Darius Slayton got into the endzone in the AFC divisional round<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6664,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Kemba Walker hit nothing but net in the Eastern Conference Finals<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6747,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Josh Allen wristed a shot<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6755,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Sergio Aguero shot with the left foot<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6765,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+DeVante Parker got into the endzone<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6767,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Tom Wilson skated behind the net<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6769,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Kelly Olynyk scored a reverse dunk in the Western Conference Finals<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6877,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Nelson Cruz shot the puck<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7191,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Michael Conforto was out at first<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7338,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Kris Letang hit a double<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7358,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Hatem Ben Arfa scored a penalty kick<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7371,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Marek Hamsik launched a triple<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7495,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Daniel Jones scored a header goal<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7711,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Emmanuel Mayuka killed the powerplay<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7984,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Hernanes earned a red card<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8020,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Ezequiel Lavezzi shot the puck in the Stanley Cup<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8034,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Nerlens Noel shot from beyond the arc in the Western Conference Finals<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8244,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Angel Di Maria called for the screen<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8280,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Jimmy Garoppolo caught the screen pass<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8464,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Elias Lindholm hit the wheel route<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8602,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Larry Nance Jr. dunked the ball in the NBA Championship<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8650,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Tyrod Taylor went one for two from the line<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8817,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Victor Oladipo hit the screen pass<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9060,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Raisel Iglesias entered the attacking zone<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9104,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Manny Machado lost control of the puck<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_18,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Darius Garland  scored a touchdown<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_111,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Whit Merrifield converted the double play in the World Series<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_433,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Robert Woods was flagged on the play<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_508,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Darijo Srna was out at home in the American League Championship Series<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_938,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Neymar was called for icing<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1004,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Hulk earned an indirect kick<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1062,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Teddy Bridgewater ran out of bounds in the Superbowl<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1117,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Miro Heiskanen scored a touchdown<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1327,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Victor Wanyama scored a penalty kick<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2290,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Marcus Semien ran out of bounds<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3403,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Yu Darvish pitched a shutout<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4945,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+D'Angelo Russell caught the screen pass<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5896,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+D'Angelo Russell hit a triple in the World Series<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6675,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Ezequiel Lavezzi performed a give and go<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6888,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Mitchell Trubisky hit the screen pass<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7273,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Kenny Golladay took a corner kick<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7440,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Dwayne Haskins swung to protect the runner<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8309,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Kirk Cousins launched a triple in the NBA Championship<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8614,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant solving a sports-related classification task.
+Evaluate the following statement to ""1"" if it is a valid statement in sports, otherwise return ""0"".
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Courtland Sutton fumbled the ball<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9012,train+valid

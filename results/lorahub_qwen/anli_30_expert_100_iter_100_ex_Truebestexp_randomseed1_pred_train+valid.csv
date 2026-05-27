@@ -1,0 +1,1701 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Mark Ingram Jr. (born December 21, 1989) is an American football running back for the New Orleans Saints of the National Football League (NFL). He played college football for the University of Alabama, won the Heisman Trophy, and was a member of a national championship team. The New Orleans Saints chose him in the first round of the 2011 NFL Draft. [SEP] 
+HYPOTHESIS - Mark Ingram Jr attended college before 2011<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_400,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Southwest Georgia Regional Airport (IATA: ABY, ICAO: KABY, FAA LID: ABY) is a city owned, public use airport located three nautical miles (6 km) southwest of the central business district of Albany, a city in Dougherty County, Georgia, United States. It is served by commercial passenger airlines. [SEP] 
+HYPOTHESIS - Dougherty County is the most populous county in Georgia<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_475,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Tracinda Corporation is an American private investment corporation that was owned by the late Kirk Kerkorian. Its major investments include a minority interest of MGM Resorts International. Tracinda is headquartered in Las Vegas, Nevada. The company was named after Kerkorian's daughters, Tracy and Linda. [SEP] 
+HYPOTHESIS - Tracinda Corporation is a French private investment corporation.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_860,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Phoebe Jane Fairgrave Omlie (November 21, 1902 – July 17, 1975) was an American aviation pioneer, particularly noted for her accomplishments as an early female aviator. Omlie was the first woman to receive an airplane mechanic's license, the first licensed female transport pilot, and the first woman to be appointed to a federal position in the aviation field. [SEP] 
+HYPOTHESIS - Jane Fairgrave was the first famele aviator in her 40th.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_963,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Beijing Municipal Administration & Communication Card (), more commonly known as the Yikatong (literally One-card pass), is a store-value contactless smart card used in Beijing, China, for public transportation and related uses. It is similar to Hong Kong's Octopus card, Singapore's CEPAS, or the Oyster Card used by Transport for London in London, England. [SEP] 
+HYPOTHESIS - People located in London, England can use Oyster Cards in order to access public transit<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1063,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Argentinean label Dias De Garage released the first-ever tribute to the rock legend Kyuss in July 2004. Titled ""Listen Without Distraction"", the collection was named after the instructions Kyuss used to give music fans on their albums. This CD contains songs from Argentinean bands and features liner notes by ex-Kyuss bass player Scott Reeder. [SEP] 
+HYPOTHESIS - Kyuss used to give advise to his music fans.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1199,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The 4th Lux Style Awards ceremony was held in Expo Center in Karachi, Pakistan. The show was hosted by Junaid Khan and Aamina Sheikh and from the members of BNN. The show had the performances by Humayun Saeed, Zara Sheikh, Veena Malik, Ali Zafar, Meesha Shafi and Sadia Imam. Some of the film and music categories were removed from the award. [SEP] 
+HYPOTHESIS - The 4th Lux Style Awards Ceremony was held in Africa.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1585,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Spies of Warsaw is a 2008 spy novel by Alan Furst about espionage involving the major nations shortly before World War II competing for influence and control over the future of Poland. The story starts in October 1937 and ends in May 1938, with a one paragraph description outlining the future of the two lead characters. [SEP] 
+HYPOTHESIS - This novel by Alan Furst, discusses the power struggle for the future of Poland.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1603,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Skinheads USA: Soldiers of the Race War is a 1993 HBO documentary film about a group of white power skinheads involved in the neo-Nazi movement in the Southern state of Alabama. The film featured the white supremacist Bill Riccio, the then leader of the Aryan Youth Front. Other Klan organizations were also featured. [SEP] 
+HYPOTHESIS - Skinheads USA: Soldiers of the Race War was released before 2000.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1796,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Macquarie University railway station is located on the Chatswood to Epping line, serving the Sydney suburb of Macquarie Park including the nearby Macquarie University and Macquarie Centre. It is served by Sydney Trains T1 Northern services. It is the only train station in Australia which bears the name of a university. [SEP] 
+HYPOTHESIS - Macquarie University railway station no longer operates.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1880,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Lorenzo Sotomayor Collazo (born 16 February 1985) is an Cuban-born Azerbaijani light-welterweight boxer who won a silver medal at the 2016 Olympics. He is a nephew of the high jumper Javier Sotomayor. In 2013 he moved from Cuba to Azerbaijan to increase his chances for Olympic selection. He chose to compete as Collazo, which means ""shining star"". [SEP] 
+HYPOTHESIS - Lorenzo Sotomayor Collazo has a silver medal.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1987,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - New Year's Revolution (2006) was the second annual New Year's Revolution pay-per-view (PPV) event produced by World Wrestling Entertainment (WWE). It took place on January 8, 2006, at the Pepsi Arena in Albany, New York and starred talent from the Raw brand. [SEP] 
+HYPOTHESIS - The New Year's Revolution pay per view event held in 2006 was the second annual event by this name which would up running for several more years.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2402,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Ron Hutchinson (born near Lisburn, County Antrim, Northern Ireland) is an Emmy Award winning screenwriter and an Olivier Award nominated playwright, known for writing John Frankenheimer's ""Against the Wall"", Robert M. Young's ""Slave of Dreams"", John Frankenheimer's ""The Island of Dr. Moreau"", ""Moonlight and Magnolias"" (play), and the 2004 miniseries ""Traffic."" [SEP] 
+HYPOTHESIS - Ron Hutchinson did not write playwrights for other people.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2773,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - A flamenco shoe is a type of shoe worn by flamenco dancers. They are typically worn by female dancers, they are called flamenco heel, often with traje de flamenca costumes. Male flamenco dancers traditionally wear short, heeled boots, although there are now some flamenco shoe styles available for men. [SEP] 
+HYPOTHESIS - A flamenco shoe is a type of shoe worn by flamenco dancers.  They wear it with no show socks<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2787,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Michael Ralph DeVito (born June 10, 1984) is a former American football defensive end. He played for the New York Jets of the National Football League (NFL) from 2007 to 2012, and then the Kansas City Chiefs from 2013 to 2015. He played college football at The University of Maine. DeVito attended high school at Nauset Regional High School in Eastham, Massachusetts. [SEP] 
+HYPOTHESIS - Michael Ralph DeVito (born June 10, 1984) was a part of a team for college level football. This team represented The University of Maine.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2989,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Vernon Deloss Walker (August 14, 1931 – April 19, 1996) was a notable advertising executive and political campaign consultant. Walker founded the Memphis, Tennessee-based advertising firm Walker + Associates, Inc. in October 1965. Walker played a major role in politics, corporate marketing and philanthropy throughout the South from the 1960s to 1990s. [SEP] 
+HYPOTHESIS - Vernon Walker was a politician for over 40 years<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3004,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Three Mills Wall River Weir is a weir on the Bow Back Rivers, in the London Borough of Newham, England, near to Three Mills. It was built in 2009, when the Bow Back Rivers were refurbished to make them a key feature of the Olympic Park, London, and maintains water levels through much of the park in conjunction with the Three Mills Lock and sluice on the Prescott Channel. [SEP] 
+HYPOTHESIS - The Bow Back Rivers were built a large number of years before the Three Mills Wall River Weir even existed.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3025,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Ohannes Tunçboyacıyan (a.k.a. Onno Tunç; Armenian: Օհաննես Թունչբոյաջյան ; December 20, 1948 - January 14, 1996) was a leading Armenian-Turkish musician, working mainly as a composer and an arranger. Tunç also played bass guitar and occasionally double bass, contributing to the albums of several musicians. He was the elder brother of musician Arto Tunçboyacıyan. [SEP] 
+HYPOTHESIS - Arto Tunçboyacıyan resented his older brother<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3330,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ""Can't Leave 'em Alone"" is a R&B song recorded by American singer Ciara and rapper 50 Cent for Ciara's second album, """" (2006). Written by Ciara, LaShawn Daniels, Rodney Jerkins, and 50 Cent, it is the fourth release and official third single from the album (see 2007 in music). It was solicited to Mainstream Urban radio stations on June 12, 2007 and Rhythmic stations on July 10, 2007. [SEP] 
+HYPOTHESIS - Ciara, LaShawn Daniels, Rodney Jerkins, and 50 Cent wrote the song ""Can't Leave 'em Alone"".<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3650,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Kurt Vonnegut's God Bless You, Mr. Rosewater is a 1979 musical that marked the first collaboration of composer Alan Menken and writer Howard Ashman. Based on Kurt Vonnegut's 1965 novel of the same name, the musical tells the story of Eliot Rosewater, a millionaire who develops a social conscience and creates a foundation to improve the lives of the citizens of an impoverished Indiana town. [SEP] 
+HYPOTHESIS - The 1979 play adaption of Kurt Vonnegut's God Bless You, Mr. Rosewater was more popular than the 1965 novel of the same name.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3861,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Clerodendrum infortunatum, the hill glory bower, is a perennial shrub belonging to the family Lamiaceae, also sometimes classified under Verbenaceae. It is the type species among ~400 species of ""Clerodendrum"". It is one of the most well-known natural health remedies in traditional practices and siddha medicine. [SEP] 
+HYPOTHESIS - The hill glory bower belongs to a family.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3973,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Volkswagen Golf Mk5 (codenamed ""Typ 1K"") is a compact car, the fifth generation of the Volkswagen Golf and the successor to the Volkswagen Golf Mk4. Built on the Volkswagen Group A5 (PQ35) platform, it was unveiled at the Frankfurt Motor Show in October 2003 and went on sale in Europe one month later. A compact MPV version of the car was produced as the Golf Plus. [SEP] 
+HYPOTHESIS - Typ 1K was the best selling car in October 2003.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_4456,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Salad Days: ""A Decade of Punk in Washington, DC (1980-90)"" is a documentary written and directed by Scott Crawford. Released on December 19, 2014, the Kickstarter-funded film features early pioneers of the Washington, DC hardcore punk music scene over a decade (1980-1990) including Minor Threat, Fugazi, Bad Brains, Government Issue, Youth Brigade, Teen Idles, Rites of Spring, and others. [SEP] 
+HYPOTHESIS - Salad Days: ""A Decade of Punk in Washington, DC (1980-90)"" was written and directed by Scott Crawford.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4709,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Eileen Colgan Simpson (20 January 1934 – 10 March 2014) was an Irish theatre, television and film actress. She was best known for her recurring role as Esther Roche on the RTÉ One soap opera, ""Fair City"". She also appeared in the RTÉ television drama, ""Glenroe"", as Mynah, the housekeeper of the priest. Her other television credits included ""Ballykissangel"", ""The Hanging Gale"" and ""Strumpet City"". [SEP] 
+HYPOTHESIS - Eileen Colgan Simpson died of old age in 2014<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4726,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - W. de Wycombe (Wicumbe, and perhaps Whichbury) (late thirteenth century) was an English composer and copyist of the Medieval era. He was precentor of the priory of Leominster in Herefordshire. It is possible that he was the composer of the most famous tune from medieval England, ""Sumer is icumen in"". [SEP] 
+HYPOTHESIS - Wycombe was born less than 20 years ago.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5522,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Bonds on Bonds is a 10-part reality TV series starring former San Francisco Giants outfielder Barry Bonds that aired on ESPN. The show revolved on the life of Bonds and his chase of Babe Ruth and Hank Aaron's home run records. It was produced by Tollin/Robbins Productions, producers of the Nickelodeon series ""All That"" and many other shows and movies. [SEP] 
+HYPOTHESIS - Bonds on Bonds was a 10-part reality series that was on ESPN.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5676,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Collected Stories of Katherine Anne Porter is a book by Katherine Anne Porter published by Harcourt in 1965, comprising nineteen ""short stories and long stories"", as Porter herself would say. It won the Pulitzer Prize for Fiction and the U.S. National Book Award for Fiction. [SEP] 
+HYPOTHESIS - A book published by Harcourt won a Pulitzer Prize.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5702,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - John Talbot, 3rd Earl of Shrewsbury, 3rd Earl of Waterford, 9th Baron Talbot, KG (12 December 1448 – 28 June 1473) was an English nobleman. He also held the subsidiary titles of 12th Baron Strange of Blackmere and 8th Baron Furnival. Although a soldier and an administrator, he was described by William of Worcester as 'more devoted to literature and the muses, than to politics and arms'. [SEP] 
+HYPOTHESIS - John Talbot changed his career path from soldier to an administrator.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5769,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The 1948 SMU Mustangs football team represented the SMU Mustangs of Southern Methodist University during the 1948 college football season. Doak Walker was a junior when he won the Heisman Trophy. Doak established several other Southwest Conference records that still stand. [SEP] 
+HYPOTHESIS - The heisman trophy was won by Walker's brother the next year.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5959,train+valid
+2,"
+2","<|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Kerala Janapaksham ('Kerala People's Party') is a political party in Kerala, India. The party is led by K. Raman Pillai. Pillai is the president of the party. Pillai had previously been a leader of the Bharatiya Janata Party, but formed Kerala Janapaksham in 2007. Baby Ambatt was appointed general secretary of the party in May 2010. [SEP] 
+HYPOTHESIS - Kerala Janapaksham is a political party in Delhi, India.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_6305,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - International Data Group, Inc. (IDG) is a Chinese-owned, American-based media, data and marketing services and venture capital organization. IDG evolved from International Data Corporation (IDC) which was founded in 1964 in Newtonville, Massachusetts, by Patrick Joseph McGovern. IDC provides market research and advisory services and is now a subsidiary of IDG. [SEP] 
+HYPOTHESIS - IDG evolved from International Data Corporation (IDC) which was founded between 1963 and 1965 in Newtonville, Massachusetts.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6871,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Al Noor Mosque is a mosque in Sharjah. It is located on the Khaled lagoon at the Buhaira Corniche. It is of Turkish Ottoman design and was influenced by the Sultan Ahmed Mosque in Turkey. It is one of three mosques open to the public in Sharjah, which has over 600 total. [SEP] 
+HYPOTHESIS - The Al Noor Mosque is the largest mosque in Turkey.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_6880,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Rock House, also known as the John Martin House, is a historic home located near King, Stokes County, North Carolina. It was built about 1785, and is a two-story, fieldstone ruin. It has been a ruin since the late-19th century. It is believed to have been built by Colonel John Martin, an early landowner in Stokes County. The property is maintained by the Stokes County Historical Society. [SEP] 
+HYPOTHESIS - Colonel John Martin a owned large estate.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7071,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ""The National Anthem"" is the first episode of the British science fiction anthology series ""Black Mirror"". The episode was written by series creator and showrunner Charlie Brooker and directed by Otto Bathurst; it first aired on Channel 4, on 4 December 2011. [SEP] 
+HYPOTHESIS - The episodes of ""Black Mirror"" by Charlie Brooker were directed by Otto Bathurst.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7092,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ""It's Alright, It's OK"" is a song by the band Primal Scream. It was released as a single on 7 May 2013, as the second single off of the band's tenth album, ""More Light"". The song bears resemblance to ""Movin' On Up"", the first track off of Primal Scream's critically acclaimed 1991 album, ""Screamadelica"". [SEP] 
+HYPOTHESIS - The album ""More Light"" contains no songs that are similar to the ones on the album ""Screamadelica"".<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7676,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - California Chrome (foaled February 18, 2011) is an American Thoroughbred racehorse. He was named the 2014 and 2016 American Horse of the Year. He won the 2014 Kentucky Derby, the Preakness Stakes, and the 2016 Dubai World Cup. In 2016, he surpassed Curlin as the all-time leading North American horse in earnings won. [SEP] 
+HYPOTHESIS - California Chrome is a dog species.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7883,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Will Wheaton, born Willie Mack Wheaton Jr. (born October 26, 1972) is an American singer, songwriter and musician. He grew up in Los Angeles and is the son of Gospel singer Juanita Wheaton. He studied music in his teens and was eventually tutored by Furman Fordham, whose former students include Lena Horne. [SEP] 
+HYPOTHESIS - Lena Horne and Fruman Fordham are Will Wheaton's parents.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7914,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Abraham Roqueñi Iglesias (born April 16, 1978) is a Spanish welterweight kickboxer. He was the K-1 MAX Spain 2004 tournament winner, and is a former ISKA, WAKO and WFCA world champion. He holds notable wins over Gago Drago, Luis Reis, Andy Souwer and Artur Kyshenko. [SEP] 
+HYPOTHESIS - Abraham Roqueñi Iglesias is a English I<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7950,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ""When Will I See You Again"" is a song released in 1974 by American soul group The Three Degrees, from their third album ""The Three Degrees"". The song was written and produced by Kenny Gamble and Leon Huff. Sheila Ferguson sang the lead, accompanied by Fayette Pinkney and Valerie Holiday. [SEP] 
+HYPOTHESIS - Fay and Valerie wanted to sing the lead on ""When Will I See You Again.""<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_8495,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Linguistics is the scientific study of language, and involves an analysis of language form, language meaning, and language in context. The earliest activities in the documentation and description of language have been attributed to the 4th century BCE Indian grammarian Pāṇini, who wrote a formal description of the Sanskrit language in his ""Aṣṭādhyāyī "". [SEP] 
+HYPOTHESIS - The study of animals is called linguistics.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_8582,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Revolver is a 2005 British-French crime thriller film co-written and directed by Guy Ritchie and starring Jason Statham, Ray Liotta, Vincent Pastore and André Benjamin. The film centres on a revenge-seeking confidence trickster whose weapon is a universal formula that guarantees victory to its user, when applied to any game or confidence trick. [SEP] 
+HYPOTHESIS - revolver was a very amazing movie<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8876,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The 15th BRDC International Trophy was a motor race, run to Formula One rules, held on 11 May 1963 at the Silverstone Circuit, England. The race was run over 52 laps of the Silverstone Grand Prix circuit, and was won by British driver Jim Clark in a Lotus 25. [SEP] 
+HYPOTHESIS - The race consisted of less than 40 laps.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_9174,train+valid
+2,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Yeidhavan (English: The Man Who Aims ) is a 2017 Indian Tamil-language crime action film written and directed by Sakthi Rajasekaran and produced by Sudhakaran. The film stars Kalaiyarasan and Satna Titus in the leading roles and features music composed by newcomer, Paartav Barggo. The film released on 12 May 2017. [SEP] 
+HYPOTHESIS - Yeidhavan is film shown more than 5 years ago<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9337,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Howard R. Lind (born October 3, 1957) is a retired U.S. Navy commander, former Special Assistant in the Office of the Secretary of Defense, former 10th Congressional District Republican chairman, was a 2014 candidate for the U.S. Senate in Virginia, and a 2014 candidate for the Republican nomination in Virginia's 10th Congressional District. [SEP] 
+HYPOTHESIS - The Secretary of Defense is held by a position from a military official.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9404,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Christiandy Sanjaya (Hanzi: 黃漢山, Hanyu Pinyin: ""Huáng Hànshān"", Hakka: ""Bong Hon Sham"", born 29 March 1964) is the incumbent Deputy Governor of West Kalimantan since 14 January 2008. He was elected to the post together with his running mate, incumbent Governor Cornelis, after winning the 2007 gubernatorial election. They were re-elected for the second term on the 2012 gubernatorial election. [SEP] 
+HYPOTHESIS - Christiandy Sanjaya has been deputy governor more than one time<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9516,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Gianluca Cologna (born 17 May 1990) is a Swiss cross-country skier. His brother Dario Cologna is also a professional cross-country skier. He competed in the 2014 Winter Olympics in the Men's team sprint with his brother Dario and finished 5th in the final. [SEP] 
+HYPOTHESIS - Gianluca Colognas middle name is Emily.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9519,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Randall Park (born March 23, 1974) is an American actor, comedian, writer, and director. He played Kim Jong-Un in the 2014 film ""The Interview"", Minnesota governor Danny Chung in ""Veep"", and beginning in 2015 he portrayed Eddie Huang's father, American restaurateur Louis Huang, in ABC's television show ""Fresh Off the Boat"". [SEP] 
+HYPOTHESIS - Randall Park is an Asian-American.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9631,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Edward George ""Ed"" Skrein ( ; born 29 March 1983) is an English actor and rapper. Outside his rap career, he is best known for his roles as Daario Naharis in Season 3 of ""Game of Thrones"", Frank Martin Jr. in ""The Transporter Refueled"" and Francis Freeman/Ajax in ""Deadpool"" (2016). [SEP] 
+HYPOTHESIS - Ed doesn't like medieval stuff<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9731,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Thomasin ""Tom"" McKenzie (born 2000) is a New Zealand teen actress. Most well known for playing Pixie Hannah in ""Shortland Street"", she has also starred in """" as Astrid, in ""Lucy Lewis Can't Lose"" as Lucy Lewis, and in webseries ""Bright Summer Night"" as Petra Quince. She will also have a leading role in upcoming American film ""My Abandonment"". [SEP] 
+HYPOTHESIS - Thomasin McKenzie's favorite film is Shortland Street.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9894,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Stanley Hugh Gallimore (14 April 1910 – September 1994) was an English footballer. His regular position was as a forward. He was born in Bucklow Hill, Cheshire and died in the Trafford district of Cheshire. He played for Witton Albion, Manchester United, Altrincham and Northwich Victoria. [SEP] 
+HYPOTHESIS - Stanley Gallimore once lived in London, England.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_10018,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Lucki Stipetić (also Lucki Herzog) is a German film producer, and the younger half brother of filmmaker Werner Herzog. Stipetić is the official head of Werner Herzog Filmproduktion, the production company which has produced almost all of Herzog's films. [SEP] 
+HYPOTHESIS - Lucki Stipetić (also Lucki Herzog) is an Asian film producer, and the younger half brother of filmmaker Werner Herzog.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_10480,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Strangers is a 2008 American horror film written and directed by Bryan Bertino and starring Liv Tyler and Scott Speedman. The film follows a young couple who are terrorized by three masked assailants over the course of an evening at a remote summer home. [SEP] 
+HYPOTHESIS - The Strangers is a 2008 American horror film written and directed by Bryan Bertino and starring Liv Tyler, who adored her co star Scott Speedman<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_10676,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Lofar is a Telugu film directed by Puri Jagannadh. It features Varun Tej and Disha Patani in the lead roles while Revathi and Posani Krishna Murali appear in crucial supporting roles. The film was officially launched on 8 July 2015 in Hyderabad. Earlier makers revealed the first look posters and trailer of the movie which received good response in the social media. [SEP] 
+HYPOTHESIS - Lofar won many awards<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_10988,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - San Marco 1, also known as San Marco A, was the first Italian satellite, and the first non-Soviet/US spacecraft. Built in-house by the Italian Space Research Commission (Italian: ""Commissione per le Ricerche Spaziali"" , CRS) on behalf of the National Research Council, it was the first of five as part of the Italian-US San Marco programme. [SEP] 
+HYPOTHESIS - San Marco was the first Soviet spacecraft.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_11018,train+valid
+2,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Gelston is a village in the South Kesteven district of Lincolnshire, England. It is situated 2 mi west from the A607 road, 5 mi north from Grantham, and in the civil parish of Hough-on-the-Hill, a village 1 mi to the north-east. It is in the civil parish of Brant Broughton and Stragglethorpe. [SEP] 
+HYPOTHESIS - Gelston is a village in the south of England.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11589,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Wings Greatest is a compilation album by Wings and is their eighth album as well as Paul McCartney's 10th since leaving the Beatles. It is notable as being the first official retrospective release from McCartney's post-Beatles career. Excepting interest in its vinyl LP mix, this collection has been superseded by the releases of ""All the Best!"", """" and ""Pure McCartney"". [SEP] 
+HYPOTHESIS - ""Pure McCartney"" is the most recent retrospective release by any Beatles members.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_11709,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Steve Peterson (1950 – July 15, 2008) was an American technical director for NASCAR. He joined NASCAR in 1995 and worked with them up until his death. During his time he worked as a technical director and a safety adviser. He led to the improvement of safety barriers, neck and head restraints as well as seatbelts. [SEP] 
+HYPOTHESIS - Steve Peterson died before 2010.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12029,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Talking Smack is an American talk show produced by WWE and currently airing on their subscription based streaming service, the WWE Network. The show is primarily hosted by Renee Young, who is usually joined by a co-host. Past hosts have included Daniel Bryan, Shane McMahon, The Miz and Jerry Lawler. [SEP] 
+HYPOTHESIS - Talking Smack is co hosted in the past by Miz and Jerry<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12516,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Llangarron is a small village and civil parish in southwest Herefordshire within seven miles of Ross-on-Wye (Herefordshire, England) and Monmouth (Monmouthshire, Wales). The population of the Civil Parish at the 2011 census was 1,053. The church is dedicated to St. Deinst. The village no longer has a post office nor pub, though it does have a hall. [SEP] 
+HYPOTHESIS - The population of Llangarron has grown since 2011.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_12538,train+valid
+1,"
+2","<|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Julian Peter McDonald Clary (born 25 May 1959) is an English comedian and novelist. Openly gay, Clary began appearing on television in the mid-1980s and became known for his deliberately stereotypical camp style. Since then he has also acted in films, television and stage productions, and was the winner of ""Celebrity Big Brother 10"" in 2012. [SEP] 
+HYPOTHESIS - Julian Peter McDonald Clary won money for appearing on Celebrity Big Brother 10.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_13197,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Hoosier Lottery is the official state lottery of Indiana, and is the only US lottery that uses the state's nickname as its official name. It is a member of the Multi-State Lottery Association (MUSL). The Hoosier Lottery sells scratch-off tickets; its draw games include Mega Millions, Hoosier Lotto, Powerball, Cash 5, and Poker Lotto. [SEP] 
+HYPOTHESIS - The Hoosier Lottery is the official state lottery of Indiana, and is the only US lottery that uses the state's nickname as its official name, so it's the best lottery in the country.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_13307,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Floyd Mayweather Jr. vs. Canelo Álvarez, billed as ""The One"", was a boxing light middleweight championship superfight. The bout was held on September 14, 2013, in the MGM Grand Garden Arena, at the MGM Grand Hotel & Casino in Las Vegas, Nevada, United States, on Showtime PPV. Mayweather received $41.5 million for this fight before taking into account pay-per-view sales. [SEP] 
+HYPOTHESIS - The Mayweather vs Alvarez fight took place in Vegas.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13492,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Sunny Thompson is an American singer, actress and recording artist best known for her portrayal of Marilyn Monroe in the critically acclaimed, award-winning one-woman show ""“Marilyn Forever Blonde, The Marilyn Monroe Story In Her Own Words & Music.”"" She has recorded several albums, one of which, """"Te Necesito,"""" earned her a gold record in South America. [SEP] 
+HYPOTHESIS - Sunny Thompson's fame and fortune brought her to South America where she won a gold record for the album, ""Te Necesito"".<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_14250,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The XXX BRDC International Trophy was a motor race for Formula One cars held on 19 March 1978 at the Silverstone Circuit, England. It was the 30th running of the International Trophy, and the last to non-Championship Formula One regulations. The race was held over 40 laps of the Silverstone circuit, for a total distance of around 189 km . [SEP] 
+HYPOTHESIS - The race was over 117 miles.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14427,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - William Alfred Hawkins (May 20, 1940 – July 4, 2016) was a Canadian songwriter, poet, musician and journalist, most notable for his contributions in the 1960s to Canadian folk rock music and to Canadian poetry. His best known song is ""Gnostic Serenade"", originally recorded by 3's a Crowd. [SEP] 
+HYPOTHESIS - William Hawkins is a world famous songwriter<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_14544,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Caroline Righton (born 26 February 1958), is an English television presenter, author and fashion designer, best known for being a presenter on the daily Breakfast Television station TV-am and being an anchor of the Channel 4 news show, The Channel Four Daily. [SEP] 
+HYPOTHESIS - Caroline Righton is an anchor for two news shows<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_14885,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ""From Eden"" is a song written and performed by Irish musician Hozier. It was released as the second single from his debut studio album ""Hozier"" (2014). ""From Eden"" peaked at number two on the Irish Singles Chart and has also charted in Belgium. A ""From Eden"" EP was released digitally on 9 March 2014. [SEP] 
+HYPOTHESIS - ""From Eden"" was never at the top spot on the Irish Singles Chart<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15134,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Hoosier Lottery is the official state lottery of Indiana, and is the only US lottery that uses the state's nickname as its official name. It is a member of the Multi-State Lottery Association (MUSL). The Hoosier Lottery sells scratch-off tickets; its draw games include Mega Millions, Hoosier Lotto, Powerball, Cash 5, and Poker Lotto. [SEP] 
+HYPOTHESIS - The draw games for the Hoosier Lottery include Powerball, and Poker Lotto. While they also sell scratch-off tickets, the scratch-offs are not considered draw games.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15445,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - USS ""Ludlow"" (DD-438), a ""Gleaves""-class destroyer , was the third ship of the United States Navy to bear the name. The second and third ""Ludlow"" ships were named for Lieutenant Augustus C. Ludlow, second in command of USS ""Chesapeake"" . He was, like his captain, mortally wounded in their ship's engagement with HMS ""Shannon"" on 1 June 1813, and died at Halifax, Nova Scotia on 13 June. [SEP] 
+HYPOTHESIS - Lieutenant Augustus C. Ludlow died in present day Canada.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15490,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Johnny English Reborn is a 2011 British action comedy film parodying the James Bond secret agent genre. The film is the sequel to ""Johnny English"" (2003), and stars Rowan Atkinson reprising his role as the title character and directed by Oliver Parker. The film is the second installment of the ""Johnny English film series"". [SEP] 
+HYPOTHESIS - The James Bond Secret agent films are not a parody of Johnny English.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15743,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Edward C. Rochette (born February 17, 1927) has devoted nearly all of his adult life in service to the American Numismatic Association. His first exposure to the ANA was as an editor of ""The Numismatist"" in 1966. Later, he would spend most of his 20 years as executive vice president. In 1987 he was elected to the ANA Board of Governors, and would serve as its president from 1991 to 1993. [SEP] 
+HYPOTHESIS - Edward rochette was liked enough to be elected<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_15770,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Ina Ray Hutton Show was a TV show starring prominent female jazz bandleader Ina Ray Hutton and her all-female orchestra. From 1951 to 1955, the show was a regional television show on the Paramount Television Network flagship station KTLA, and had a brief network run on PTN in 1956. [SEP] 
+HYPOTHESIS - Thanks to the work of Ina Ray Hutton, paramount television network was a flagship station for KTLA.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_15851,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Peter Thomas Ward (born July 26, 1937 in Montreal, Quebec) is a retired professional baseball player who played 9 seasons for the Baltimore Orioles, Chicago White Sox, and New York Yankees of Major League Baseball. The son of former National Hockey League forward Jimmy Ward, Pete attended Jefferson High School in Portland, Oregon and played college baseball at Portland's Lewis & Clark College. [SEP] 
+HYPOTHESIS - Peter Thomas Ward played hockey in high school.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_16169,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The XXX BRDC International Trophy was a motor race for Formula One cars held on 19 March 1978 at the Silverstone Circuit, England. It was the 30th running of the International Trophy, and the last to non-Championship Formula One regulations. The race was held over 40 laps of the Silverstone circuit, for a total distance of around 189 km . [SEP] 
+HYPOTHESIS - The length of the BRDC International Trophy race is based on how many years it has been held.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_16299,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Emperor and Galilean (in Norwegian: ""Kejser og Galilæer"" ) is a play written by Henrik Ibsen. Although it is one of the writer's lesser known plays, on several occasions Henrik Ibsen called ""Emperor and Galilean"" his major work. ""Emperor and Galilean"" is written in two complementary parts with five acts in each part and is Ibsen's longest play. [SEP] 
+HYPOTHESIS - Emperor and Galilean has six acts.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_16300,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Tracinda Corporation is an American private investment corporation that was owned by the late Kirk Kerkorian. Its major investments include a minority interest of MGM Resorts International. Tracinda is headquartered in Las Vegas, Nevada. The company was named after Kerkorian's daughters, Tracy and Linda. [SEP] 
+HYPOTHESIS - Kirk Kerkorian named the company after his 3 daughters.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_16526,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The 2001 NFL draft was the 66th annual meeting of National Football League (NFL) franchises to select newly eligible football players. The draft, which is officially referred to as the ""NFL Player Selection Meeting,"" was held at the Theater at Madison Square Garden in New York City, New York on April 21–22, 2001. [SEP] 
+HYPOTHESIS - The 2001 NFL draft took place less than ten years ago.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_16535,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Hendrik Antoon Lorentz (18 July 1853 – 4 February 1928) was a Dutch physicist who shared the 1902 Nobel Prize in Physics with Pieter Zeeman for the discovery and theoretical explanation of the Zeeman effect. He also derived the transformation equations underpinning Albert Einstein's theory of special relativity. [SEP] 
+HYPOTHESIS - The 1902 Nobel Prize in Physics was won solely by Hendrik Antoon Lorentz.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_16575,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The following bibliography of Roberto Bolaño provides a chronological list of the published works of Chilean writer Roberto Bolaño (1953–2003). It includes his fiction (novels, short stories, poems) and non-fiction (essays, speeches, interviews), both published during his lifetime and posthumously. [SEP] 
+HYPOTHESIS - The finction and non-fiction works of  Roberto Bolaño were published while he was not living in Earth.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_16628,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - After the election of Marina Mora as Miss World Peru 2001/02. The Miss Perú Universe 2002 pageant was held on April 27, 2002. That year, just 12 candidates were competing for that national crown. The chosen winner represented Peru at the Miss Universe 2002 and for the first time at Miss Earth. The rest of the finalists would enter in different pageants. [SEP] 
+HYPOTHESIS - Miss Peru represented Peru at Miss Earth for the first time in 2001.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_16831,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Scarlet Letter (stylized The SCARlet Letter) is the fifth studio album by American recording artist Lil' Mo. It was first released on October 27, 2014 by Penalty Entertainment. Its first and only single, ""Should've Never Let You Go"" preceded its release on September 23, 2014. [SEP] 
+HYPOTHESIS - The Scarlet Letter was first released on October 23, 2014 by Penalty Entertainment.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_36,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The 29th Los Angeles Film Critics Association Awards, given by the Los Angeles Film Critics Association (LAFCA) on January 7, 2004, honored the best in film for 2003. The ceremony was originally called off because of the MPAA screener ban as members felt they could not see all the movies in time for their awards but when that was removed the show was back on. [SEP] 
+HYPOTHESIS - The 29th Los Angeles Film Critics Association Awards, given by the Los Angeles Film Critics Association (LAFCA) on January 7, 2003, honored the best in film for 2004.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_125,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Jonathan Smith (born January 17, 1971), better known by his stage name Lil Jon, is an American rapper, record producer, and DJ. He was the frontman of the group Lil Jon & The East Side Boyz, which he formed in 1997, and they released several albums until 2004. [SEP] 
+HYPOTHESIS - Jonathan Smith spent much of his time in China.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_137,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Prince and Me is a 2004 romantic comedy film directed by Martha Coolidge, and starring Julia Stiles, Luke Mably, and Ben Miller, with Miranda Richardson, James Fox, and Alberta Watson. The film focuses on Paige Morgan, a pre-med college student in Wisconsin, who is pursued by a prince posing as a normal college student. [SEP] 
+HYPOTHESIS - Julia Stiles and Luke Mably were at least 40 years old when they starred in The Prince and Me in 2004.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_181,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Fanny Talbot (née) Browne (1824–1917) was a landowner and philanthropist, and a friend and correspondent of the influential art critic John Ruskin. She is noted for donating the first property—4.5 acres of land known as Cliff of Light (""Dinas Oleu"" in Welsh), at Barmouth, Gwynedd—to the National Trust. [SEP] 
+HYPOTHESIS - Fanny Talbot was born in the Untied Kingdom.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_209,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Dorobanțu is a commune in Tulcea County, Romania. It is composed of five villages: Ardealu (depopulated as of 2002, historical name: ""Asînlar""), Cârjelari, Dorobanțu, Fântâna Oilor (historical name: ""Coiumbunar"" or ""Coiumpunar"") and Meșteru (historical name:""Canat Calfa""). [SEP] 
+HYPOTHESIS - Today, out of the five villages that compose Dorobanțu, Ardealu contains the most residents.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_240,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Jeanne Evert Dubin (born October 5, 1957) is an American former professional tennis player and the younger sister of Chris Evert. She was ranked as high as 42nd by the WTA in 1975 and ninth within the United States alone in 1974. She reached the third round of the U.S. Open in 1973 and 1978. She won all 4 of her Fed Cup matches for the U.S. in 1974. [SEP] 
+HYPOTHESIS - Jeanne Evert Dubin only played tennis up to 1978.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_242,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Ancud (] ) is a city in southern Chile located in the northernmost part of the island and province of Chiloé, in Los Lagos Region. It is the second largest city of Chiloé Archipelago after Castro. The city was established in 1768 to function as the capital of the archipelago and held that position until 1982. [SEP] 
+HYPOTHESIS - Ancud resides in the province of Los Lagos, in the region of Chiloé.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_371,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Humphrey Arthur Gilkes MC & Three Bars (13 October 1895 – 11 July 1945) was a British soldier and doctor. He is one of four soldiers to have been awarded the Military Cross four times, all in the First World War. He was a medical officer in the Colonial Medical Service between the wars. He also served in the British Army in the Second World War, and was killed in an aeroplane crash at Djibouti. [SEP] 
+HYPOTHESIS - humphrey gilkes was nearing his 50th birthday when he passed<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_400,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The American Horse Council (AHC) is a trade organization in Washington, DC representing the horse industry. The organization formed in 1969, with a committee that became the Coalition of State Horse Councils forming in 1970, now having 43 states participating. American Horse Council Foundation was founded in 1991. [SEP] 
+HYPOTHESIS - The American Horse Council had 3 states participating in 1991.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_446,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Mitsubishi J8M ""Shūsui"" (Japanese: 三菱 J8M 秋水, literally ""Autumn Water"", used as a poetic term meaning ""Sharp Sword"" deriving from the swishing sound of a sword) was a Japanese World War II rocket-powered interceptor aircraft closely based on the German Messerschmitt Me 163 ""Komet"". [SEP] 
+HYPOTHESIS - There is a Russian based on the German Messerschmitt Me 163 ""Komet"".<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_459,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - A. Eugene ""Gene"" Haylett (c. 1904 – ?) was an American football coach. He served as the 22nd head football coach at Doane College in Crete, Nebraska and he held that position for nine seasons, from 1933 until 1941. His coaching record at Doane was 34–30–8. [SEP] 
+HYPOTHESIS - Eugene ""Gene"" Haylett lost 30 games at Doane.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_539,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Rev. James Smith Bush (June 15, 1825 – November 11, 1889) was an American attorney, Episcopal priest, religious writer, and an ancestor of the Bush political family. He was the father of business magnate Samuel Prescott Bush, grandfather of former US Senator Prescott Bush, great-grandfather of former US President George H. W. Bush and great-great-grandfather of former US President George W. Bush. [SEP] 
+HYPOTHESIS - George W. Bush was president of the United States of America.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_689,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Wu Di () is a Chinese cinematographer and one-time film director, known for his collaborations with Sixth Generation director, Wang Xiaoshuai. The director of photography for over ten films (all with mainland directors), Wu Di also wrote and directed a feature of his own, 1995's ""Goldfish"". [SEP] 
+HYPOTHESIS - Wu Di appears as a side character in his 1995 film ""Goldfish""<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_709,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - System of a Down, sometimes shortened to System and abbreviated as SOAD, is an Armenian-American heavy metal band from Glendale, California, formed in 1994. The band currently consists of Serj Tankian (lead vocals, keyboards), Daron Malakian (vocals, guitar), Shavo Odadjian (bass, backing vocals) and John Dolmayan (drums). [SEP] 
+HYPOTHESIS - SOAD formed their band after 1993.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_716,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Palo Alto is a 2013 American drama film written and directed by Gia Coppola, based on James Franco's short story collection ""Palo Alto"" (2010). Franco stars, along with Emma Roberts, Jack Kilmer, Nat Wolff and Zoe Levin. Jack Kilmer's father, Val Kilmer, also appears briefly in the film as Stewart, Emma Roberts' stepdad. [SEP] 
+HYPOTHESIS - Palo Alto was based on a true story.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_748,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - William Leo Hansberry (February 25, 1894 – November 3, 1965) was an American scholar and lecturer. He was the older brother of real estate broker Carl Augustus Hansberry, uncle of award-winning playwright Lorraine Hansberry and great-granduncle of actress Taye Hansberry. [SEP] 
+HYPOTHESIS - Hansberry was 71 years old when he passed away.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_775,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Wallace Houston Terry, II (April 21, 1938 – May 29, 2003) was an African-American journalist and oral historian, best known for his book about black soldiers in Vietnam, ""Bloods: An Oral History of the Vietnam War"" (1984), which served as a basis for the 1995 crime thriller ""Dead Presidents"". [SEP] 
+HYPOTHESIS - Wallace Houston Terry, II was an executive producer for the film, Dead Presidents.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_826,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Miroslav Ondříček was born in Prague, Czechoslovakia (now Prague, Czech Republic). He studied filmmaking at the Barrandov Studio Training School and began making movies during the Czech New Wave. His first feature film work was on Miloš Forman's ""Talent Competition"". He continued his long working relationship with Forman in the US on such films as ""Hair"", ""Ragtime"" and ""Amadeus"". [SEP] 
+HYPOTHESIS - Miroslav Ondříček's first feature film was Hair<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_941,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0 entailment
+1 neutral
+2 contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Vanessa Jean Dedmon (born 28 April 1987 in Braunfels, Hesse to Russell and Waltraud Dedmon) was a semifinalist on Germany's third season of ""Deutschland sucht den Superstar"" (the German Version of ""Pop Idol"") being voted out by the audience in the Top 3 Show. Dedmon was one of the favourites of the jury. [SEP] 
+HYPOTHESIS - Vanessa Jean Dedmon is a 32 year old game show contestant.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_975,train+valid

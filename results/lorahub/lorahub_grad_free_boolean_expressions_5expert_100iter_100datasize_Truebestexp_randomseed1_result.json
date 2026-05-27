@@ -1,0 +1,19 @@
+{
+    "task": "boolean_expressions",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_boolean_expressions",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 0.8,
+    "test_accuracy": 0.788,
+    "weights": [
+        0.7773562452295926,
+        0.5177654498307638,
+        -0.02173521325065722,
+        -0.0029691052532683586,
+        -0.07376911124361557
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "task": "arc_easy",
+    "expert_name": [
+        "shared_space/lora_baseline/lora_baseline_lr3e-4_step400_rank64_arc_easy/final_model",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.75,
+    "test_accuracy": 0.872895622895623,
+    "weights": [
+        0.5683877171630858,
+        0.4888250258580081,
+        0.32185740412899133,
+        -0.007662748003406253,
+        0.04500723229533161
+    ]
+}

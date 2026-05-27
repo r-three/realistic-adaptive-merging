@@ -1,0 +1,29 @@
+{
+    "task": "web_of_lies",
+    "expert_name": [
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter"
+    ],
+    "valid_accuracy": 0.7,
+    "test_accuracy": 0.5671140939597316,
+    "weights": [
+        0.015287157748486685,
+        -0.27425957951053914,
+        0.06659310377938538,
+        0.18679993709640072,
+        -0.3028073485826736,
+        -0.028729966523765884,
+        0.011726131114234279,
+        0.6191084266026169,
+        1.0950061747909487,
+        0.4201460077941785
+    ]
+}

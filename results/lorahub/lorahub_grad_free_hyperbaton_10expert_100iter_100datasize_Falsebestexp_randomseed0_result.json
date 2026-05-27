@@ -1,0 +1,29 @@
+{
+    "task": "hyperbaton",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304",
+        "barc0/induction-run2-gpt4omini-20k-100seeds-barc-llama3.1-8b-instruct-lora64_lr2e-4_epoch3"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.554,
+    "weights": [
+        0.04393641237573464,
+        -0.016169218487062195,
+        0.505195491590062,
+        -0.0009237409719483347,
+        -0.0745947187061263,
+        -0.010068354249267891,
+        -0.03119722005551871,
+        -0.006536145803153268,
+        -0.023455039411819385,
+        -0.07858460991480193
+    ]
+}

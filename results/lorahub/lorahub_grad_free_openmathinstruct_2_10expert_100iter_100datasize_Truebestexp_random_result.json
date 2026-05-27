@@ -1,0 +1,29 @@
+{
+    "task": "openmathinstruct_2",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_openmathinstruct_2",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a"
+    ],
+    "valid_accuracy": 0.15,
+    "test_accuracy": 0.13105242096838735,
+    "weights": [
+        1.0598687209333435,
+        0.30075249002127996,
+        0.7306650069886806,
+        0.5136522447240389,
+        0.11466158811062745,
+        -0.07909300542740569,
+        0.46828305284218374,
+        -0.059618221164048094,
+        0.019832446697093786,
+        0.09814630697192152
+    ]
+}

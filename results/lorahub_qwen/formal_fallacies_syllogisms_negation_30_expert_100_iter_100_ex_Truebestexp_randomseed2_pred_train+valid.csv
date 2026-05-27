@@ -1,0 +1,1101 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First premise: Being an ingredient of Root Touch-up is necessary for not being an ingredient of Carrot shower oil. Second premise: It is not the case that Toluene is an ingredient of Carrot shower oil. We may conclude: Toluene is an ingredient of Root Touch-up.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_137,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: To begin with, being a great-grandfather of Andres is sufficient for not being a brother of Trevor. Moreover, Jeremy is a great-grandfather of Andres. Therefore, it is false that Jeremy is a brother of Trevor.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_278,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: First of all, every ingredient of Xtreme Pink Gel that is an ingredient of 06 CONCEALER PENCIL is also an ingredient of LEGACY SOAP SET. Next, Lead acetate is an ingredient of 06 CONCEALER PENCIL. Plus,Lead acetate is an ingredient of Xtreme Pink Gel. All this entails that Lead acetate is an ingredient of LEGACY SOAP SET.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_304,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First, being a devotee of FC Vaduz or a critic of Racing Club de Strasbourg Alsace is sufficient for being a backer of AC Milan. Second, Norman is a devotee of FC Vaduz. So, necessarily, Norman is a backer of AC Milan.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_410,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: To start with, everybody who is neither an ancestor of Bradford nor an ancestor of Theodore is however a close friend of Anthony. Now, Chris is neither an ancestor of Theodore nor an ancestor of Bradford. It follows that Chris is a close friend of Anthony.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_710,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: First, it is not the case that 2-Propyleneacrolein is an ingredient of Extra Clear Booster. Second, being an ingredient of Extra Clear Booster is necessary for being an ingredient of Highlighter. We may conclude that it is not the case that 2-Propyleneacrolein is an ingredient of Highlighter.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_811,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: To start with, it is false that Miranda is a schoolmate of Zenaida. Now, everyone who is a sister of Ruby is a schoolmate of Zenaida, too. From this follows: Miranda is not a sister of Ruby.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_869,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: First premise: Everyone who is a loyal buyer of Softsoap soap is also a regular consumer of Proactiv soap and an owner of a Lifebuoy soap. Second premise: Sharita is not a regular consumer of Proactiv soap. In consequence, Sharita is not a loyal buyer of Softsoap soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1130,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First, it is not the case that Retinol is an ingredient of Hello Merlot. Second, everything that is an ingredient of Neon Pink is also an ingredient of Hello Merlot and an ingredient of Baked Alaska. All this entails that it is false that Retinol is an ingredient of Neon Pink.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1141,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: To start with, Dawn is not a classmate of Reina. Now, everyone who is an ancestor of Tanisha or an ancestor of Janel is also a classmate of Reina. We may conclude: Dawn is neither an ancestor of Tanisha nor an ancestor of Janel.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1200,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First premise: Every expert of Kilmarnock FC is an ex-supporter of Randers FC and an expert of FC Nordsjælland. Second premise: Holly is not an ex-supporter of Randers FC or not an expert of FC Nordsjælland. All this entails that Holly is not an expert of Kilmarnock FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1407,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: To begin with, no ingredient of CC Creme Medium is an ingredient of Frost Coat or an ingredient of Nail Treatment. Moreover, Cocamide is an ingredient of Frost Coat. All this entails that it is not the case that Cocamide is an ingredient of CC Creme Medium.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1599,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First, everyone who is an ex-fan of FC Nordsjælland is a friend of FK Crvena zvezda, too. Second, everyone who is a devotee of FCSB is an ex-fan of FC Nordsjælland, too. So, necessarily, everyone who is a devotee of FCSB is a friend of FK Crvena zvezda, too.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1646,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: To start with, every regular user of Bliss soap is an owner of a Shiseido shampoo. Now, everyone who is neither a regular consumer of The Body Shop soap nor a rare consumer of Mrs. Meyer's soap is a regular user of Bliss soap, though. All this entails that whoever is none of this: a regular consumer of The Body Shop soap or rare consumer of Mrs. Meyer's soap, is an owner of a Shiseido shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2391,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First premise: Everyone who is a son of Carmelo is a brother of Arnold, too. Second premise: Every brother of Arnold is not a stepbrother of Ashley or not a brother of Steven. Therefore, no son of Carmelo is both a stepbrother of Ashley and a brother of Steven.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2493,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First of all, being an uncle of Guadalupe is necessary for being a classmate of Nicholas. Next, not being a classmate of Howard is sufficient for not being an uncle of Guadalupe. So, necessarily, everyone who is a classmate of Nicholas is a classmate of Howard, too.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2529,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: To start with, being a stepsister of Leona is necessary for being an aunt of Ethel. Now, no stepsister of Brenda is a stepsister of Leona. Therefore, no aunt of Ethel is a stepsister of Brenda.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2642,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First, being a critic of Hibernian FC is necessary for not being a friend of AZ Alkmaar. Second, nobody is neither a friend of AZ Alkmaar nor an opponent to FK Žalgiris Vilnius. Third, everyone who is not a member of US Sassuolo Calcio is not both an opponent to FK Žalgiris Vilnius and a critic of Hibernian FC. All this entails that whoever is not a friend of AZ Alkmaar is a member of US Sassuolo Calcio.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3125,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Siri a stepsister of Mary? Is Susan related to Kate? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: Some workmate of Carole is not a stepsister of Teresa. Being a stepsister of Teresa is necessary for not being a half-sister of Christina. From this follows: Somebody is a workmate of Carole and a half-sister of Christina.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3654,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: To start with, somebody is an admirer of Os Belenenses and an expert of Yeni Malatyaspor. Now, no admirer of Heart of Midlothian FC is an expert of Yeni Malatyaspor. We may conclude: There is somebody who is an admirer of Os Belenenses and not an admirer of Heart of Midlothian FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3779,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: To begin with, being a frequent consumer of Organic Fiji soap is necessary for being a regular user of Caress soap. Moreover, some loyal buyer of Bentley Organic soap is a regular user of Caress soap. Hence, somebody is a loyal buyer of Bentley Organic soap and a frequent consumer of Organic Fiji soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3846,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: Some brother of Leo is a grandson of Benjamin yet not an uncle of Shannon. Being an uncle of Shannon is necessary for not being a brother of Jeremy. Hence, there exists a grandson of Benjamin who is a brother of Leo and a brother of Jeremy.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4043,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: To begin with, being an ingredient of Master Kit is necessary for not being an ingredient of Wild Mink. Moreover, there is something that is not an ingredient of Master Kit and that is not an ingredient of JORDANA FABUBROW or not an ingredient of After Dark. Hence, there is something that is an ingredient of Wild Mink and not both an ingredient of JORDANA FABUBROW and an ingredient of After Dark.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4332,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: There is somebody who is not a close friend of Joseph and who is not a grandson of Dewayne or not a grandson of Owen. Being a close friend of Joseph is necessary for not being a cousin of Aaron. It follows that some cousin of Aaron is not both a grandson of Dewayne and a grandson of Owen.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4362,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: To begin with, somebody is not an owner of a Aveda shampoo and, in addition, not a regular consumer of Frederic Fekkai shampoo or not an owner of a Proactiv soap. Moreover, whoever is not an infrequent user of Alterna Haircare shampoo is an owner of a Aveda shampoo. All this entails that not every infrequent user of Alterna Haircare shampoo is both a regular consumer of Frederic Fekkai shampoo and an owner of a Proactiv soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4366,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: No ex-supporter of FC Utrecht is, in the same time, a critic of FK Kukësi without being a friend of Olympiacos FC. Being an ex-supporter of FC Utrecht is sufficient for being a critic of FK Kukësi. From this follows: Everyone who is an ex-supporter of FC Utrecht is a friend of Olympiacos FC, too.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4694,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: First, every regular consumer of Matrix shampoo is not a rare consumer of Eucalyptus soap or not a loyal buyer of Alterna Haircare shampoo. Second, every rare consumer of Eucalyptus soap who is a loyal buyer of Alterna Haircare shampoo is a regular consumer of Matrix shampoo or a regular consumer of Paul Mitchell soap. From this follows: Every rare consumer of Eucalyptus soap who is a loyal buyer of Alterna Haircare shampoo is also a regular consumer of Paul Mitchell soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5204,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: First of all, everyone who is a loyal buyer of Dial soap is a regular user of Suave shampoo, too. Next, every regular user of Paul Mitchell shampoo is a loyal buyer of Dial soap or a frequent consumer of South of France soap. Plus,being a regular user of Suave shampoo is necessary for being a frequent consumer of South of France soap. It follows that every regular user of Paul Mitchell shampoo is a regular user of Suave shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5450,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First premise: Every follower of Manchester City FC is a supporter of Rangers FC. Second premise: Every admirer of Eintracht Frankfurt is a follower of Manchester City FC or a devotee of FCSB. Third premise: Everyone who is a devotee of FCSB is a supporter of Rangers FC, too. All this entails that every admirer of Eintracht Frankfurt is a supporter of Rangers FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5492,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First premise: Being an ancestor of Carl is necessary for being a half-brother of Jon. Second premise: Every stepbrother of Ronny is a son of Calvin or an ancestor of Rodney or a half-brother of Jon. Third premise: Every son of Calvin is an ancestor of Carl. Fourth premise: Being an ancestor of Carl is necessary for being an ancestor of Rodney. All this entails that everyone who is a stepbrother of Ronny is an ancestor of Carl, too.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5819,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: First of all, every member of Vitória SC is a devotee of FC Slovan Liberec or an ex-fan of R. Charleroi SC or a follower of R. Standard de Liège. Next, being a backer of Maccabi Tel-Aviv FC is necessary for being a follower of R. Standard de Liège. Plus,being a backer of Maccabi Tel-Aviv FC is necessary for being a devotee of FC Slovan Liberec. Finally, every ex-fan of R. Charleroi SC is a backer of Maccabi Tel-Aviv FC. In consequence, every member of Vitória SC is a backer of Maccabi Tel-Aviv FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5870,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: To start with, no stepbrother of Bryan is both a nephew of Wilburn and a son of Howard. Now, whoever is not a son of Howard is a son of Adrian. Moreover, nobody is neither a nephew of Wilburn nor a son of Adrian. Hence, everyone who is a stepbrother of Bryan is a son of Adrian, too.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6117,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: First premise: Whatever is not an ingredient of Zoom Lens is an ingredient of Raspberry Ice. Second premise: No ingredient of Body Balance Cream is both an ingredient of Mositure Rich Cream and an ingredient of Zoom Lens. Third premise: Being an ingredient of Raspberry Ice is necessary for not being an ingredient of Mositure Rich Cream. Hence, being an ingredient of Body Balance Cream is sufficient for being an ingredient of Raspberry Ice.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6196,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First premise: Every ancestor of Curt is a close friend of Joe. From this follows: Not being a close friend of Joe is sufficient for not being an ancestor of Curt.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6629,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First, everyone who is both a great-grandfather of Ronald and a brother of Terrence is not a half-brother of Edwin. Hence, no half-brother of Edwin is a great-grandfather of Ronald and, in the same time, a brother of Terrence.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6751,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: To start with, whoever is a workmate of Gregory is not an ancestor of Vincent and not a cousin of Clayton, either. From this follows: No ancestor of Vincent and no cousin of Clayton is a workmate of Gregory.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7090,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First premise: No grandson of Ignacio is a schoolmate of Edwin. Second premise: Adam is not a grandson of Ignacio. Therefore, it is not the case that Adam is a schoolmate of Edwin.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7338,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: First premise: Being an ingredient of The Wuss Bubble Bar or not being an ingredient of 6 Color Eyeshadow is sufficient for being an ingredient of PERFECTION PRIMER. Second premise: Phenacemide is an ingredient of 6 Color Eyeshadow. It follows that Phenacemide is not an ingredient of PERFECTION PRIMER.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7594,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: To begin with, Susan is a regular user of Yardley London soap. Moreover, everyone who is not both a regular consumer of Infusium shampoo and a regular user of Yardley London soap is an occasional purchaser of Mysore soap. From this follows: It is false that Susan is an occasional purchaser of Mysore soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7786,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: Every frequent consumer of Shield soap is both a regular user of The Body Shop soap and an infrequent user of L'Oreal shampoo. Chad is a regular user of The Body Shop soap. Therefore, Chad is a frequent consumer of Shield soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8229,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see which chemicals are contained in our consumer products. The following argument pertains to this question: First, not being an ingredient of Mysterious is sufficient for being an ingredient of Renewing Eye Cream and an ingredient of Samurai Cool Scrub. Second, musk xylene is an ingredient of Renewing Eye Cream or an ingredient of Samurai Cool Scrub. We may conclude that it is false that Musk xylene is an ingredient of Mysterious.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8571,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: To start with, every rare consumer of Pantene shampoo is an occasional purchaser of Aveeno soap. Now, whoever is not an occasional purchaser of Aveeno soap is a regular consumer of Aveda shampoo. Therefore, being a rare consumer of Pantene shampoo is sufficient for not being a regular consumer of Aveda shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9041,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: To start with, being a loyal buyer of Pureology shampoo is necessary for being a rare consumer of Mrs. Meyer's soap. Now, being a regular consumer of Burt's Bees soap is necessary for not being a loyal buyer of Pureology shampoo. So, necessarily, no rare consumer of Mrs. Meyer's soap is a regular consumer of Burt's Bees soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9090,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Siri a stepsister of Mary? Is Susan related to Kate? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First premise: Everyone who is a classmate of Sue is an aunt of Christina, too. Second premise: Every aunt of Christina is not an aunt of Patricia or not a workmate of Rosalie. All this entails that every classmate of Sue is neither an aunt of Patricia nor a workmate of Rosalie.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9285,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: No loyal buyer of Shiseido shampoo is a loyal buyer of Bee & Flower soap. Whoever is a loyal buyer of Shiseido shampoo is not a loyal buyer of Dawn soap. Everyone who is both a loyal buyer of Dawn soap and a loyal buyer of Bee & Flower soap is an infrequent user of Herbal Essences shampoo, too. We may conclude: Every loyal buyer of Shiseido shampoo is an infrequent user of Herbal Essences shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9311,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First, everyone who is both an opponent to Real Sociedad de Fútbol and an ex-fan of Beşiktaş JK is a follower of Liverpool FC, too. Second, being an admirer of HŠK Zrinjski is sufficient for not being an opponent to Real Sociedad de Fútbol. Third, whoever is an admirer of HŠK Zrinjski is not an ex-fan of Beşiktaş JK. In consequence, every admirer of HŠK Zrinjski is a follower of Liverpool FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9356,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: To begin with, no ingredient of Tattoo - Spiderman is an ingredient of Magic WIthin. Moreover, being an ingredient of Magic WIthin is necessary for being an ingredient of CC Cream SPF 30. All this entails that being an ingredient of Tattoo - Spiderman is necessary for not being an ingredient of CC Cream SPF 30.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9787,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First premise: Everyone who is an ex-supporter of Legia Warszawa is a follower of Burnley FC, too. Second premise: Not being a backer of Celtic FC is sufficient for not being a follower of Burnley FC. It follows that whoever is not an ex-supporter of Legia Warszawa is a backer of Celtic FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9863,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First premise: No half-sister of Kerstin who is a stepsister of Monica is a workmate of Carolyn. Second premise: Being a classmate of Simone is sufficient for being a workmate of Carolyn. From this follows: Whoever is not a half-sister of Kerstin and not a stepsister of Monica is however a classmate of Simone.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10009,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Siri a stepsister of Mary? Is Susan related to Kate? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: Everyone who is a classmate of Kelly is a close friend of Mildred, too. Some close friend of Mildred is not a classmate of Carole. All this entails that somebody is a classmate of Carole and not a classmate of Kelly.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10629,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: There is somebody who is a cousin of Isaac and not a grandson of Dean. Whoever is not a nephew of Owen is a grandson of Dean. It follows that somebody is a cousin of Isaac and not a nephew of Owen.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_10750,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: First of all, no regular user of Mrs. Meyer's soap is an owner of a Finesse shampoo. Next, some frequent consumer of Irish Spring soap is not an owner of a Finesse shampoo. We may conclude: There is somebody who is a frequent consumer of Irish Spring soap and a regular user of Mrs. Meyer's soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10899,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: First premise: Some devotee of FC Lokomotiv Moskva is an ex-fan of Everton FC. Second premise: Being an ex-fan of Randers FC is necessary for not being an ex-fan of Everton FC. All this entails that some ex-fan of Randers FC is not a devotee of FC Lokomotiv Moskva.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10914,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: To start with, whoever is not a half-sister of Alicia is a workmate of Haley. Now, not every classmate of Ruth is both a workmate of Haley and an ancestor of Janet. Moreover, nobody is neither a half-sister of Alicia nor an ancestor of Janet. So, necessarily, some classmate of Ruth is not a half-sister of Alicia.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_11326,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First premise: Somebody is a devotee of West Ham United FC and a backer of AIK. Second premise: Whoever is not a fan of KV Oostende and not an ex-supporter of Everton FC is not a backer of AIK, either. We may conclude: There exists a devotee of West Ham United FC who is not a fan of KV Oostende or not an ex-supporter of Everton FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11553,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First premise: Every grandson of Erik is a nephew of Timothy or a son of Bryan. Second premise: Whoever is not a grandson of Erik is a son of Bryan. We may conclude that every grandson of Erik is a nephew of Timothy.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11600,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: First of all, being a loyal buyer of Dove shampoo is necessary for not being an infrequent user of Clairol shampoo. Next, to be a loyal buyer of Dove shampoo or a rare consumer of Yardley London soap is necessary for being an infrequent user of Clairol shampoo. From this follows: Everyone who is an infrequent user of Clairol shampoo is a rare consumer of Yardley London soap, too.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11676,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see which chemicals are contained in our consumer products. The following argument pertains to this question: First of all, no ingredient of Climate Control is an ingredient of pressed base. Next, there is no ingredient of pressed base who is an ingredient of Essie Beam Up yet not an ingredient of Climate Control. We may conclude that every ingredient of pressed base is an ingredient of Essie Beam Up.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11865,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: Whoever is member of Vitesse is at least one of these: an ex-supporter of FC Nordsjælland, a fan of FC Bayern München or a follower of PFC CSKA Moskva. Being a member of Vitesse is sufficient for being an ex-supporter of FC Nordsjælland. Therefore, to be a fan of FC Bayern München or a follower of PFC CSKA Moskva is necessary for being a member of Vitesse.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12216,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: Every half-brother of Emmett is a schoolmate of Ted. Whoever is half-brother of Emmett is at least one of these: a schoolmate of Ted, an uncle of Rene or an ancestor of Henry. It follows that every half-brother of Emmett is an uncle of Rene or an ancestor of Henry.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12281,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First premise: Every half-sister of Brandy is not a great-grandmother of Jean or not a cousin of Agnes. Second premise: Everyone who is not both a cousin of Agnes and a great-grandmother of Jean is a half-sister of Brandy or a sister of Myra. In consequence, every great-grandmother of Jean who is a cousin of Agnes is also a sister of Myra.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12362,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: To start with, whoever is not both a schoolmate of Gwendolyn and an ancestor of Nelda is a great-grandmother of Tonya or a half-sister of Eleanor.now, every great-grandmother of Tonya is not an ancestor of Nelda or not a schoolmate of Gwendolyn. From this follows: Every ancestor of Nelda who is a schoolmate of Gwendolyn is also a half-sister of Eleanor.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12396,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: First of all, every regular user of Zest soap is a regular user of Pre De Provence soap or a loyal buyer of Clairol shampoo. Next, everyone who is both a loyal buyer of Clairol shampoo and a regular user of Pre De Provence soap is a regular user of Zest soap or a frequent consumer of Frederic Fekkai shampoo. Therefore, whoever is none of this: a loyal buyer of Clairol shampoo or regular user of Pre De Provence soap, is a frequent consumer of Frederic Fekkai shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12495,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: To begin with, no uncle of Henry is a workmate of Jasper or an uncle of Jorge. Moreover, no uncle of Jorge is an ancestor of Carlos. Finally, whoever is a workmate of Jasper is not an ancestor of Carlos. We may conclude: Being an uncle of Henry is sufficient for not being an ancestor of Carlos.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12709,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First premise: Being a half-brother of Edward is sufficient for not being a grandson of Don. Second premise: Someone who is not an ancestor of Perry is a grandson of Don or a great-grandfather of George. Third premise: No half-brother of Edward is a great-grandfather of George. Hence, whoever is an ancestor of Perry is not a half-brother of Edward.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12829,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: To begin with, whoever is a frequent consumer of The Body Shop soap is not a rare consumer of Irish Spring soap. Moreover, whoever is a frequent consumer of The Body Shop soap is not a loyal buyer of Matrix shampoo. Finally, whoever is not an infrequent user of Ivory soap is however a rare consumer of Irish Spring soap or a loyal buyer of Matrix shampoo. From this follows: No infrequent user of Ivory soap is a frequent consumer of The Body Shop soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12843,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First of all, being an ingredient of Metallix Gleam is sufficient for not being an ingredient of TOTAL FINISH TF25. Next, whatever is not an ingredient of Exotics Body Lotion is however an ingredient of Vinyl Lipcolor or an ingredient of TOTAL FINISH TF25. Plus,no ingredient of Metallix Gleam is an ingredient of Vinyl Lipcolor. We may conclude: Being an ingredient of Exotics Body Lotion is sufficient for not being an ingredient of Metallix Gleam.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12855,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: To start with, someone who is not a friend of Olympique de Marseille is an expert of VfL Wolfsburg or an ex-fan of FC Basel 1893. Now, being an opponent to Fehérvár FC is sufficient for not being an ex-fan of FC Basel 1893. Moreover, being an opponent to Fehérvár FC is sufficient for not being an expert of VfL Wolfsburg. Hence, whoever is a friend of Olympique de Marseille is not an opponent to Fehérvár FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12884,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: Every ex-supporter of Apollon Limassol FC who is a supporter of SV Zulte Waregem is a critic of Trabzonspor AŞ or an ex-fan of Racing Club de Strasbourg Alsace. Being an ex-fan of Racing Club de Strasbourg Alsace is sufficient for not being a supporter of Vitesse. Every critic of Trabzonspor AŞ is a supporter of Vitesse. Hence, no ex-supporter of Apollon Limassol FC who is a supporter of SV Zulte Waregem is a supporter of Vitesse.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_13060,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see which chemicals are contained in our consumer products. The following argument pertains to this question: First premise: Whatever is an ingredient of Mesmerizing is not an ingredient of NAIL TREATMENT. Second premise: Every ingredient of Chiffon is an ingredient of NAIL TREATMENT. Third premise: Every ingredient of Wax - warm brown is an ingredient of Mesmerizing or an ingredient of Chiffon or an ingredient of Pure White Gel. In consequence, no ingredient of Wax - warm brown is, in the same time, an ingredient of NAIL TREATMENT without being an ingredient of Pure White Gel.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13131,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: To start with, every stepsister of Wanda is a sister of Elizabeth. Now, every granddaughter of Maria is a granddaughter of Hattie or a stepsister of Wanda or a great-grandmother of Inocencia. Moreover, no granddaughter of Hattie is a sister of Elizabeth. Hence, no granddaughter of Maria is, in the same time, a sister of Elizabeth without being a great-grandmother of Inocencia.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13185,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: To start with, every ex-supporter of The New Saints FC is an ex-supporter of Gabala SC and an ex-fan of NK Maribor. Now, nobody is neither an ex-fan of NK Maribor nor a backer of Royal Antwerp FC. Moreover, whoever is not an ex-supporter of Gabala SC is a backer of Royal Antwerp FC. All this entails that being a backer of Royal Antwerp FC is necessary for being an ex-supporter of The New Saints FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13271,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First premise: Not being a classmate of Kermit is sufficient for not being a son of Craig. It follows that not being a son of Craig is sufficient for not being a classmate of Kermit.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13601,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: No friend of PFC Ludogorets 1945 who is a fan of SL Benfica is a backer of Apollon Limassol FC. Therefore, everyone who is not a backer of Apollon Limassol FC is however a fan of SL Benfica and a friend of PFC Ludogorets 1945.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13819,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: To begin with, no occasional purchaser of Organic Fiji soap who is an occasional purchaser of American Crew shampoo is an occasional purchaser of Kirk's soap. In consequence, everyone who is not an occasional purchaser of Kirk's soap is however an occasional purchaser of American Crew shampoo and an occasional purchaser of Organic Fiji soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13841,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First premise: Every nephew of Desmond is neither a great-grandfather of Ricardo nor a stepbrother of Ralph. It follows that whoever is none of this: a great-grandfather of Ricardo or stepbrother of Ralph, is a nephew of Desmond.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_13975,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: To start with, no brother of Saul who is a cousin of Chester is a workmate of Rene. It follows that no workmate of Rene is a brother of Saul or a cousin of Chester.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14015,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: To begin with, no loyal buyer of Shiseido shampoo who is an owner of a Garnier shampoo is an owner of a Neutrogena soap. Hence, every owner of a Neutrogena soap is neither an owner of a Garnier shampoo nor a loyal buyer of Shiseido shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14040,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: To begin with, no ingredient of Duo Eyeliner that is an ingredient of Lime All The Time is an ingredient of Sheer Lipstick. Therefore, every ingredient of Sheer Lipstick is neither an ingredient of Lime All The Time nor an ingredient of Duo Eyeliner.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14063,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: To start with, every owner of a Nag Champa soap is neither a regular consumer of The Body Shop soap nor a rare consumer of Matrix shampoo. So, necessarily, whoever is none of this: a rare consumer of Matrix shampoo or regular consumer of The Body Shop soap, is an owner of a Nag Champa soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14151,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: First, Russell is a loyal buyer of Nubian Heritage soap. Second, being a loyal buyer of Nubian Heritage soap is sufficient for not being a frequent consumer of Herbal Essences shampoo. Therefore, it is false that Russell is a frequent consumer of Herbal Essences shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_230,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see which chemicals are contained in our consumer products. The following argument pertains to this question: First of all, methylene glycol is an ingredient of Utopia Gel Polish. Next, no ingredient of Utopia Gel Polish is an ingredient of Goin' Ape-ricot. Hence, it is not the case that Methylene glycol is an ingredient of Goin' Ape-ricot.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_273,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: Every granddaughter of Janice who is a great-grandmother of Annie is also a half-sister of Emma. Deeann is a great-grandmother of Annie. Deeann is a granddaughter of Janice. We may conclude: Deeann is a half-sister of Emma.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_342,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: Julian is a supporter of Go Ahead Eagles. Being an ex-fan of Tottenham Hotspur is sufficient for not being a supporter of Go Ahead Eagles. All this entails that Julian is not an ex-fan of Tottenham Hotspur.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_942,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: First, being a half-sister of Courtney is sufficient for being a great-grandmother of Monica. Second, not being a granddaughter of Pamela is sufficient for not being a great-grandmother of Monica. Therefore, every half-sister of Courtney is a granddaughter of Pamela.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2508,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: Not being an ingredient of lip2cheek is sufficient for not being an ingredient of EYE LINER. Being an ingredient of Ecru Silk is sufficient for being an ingredient of EYE LINER. Therefore, everything that is an ingredient of Ecru Silk is an ingredient of lip2cheek, too.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2801,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: Every sister of Miriam is an ancestor of Helen. Some half-sister of Lauren is not an ancestor of Helen. All this entails that some half-sister of Lauren is not a sister of Miriam.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3545,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: Every occasional purchaser of Colgate-Palmolive soap is an infrequent user of Infusium shampoo or an occasional purchaser of Origins soap or a regular user of The Body Shop soap. Being an infrequent user of Infusium shampoo is sufficient for being an infrequent user of Lever soap. Every regular user of The Body Shop soap is an infrequent user of Lever soap. Every occasional purchaser of Origins soap is an infrequent user of Lever soap. From this follows: Being an occasional purchaser of Colgate-Palmolive soap is sufficient for being an infrequent user of Lever soap.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5822,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: To begin with, everyone who is a fan of RB Leipzig is an ex-fan of Rosenborg BK, too. Moreover, every admirer of Sevilla FC is an ex-fan of Rosenborg BK. Finally, everyone who is both an ex-supporter of Club Brugge and a supporter of Juventus is a fan of RB Leipzig or an admirer of Sevilla FC. From this follows: Every supporter of Juventus who is an ex-supporter of Club Brugge is also an ex-fan of Rosenborg BK.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5973,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see which chemicals are contained in our consumer products. The following argument pertains to this question: To begin with, being an ingredient of Summer Crush is necessary for being an ingredient of Jackie Oates. Moreover, every ingredient of Blue Orchid is an ingredient of Jackie Oates or an ingredient of Bewitched or an ingredient of C-Esta Lips. Finally, every ingredient of Bewitched is an ingredient of Summer Crush. From this follows: Every ingredient of Blue Orchid is an ingredient of C-Esta Lips or an ingredient of Summer Crush.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6024,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First premise: Whoever is not a brother of Joan is a workmate of Justin. Hence, nobody is neither a workmate of Justin nor a brother of Joan.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6412,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Siri a stepsister of Mary? Is Susan related to Kate? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: To begin with, no close friend of Anna is a half-sister of Bonnie. Moreover, Doreen is not a half-sister of Bonnie. From this follows: Doreen is a close friend of Anna.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8097,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: Everyone who is a devotee of Royal Antwerp FC is an ex-supporter of Inverness Caledonian Thistle FC, too. Jennifer is an ex-supporter of Inverness Caledonian Thistle FC. It follows that Jennifer is a devotee of Royal Antwerp FC.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8106,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Here comes a perfectly valid argument: To begin with, no loyal buyer of Neutrogena shampoo is a regular user of Kiss My Face soap or a loyal buyer of TIGI shampoo. Moreover, it is not the case that Aimee is a regular user of Kiss My Face soap. Finally, it is false that Aimee is a loyal buyer of TIGI shampoo. In consequence, it is not the case that Aimee is a loyal buyer of Neutrogena shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8405,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: First, someone who is not an ex-supporter of Sporting Clube de Portugal is an opponent to Feyenoord or a member of Legia Warszawa. Second, nobody is neither a friend of Osmanlıspor nor an opponent to Feyenoord. Third, nobody is neither a friend of Osmanlıspor nor a member of Legia Warszawa. All this entails that whoever is not a friend of Osmanlıspor is an ex-supporter of Sporting Clube de Portugal.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_10555,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: To begin with, being an ingredient of Put a Wing On It is necessary for not being an ingredient of Lip Glaze. Moreover, being an ingredient of CHOPSTICK PENCIL 27 is necessary for not being an ingredient of Lip Glaze. Finally, some ingredient of Def Defying Lacquer is not both an ingredient of CHOPSTICK PENCIL 27 and an ingredient of Put a Wing On It. In consequence, not every ingredient of Def Defying Lacquer is an ingredient of Lip Glaze.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11306,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see which chemicals are contained in our consumer products. The following argument pertains to this question: To begin with, something is an ingredient of Miranda Soap and an ingredient of LIGHTNING LINER. Moreover, everything that is neither an ingredient of Water Cloud Primer nor an ingredient of Ionil T Shampoo is not an ingredient of LIGHTNING LINER. All this entails that there is something that is an ingredient of Miranda Soap and, in addition, not an ingredient of Water Cloud Primer or not an ingredient of Ionil T Shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_11502,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to grasp who is consuming which products. The following argument pertains to this question: To begin with, every infrequent user of American Crew shampoo is an infrequent user of Shield soap or a loyal buyer of Fels-Naptha soap. Moreover, being an infrequent user of Shield soap is necessary for not being an infrequent user of American Crew shampoo. Therefore, being a loyal buyer of Fels-Naptha soap is necessary for being an infrequent user of American Crew shampoo.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_11667,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First premise: Every daughter of Krista is a stepsister of Nichole or a workmate of Joy or a schoolmate of Matilda. Second premise: Everyone who is a daughter of Krista is a stepsister of Nichole, too. Therefore, every daughter of Krista is a schoolmate of Matilda or a workmate of Joy.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_12252,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant distinguishing valid arguments from formal fallacies.
+Return ""1"" if the given argument is deductively valid, and ""0"" if it is invalid.
+Respond only with ""0"" or ""1"", without explanations.
+<|im_end|>
+<|im_start|>user
+""Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: No backer of Lyngby BK is a supporter of FC Schalke 04. We may conclude that being a backer of Lyngby BK is necessary for not being a supporter of FC Schalke 04.""
+ Is the argument, given the explicitly stated premises, deductively valid or invalid?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_13467,train+valid

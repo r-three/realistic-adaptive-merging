@@ -1,0 +1,19 @@
+{
+    "task": "tweet_eval_hate",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_tweet_eval_hate",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.5,
+    "test_accuracy": 0.5861952861952862,
+    "weights": [
+        0.8799893624156752,
+        0.5809507922831871,
+        0.5583959816907591,
+        0.47947241455659595,
+        0.009701311458805185
+    ]
+}

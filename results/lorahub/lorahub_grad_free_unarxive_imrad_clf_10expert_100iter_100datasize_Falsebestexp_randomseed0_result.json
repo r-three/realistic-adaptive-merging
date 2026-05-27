@@ -1,0 +1,29 @@
+{
+    "task": "unarxive_imrad_clf",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304",
+        "barc0/induction-run2-gpt4omini-20k-100seeds-barc-llama3.1-8b-instruct-lora64_lr2e-4_epoch3"
+    ],
+    "valid_accuracy": 0.45,
+    "test_accuracy": 0.4282272636016864,
+    "weights": [
+        -0.0840060680737236,
+        -0.2506120872092641,
+        0.9687514625828441,
+        -0.08286009571899548,
+        0.5955839709112996,
+        0.9826962643373656,
+        -0.2014010380704596,
+        -0.024911705461259558,
+        -0.28617197592059007,
+        -0.10198841545643426
+    ]
+}

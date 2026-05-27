@@ -1,0 +1,1201 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - PDC will also almost certainly fan the flames of speculation about Longhorn 's release . [SEP] 
+SENTENCE2 - PDC will also almost certainly reignite speculation about release dates of Microsoft 's new products .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_73,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The blue-chip Dow Jones industrial average eased 44 points , or 0.47 percent , to 9,543 , after scoring five consecutive up sessions . [SEP] 
+SENTENCE2 - The Dow Jones industrial average .DJI rose 18.25 points , or 0.19 percent , to 9,586.71 .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_99,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Prosecutors said Paracha , if convicted , could face at least 17 years in prison . [SEP] 
+SENTENCE2 - Paracha faces at least 17 years in prison if convicted .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_120,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The report was found Oct. 23 , tucked inside an old three-ring binder not related to the investigation . [SEP] 
+SENTENCE2 - The report was found last week tucked inside a training manual that belonged to Hicks .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_156,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Also arrested Friday was Claudia Carrizales de Villa , 34 , a Mexican citizen who lives in Harlingen . [SEP] 
+SENTENCE2 - Also arrested Friday was Claudia Carrizales de Villa , 34 , a citizen of Mexico residing in the border city of Harlingen , Texas .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_159,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Platinum prices soared to 23-year highs earlier this year after President Bush ( news - web sites ) proposed investing $ 1.2 billion for research on fuel cell-powered vehicles . [SEP] 
+SENTENCE2 - Platinum prices soared to 23-year highs earlier this year after U.S. President George W. Bush proposed investing $ 1.2 billion for research on fuel cell-powered vehicles .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_164,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - October heating oil futures settled .85 cent lower at 69.89 cents a gallon . [SEP] 
+SENTENCE2 - October heating oil ended down 0.41 cent to 70.74 cents a gallon .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_169,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The March downturn was the only break in what has been broad growth in services for the past 15 months . [SEP] 
+SENTENCE2 - A downturn in services activity in March was the only break in what has been broad growth in services for the past 15 months .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_191,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Gillette shares rose $ 1.45 , or 4.5 percent , to $ 33.95 in afternoon New York Stock Exchange trading . [SEP] 
+SENTENCE2 - Shares of Gillette closed down 45 cents at $ 33.70 in trading Wednesday on the New York Stock Exchange .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_205,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - A hearing on the matter was held Thursday morning in Fulton County Superior Court , marking one of the early steps in deciding the case of Matthew Whitley . [SEP] 
+SENTENCE2 - A hearing Thursday morning before Judge Elizabeth Long in Fulton County Superior Court marked one of the first steps in deciding the case of Matthew Whitley .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_225,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The bulk of the funds , some $ 65 billion , will go for military operations in Iraq and Afghanistan . [SEP] 
+SENTENCE2 - The bulk of the bill - $ 64.7 billion - goes for military operations primarily in Iraq and Afghanistan .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_234,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Phone calls to Spitzer 's office , Citigroup and Goldman Sachs were not immediately returned . [SEP] 
+SENTENCE2 - A message left with Spitzer 's office as well as Citigroup and Goldman Sachs were not immediately returned .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_251,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - From July 1 , 2002 , to June 30 , 2003 , the organization said it spent $ 114.3 million but took in only $ 39.5 million . [SEP] 
+SENTENCE2 - Between July 1 , 2002 and June 30 , 2003 , the Red Cross spent $ 114 million on disaster relief , while taking in only $ 39.5 million .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_274,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - In December , he anticipated growth of 5.3 percent to nearly $ 154 billion . [SEP] 
+SENTENCE2 - In December , he had predicted a 5 percent growth rate .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_299,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Gov. Linda Lingle and members of her staff were at the Navy base and watched the launch . [SEP] 
+SENTENCE2 - Gov. Linda Lingle and other dignitaries are scheduled to be at the base to watch the launch .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_325,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Three-year-old Jaryd Atadero vanished on Oct. 2 , 1999 while on a hiking trip with a church group . [SEP] 
+SENTENCE2 - He was on a hiking trip that day with a church group .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_349,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The Securities and Exchange Commission yesterday said companies trading on the biggest U.S. markets must win shareholder approval before granting stock options and other stock-based compensation plans to corporate executives . [SEP] 
+SENTENCE2 - Companies trading on the biggest stock markets must get shareholder approval before granting stock options and other equity compensation under rules cleared yesterday by the Securities and Exchange Commission .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_352,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Tenet has been under scrutiny since November , when former Chief Executive Jeffrey Barbakow said the company used aggressive pricing to trigger higher payments for the sickest Medicare patients . [SEP] 
+SENTENCE2 - In November , Jeffrey Brabakow , the chief executive at the time , said the company used aggressive pricing to get higher payments for the sickest Medicare patients .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_416,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Meanwhile , rival contender , General Electric 's NBC , submitted a letter of interest , a source familiar with the matter said . [SEP] 
+SENTENCE2 - Other contenders included General Electric 's GE.N NBC , which submitted a letter of interest , a source familiar with the matter said .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_418,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Crossing Jordan will be back in January after star Jill Hennessy gives birth . [SEP] 
+SENTENCE2 - NBC also plans to shelve Crossing Jordan until January as star Jill Hennessy has her first child .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_552,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - He acted as an international executive producer on Who Wants to be a Millionaire and The Weakest Link . [SEP] 
+SENTENCE2 - A Melbourne TV producer who worked on shows including Who Wants To Be a Millionaire ?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_611,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - It forecast 445 billion yen in loan-loss charges for the year ending next March . [SEP] 
+SENTENCE2 - The bank booked 820 billion yen in loan-loss charges compared with 1.9 trillion yen a year ago .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_645,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Holden toured Northmoor , a small town in Platte County , Mo . , where between 25 and 30 homes were either damaged or destroyed . [SEP] 
+SENTENCE2 - Mr. Holden toured Northmoor , where between 25 and 30 homes were either damaged or destroyed and the town hall and police station also were damaged .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_672,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" I am happy to be here in the United States , far away from the clutches of the tyrant Castro , "" Wilson said through a Spanish interpreter . [SEP] 
+SENTENCE2 - "" I am very happy to be here in the United States far away from the clutches of the tyrant Castro , "" Wilson told the judge .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_750,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - There are now 37 active probable cases in the GTA , compared with 70 cases on June 6 . [SEP] 
+SENTENCE2 - And , globally , the number of active probable cases has declined to 573 .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_816,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - About 1,417 schools statewide receive Title I money . [SEP] 
+SENTENCE2 - That applies only to schools that get federal Title I money .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_869,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" Spring has arrived in Estonia -- we 're back in Europe , "" Prime Minister Juhan Parts told a news conference on Sunday . [SEP] 
+SENTENCE2 - "" Spring has arrived in Estonia - we 're back in Europe , "" Juhan Parts , prime minister , told a news conference last night .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_952,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The total for the Johnny Depp swashbuckler rose to $ 232.8 million . [SEP] 
+SENTENCE2 - Its cumulative total is $ 232.8 million , heading for $ 275 million .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_992,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - DeVries did make one stop in town Wednesday - registering as a sex offender at the Soledad Police Department . [SEP] 
+SENTENCE2 - Convicted child molester Brian DeVries spoke out in response to community outrage Wednesday afternoon after registering as a sex offender at the Soledad Police Department .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1079,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Each count has a maximum penalty of 10 years in prison and $ 1 million fine . [SEP] 
+SENTENCE2 - Both executives face up to 10 years in prison and a $ 1 million fine for securities fraud .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1124,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - At his request , he will be reassigned within the district . [SEP] 
+SENTENCE2 - District Superintendent J. Chester Floyd told reporters Monday that McCrackin will be reassigned within the district .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1158,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - It will cost about $ 20,000 per eight-week course of treatment , comparable to other injected cancer therapies , a spokeswoman said . [SEP] 
+SENTENCE2 - It will cost about $ 20,000 per average course of treatment -16 to 17 weeks .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1173,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The chief merchandising officer decides what the store is going to sell , giving it a signature to attract shoppers and hopefully lure them back . [SEP] 
+SENTENCE2 - The chief merchandising officer decides what the store is going to sell , giving it that signature that draws in shoppers and brings them back again and again .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1201,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Illinois State Police accident reconstruction experts were investigating the cause . [SEP] 
+SENTENCE2 - State Police were investigating , Vazzi said .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1220,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - It was expected to raise the $ 90 million McGreevey expected . [SEP] 
+SENTENCE2 - The tax is expected to raise $ 90 million .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1228,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" I have heard the people of New York say , ' Enough is enough , ' "" Pataki said . "" [SEP] 
+SENTENCE2 - "" I have every reason to believe that people understand enough is enough , "" Mr. Pataki said .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1276,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Privately-held GeCAD Software , founded in 1992 , has supplied antivirus and security products since 1994 under the name RAV AntiVirus . [SEP] 
+SENTENCE2 - GeCAD , founded in 1992 and based in Bucharest , provides anti-virus , anti-spam and content-filtering products under the name RAV AntiVirus .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1298,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Idaho Gem also is the first sterile animal to be cloned . [SEP] 
+SENTENCE2 - "" He is the first and only cloned sterile hybrid . ""<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1361,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The euro < EUR = > was up 0.67 percent against the dollar at $ 1.1784 after rising to a three-month high earlier in the session above $ 1.18 . [SEP] 
+SENTENCE2 - In early U.S. trading , the euro < EUR = > was down 0.6 percent to $ 1.1741 , after rising to a four-month high of $ 1.1860 .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1462,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Culturecom is confident it will make a significant impact on market share with this new development , "" Frank Cheung , chairman of Culturecom , said in a statement . [SEP] 
+SENTENCE2 - He added : "" Culturecom is confident it will make a significant impact on market share with this new development . ""<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1496,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - His 1996 Chevrolet Tahoe was found abandoned June 25 in a Virginia Beach , Va . , parking lot . [SEP] 
+SENTENCE2 - His sport utility vehicle was found June 25 , abandoned without its license plates in Virginia Beach , Va .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1561,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - AN artist has infuriated New Yorkers by painting a sign reading "" CAUTION Low Flying Planes "" on a building near Ground Zero . [SEP] 
+SENTENCE2 - An artist painted a sign reading ``CAUTION Low Flying Planes ' ' on a building near ground zero , angering neighbors and stirring complaints .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1565,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Officials with North Carolina Speedway at Rockingham could not be reached . [SEP] 
+SENTENCE2 - NASCAR officials could not be reached for comment Tuesday .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1774,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - At a news conference on Staten Island , U.S. Attorney Roslynn Mauskopf announced she would be taking over the probe from District Attorney William Murphy . [SEP] 
+SENTENCE2 - On Friday , U.S. Attorney Roslynn Mauskopf said she would take over the probe from District Attorney William Murphy .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1790,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The California Farm Bureau did not immediately return calls seeking comment . [SEP] 
+SENTENCE2 - The California Farm Bureau did not immediately have an official response to Tuesday 's ruling .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1824,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Only 66 years old , Brooks was killed on Monday , Aug. 11 , 2003 in an automobile accident in his native Minnesota . [SEP] 
+SENTENCE2 - When Brooks was killed in an automobile accident Monday in Minnesota , Taylor lost a good friend .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1857,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - A $ 5 billion dollar-denominated portion has seen about $ 19 billion of bids , investors said . [SEP] 
+SENTENCE2 - A $ 5 billion dollar-denominated portion from GM drew about $ 21 billion of bids , an analyst looking at the deal said .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1890,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Yesterday , two Japanese diplomats were killed in an apparent ambush near Tikrit , 175 kilometres north of the capital . [SEP] 
+SENTENCE2 - Two Japanese diplomats were also killed in an ambush near Tikrit , according to the Japanese Foreign Ministry .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1935,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" People just love e-mail , and it really bothers them that spam is ruining such a good thing , "" said Deborah Fallows , the Pew researcher who wrote the report . [SEP] 
+SENTENCE2 - "" People just love e-mail , and it really bothers them that spam is ruining such a good thing , "" said Deborah Fallows , senior research fellow with the Pew project .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1963,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The greenback scored beefy gains against the euro , yen and Swiss franc despite weaker-than-expected September U.S. retail sales figures . [SEP] 
+SENTENCE2 - The dollar gained against the euro , yen and Swiss franc after September U.S. retail sales figures came in slightly weaker than consensus forecasts .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2058,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - But Abraham said changes in air-pollution rules would be up to the Environmental Protection Agency ( EPA ) . [SEP] 
+SENTENCE2 - Changes in air pollution rules would be up to the Environmental Protection Agency .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2065,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - He found that men who had ejaculated more than five times a week in their 20s were a third less likely to develop aggressive prostate cancer later in life . [SEP] 
+SENTENCE2 - Those who ejaculated more than five times a week were a third less likely to develop serious prostate cancer in later life .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2136,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Dotson admitted to FBI agents that he shot Dennehy in the head "" because Patrick had tried to shoot him , "" according to an arrest warrant released Tuesday . [SEP] 
+SENTENCE2 - According to an arrest warrant released Tuesday , Dotson admitted to FBI agents that he shot Dennehy in the head "" because Patrick had tried to shoot him . ""<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2143,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Peterson is charged with two counts of murder in the deaths of his wife and unborn son . [SEP] 
+SENTENCE2 - Peterson , 30 , is awaiting trial on two counts of murder for the deaths of his wife , Laci , and their unborn son .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2329,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" I am unaware of any genuine entries concerning British servicemen in the police records , "" said a spokesman for the British High Commission in Nairobi yesterday . [SEP] 
+SENTENCE2 - "" I am therefore unaware of any genuine entries concerning rapes by British servicemen in police records , "" the spokesman said .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2337,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The final chapter in the trilogy , The Matrix Revolutions , is out in November . [SEP] 
+SENTENCE2 - The third and final film , "" The Matrix Revolutions , "" will be released in November .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2409,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Their election increases the board from seven people to nine . [SEP] 
+SENTENCE2 - Their appointments increase Berkshire 's board to nine from seven members .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2411,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Fourteen of those infected passengers sat within four seats of the SARS patient and two were flight attendants , said Mike Ryan , WHO 's global coordinator for anti-SARS efforts . [SEP] 
+SENTENCE2 - Of those , 14 were passengers sitting within four seats of the SARS patient and two were flight attendants , Ryan said .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2640,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - He reiterated Schroder 's statement last week that Berlin would consider sending peacekeepers to Iraq only if requested by an interim Iraqi government or the United Nations under a U.N. mandate . [SEP] 
+SENTENCE2 - German Chancellor Gerhard Schroeder said last week that Berlin will consider sending peacekeepers only if requested by an interim Iraqi government or the United Nations .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2643,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" They were an inspirational couple , selfless and courageous , "" said the Oscar-winning film director . [SEP] 
+SENTENCE2 - He said : “ They were an inspirational couple , selfless and courageous .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2694,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - In Virginia , Mr. Kilgore , a Republican , accused the court of undermining "" Virginia 's right to pass legislation that reflects the views and values of our citizens . "" [SEP] 
+SENTENCE2 - The Virginia attorney-general , Jerry Kilgore , accused the Supreme Court of undermining "" Virginia 's right to pass legislation that reflects the views and values of our citizens "" .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2711,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - For the year , Marvell expects revenue of $ 760 million to $ 790 million . [SEP] 
+SENTENCE2 - Marvell Technology also reported revenue of $ 168.3 million , exceeding the First Call estimate of $ 162.6 million .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2748,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The main change , said Jim Walton , CNN 's president , is a fundamental shift in the way CNN collects its news . [SEP] 
+SENTENCE2 - The main change , said CNN president Jim Walton , was a fundamental shift in the way the network collected its news .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2881,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Johnsons site is www.katyjohnson .com. Maxs is www.tuckermax.com. [SEP] 
+SENTENCE2 - Ms. Johnson 's site is www.katyjohnson .com. Mr. Max 's is www.tuckermax.com.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2903,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - It was the first speech by a US president to a joint session of the Philippines Congress since 1960 . [SEP] 
+SENTENCE2 - President Bush on Saturday became the first American president to address a joint session of the Philippine National Congress since Dwight Eisenhower in 1960 .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2907,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Jim Eisenbrandt , Wittig 's attorney , also was not available for comment immediately ; his secretary said he was reviewing the report . [SEP] 
+SENTENCE2 - A secretary for James Eisenbrandt , Wittig 's attorney , said Eisenbrandt was reviewing the report this morning .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2916,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" He wasnt like that , except for getting in a couple fights with his dad . [SEP] 
+SENTENCE2 - As far as I know , he wasnt like that , except for getting in a couple fights with his dad . ""<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3054,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - At about 3 p.m. on Friday , a relative of Bondeson called police to report his apparent suicide . [SEP] 
+SENTENCE2 - Two hours later , at 3 : 22 p.m. , a relative contacted police to report a suicide .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3128,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The indictment charges that Mzoudi was involved in preparations for the attack until the end and was aware of and supported the attackers ' violent goals . [SEP] 
+SENTENCE2 - Prosecutors say Mzoudi was involved in the preparations for the attack until the final moment and that he was aware of and supported the attackers ' violent goals .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3182,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Horn remained in critical but stable condition Monday , the hospital said . [SEP] 
+SENTENCE2 - The illusionist remained in critical condition Monday with a gaping wound to the neck .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3274,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The company claims it 's the largest single Apple VAR Xserve sale to date . [SEP] 
+SENTENCE2 - The company claimed it is the largest sale of Xserves by an Apple retailer .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3287,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - On the Mediterranean coast of neighboring Turkey , Iraqi , U.S. and Turkish officials gathered in the port of Ceyhan for a ceremony launching the shipment . [SEP] 
+SENTENCE2 - In neighboring Turkey , Iraqi , U.S. and Turkish officials gathered at the Mediterranean port of Ceyhan for a ceremony launching the shipment .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3292,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" Only 1pc of those taking the drug worldwide have contracted ILD as a result , "" she said . [SEP] 
+SENTENCE2 - AstraZeneca says just 1pc of people of those taking the drug worldwide have suffered serious consequences .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3295,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" I 'm not aware of any changes in policy - we have contacts with them , they will continue . "" [SEP] 
+SENTENCE2 - "" Our policies are well-known and I 'm not aware of any changes in policy .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3412,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Among the proposals is one for Zimbabwe to have the opportunity to rejoin the 54-member body before the next CHOGM meeting in two years . [SEP] 
+SENTENCE2 - Among the proposals being considered is for Zimbabwe to have the opportunity to rejoin the 54-member body before the next Commonwealth Heads of Government meeting in two years .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3536,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - He also wrote the state was right to execute a search warrant at the store . [SEP] 
+SENTENCE2 - He said he had told the state police to execute a search warrant but stop if they encountered resistance .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3563,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The charges came after the federal government prohibited the sheik from speaking with the media and imposed special measures restricting his access to mail , the telephone and visitors . [SEP] 
+SENTENCE2 - The charges came after the federal government imposed special administrative measures restricting the sheik 's access to mail , the telephone and visitors and prohibiting him from speaking with the media .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3591,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Senate President Pro Tempore Robert D. Garton , R-Columbus , said he spoke with Kernan not long before the oath of office ceremony . [SEP] 
+SENTENCE2 - Senate President Pro Tempore Robert D. Garton , R-Columbus , said he 'll miss the governor 's civility most .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3609,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - US Special Forces troops are training Colombian soldiers at military bases in the region to protect the pipeline , which transports crude from Colombia 's second-biggest oil field . [SEP] 
+SENTENCE2 - U.S. Special Forces troops are training Colombian soldiers at military bases in the region to protect the pipeline .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3631,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Trevor Fetter , who returned to Tenet as president last November , has been appointed as acting CEO , the company said . [SEP] 
+SENTENCE2 - The board has appointed Trevor Fetter , who returned to the company as president last November , as acting CEO .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3639,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - On Monday the Palestinian Prime Minister , Mahmoud Abbas , will report to the Palestinian parliament on his Government 's achievements in its first 100 days in office . [SEP] 
+SENTENCE2 - Palestinian Prime Minister Mahmoud Abbas must defend the record of his first 100 days in office before Parliament today as the death toll in the occupied territories continues to rise .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_36,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Consumers who said jobs are difficult to find jumped from 29.4 to 32.6 , while those claiming work was plentiful slipped from 13 to 12.6 . [SEP] 
+SENTENCE2 - Consumers who said jobs are difficult to find jumped to 32.6 from 29.4 , while those saying work was plentiful slipped to 12.6 from 13 in April .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_46,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - McCabe said he was considered a witness , not a suspect . [SEP] 
+SENTENCE2 - "" He is not considered a suspect , "" McCabe said .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_76,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" If we don 't march into Tehran , I think we will be in pretty good shape , "" he said . [SEP] 
+SENTENCE2 - "" As long as we don 't march on Tehran , I think we are going to be in pretty good shape , "" he said .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_79,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - On Saturday , a 149mph serve against Agassi equalled Rusedski 's world record . [SEP] 
+SENTENCE2 - On Saturday , Roddick equalled the world record with a 149 m.p.h. serve in beating Andre Agassi .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_80,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - University of Michigan President Mary Sue Coleman said in a statement on the university 's Web site , "" Our fundamental values haven 't changed . [SEP] 
+SENTENCE2 - "" Our fundamental values haven 't changed , "" Mary Sue Coleman , president of the university , said in a statement in Ann Arbor .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_88,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The United States finally relented during President Bush 's visit to Africa earlier this month . [SEP] 
+SENTENCE2 - During President Bush 's trip to Africa earlier this month , however , Washington said it would support the increase .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_108,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Today , analysts say , UN members can no longer ignore the shifts since the September 11 2001 attacks . [SEP] 
+SENTENCE2 - On Wednesday , analysts say , UN members can no longer ignore the shifts since the attacks in the US of September 11 2001 .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_124,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Broomhead was assigned to 2nd Squadron , 3rd Armor Cavalry Regiment , based at Fort Carson . [SEP] 
+SENTENCE2 - Broomhead , 34 , was assigned to the 2nd Squadron , 3rd Armored Cavalry Regiment .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_148,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - "" This deal makes sense for both companies , "" said National Chief Executive Brian Halla . [SEP] 
+SENTENCE2 - "" This deal makes sense for both companies , "" Halla said in a prepared statement .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_156,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - They were being held Sunday in the Camden County Jail on $ 100,000 bail . [SEP] 
+SENTENCE2 - They remained in Camden County Jail on Sunday on $ 100,000 bail .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_165,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - November 17 's last victim was British defence attache Stephen Saunders , who was shot on an Athens road in June 2000 . [SEP] 
+SENTENCE2 - November 17 's last victim was British defense attache Stephen Saunders , who was shot and killed at point-blank range on a busy Athens road in June 2000 .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_173,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Columbia broke up over Texas upon re-entry on Feb. 1 . [SEP] 
+SENTENCE2 - Columbia broke apart in the skies above Texas on Feb. 1 .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_195,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Citigroup Inc . C.N , the world 's largest financial services company , on Wednesday promoted Marjorie Magner to chairman and chief executive of its global consumer group . [SEP] 
+SENTENCE2 - Citigroup ( C ) on Wednesday named Marjorie Magner chairman and chief executive of its colossal global consumer business .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_242,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - Sony claimed that the reader 's capacitance sensing technology cannot be fooled by paper copies and does not require cleaning . [SEP] 
+SENTENCE2 - Its capacitance sensing technology electronically reads a fingerprint ; Sony says it can 't be fooled by paper copies and doesn 't require cleaning .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_310,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - The show 's closure affected third-quarter earnings per share by a penny . [SEP] 
+SENTENCE2 - The company said this impacted earnings by a penny a share .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_312,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - He replaces Ron Dittemore , who announced his resignation in April . [SEP] 
+SENTENCE2 - Dittemore announced his plans to resign on April 23 .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_369,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - GE stock closed Friday at $ 30.65 a share , down about 42 cents , on the New York Stock Exchange . [SEP] 
+SENTENCE2 - GE 's shares closed at $ 30.65 on Friday on the New York Stock Exchange .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_382,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - In the United States , heart attacks kill about 460,000 year , in Canada about 80,000 . [SEP] 
+SENTENCE2 - In the United States , heart attacks kill about 460,000 yearly , according to the National Institutes of Health .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_385,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a sentence pair, formatted as ""SENTENCE1 - sentence1 [SEP] SENTENCE2 - sentence2"".
+Return 1 if the two sentences are semantically equivalent, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+SENTENCE1 - They note that after several weeks of rallies on upbeat earnings , investors are looking for stronger evidence of a recovery before sending stocks higher . [SEP] 
+SENTENCE2 - After several weeks of market rallies on upbeat earnings , many investors are looking for more concrete signs of an economic recovery .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_389,train+valid

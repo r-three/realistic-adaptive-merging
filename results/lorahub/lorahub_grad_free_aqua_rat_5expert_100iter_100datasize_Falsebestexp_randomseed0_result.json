@@ -1,0 +1,19 @@
+{
+    "task": "aqua_rat",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.3,
+    "test_accuracy": 0.24015748031496062,
+    "weights": [
+        0.5783345976081362,
+        0.2882925096421714,
+        1.2781535165350966,
+        1.112943568747222,
+        -0.47405976362037844
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "task": "glue_cola",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_glue_cola",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task",
+        "aleegis10/8ed9fe91-c2b5-42ca-8efb-927b4c8fbf45",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-acctree-16k-75-adapter-new",
+        "clembench-playpen/Llama-3-Clembench-Runs-Successful-Episodes_Top_10_Models_Individual_QA_adapted_image_game"
+    ],
+    "valid_accuracy": 0.75,
+    "test_accuracy": 0.8130841121495327,
+    "weights": [
+        1.0661710908234094,
+        0.3451438096343518,
+        0.4237084439654917,
+        0.06393572979053165,
+        -0.00581152181160137,
+        0.17980695454959528,
+        0.02565130815575916,
+        0.08329666405125191,
+        0.7172896658230445,
+        -0.1413767071623115
+    ]
+}

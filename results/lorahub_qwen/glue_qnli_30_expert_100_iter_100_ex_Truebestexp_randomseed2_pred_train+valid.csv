@@ -1,0 +1,1201 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - There was as yet no model for what should happen if a king refused to do so. [SEP] 
+QUESTION - What did John suffer from?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1577,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Agriculture in Portugal is based on small to medium-sized family-owned dispersed units. [SEP] 
+QUESTION - What types of crops does Portugal produce?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2856,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The report also notes Draža Mihailović's impressions of Tito's Russian origins. [SEP] 
+QUESTION - What other Slavic languages did the Cryptologic Spectrum conclude Tito spoke?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3585,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - 83% of the total population adheres to Christianity, making it the most common religion in Swaziland. [SEP] 
+QUESTION - Who is the Anglican Bishop of Swaziland?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4019,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Instead they extract more nutrition from grass by giving their food a second pass through the gut. [SEP] 
+QUESTION - What is the practive of coprophagia behaviours?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5097,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Other parts of the city were affected by the construction of Interstate 95 along the Long Wharf section, Interstate 91, and the Oak Street Connector. [SEP] 
+QUESTION - What area of New Haven was Route 34 originally intended to service?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7021,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - As of March 2012, the Somali authorities have re-established Somalia's membership with the Universal Postal Union (UPU), and taken part once again in the Union's affairs. [SEP] 
+QUESTION - How many phases made up the reconstruction plan for the Somali Post?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9738,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The second truth is that the origin of dukkha can be known. [SEP] 
+QUESTION - How is the meaning of Dukkha explained?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_11255,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The precise content of the vinayapitaka (scriptures on Vinaya) differs slightly according to different schools, and different schools or subschools set different standards for the degree of adherence to Vinaya. [SEP] 
+QUESTION - How many rules dows the patimokkha have?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_11601,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In addition to the Vedas, the principal texts of Hinduism, the core themes of the Sanskrit epics Ramayana and Mahabharata are said to have their ultimate origins during this period. [SEP] 
+QUESTION - In what language were the Vedas ?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12352,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - At 2.7 million in 2012, New York's non-Hispanic white population is larger than the non-Hispanic white populations of Los Angeles (1.1 million), Chicago (865,000), and Houston (550,000) combined. [SEP] 
+QUESTION - How many non-Hispanic whites lived in New York City in 2012?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14894,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The two men could not come to any agreement due to their disputation over one key doctrine. [SEP] 
+QUESTION - What did the Colloquy of Marburg become infamous for?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15436,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - This diverse cuisine was honed in the Imperial Palace's kitchens by chefs brought from certain parts of the Empire to create and experiment with different ingredients. [SEP] 
+QUESTION - What did the chefs ingredients in the Imperial Palace's kitchens?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_17227,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In 1936, Studio Misr, financed by industrialist Talaat Harb, emerged as the leading Egyptian studio, a role the company retained for three decades. [SEP] 
+QUESTION - Who financed Studio Misr?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17821,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In parliamentary systems fashioned after the Westminster system, the prime minister is the presiding and actual head of government and head of the executive branch. [SEP] 
+QUESTION - What is a parliamentary model on which other systems have been based?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_19008,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Also, Catalan has final obstruent devoicing, thus featuring many couplets like amic ""(male friend"") vs. amiga (""female friend""). [SEP] 
+QUESTION - What other type of endings do Catalan words have?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_19544,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The politics pursued by the administrations of heads of government in Mexico City since the second half of the 20th century have usually been more liberal than those of the rest of the country, whether with the support of the federal government—as was the case with the approval of several comprehensive environmental laws in the 1980s—or through laws recently approved by the Legislative Assembly. [SEP] 
+QUESTION - What political leaning does Mexico City take?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_19631,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Their hiatus saw the release of Beyoncé's debut album, Dangerously in Love (2003), which established her as a solo artist worldwide, earned five Grammy Awards and featured the Billboard Hot 100 number-one singles ""Crazy in Love"" and ""Baby Boy"". [SEP] 
+QUESTION - When did Beyonce leave Destiny's Child and become a solo singer?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_21502,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Following Plato, even the abstract concept of a featureless void faced considerable skepticism: it could not be apprehended by the senses, it could not, itself, provide additional explanatory power beyond the physical volume with which it was commensurate and, by definition, it was quite literally nothing at all, which cannot rightly be said to exist. [SEP] 
+QUESTION - What was historically disputed about vacuums?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_21687,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Progress on the return stalled, and no announcements were made regarding the future of the league. [SEP] 
+QUESTION - How long after the shuttering of the Avengers did the league fail to ratify the new collective bargaining agreement?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_21720,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Ryan Seacrest returns as host, with Harry Connick Jr., Keith Urban, and Jennifer Lopez all returning for their respective third, fourth, and fifth seasons as judges. [SEP] 
+QUESTION - When did Fox announce that Season 15 would be the final season?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_22072,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Rosell signed David Villa from Valencia for €40 million and Javier Mascherano from Liverpool for €19 million. [SEP] 
+QUESTION - How much did Barcelona pay to sign  David Villa?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_23040,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Many social codes are broken by people in symbolic courtrooms: Mr. Dolphus Raymond has been exiled by society for taking a black woman as his common-law wife and having interracial children; Mayella Ewell is beaten by her father in punishment for kissing Tom Robinson; by being turned into a non-person, Boo Radley receives a punishment far greater than any court could have given him. [SEP] 
+QUESTION - What is another name for Scout's pink cotton penitentiary?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_25036,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The period saw several important technical innovations, like the principle of linear perspective found in the work of Masaccio, and later described by Brunelleschi. [SEP] 
+QUESTION - What was achieved though the use of the scientific study of anatomy in the field of art?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_26420,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The outer series (calyx of sepals) is usually green and leaf-like, and functions to protect the rest of the flower, especially the bud. [SEP] 
+QUESTION - What appearance are calyx of sepals typically?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_26605,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Sirri Amer was close to King Farouk, and was nominated for the presidency of the Officer's Club— [SEP] 
+QUESTION - Who was nominated to the presidency of the Officer's Club?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_28669,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The former four groups were included on the Eno-produced No New York compilation, often considered the quintessential testament to the scene. [SEP] 
+QUESTION - When was ZE Records founded?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_28696,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The board first approved ""Eliot Seminary,"" but William Eliot was uncomfortable with naming a university after himself and objected to the establishment of a seminary, which would implicitly be charged with teaching a religious faith. [SEP] 
+QUESTION - What was one of the names that was initially considered for Washington University in St. Louis?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_28981,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Also, the highest object of worship is Krishna and his consort Radha, attended by thousands of gopis; of the Vrindavan; and devotion consists in self-surrender. [SEP] 
+QUESTION - Who is named as the highest entity worshiped in Dvaitadvaita?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_29344,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Insectivorous insects, or insects which feed on other insects, are beneficial to humans because they eat insects that could cause damage to agriculture and human structures. [SEP] 
+QUESTION - Insectivorous insects are beneficial or harmful to humans?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_32253,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Arguably the favorite food is khorovats an Armenian-styled barbecue. [SEP] 
+QUESTION - What is paklava?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_33678,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - When Vasco da Gama bypassed Ottoman controlled routes and established direct trade links with India in 1498, and Christopher Columbus first journeyed to the Bahamas in 1492, the Ottoman Empire was at its zenith. [SEP] 
+QUESTION - When did Christopher Columbus sail to the Bahamas?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_35200,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Vinyl records can be warped by heat, improper storage, exposure to sunlight, or manufacturing defects such as excessively tight plastic shrinkwrap on the album cover. [SEP] 
+QUESTION - What causes warping in vinyl records?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_35402,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - This campaign is known as ""The Race to the Dan"" or ""The Race for the River."" [SEP] 
+QUESTION - What is another name for the race to the Dan?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_37557,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The Senate of Bolivia passed a resolution stating that Humanae vitae could be discussed in its implications for individual consciences, but was of greatest significance because the papal document defended the rights of developing nations to determine their own population policies. [SEP] 
+QUESTION - Who was president of the World Bank in 1968?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_39019,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - After commissioning, officers undergo branch specific training at the Basic Officer Leaders Course, (formerly called Officer Basic Course), which varies in time and location according their future assignments. [SEP] 
+QUESTION - Where do the officers go to complete their branch specific training?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_39570,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - A comparison of the genes of M. tuberculosis complex (MTBC) in humans to MTBC in animals suggests humans did not acquire MTBC from animals during animal domestication, as was previously believed. [SEP] 
+QUESTION - In which U.S. state was the oldest definitive evidence of TB found?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_39745,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Market strategist Phil Dow believes distinctions exist ""between the current market malaise"" and the Great Depression. [SEP] 
+QUESTION - Who is the market strategist that believes distinctions exist between the current crisis and the Great Depression?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_40475,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - A King and Queen of J'ouvert are chosen, based on their witty political/social messages. [SEP] 
+QUESTION - How are the King and Queen of J'ouvert chosen?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_41931,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Along with two other complex machines, the doll is at the Musée d'Art et d'Histoire of Neuchâtel, Switzerland, and still operates. [SEP] 
+QUESTION - Where is the doll Pierre Jaquet-Droz built today?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_43832,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In 2012, the state elected a Republican Governor (Pat McCrory) and Lieutenant Governor (Dan Forest) for the first time in more than two decades, while also giving the Republicans veto-proof majorities in both the State House of Representatives and the State Senate. [SEP] 
+QUESTION - Who won North Carolinas 7th congressional district seat in 2014?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_48056,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - From its initial principal of $734,000, the fund has grown to $50 billion as a result of oil royalties and capital investment programs. [SEP] 
+QUESTION - How high has the principal of the Permanent Fund grown?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_51462,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - By the Middle Ages, large numbers of Jews lived in the Holy Roman Empire and had assimilated into German culture, including many Jews who had previously assimilated into French culture and had spoken a mixed Judeo-French language. [SEP] 
+QUESTION - What happened to the Jews during the crusades?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_53117,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In the former Soviet Union, about 9,300 Jehovah's Witnesses were deported to Siberia as part of Operation North in April 1951. [SEP] 
+QUESTION - Of the 20,000 Jehovah's Witnesses in Germany in 1933, how many were later imprisoned?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_55532,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The National Autonomous University of Mexico (UNAM), located in Mexico City, is the largest university on the continent, with more than 300,000 students from all backgrounds. [SEP] 
+QUESTION - What worldwide ranking does UNAM hold?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_55835,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - A successful landing in gymnastics is classified as soft, meaning the knee and hip joints are at greater than 63 degrees of flexion. [SEP] 
+QUESTION - What is a successful landing?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_56755,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Under Cruyff's guidance, Barcelona won four consecutive La Liga titles from 1991 to 1994. [SEP] 
+QUESTION - How many consecutive La Liga titles did Barcelona win from 1991-94?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_57124,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The order also established the President's Committee on Equal Employment Opportunity (PCEEO), chaired by Vice President Lyndon B. Johnson. [SEP] 
+QUESTION - What does PCEEO stand for?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_58006,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Von Neumann provided an abstract exploration of dimension in completed complemented modular topological lattices: ""Dimension is determined, up to a positive linear transformation, by the following two properties. [SEP] 
+QUESTION - Who wrote that ""John von Neumann's brilliant mind blazed over lattice theory like a meteor?""<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_59018,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - With leadership by members of the antebellum free black community, historian Melinda Meeks Hennessy described the community as ""unique"" in being able to defend themselves without provoking ""massive white retaliation"", as occurred in numerous other areas during Reconstruction. [SEP] 
+QUESTION - How many major riots between blacks and whites occurred in Charleston in 1876?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_59482,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - By summer of 2003, Howard Dean had become the apparent front runner for the Democratic nomination, performing strongly in most polls and leading the pack with the largest campaign war chest. [SEP] 
+QUESTION - Dean's admiration for internet campaigning accredited his strength as what?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_60570,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - South Indian mathematics flourished under the protection of the Vijayanagara Empire in Kerala. [SEP] 
+QUESTION - What mathematician founded the Kerala school of astronomy?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_62219,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Mexico City remains the only Latin American city to host the Olympic Games, having held the Summer Olympics in 1968, winning bids against Buenos Aires, Lyon and Detroit. [SEP] 
+QUESTION - Which American city did Mexico City defeat to host the 1968 olympics?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_62809,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - While the power to withhold royal assent was once exercised often in European monarchies, it is exceedingly rare in the modern, democratic political atmosphere that has developed there since the 18th century. [SEP] 
+QUESTION - Is usage of the royal assent frequent or rare in today's societies?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_67614,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Still, in February 1941, there remained only seven squadrons with 87 pilots, under half the required strength. [SEP] 
+QUESTION - How many pilots remained in February 1941?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_69339,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In 1955, von Neumann was diagnosed with what was either bone or pancreatic cancer. [SEP] 
+QUESTION - How long did von Neumann survive with cancer?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_69969,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In 1957, a husky-terrier mix named Laika became the first animal to orbit the Earth. [SEP] 
+QUESTION - What breed was Laika?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_71120,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Keeping the Ming capital and bureaucracy intact helped quickly stabilize the regime and sped up the conquest of the rest of the country. [SEP] 
+QUESTION - Why did Dorgon keep Beijing as his capital?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_71136,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Two serious medical conditions particularly affecting dogs are pyometra, affecting unspayed females of all types and ages, and bloat, which affects the larger breeds or deep-chested dogs. [SEP] 
+QUESTION - Who does pyometra affect?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_75933,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Jhanas are also states that Arahants abide in order to rest. [SEP] 
+QUESTION - What is the term for insight knowledge?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_76967,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Through his campaign account and his political action committee, the Kerry campaign operation generated more than $10 million for various party committees and 179 candidates for the U.S. House, Senate, state and local offices in 42 states focusing on the midterm elections during the 2006 election cycle. "" [SEP] 
+QUESTION - Which election did Kerry's PAC focus on?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_77178,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Months later, West and fiancée Alexis Phifer ended their engagement and their long-term intermittent relationship, which had begun in 2002. [SEP] 
+QUESTION - What was the name of Kanye's ex-fiance?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_77298,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In comparison, the 2010 Census Redistricting Data indicated that the racial makeup of the city was 661,839 (43.4%) [SEP] 
+QUESTION - What is the percent of whites?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_78383,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Remediation and testing are ongoing, however according to city officials, tests show that the water is safe to drink. [SEP] 
+QUESTION - How long did IBM use liquid cleaning agents for circuit board manufacturing?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_80242,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The uranium-based Little Boy device became the first nuclear weapon used in war when it was detonated over the Japanese city of Hiroshima on 6 August 1945. [SEP] 
+QUESTION - What was the codename of the plutonium-based bomb created in the Second World War?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_80557,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - But 23 years later in 1989 the Convention on the Rights of Children was adopted and helped to reduce the exploitation of children and demanded safe working environments. [SEP] 
+QUESTION - When were safe working environments legislation adopted for child labourers?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_81067,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - However, a chance meeting in 1874 between Bell and Thomas A. Watson, an experienced electrical designer and mechanic at the electrical machine shop of Charles Williams, changed all that. [SEP] 
+QUESTION - Who ran the Smithsonian in 1875?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_83193,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The stability of the atmosphere above the desert prevents any convective overturning, thus making rainfall virtually non-existent. [SEP] 
+QUESTION - Where is the air the strongest?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_84340,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Justin Martyr (100–165) explicitly says the cross of Christ was of two-beam shape: ""That lamb which was commanded to be wholly roasted was a symbol of the suffering of the cross which Christ would undergo. [SEP] 
+QUESTION - Who says with certainty that the cross was made out of two beams?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_84795,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The theory of special relativity finds a convenient formulation in Minkowski spacetime, a mathematical structure that combines three dimensions of space with a single dimension of time. [SEP] 
+QUESTION - Minkowski spacetime combines the three dimensions of space with what?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_85542,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - A further rebuttal might be that NPOs are constrained, by their choice of legal structure, from financial benefit as far as distribution of profit to its members/directors is concerned. [SEP] 
+QUESTION - What are the two top types of NPOs?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_88941,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Another great building established by Galla Placidia was the church of San Giovanni Evangelista. [SEP] 
+QUESTION - What other famous landmark in Ravenna was established by Galla Placidia?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_89559,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Puerto Rico has been under U.S. sovereignty for over a century when it was ceded to the U.S. by Spain following the end of the Spanish–American War, and Puerto Ricans have been U.S. citizens since 1917. [SEP] 
+QUESTION - What form of government do the Puerto Ricans have?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_89682,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Plato, in the Timaeus, identified time with the period of motion of the heavenly bodies. [SEP] 
+QUESTION - Aristotle defined time as ""number of movement in respect of the before and after"" in which book?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_90889,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The brain typically gets most of its energy from oxygen-dependent metabolism of glucose (i.e., blood sugar), but ketones provide a major alternative source, together with contributions from medium chain fatty acids (caprylic and heptanoic acids), lactate, acetate, and possibly amino acids. [SEP] 
+QUESTION - Other sources than glucose that provide energy to the brain are what?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_92148,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - It was also reported that safety checks were to be carried out at schools across China after last month's earthquake. [SEP] 
+QUESTION - What investigation are the prosecutors pursuing?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_92450,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The first of these areas was concerned with the ""pre-capitalist"" societies that were subject to evolutionary ""tribal"" stereotypes. [SEP] 
+QUESTION - What do peasants make up the vast majority of in the world?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_96552,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Zhang also invented a seismometer (Houfeng didong yi 候风地动仪) in 132 AD to detect the exact cardinal or ordinal direction of earthquakes from hundreds of kilometers away. [SEP] 
+QUESTION - How many dragons were represented in Zhang Heng's invention of the seismometer?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_103102,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Situated on the southern tip of the Balkan peninsula, it shares land borders with Albania to the northwest, the Republic of Macedonia and Bulgaria to the north and Turkey to the northeast. [SEP] 
+QUESTION - On what peninsula is Greece located?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_103364,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In both of those markets, the corporation's television transmitters are the only ones that were not planned to be converted to digital by the deadline. [SEP] 
+QUESTION - How many of CBC's mandatory transmitters were updated before the deadline?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_103793,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - A fine tribute to the fall of Warsaw and history of Poland can be found in the Warsaw Uprising Museum and in the Katyń Museum which preserves the memory of the crime. [SEP] 
+QUESTION - What museum preserves the memory of the crime?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_39,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The phylum has a wide range of body forms, including the flattened, deep-sea platyctenids, in which the adults of most species lack combs, and the coastal beroids, which lack tentacles and prey on other ctenophores by using huge mouths armed with groups of large, stiffened cilia that act as teeth. [SEP] 
+QUESTION - What do Beriods use as teeth?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_128,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - During the 16th and 17th centuries, in particular at the height of its power under the reign of Suleiman the Magnificent, the Ottoman Empire was a powerful multinational, multilingual empire controlling much of Southeast Europe, Western Asia, the Caucasus, North Africa, and the Horn of Africa. [SEP] 
+QUESTION - The Ottoman empire controlled territory on three continents, Africa, Asia and which other?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_204,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Continuing the style of the earlier buildings, various designers were responsible for the decoration, the terracotta embellishments were again the work of Godfrey Sykes, although sgraffito was used to decorate the east side of the building designed by F. W. Moody, a final embellishment were the wrought iron gates made as late as 1885 designed by Starkie Gardner, these lead to a passage through the building. [SEP] 
+QUESTION - What technique was used to decorate the east side of the building?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_436,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The world watched Annan and his UN-backed panel and African Union chairman Jakaya Kikwete as they brought together the former rivals to the signing ceremony, beamed live on national TV from the steps of Nairobi's Harambee House. [SEP] 
+QUESTION - Who brought together the former rivals at the signing ceremony?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_495,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - When accommodations were made in the Quebec Act in 1774 to address this and other issues, religious concerns were raised in the largely Protestant Thirteen Colonies over the advance of ""popery""; the Act maintained French Civil law, including the seigneurial system, a medieval code soon to be removed from France within a generation by the French Revolution. [SEP] 
+QUESTION - What lands were reserved for natives?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_632,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - and 81st St. A long-time friend and supporter of Tesla, Hugo Gernsback, commissioned a sculptor to create a death mask, now displayed in the Nikola Tesla Museum. [SEP] 
+QUESTION - What had been left hanging on the door to Tesla's room?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1277,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The tallest building in Downtown Jacksonville's skyline is the Bank of America Tower, constructed in 1990 as the Barnett Center. [SEP] 
+QUESTION - How tall is the Bank of America Tower?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1385,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - The design is a subtle blend of the traditional and modern, the layout is formal; there is an elliptical water feature lined in stone with steps around the edge which may be drained to use the area for receptions, gatherings or exhibition purposes. [SEP] 
+QUESTION - Which tree species is planted in the two corners by the north facade?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1759,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Martin Luther (/ˈluːθər/ or /ˈluːðər/; German: [ˈmaɐ̯tiːn ˈlʊtɐ] ( listen); 10 November 1483 – 18 February 1546) was a German professor of theology, composer, priest, former monk and a seminal figure in the Protestant Reformation. [SEP] 
+QUESTION - Of what nationality was Martin Luther?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_1838,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - A July 23, 2006 article in the UK newspaper The Independent reported Woods Hole Research Center results showing that the forest in its present form could survive only three years of drought. [SEP] 
+QUESTION - What organization predicted that the Amazon forest could survive only three years of drought?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_1882,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - It is the inertia of the ball associated with its constant velocity in the direction of the vehicle's motion that ensures the ball continues to move forward even as it is thrown up and falls back down. [SEP] 
+QUESTION - What applies to equally to constant velocity motion as it does to rest.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_2105,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Since the creation of the Doctor [SEP] 
+QUESTION - When was Doctor Who created?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_2121,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Following a break for late local programming, CBS also aired a special episode of The Late Late Show with James Corden. [SEP] 
+QUESTION - What followed the late local programming after Super Bowl 50?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_2627,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In immunology, self molecules are those components of an organism's body that can be distinguished from foreign substances by the immune system. [SEP] 
+QUESTION - What term is shorthand for antibody generators?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_3108,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - William Pitt came to power and significantly increased British military resources in the colonies at a time when France was unwilling to risk large convoys to aid the limited forces it had in New France. [SEP] 
+QUESTION - Where was France concentraing efforts?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_3195,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Some of the oldest schools in South Africa are private church schools that were established by missionaries in the early nineteenth century. [SEP] 
+QUESTION - In what century did missionaries notably establish church schools in South Africa?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_3357,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - A teacher's professional duties may extend beyond formal teaching. [SEP] 
+QUESTION - What would type of studying would require a teacher to take on a supervisor role?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_4814,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - In May 1960, ABC purchased Chicago radio station WLS, which had shared airtime with WENR since the 1920s. [SEP] 
+QUESTION - When did WLS launch a lineup of ABC radio programs?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_5157,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a context sentence and a question, formatted as ""CONTEXT - context [SEP] QUESTION question"".
+Return 0 if the context contains the answer to the question, and 1 if it does not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+CONTEXT - Martin Luther married Katharina von Bora, one of 12 nuns he had helped escape from the Nimbschen Cistercian convent in April 1523, when he arranged for them to be smuggled out in herring barrels. "" [SEP] 
+QUESTION - When did Luther save the group of nuns from the convent?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_5219,train+valid

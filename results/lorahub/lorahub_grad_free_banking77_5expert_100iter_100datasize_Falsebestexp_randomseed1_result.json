@@ -1,0 +1,19 @@
+{
+    "task": "banking77",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task"
+    ],
+    "valid_accuracy": 0.15,
+    "test_accuracy": 0.19577922077922078,
+    "weights": [
+        0.003671360184372016,
+        -0.0188426247956999,
+        -0.008197470638762288,
+        0.3354131282827614,
+        0.518203267943515
+    ]
+}

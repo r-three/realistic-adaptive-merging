@@ -1,0 +1,1001 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+seeking an existent anti-virus <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4503,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+constructed around a core of flimsy -- or , worse yet , nonexistent -- ideas <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4666,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+leave the same way you came -- a few tasty morsels under your belt , but no new friends . <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5072,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+an unusual protagonist ( a kilt-wearing jackson ) and subject matter <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5273,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+knew what the hell was coming next <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6694,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+be an enjoyable choice for younger kids <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7026,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+executed with such gentle but insistent sincerity , with such good humor <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7498,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+leave <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7724,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+just a simple fable done in an artless sytle , <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7804,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+thoughtful war films <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_10952,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+limited chemistry <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_11546,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+byler is too savvy a filmmaker to let this morph into a typical romantic triangle . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_14093,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+compulsively watchable <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_14727,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the characters , cast in impossibly contrived situations <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15201,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+muck <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15587,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+exists , <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_16151,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+modern-day comedies <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_17087,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+wears you down like a dinner guest showing off his doctorate <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_17359,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+small in scope , yet perfectly formed <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_18137,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the picture is constructed around a core of flimsy -- or , worse yet , nonexistent -- ideas <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_23094,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a wry , affectionate delight <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_23230,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+business plans <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_24274,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+damn weird <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_24286,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+his flick-knife diction in the role of roger swanson <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_25017,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+pointed , often tender , <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_25323,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+splendid performances <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_25503,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+from the exoticism of its seas of sand to the fierce grandeur of its sweeping battle scenes <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_25765,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+no charm , no laughs , no fun <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_27923,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+in their own idiosyncratic way , sum up the strange horror of life in the new millennium <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_27956,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+in the simple telling , proves simultaneously harrowing and uplifting <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_28485,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+improves on it , with terrific computer graphics , inventive action sequences and a droll sense of humor <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_29016,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+slack execution <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_29042,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the film has the high-buffed gloss and high-octane jolts you expect of de palma , but what makes it transporting is that it 's also one of the smartest <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_29966,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it 's just weirdness for the sake of weirdness <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_31058,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+seemingly sincere personal reflection <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_31436,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+in a way that 's too loud , too goofy and too short of an attention span <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_34411,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+like a splendid meal <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_34501,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a grating , emaciated flick <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_34912,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+birthday girl does n't try to surprise us with plot twists , but rather seems to enjoy its own transparency . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_35997,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+splatterfests <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_36092,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+for unexpectedly giddy viewing <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_36198,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+serves as a workable primer for the region 's recent history , and would make a terrific 10th-grade learning tool <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_36942,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+is clever and insightful <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_37346,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+mourning in favor of bogus spiritualism <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_38938,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+miracle of miracles , the movie <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_38963,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a remarkable film <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_39775,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a rejected x-files episode than a credible account of a puzzling real-life happening <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_40265,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+not-at-all-good <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_40436,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+'s best <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_40999,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+hard to imagine having more fun watching a documentary ... <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_41685,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+funnier <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_42646,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+'s hard to like a film so cold and dead <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_43325,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a pathetic , endearing hero <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_43718,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+gross-out flicks , <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_44125,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+well-made <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_45160,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+, worse , <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_45743,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a properly spooky film about the power of spirits <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_45787,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+wildcard <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_47785,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+ill at ease sharing the same scene <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_48150,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+have used my two hours better watching being john malkovich again <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_48399,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+dicaprio 's best performance in anything ever , and easily the most watchable film of the year <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_48892,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+builds its multi-character story with a flourish <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_50420,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+as warm as it is wise <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_50498,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+standard horror flick formula <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_51984,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a head-turner <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_52172,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the best way <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_54010,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+has a caffeinated , sloppy brilliance , sparkling with ideas you wish had been developed with more care , <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_54295,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+devastating testimony <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_56364,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+compels <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_57247,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+is in trouble <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_57973,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+her subject matter <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_61377,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+flopped as surely as a soufflé gone wrong <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_62073,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+thanks largely <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_62204,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+with an appropriate minimum of means <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_63131,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a sensitive , moving <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_63561,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the limited chemistry <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_64230,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+marshall puts a suspenseful spin on standard horror flick formula . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_64307,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+of an overripe episode of tv 's dawson 's creek and a recycled and dumbed-down version of love story <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_64773,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+such master screenwriting comes courtesy of john pogue , the yale grad who previously gave us `` the skulls '' and last year 's `` rollerball . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_65349,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+superior <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_67126,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+in its best moments , resembles a bad high school production of grease , without benefit of song . <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_19,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+so devoid of any kind of intelligible story that it makes films like xxx and collateral damage seem like thoughtful treatises <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_54,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+the movie fails to live up to the sum of its parts . <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_76,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine . <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_78,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+this movie is maddening . <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_113,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+a movie that reminds us of just how exciting and satisfying the fantasy cinema can be when it 's approached with imagination and flair . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_125,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it provides the grand , intelligent entertainment of a superior cast playing smart people amid a compelling plot . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_129,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+` de niro ... is a veritable source of sincere passion that this hollywood contrivance orbits around . ' <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_187,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+instead of a hyperbolic beat-charged urban western , it 's an unpretentious , sociologically pointed slice of life . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_194,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it 's a much more emotional journey than what shyamalan has given us in his past two movies , and gibson , stepping in for bruce willis , is the perfect actor to take us on the trip . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_287,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+i 'll bet the video game is a lot more fun than the film . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_312,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it proves quite compelling as an intense , brooding character study . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_327,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+do not see this film . <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_539,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it is amusing , and that 's all it needs to be . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_623,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+writer-director 's mehta 's effort has tons of charm and the whimsy is in the mixture , the intoxicating masala , of cultures and film genres . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_628,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it 's another video movie photographed like a film , with the bad lighting that 's often written off as indie film naturalism . <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_661,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+once the 50 year old benigni appears as the title character , we find ourselves longing for the block of wood to come back . <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_689,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it 's fun lite . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_792,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+it 's made with deftly unsettling genre flair . <|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_831,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Classify the following sentence as 0 if it expresses negative sentiment, and 1 if it expresses positive sentiment.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+has all the depth of a wading pool . <|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_867,train+valid

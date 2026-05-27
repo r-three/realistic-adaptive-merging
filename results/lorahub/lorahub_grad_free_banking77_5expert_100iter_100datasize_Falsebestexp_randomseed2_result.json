@@ -1,0 +1,19 @@
+{
+    "task": "banking77",
+    "expert_name": [
+        "daje/model_0.0002_alpha-32_r-64",
+        "aseratus1/80dde36f-b140-4e57-a010-bebb9584c30b",
+        "Tomlord/Llama-3.1-8B-Instruct-LoRA-Hp-adk",
+        "clembench-playpen/llama-3.1-8B-Instruct-rehearsal-steps_playpen_SFT-e3_DFINAL_0.93K-steps",
+        "faridlazuarda/valadapt-llama-3.1-8B-it-german"
+    ],
+    "valid_accuracy": 0.35,
+    "test_accuracy": 0.27954545454545454,
+    "weights": [
+        -0.23822802655605224,
+        -0.07341251537176027,
+        0.468424029264731,
+        0.8540951791846668,
+        -0.00037705609441682567
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "task": "twitter_complaints",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_twitter_complaints",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.9101449275362319,
+    "weights": [
+        0.9080077190166028,
+        0.21789600458172112,
+        -0.000802852902152976,
+        0.00039552068412440286,
+        0.003225223938346532
+    ]
+}

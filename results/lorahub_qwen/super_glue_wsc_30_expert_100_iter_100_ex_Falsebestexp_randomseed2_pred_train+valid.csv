@@ -1,0 +1,1303 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Mark told Pete many lies about himself, which Pete included in his book. He should have been more skeptical. [SEP] 
+NOUN - Mark [SEP] 
+PRONOUN - He<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_0,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Bob paid for Charlie 's college education, but now Charlie acts as though it never happened. He is very ungrateful. [SEP] 
+NOUN - Bob [SEP] 
+PRONOUN - He<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_12,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Fred covered his eyes with his hands , because the wind was blowing sand around. He lowered them when the wind stopped. [SEP] 
+NOUN - His hands [SEP] 
+PRONOUN - them<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_33,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition. [SEP] 
+NOUN - Bill [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_45,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Dan took the rear seat while Bill claimed the front because his ""Dibs!"" was slow. [SEP] 
+NOUN - Bill [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_47,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Paul tried to call George on the phone, but he wasn't available. [SEP] 
+NOUN - George [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_65,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago. [SEP] 
+NOUN - The scientists [SEP] 
+PRONOUN - They<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_83,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Fred is the only man still alive who remembers my great-grandfather . He is a remarkable man. [SEP] 
+NOUN - My great-grandfather [SEP] 
+PRONOUN - He<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_95,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - During a game of tag, Ethan chased Luke because he was ""it"". [SEP] 
+NOUN - Luke [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_113,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Dr. Adams informed Kate that she had cancer and presented several options for future treatment. [SEP] 
+NOUN - Dr. Adams [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_122,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The sculpture rolled off the shelf because it wasn't level. [SEP] 
+NOUN - The shelf [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_123,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Pete envies Martin although he is very successful. [SEP] 
+NOUN - Pete [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_125,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Babar wonders how he can get new clothing. Luckily, a very rich old man who has always been fond of little elephants understands right away that he is longing for a fine suit. As he likes to make people happy, he gives him his wallet. [SEP] 
+NOUN - Babar [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_142,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The mothers of Arthur and Celeste have come to the town to fetch them. They are very happy to have them back, but they scold them just the same because they ran away. [SEP] 
+NOUN - Arthur and Celeste [SEP] 
+PRONOUN - them<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_145,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Stretching her back, the woman smiled at the girl . [SEP] 
+NOUN - The woman [SEP] 
+PRONOUN - her<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_163,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - James asked Robert for a favor but he refused. [SEP] 
+NOUN - Robert [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_167,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The delivery truck zoomed by the school bus because it was going so slow. [SEP] 
+NOUN - the delivery truck [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_178,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana 's small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: ""There's plenty."" [SEP] 
+NOUN - Tatyana [SEP] 
+PRONOUN - her<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_180,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The table won't fit through the doorway because it is too narrow. [SEP] 
+NOUN - The table [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_185,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - I put the butterfly wing on the table and it broke. [SEP] 
+NOUN - The table [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_194,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Bill passed the gameboy to John because his turn was over. [SEP] 
+NOUN - John [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_202,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Sam pulled up a chair to the piano , but it was broken, so he had to sing instead. [SEP] 
+NOUN - The piano [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_212,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The city councilmen refused the demonstrators a permit because they advocated violence. [SEP] 
+NOUN - The city councilmen [SEP] 
+PRONOUN - they<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_222,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The user changed his password from "" GrWQWu8JyC "" to "" willow-towered Canopy Huntertropic wrestles "" as it was easy to remember. [SEP] 
+NOUN - willow-towered Canopy
+Huntertropic wrestles [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_234,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Jane knocked on Susan 's door but she did not answer. [SEP] 
+NOUN - Susan [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_237,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly. [SEP] 
+NOUN - Jade [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_239,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time. [SEP] 
+NOUN - Adam [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_241,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The fish ate the worm . It was hungry. [SEP] 
+NOUN - The fish [SEP] 
+PRONOUN - It<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_256,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - I asked Dave to get me my sweater from the other side of the yacht . While he was gone, I rested my arm on the rail over there and suddenly it gave way. [SEP] 
+NOUN - rail [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_266,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - As Andrea in the crop duster passed over Susan , she could see the landing strip. [SEP] 
+NOUN - Andrea [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_279,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - I couldn't put the pot on the shelf because it was too high. [SEP] 
+NOUN - The pot [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_288,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - I took the water bottle out of the backpack so that it would be handy. [SEP] 
+NOUN - The water bottle [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_289,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - So Mark slept. It was daylight when he woke with Warren 's hand upon his shoulder. [SEP] 
+NOUN - Mark [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_292,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - John hired him self out to Bill to take care of him . [SEP] 
+NOUN - John [SEP] 
+PRONOUN - him<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_293,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father , he was twelve years old. [SEP] 
+NOUN - Fred [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_304,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Then he took a piece of iron the shape of the horse horse's foot , and clapped it on, and drove some nails through the shoe quite into its hoof, so that the shoe was firmly on [SEP] 
+NOUN - horse [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_306,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The user changed his password from "" GrWQWu8JyC "" to "" willow-towered Canopy Huntertropic wrestles "" as it was easy to remember. [SEP] 
+NOUN - GrWQWu8JyC [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_309,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - I poured water from the bottle into the cup until it was empty. [SEP] 
+NOUN - the cup [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_311,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Tom threw his schoolbag down to Ray after he reached the bottom of the stairs. [SEP] 
+NOUN - Ray [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_312,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - A man's life and a horse's life are worth more than some foxes' tails ; al least they ought to be. [SEP] 
+NOUN - a man's life and a horse's life [SEP] 
+PRONOUN - they<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_316,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Lily spoke to Donna , breaking her concentration. [SEP] 
+NOUN - Lily [SEP] 
+PRONOUN - her<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_329,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - I asked Dave to get me my sweater from the other side of the yacht . While he was gone, I rested my arm on the rail over there and suddenly it gave way. [SEP] 
+NOUN - arm [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_330,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - If the con artist has succeeded in fooling Sam , he would have gotten a lot of money. [SEP] 
+NOUN - Sam [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_342,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Mama came over and sat down beside Alice . Gently she stroked her hair and let the child weep. [SEP] 
+NOUN - Mama [SEP] 
+PRONOUN - her<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_350,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - This book introduced Shakespeare to Ovid ; it was a fine selection of his writing. [SEP] 
+NOUN - Shakespeare [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_357,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The donkey wished a wart on its hind leg would disappear, and it did. [SEP] 
+NOUN - wart [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_370,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks. [SEP] 
+NOUN - Archaeologists [SEP] 
+PRONOUN - They<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_372,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Our mistress hired a room for my crippled sister Nelly , and she gave her knitting and needlework when she was able to do it, and when she was ill she sent her dinners and many nice comfortable things and was like a mother to her. [SEP] 
+NOUN - Nelly [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_373,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Our mistress hired a room for my crippled sister Nelly , and she gave her knitting and needlework when she was able to do it, and when she was ill she sent her dinners and many nice comfortable things and was like a mother to her. [SEP] 
+NOUN - Nelly [SEP] 
+PRONOUN - her<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_374,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The user changed his password from "" GrWQWu8JyC "" to "" willow-towered Canopy Huntertropic wrestles "" as it was easy to forget. [SEP] 
+NOUN - willow-towered Canopy
+Huntertropic wrestles [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_380,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The table won't fit through the doorway because it is too wide. [SEP] 
+NOUN - The doorway [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_383,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Mark was close to Mr. Singer 's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over. [SEP] 
+NOUN - Mark [SEP] 
+PRONOUN - him<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_386,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time. [SEP] 
+NOUN - Bob [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_393,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The foxes are getting in at night and attacking the chickens . I shall have to kill them . [SEP] 
+NOUN - The chickens [SEP] 
+PRONOUN - them<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_395,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The man couldn't lift his son because he was so heavy. [SEP] 
+NOUN - The man [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_400,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot. [SEP] 
+NOUN - The dog [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_407,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Dan had to stop Bill from toying with the injured bird. He is very cruel. [SEP] 
+NOUN - Dan [SEP] 
+PRONOUN - He<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_408,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Susan knew that Ann 's son had been in a car accident, so she told her about it. [SEP] 
+NOUN - Ann [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_409,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The mothers of Arthur and Celeste have come to the town to fetch them. They are very happy to have them back, but they scold them just the same because they ran away. [SEP] 
+NOUN - Arthur and Celeste [SEP] 
+PRONOUN - they<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_411,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Mark heard Steve 's feet going down the ladder. The door of the shop closed after him. He ran to look out the window. [SEP] 
+NOUN - Mark [SEP] 
+PRONOUN - He<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_412,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - As Andrea in the crop duster passed over Susan , she could see the landing gear. [SEP] 
+NOUN - Susan [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_414,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won. [SEP] 
+NOUN - Adam [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_415,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The foxes are getting in at night and attacking the chickens . I shall have to kill them . [SEP] 
+NOUN - The foxes [SEP] 
+PRONOUN - them<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_416,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Anna did a lot better than her good friend Lucy on the test because she had studied so hard. [SEP] 
+NOUN - Anna [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_421,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - It is not easy to space buttonholes exactly the same distance apart, and it is very difficult to cut them precisely the right size . The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small. [SEP] 
+NOUN - the scissors [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_429,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - John hired him self out to Bill to take care of him . [SEP] 
+NOUN - Bill [SEP] 
+PRONOUN - him<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_432,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Jim yelled at Kevin because he was so upset. [SEP] 
+NOUN - Jim [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_439,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The mothers of Arthur and Celeste have come to the town to fetch them. They are very happy to have them back, but they scold them just the same because they ran away. [SEP] 
+NOUN - Arthur and Celeste [SEP] 
+PRONOUN - them<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_440,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The pony behaved well, sir, and showed no vice; but at last he just threw up his heels and tipped the young gentleman into the thorn hedge. He wanted me to help him out, but I hope you will excuse me, sir, I did not feel inclined to do so. [SEP] 
+NOUN - young gentleman [SEP] 
+PRONOUN - him<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_448,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - There is a pillar between me and the stage , and I can't see it . [SEP] 
+NOUN - The stage [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_450,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - I sat there feeling rather like a chappie I'd once read about in a book , who murdered another cove and hid the body under the dining-room table , and then had to be the life and soul of a dinner party, with it there all the time. [SEP] 
+NOUN - book [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_463,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time. [SEP] 
+NOUN - The stars [SEP] 
+PRONOUN - They<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_473,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Sir Clifford wants me to find him a new groom , about twenty or twenty-one, who knows his business. His old coachman is getting feeble, and he wants a man to work with him and get into his ways, who would be able, when the old man was pensioned off, to step into his place [SEP] 
+NOUN - Sir Clifford [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_474,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana 's small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: ""There's plenty."" [SEP] 
+NOUN - Grandma [SEP] 
+PRONOUN - her<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_476,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - I sat there feeling rather like a chappie I'd once read about in a book , who murdered another cove and hid the body under the dining-room table , and then had to be the life and soul of a dinner party, with it there all the time. [SEP] 
+NOUN - table [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_481,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The father carried the sleeping boy in his bassinet. [SEP] 
+NOUN - The father [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_490,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The sack of potatoes had been placed below the bag of flour , so it had to be moved first. [SEP] 
+NOUN - The sack of potatoes [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_526,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Sid explained his theory to Mark but he couldn't convince him. [SEP] 
+NOUN - Sid [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_538,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - John was doing research in the library when he heard a man humming and whistling. He was very annoying. [SEP] 
+NOUN - John [SEP] 
+PRONOUN - He<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_544,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone. [SEP] 
+NOUN - The sun [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_549,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. [SEP] 
+NOUN - Mr. Moncrieff [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . [SEP] 
+NOUN - chair [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_14,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. [SEP] 
+NOUN - Larry [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_15,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. [SEP] 
+NOUN - Edward [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_17,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The large ball crashed right through the table because it was made of steel. [SEP] 
+NOUN - The table [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_23,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. [SEP] 
+NOUN - faces [SEP] 
+PRONOUN - they<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_31,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. [SEP] 
+NOUN - Amy's parents [SEP] 
+PRONOUN - they<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_37,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. [SEP] 
+NOUN - Mr. Moncrieff [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_40,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Fred watched TV while George went out to buy groceries. After an hour he got up. [SEP] 
+NOUN - Fred [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_41,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. [SEP] 
+NOUN - Larry [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_43,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Fred watched TV while George went out to buy groceries. After an hour he got up. [SEP] 
+NOUN - George [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_52,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Jane gave Joan candy because she wasn't hungry. [SEP] 
+NOUN - Jane [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_54,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. [SEP] 
+NOUN - Amy's parents [SEP] 
+PRONOUN - they<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_56,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. [SEP] 
+NOUN - yard [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_68,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. [SEP] 
+NOUN - Joe's uncle [SEP] 
+PRONOUN - he<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_70,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The large ball crashed right through the table because it was made of steel. [SEP] 
+NOUN - The large ball [SEP] 
+PRONOUN - it<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_72,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. [SEP] 
+NOUN - Mama [SEP] 
+PRONOUN - she<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_74,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make fewer of them . [SEP] 
+NOUN - The oatmeal cookies [SEP] 
+PRONOUN - them<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_81,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy, [SEP] 
+NOUN - Mr. Taylor [SEP] 
+PRONOUN - his<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_83,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a text, along with a noun phrase and a pronoun that appear in the text, formatted as ""TEXT - text [SEP] NOUN - noun phase [SEP] PRONOUN pronoun""
+Return 1 if the pronoun refers to the noun phrase, and 0 otherwise.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+TEXT - The storekeepers stayed in town to run their stores and lived in the rooms behind them . [SEP] 
+NOUN - rooms [SEP] 
+PRONOUN - them<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_84,train+valid

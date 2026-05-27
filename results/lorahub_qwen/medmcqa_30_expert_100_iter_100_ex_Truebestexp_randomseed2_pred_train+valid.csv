@@ -1,0 +1,1402 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Symptomatic treatment is not required in withdrawal of: [SEP] 
+0 - Cannabis [SEP] 
+1 - Morphine [SEP] 
+2 - Alcohol [SEP] 
+3 - Cocaine<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_178,train+valid
+3,"
+3","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The dangerous paicle size causing pneumoconiosis varies from ? [SEP] 
+0 - 100-150 m [SEP] 
+1 - 50-100 m [SEP] 
+2 - 10-50 m [SEP] 
+3 - 1-5 m<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2106,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Type II respiratory failure best relates to which of the following? [SEP] 
+0 - Alveolar hypoventilation [SEP] 
+1 - Alveolar flooding [SEP] 
+2 - Hypoperfusion of respiratory muscles [SEP] 
+3 - Lung atelectasis<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2988,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Ponderal's index for ""small for gestational age"" child: March 2013 [SEP] 
+0 - Less than 1 [SEP] 
+1 - Less than 2 [SEP] 
+2 - Less than 3 [SEP] 
+3 - Less than 4<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5137,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Hydroxyethyl starch is used as: [SEP] 
+0 - Plasma expander [SEP] 
+1 - Inotropic agent [SEP] 
+2 - Vasodilator [SEP] 
+3 - Type of dextran<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5460,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The PHP index is designed to [SEP] 
+0 - Evaluate plaque and calculus on specific tooth surfaces [SEP] 
+1 - Score plaque on specific tooth surfaces [SEP] 
+2 - Scores plaque and gingivitis [SEP] 
+3 - Scores plaque, calculus, gingivitis<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_6207,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Most common site of metastasis for Breast Carcinoma is [SEP] 
+0 - Thoracic veebra [SEP] 
+1 - Pelvis [SEP] 
+2 - Femur [SEP] 
+3 - Lumbar veebra<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_7487,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Deficiency of E-cadherin is seen in? [SEP] 
+0 - Intestinal carcinoma [SEP] 
+1 - Thyroid carcinoma [SEP] 
+2 - Colon cancer [SEP] 
+3 - Gastric cancer<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_14362,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Pellagra is due to deficiency of: September 2006, 2009 [SEP] 
+0 - Riboflavin [SEP] 
+1 - thiamine [SEP] 
+2 - Niacin [SEP] 
+3 - Pyridoxine<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_14561,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - All of the following are true about neuroblastoma except? [SEP] 
+0 - Diarrhea [SEP] 
+1 - Bone pain [SEP] 
+2 - Cafe-au-lait spots [SEP] 
+3 - Opsomyoclonus<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_18926,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Characteristic feature of Otosclerosis are all except- [SEP] 
+0 - Conductive deafness [SEP] 
+1 - Positive rinne's test [SEP] 
+2 - Paracusis willisii [SEP] 
+3 - Mobile ear drum<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_20936,train+valid
+2,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Maximum rise in Prolactin levels is seen with(2018) [SEP] 
+0 - Clozapine [SEP] 
+1 - Olanzapine [SEP] 
+2 - Risperidone [SEP] 
+3 - Ziprasidone<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_24743,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - True about struma ovarii -a) Ectopic thyroid tissueb) Ectopic ovarian tissuec) It is benignd) It is included in teratoma [SEP] 
+0 - abc [SEP] 
+1 - ad [SEP] 
+2 - bc [SEP] 
+3 - acd<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_29727,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Patient has lacerated untidy wound of the leg and attended the casualty after 2 hours. His wound should be - [SEP] 
+0 - Sutured immediately [SEP] 
+1 - Debrided and sutured immediately [SEP] 
+2 - Debrided and sutured secondarily [SEP] 
+3 - Cleaned and dressed<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_32358,train+valid
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Individual organs are removed one by one in [SEP] 
+0 - Ghon's technique [SEP] 
+1 - Lettule's technique [SEP] 
+2 - Virchow's technique [SEP] 
+3 - Rokitansky technique<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_32406,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Preveebral space thickness in adult is [SEP] 
+0 - 7mm [SEP] 
+1 - 15mm [SEP] 
+2 - 22mm [SEP] 
+3 - 30mm<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_34194,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Cocket & Dodd's operation is performed for which one of the following ? [SEP] 
+0 - Sapheno femoral flush ligation [SEP] 
+1 - Subfascial ligation [SEP] 
+2 - Deep vein thrombosis [SEP] 
+3 - Diabetic foot<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_35429,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Metabolism of amide local anesthetic is slowed in which of the following condition [SEP] 
+0 - Liver cirrhosis [SEP] 
+1 - Acute renal failure [SEP] 
+2 - Pseudocholinesterase deficiency [SEP] 
+3 - Chronic renal failure<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_35447,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following vitamin is a component of ETC: [SEP] 
+0 - Vitamin B12 [SEP] 
+1 - Riboflavin [SEP] 
+2 - Nicotinic acid [SEP] 
+3 - Thiamine<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_35859,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - False about 'SEPS' procedure is: [SEP] 
+0 - Used for incompetent perforators . [SEP] 
+1 - Procedure is done with the help of endoscope . [SEP] 
+2 - Vascular clip is applied above the level of deep fascia . [SEP] 
+3 - None of the above<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_36628,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of these is not associated with Loeffler's syndrome? [SEP] 
+0 - Toxocara [SEP] 
+1 - Strongyloides stercoralis [SEP] 
+2 - Ascaris [SEP] 
+3 - Giardiasis<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_50921,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A 35-year-old woman who underwent a modified radical mastectomy of her right breast for infiltrating ductal carcinoma 2 years ago presents with enlargement of her right breast. The breast has a swollen, red-discolored appearance. It is diffusely indurated and tender on palpation. Multiple axillary lymph nodes are palpable in the lower axilla. The working clinical diagnosis is inflammatory carcinoma. Microscopic sections from this red, indurated area are most likely to reveal [SEP] 
+0 - Duct ectasia with numerous plasma cells [SEP] 
+1 - Extensive invasion of dermal lymphatics [SEP] 
+2 - Infiltrating malignant ducts surrounded by numerous neutrophils [SEP] 
+3 - Malignant vascular tumor forming slitlike spaces<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_52067,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Psoriasis Vulgaris is associated with [SEP] 
+0 - HLA Cw6 [SEP] 
+1 - HLA B27 [SEP] 
+2 - HLA B51 [SEP] 
+3 - HLA DR4<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_52538,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Halothane causes - [SEP] 
+0 - Bradycardia [SEP] 
+1 - Fall in BP [SEP] 
+2 - Uterine relaxation [SEP] 
+3 - All of the above<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_56402,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Break bone fever is caused by ? [SEP] 
+0 - Yellow fever [SEP] 
+1 - Japanese encephlitis [SEP] 
+2 - Dengue fever [SEP] 
+3 - KFD<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_56985,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Triage is defined as - [SEP] 
+0 - Treating the most serious cases [SEP] 
+1 - Categorisation of the patients and treating them according to the available resource [SEP] 
+2 - Cautery burns [SEP] 
+3 - Treating mentally ill patients<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_57122,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The benefits of stopping smoking before surgery are all except - [SEP] 
+0 - Better wound healing [SEP] 
+1 - Better mucociliary clearance [SEP] 
+2 - Better bone healing [SEP] 
+3 - Less risk of malignancies associated with smoking<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_58455,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Pascal's law is used in which technique of hernia repair? [SEP] 
+0 - Lichtenstein mesh repair [SEP] 
+1 - Stoppa's preperitoneal repair [SEP] 
+2 - Bassini's repair [SEP] 
+3 - Darning repair<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_61991,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In carcinoid syndrome, the part of heart mostly affected is - [SEP] 
+0 - Outflow tract of RV [SEP] 
+1 - Inflow tract of RV [SEP] 
+2 - Inflow tract of LV [SEP] 
+3 - Outflow tract LV<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_64108,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A 65-year-old man presents to his primary care physician complaining of dyspnea, chest pain, and several syncopal episodes. His symptoms have worsened over the past few months and his third syncopal episode prompted this visit. On examination, a systolic ejection murmur is auscultated with an ejection click in the right second intercostal space. Rales are present at the lung bases. He has a history of rheumatic fever in his twenties. Which of the following might explain the angina pectoris in this patient? [SEP] 
+0 - Increased ventricular wall tension limits perfusion [SEP] 
+1 - Left ventricular hyperophy accelerates atherosclerotic disease [SEP] 
+2 - Pulmonary hypeension decreases the PO2 of aerial blood [SEP] 
+3 - Stenotic valves occlude the coronary aeries<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_64542,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Moon's molars seen with ? [SEP] 
+0 - Syphilis [SEP] 
+1 - Leprosy [SEP] 
+2 - Amyl oidosi s [SEP] 
+3 - Actinomycosis<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_66261,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following is a contraindications for trial of labour? [SEP] 
+0 - Mid pelvic contraction [SEP] 
+1 - Postmaturity [SEP] 
+2 - Post Caesarean pregnancy [SEP] 
+3 - All of the above<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_67307,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Perel Pontic is [SEP] 
+0 - Ovate [SEP] 
+1 - Conical [SEP] 
+2 - Hygienic [SEP] 
+3 - Modified sanitary<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_68342,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Wernicke's hemianopic reaction is due to lesions at the level of [SEP] 
+0 - Optic tract [SEP] 
+1 - Optic chiasma [SEP] 
+2 - Optic radiations [SEP] 
+3 - LGB<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_73144,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Magnitude of action potential is mainly affected by: September 2005 [SEP] 
+0 - Calcium ion [SEP] 
+1 - Hydrogen ion [SEP] 
+2 - Sodium ion [SEP] 
+3 - Potassium ion<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_75283,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Marker enzyme for plasma membrane is: [SEP] 
+0 - 5'Nucleotidase [SEP] 
+1 - Catalase [SEP] 
+2 - Acid Phosphatase [SEP] 
+3 - GGT<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_76555,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - First step in cholesterol synthesis is inhibited by ? [SEP] 
+0 - Niacin [SEP] 
+1 - Fenofibrate [SEP] 
+2 - Cholestramine [SEP] 
+3 - Lovastatin<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_76907,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - All of the following are true about the papovavirus except - [SEP] 
+0 - They are non-enevloped icosahedral viruses [SEP] 
+1 - Produce papilloma and was in human [SEP] 
+2 - RNA virus [SEP] 
+3 - SV - 40 is oncogenic<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_78032,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Tidal volume is calculated by [SEP] 
+0 - Inspiratory capacity minus the inspiratory reserve volume [SEP] 
+1 - Total lung capacity minus the reserve volume [SEP] 
+2 - Functional residual capacity minus residual volume [SEP] 
+3 - Vital capacity minus expiratory reserve volume<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_86096,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A female pt. present with a hard. mobile lump in her . breast. Which investigation would be most helpful in making the diagnosis - [SEP] 
+0 - FNAC [SEP] 
+1 - Needle biopsy [SEP] 
+2 - Excision biopsy [SEP] 
+3 - Mammography<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_87378,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Drug used in the prophylaxis of nicotine addiction: NIMHANS 08; Manipal 09; Maharashtra 10, WB 11 [SEP] 
+0 - Diazepam [SEP] 
+1 - Naloxone [SEP] 
+2 - Bupropion [SEP] 
+3 - Acamprosate<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_87661,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Organ of chievity is seen near the: [SEP] 
+0 - Medial surface of the mandible [SEP] 
+1 - Naso palatine foramen [SEP] 
+2 - Mental foramen [SEP] 
+3 - Foramen caecum<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_88282,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - All the following are tributaries of Superior vena cava except [SEP] 
+0 - Right Brachiocephalic vein [SEP] 
+1 - Left Brachiocephalic vein [SEP] 
+2 - Hemiazygous vein [SEP] 
+3 - Azygous vein<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_90648,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Internal resorption is due to_____________ [SEP] 
+0 - Pulp necrosis [SEP] 
+1 - Acute inflammation of pulp [SEP] 
+2 - Chronic inflammation of pulp [SEP] 
+3 - None of the above<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_99626,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Factor present in the final common terminal complement pathway is - [SEP] 
+0 - C4 [SEP] 
+1 - C3 [SEP] 
+2 - C5 [SEP] 
+3 - Protein B<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_99782,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Skyline view X-ray is useful in diagnosing - [SEP] 
+0 - Patellofemoral problem [SEP] 
+1 - Radioulnars problem [SEP] 
+2 - Tibiofibular problem [SEP] 
+3 - Skull fracture<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_100696,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The intensity of colour in Doppler is [SEP] 
+0 - Direction flow [SEP] 
+1 - Velocity of flow [SEP] 
+2 - Strength of returning echo [SEP] 
+3 - None of the above<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_104119,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following structure forms the superior border of Epiploic foramen? [SEP] 
+0 - Head of pancreas [SEP] 
+1 - Caudate lobe of liver [SEP] 
+2 - Lesser omentum [SEP] 
+3 - IVC<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_105366,train+valid
+3,"
+3","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The below finding was seen in a person who died 4 hours ago due to chronic anemia and renal failure. What is the finding called? [SEP] 
+0 - Bitot's spots [SEP] 
+1 - Kevorkian sign [SEP] 
+2 - Postmortem pterygium [SEP] 
+3 - Tache noire<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_108029,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which mediator of inflammation does NOT cause fever? [SEP] 
+0 - IL-1 [SEP] 
+1 - TNF-a [SEP] 
+2 - Nitric Oxide [SEP] 
+3 - Prostaglandin<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_108862,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Altered presumption of real objects is [SEP] 
+0 - Illusion [SEP] 
+1 - Delusion [SEP] 
+2 - Hallucination [SEP] 
+3 - Delirium<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_113181,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Diagnostic accuracy of a test is determined by its [SEP] 
+0 - Sensitivity [SEP] 
+1 - Specificity [SEP] 
+2 - Predictive value [SEP] 
+3 - Odds ratio<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_113438,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Konkan integrated development project is developed by [SEP] 
+0 - CARE [SEP] 
+1 - DANIDA [SEP] 
+2 - Rockefeller foundation [SEP] 
+3 - Ford foundation<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_114126,train+valid
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Chang staging is used for: [SEP] 
+0 - Retinoblastoma [SEP] 
+1 - Medulloblastoma [SEP] 
+2 - Ewing's sarcoma [SEP] 
+3 - Rhabdomyosarcoma<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_118937,train+valid
+3,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A 30 year old female patient complains of irritability and nervousness. Patient gives history of consumption of oral contraceptives. Lab investigation reveals presence of xanthurenic acid in urine. This patient may be suffering from deficiency of: [SEP] 
+0 - Vitamin C [SEP] 
+1 - Vitamin B1 [SEP] 
+2 - Vitamin B2 [SEP] 
+3 - Vitamin B6<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_121375,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In rigor mois muscle : [SEP] 
+0 - Stiffens [SEP] 
+1 - Shoens [SEP] 
+2 - Stiffens and shoens [SEP] 
+3 - Stiffens and lengthens<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_121408,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A man connected to a body plethysmograph for estimation of FRC inspires against a closed glottis. Which of the following statements is true [SEP] 
+0 - The pressure in both the lungs and the box increases [SEP] 
+1 - The pressure in both the lungs and the box decreases [SEP] 
+2 - The pressure in the lungs decreases, but that in the box increases [SEP] 
+3 - The pressure in the lungs increases, but that in the box decreases<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_122115,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Manifestation of squint in children are all EXCEPT [SEP] 
+0 - Diplopia [SEP] 
+1 - Confusion [SEP] 
+2 - Detion of eye [SEP] 
+3 - Stereopsis<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_131681,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Auto-an bodies against the Alpha enolase of endothelial cells is used in? [SEP] 
+0 - Pauci-aicular JRA [SEP] 
+1 - Autoimmune hepatitis [SEP] 
+2 - Myasthenia gravis [SEP] 
+3 - Behcets syndrome<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_132053,train+valid
+3,"
+3","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A 52-year-old man complains of episodes of severe unilateral, stabbing facial pain that is intermittent for several hours, and then disappears for several days. The pain is described as ""electric shock-like"" and only lasts a few seconds. Physical examination of the face and mouth is entirely normal. Which of the following treatments is most effective for this condition? [SEP] 
+0 - morphine [SEP] 
+1 - indomethacin [SEP] 
+2 - cimetidine [SEP] 
+3 - carbamazepine<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_133125,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A 45-year-old man with a long history of alcohol intake comes into the emergency room with upper gastrointestinal (UGI) bleeding. Urgent endoscopy reveals the following findings. Which of the following is the most likely diagnosis? [SEP] 
+0 - esophageal varices [SEP] 
+1 - esophageal carcinoma [SEP] 
+2 - foreign body [SEP] 
+3 - tertiary waves<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_137144,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - All of the following are increased in isometric exercise, EXCEPT: [SEP] 
+0 - Hea rate [SEP] 
+1 - Cardiac output [SEP] 
+2 - Mean aerial pressure [SEP] 
+3 - Systemic vascular resistance<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_140711,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A child presents with presents with proteinuria and gross hematuria. On examination child has sensorineural deafness, anterior lenticonus  . what is the inheritance of this condition? [SEP] 
+0 - X - linked inheritance [SEP] 
+1 - Autosomal dominant inheritance [SEP] 
+2 - Autosomal recessive inheritance [SEP] 
+3 - All of the above<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_141671,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Disease elimination is helped by [SEP] 
+0 - Herd immunity [SEP] 
+1 - Isolation [SEP] 
+2 - Quarantine [SEP] 
+3 - None<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_147540,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - MELD score includes - [SEP] 
+0 - Sr. creatinine [SEP] 
+1 - Transaminase [SEP] 
+2 - Albumin [SEP] 
+3 - Alkaline phosphatase<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_150399,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Figlu is an intermediate product of the following amino acid: [SEP] 
+0 - Histidine [SEP] 
+1 - Arginine [SEP] 
+2 - Cystine [SEP] 
+3 - Methionine<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_150494,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - True about Mycoplasma: [SEP] 
+0 - CO2 is important for growth [SEP] 
+1 - Does not cause hemolysis [SEP] 
+2 - May be commensal in throat [SEP] 
+3 - Acid fast bacillus<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_150822,train+valid
+2,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - All are true about temporal aeritis except [SEP] 
+0 - Can leads to sudden bilateral blindness [SEP] 
+1 - More common in females [SEP] 
+2 - Worsen on exposure to heat [SEP] 
+3 - Mostly affects elderly<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_155635,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Bacteriophages are - [SEP] 
+0 - Bacteria that infects virus [SEP] 
+1 - Virus that infects bacteria [SEP] 
+2 - Virus that infects protozoa [SEP] 
+3 - Bacteria that infects protozoa<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_156777,train+valid
+3,"
+3","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - During a routine well-child examination, a 12-year-old girl reports that she has occasional headache, ""racing heart,"" abdominal pain, and dizziness. Her mother states that she has witnessed one of the episodes, which occurred during an outing at the mall, and reported the child to be pale and to have sweating as well. Other than some hypertension, she has a normal physical examination. Which of the following is an appropriate next step in the evaluation and management of this child? [SEP] 
+0 - Breath into a paper sack should the symptoms return [SEP] 
+1 - Measurement of serum b-HCG levels [SEP] 
+2 - Determination of HbA1C levels [SEP] 
+3 - Measurement of urine vanillylmandelic acid (VMA) and homovanillic acid (HVA) and serum metanephrine levels<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_159677,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Parvovirus infection is associated with - [SEP] 
+0 - Hydrops fetalis [SEP] 
+1 - Aplastic crisis [SEP] 
+2 - sixth disease [SEP] 
+3 - AB<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_159741,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - OC pills should be taken on - [SEP] 
+0 - 5th day [SEP] 
+1 - 3rd day [SEP] 
+2 - 1st day [SEP] 
+3 - When menses cease<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_160245,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Thiamine deficiency - causes ? [SEP] 
+0 - Pellagra [SEP] 
+1 - Ben - Beri [SEP] 
+2 - Keshan's disease [SEP] 
+3 - Rickets<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_161439,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Gas with greatest affinity for haemoglobin [SEP] 
+0 - O2 [SEP] 
+1 - CO [SEP] 
+2 - CO2 [SEP] 
+3 - N2O<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_163124,train+valid
+2,"
+3","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Pseudoclaudication is due to the compression of ? [SEP] 
+0 - Femoral aery [SEP] 
+1 - Femoral nerve [SEP] 
+2 - Cauda Equina [SEP] 
+3 - Popliteal aery<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_169090,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Drug of choice for treatment of neuroleptic malignant syndrome is - [SEP] 
+0 - Dantrolene [SEP] 
+1 - Beta blocker [SEP] 
+2 - Central anticholiergic [SEP] 
+3 - None of the above<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_169323,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Laproscopic procedure patient develops shoulder pain due to [SEP] 
+0 - Sub phrenic abscess [SEP] 
+1 - positional pain during surgery [SEP] 
+2 - Sub diaphragmatic migration of gas [SEP] 
+3 - Injury to liver<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_170886,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Cause of death in Acute rheumatic fever is ? [SEP] 
+0 - Pericarditis [SEP] 
+1 - Myocarditis [SEP] 
+2 - Endocarditis [SEP] 
+3 - Streptococcal sepsis<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_172395,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - First Sign of pubertal development in boy is - [SEP] 
+0 - Enlargement of penis [SEP] 
+1 - Enlargement of testes [SEP] 
+2 - Appearance of pubic hair [SEP] 
+3 - Appearance of axillary' hair<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_174766,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - MC site of gastrinoma:- [SEP] 
+0 - Duodenum [SEP] 
+1 - Pancreas [SEP] 
+2 - Stomach [SEP] 
+3 - Colon<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_177777,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which one of the following is a muscle splitting incision? [SEP] 
+0 - Kocher's incision [SEP] 
+1 - Rutherford-Morrison incision [SEP] 
+2 - Pfannenstiel incision [SEP] 
+3 - Lanz incision<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_43,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following lipoproteins does not move towards charged end in electrophoresis? [SEP] 
+0 - VLDL [SEP] 
+1 - LDL [SEP] 
+2 - HDL [SEP] 
+3 - Chylomicrons<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",valid_59,train+valid
+3,"
+3","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - According to WHO classiﬁcation of periapical pathology, sinus to oral cavity comes  under: [SEP] 
+0 - 4.6 [SEP] 
+1 - 4.6 [SEP] 
+2 - 4.61 [SEP] 
+3 - 4.62<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",valid_205,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Fluoride pit and fissure sealants belong to which
+generation? [SEP] 
+0 - I [SEP] 
+1 - II [SEP] 
+2 - III [SEP] 
+3 - IV<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_497,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A lateral sliding flap done on a tooth with roots denuded for 6 years will show [SEP] 
+0 - PDL fibres attached to cementum [SEP] 
+1 - PDL fibres attached to dentin [SEP] 
+2 - Epithelium adjacent to previously denuded root surface [SEP] 
+3 - Co adaptation to the remaining fibres<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_747,train+valid
+3,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A man comes with aphasia. He is unable to name things and repetition is poor. However comprehension, fluency and understanding written words is unaffected. He is probably suffering from: [SEP] 
+0 - Anomic aphasia [SEP] 
+1 - Broca's aphasia [SEP] 
+2 - Transcoical sensory aphasia [SEP] 
+3 - Conduction aphasia<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_787,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The most common curvature of the palatal root of maxillary first molar is: [SEP] 
+0 - Facial [SEP] 
+1 - Lingual [SEP] 
+2 - Distal [SEP] 
+3 - Mesial<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_992,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The most appropriate method to differentiate between a dentigerous cyst and an ameloblastoma is through: [SEP] 
+0 - Radiographic examination [SEP] 
+1 - Aspiration cytology [SEP] 
+2 - Microscopic examination [SEP] 
+3 - Clinical features<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_1442,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - At physiological pH, which of these amino acids has a positive charge? [SEP] 
+0 - Valine [SEP] 
+1 - Aspaic acid [SEP] 
+2 - Arginine [SEP] 
+3 - Isoleucine<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_1599,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following is unpaired bone of facial skeleton: [SEP] 
+0 - Nasal [SEP] 
+1 - Lacrimal [SEP] 
+2 - Inferior nasal concha [SEP] 
+3 - Vomer<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",valid_1700,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Treatment of choice for erythrodermic psoriasis: [SEP] 
+0 - Methotrexate [SEP] 
+1 - Coicosteroids [SEP] 
+2 - Coal tar topical [SEP] 
+3 - Topical steroids<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_2093,train+valid
+0,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The purpose of plane of orientation is: [SEP] 
+0 - To serve as a guide in establishing occlusal plane [SEP] 
+1 - To aid in measuring height and Length of posterior teeth [SEP] 
+2 - To serve as an arbitrary plane when established on the articulator [SEP] 
+3 - To divide the distance between upper and Lower cast equally<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_2436,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Most common sign of airway obstruction [SEP] 
+0 - Slow pounding pulse [SEP] 
+1 - Strenuous breathing [SEP] 
+2 - Increase pulse rate [SEP] 
+3 - Decrease pulse rate<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_2479,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - All of the following are indications for thrombolysis in a patient with stroke except: [SEP] 
+0 - Age <18 years [SEP] 
+1 - Sustained BP >185/110 mm Fig despite treatment [SEP] 
+2 - On CT scan, edema less than 1/3rd of middle cerebral aery territory [SEP] 
+3 - Acute ischemic stroke within 3 hours of onset<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_2639,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In a skeletal Class III, the value of ANB will be: [SEP] 
+0 - -10 [SEP] 
+1 - 2 [SEP] 
+2 - 4 [SEP] 
+3 - 6<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_2726,train+valid
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - TMJ develops at the age of [SEP] 
+0 - 18 weeks [SEP] 
+1 - 10 weeks [SEP] 
+2 - 6 weeks [SEP] 
+3 - 29 weeks<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",valid_2804,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Magenta tongue and cracks at corner of mouth are seen in deficiency of: [SEP] 
+0 - Vitamin B1 [SEP] 
+1 - Niacin [SEP] 
+2 - Riboflavin [SEP] 
+3 - Pantothenic acid<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_3459,train+valid
+2,"
+3","<|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A patient of disseminated malignancy comes to the palliative care clinic with nausea, vomiting and altered sensorium. Hypercalcemia is detected on investigations. What will be the first line of management? [SEP] 
+0 - Intravenous steroids [SEP] 
+1 - Thiazides [SEP] 
+2 - Intravenous fluids [SEP] 
+3 - Intravenous bisphosphonates<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",valid_3675,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - White rough pedunculated lesion on palate is most likely: [SEP] 
+0 - Pleomorphic adenoma [SEP] 
+1 - Papilloma [SEP] 
+2 - Nevus [SEP] 
+3 - Fibroma<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_3773,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a multiple-choice question covering healthcare and medical subjects, formatted as ""QUESTION - question [SEP] 0 - option0 [SEP] 1 - option1 [SEP] 2 - option2 [SEP] 3 - option3"".
+Return only the digit (0,1,2, or 3) of the correct answer, without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Specific for Ankylosing spondylitis is true? [SEP] 
+0 - HLA [SEP] 
+1 - B27 [SEP] 
+2 - Sacroileitis [SEP] 
+3 - Raised ESR<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_4125,train+valid

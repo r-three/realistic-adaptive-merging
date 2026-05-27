@@ -1,0 +1,19 @@
+{
+    "task": "temporal_sequences",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_temporal_sequences",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 1.0,
+    "weights": [
+        0.5001475221615279,
+        -0.00017176252244374823,
+        -5.9645986491226925e-05,
+        8.716025467676537e-06,
+        7.818537280819508e-05
+    ]
+}

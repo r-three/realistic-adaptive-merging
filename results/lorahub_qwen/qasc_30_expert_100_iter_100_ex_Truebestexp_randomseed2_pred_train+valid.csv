@@ -1,0 +1,1501 @@
+target,pred_clean,pred_org,example_id,split
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what does the digestive system use to produce nutrients for the body? [SEP] 
+FACT1 - the digestive system breaks food into nutrients for the body [SEP] 
+FACT2 - Catabolism is the breaking down of food. [SEP] 
+CHOICES - {'text': ['Proteins', 'Enzymes', 'oysters', 'catabolism', 'lungs', 'ice cubes', 'hair', 'nutrients'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_35,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - climate is the average what over a long period of time? [SEP] 
+FACT1 - Climate is the average weather in an area over a long period of time. [SEP] 
+FACT2 - Weather refers to the circulation of the Earth's atmosphere. [SEP] 
+CHOICES - {'text': [""Earth's atmosphere circulation"", 'By wind and rain', 'heat and pressure', 'bacteria', 'Temperature changing', ""Earth's density"", 'characteristics', 'gravity'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_89,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What does plant reproduction often require? [SEP] 
+FACT1 - plant reproduction often requires pollen [SEP] 
+FACT2 - Bees are usually required for effective pollen transfer. [SEP] 
+CHOICES - {'text': ['viruses', 'bacteria', 'fire', 'DNA', 'bees', 'seeds', 'energy', 'food'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_223,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What does using renewable resources to generate power reduce? [SEP] 
+FACT1 - using renewable resources to generate power reduces greenhouse gases [SEP] 
+FACT2 - Carbon dioxide is a greenhouse gas. [SEP] 
+CHOICES - {'text': ['Heat energy', 'carbon dioxide', 'kinetic energy', 'lowered energy cost', 'sunlight', 'oxygen', 'climate', 'water'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_397,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what size are lymphocytes? [SEP] 
+FACT1 - Cells vary in size as well as shape, but all cells are very small. [SEP] 
+FACT2 - Lymphocytes in circulation are small cells. [SEP] 
+CHOICES - {'text': ['small', 'PDAs', 'massive', 'dense', 'white', 'huge', 'CO 2', 'large'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_455,train+valid
+G,"
+G","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What should you do for cold weather? [SEP] 
+FACT1 - staying warm has a positive impact on an animal 's survival [SEP] 
+FACT2 - If it's cold weather, dress warmly and warm up longer. [SEP] 
+CHOICES - {'text': ['converting electricity to heat', 'protect them', 'igniting fuel and oxidiser', 'adding heat', 'Wear a t-shirt', 'Put on flip-flops', 'Dress for the weather', ""Don't wear anything""], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+G<|im_end|>",train_510,train+valid
+H,"
+H","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What are single celled organisms that do not have a nucleus? [SEP] 
+FACT1 - Prokaryotes are single-celled organisms that lack a nucleus. [SEP] 
+FACT2 - Prokaryotes are usually microscopic and bacteria is an example of a prokaryote. [SEP] 
+CHOICES - {'text': ['Most plants', 'nucleus', 'ferns', 'fossil fuels', 'bushes', 'Eukaryotes', 'leech', 'bacteria'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",train_865,train+valid
+H,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What phylum are Nematodes in? [SEP] 
+FACT1 - Roundworms make up the phylum Nematoda. [SEP] 
+FACT2 - Nematodes are simple roundworms. [SEP] 
+CHOICES - {'text': ['Most plants', 'ferns', 'parasites', 'Epidermis', 'white', 'insects', 'graptolites', 'Nematoda'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",train_962,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What can be heard through the ear? [SEP] 
+FACT1 - matter vibrating can cause sound [SEP] 
+FACT2 - Words are only gross sounds heard through the ear. [SEP] 
+CHOICES - {'text': ['matter vibrating', 'encoded information', 'mean thoughts', 'absence of noise', 'ear drums', 'in the frog family', 'electromagnetic energy', ""the body's largest organ""], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1089,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Earthworms help form and add what to soil [SEP] 
+FACT1 - Earthworms are important deposit feeders that help form and enrich soil. [SEP] 
+FACT2 - Tulips perform best in a sandy, organically enriched soil. [SEP] 
+CHOICES - {'text': ['Sediment', 'organic material', 'Converting waste.', 'bacteria', 'heat', 'Chemical energy', 'grass', 'acidity'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1353,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Fur is a fiber that is found only on what kind of animal? [SEP] 
+FACT1 - Hair is a fiber that is found only in mammals. [SEP] 
+FACT2 - All mammals have fur or hair. [SEP] 
+CHOICES - {'text': ['animals', 'reptiles', 'bird', 'humans', 'mammals', 'insects', 'goats', 'Animal fur'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_1380,train+valid
+H,"
+H","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - the body is what after evaporation, when wet skin is hot and red? [SEP] 
+FACT1 - Sweat wets the skin, and when it evaporates, it cools the body. [SEP] 
+FACT2 - Skin is hot and red, but wet with sweat. [SEP] 
+CHOICES - {'text': ['expelled', 'protected', 'insulated', 'air cools', 'liquid', 'heated', 'warmed', 'cooled'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",train_1566,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What feeds on nonliving organic matter? [SEP] 
+FACT1 - Bivalves feed on plankton and nonliving organic matter. [SEP] 
+FACT2 - Mussels are bivalve mollusks. [SEP] 
+CHOICES - {'text': ['rabbit', 'crocodiles', 'mussels', 'oxygen', 'skateboard', 'barnacles', 'trucks', 'fungi'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_1592,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What stimulates the central nervous system? [SEP] 
+FACT1 - Caffeine is a central nervous system stimulant. [SEP] 
+FACT2 - Like caffeine, nicotine is a stimulant. [SEP] 
+CHOICES - {'text': ['nicotine', 'exercise', 'a chime', 'Energy', 'A computer', 'sweating', 'a doorbell', 'acetic acid'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1827,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what code proteins? [SEP] 
+FACT1 - Chromosomes contain genes, which code for proteins. [SEP] 
+FACT2 - Chromosomes are composed of DNA and proteins. [SEP] 
+CHOICES - {'text': ['sugar', 'alleles', 'ribosomes', 'three', 'genes', 'complex', 'nucleus', 'fats'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_1862,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Chromosomes contain genes, which code for [SEP] 
+FACT1 - Chromosomes contain genes, which code for proteins. [SEP] 
+FACT2 - Protein builds and repairs body tissue. [SEP] 
+CHOICES - {'text': ['Most plants', 'Plants growth', 'body tissue', 'Animal survival', 'animals', 'Chemical energy', 'peachleaf willow', 'A Greek letter'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_1868,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What are formed by sediments such as clay and sand by water? [SEP] 
+FACT1 - stalactites are formed by deposition [SEP] 
+FACT2 - And new sediments such as clay and sand are being deposited by water. [SEP] 
+CHOICES - {'text': ['detritus', 'stalactites', 'watershred', 'swamp vegetation', 'patch reefs', 'soft soil', 'kalenchoes', 'erosion'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_2034,train+valid
+H,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What contracts as it gets shorter? [SEP] 
+FACT1 - Muscle contraction occurs when muscle fibers get shorter. [SEP] 
+FACT2 - Muscles are bundles of fibers that can contract. [SEP] 
+CHOICES - {'text': ['layers of fat', 'Epidermis', 'Veins and arteries.', 'Shortstop', 'Labor', 'Contracts', ""the body's largest organ"", 'Bundles of fibers'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",train_2058,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is a potential outcome of genetic mutation? [SEP] 
+FACT1 - Mutations may change the structure of a chromosome or just change a single nucleotide. [SEP] 
+FACT2 - SNPs involve polymorphisms at the single nucleotide level. [SEP] 
+CHOICES - {'text': ['HIV', 'albino', 'anemia', 'pizza eating turtles', 'genealogy', 'SNPs', 'biology', 'death'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_2117,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Gasoline mowers can have as many emissions as what? [SEP] 
+FACT1 - a gasoline lawn mower converts gasoline into motion [SEP] 
+FACT2 - Gasoline lawn mowers can be as bad as cars when it comes to emissions. [SEP] 
+CHOICES - {'text': ['efficient mowers', 'coal', 'cars', 'buses', 'lawn mower', 'oil', 'gas', 'electric scooters'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_2207,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - harming an animal species has a negative impact on the what? [SEP] 
+FACT1 - harming an animal species has a negative impact on the population size of that species [SEP] 
+FACT2 - Populations are the sub-units of species. [SEP] 
+CHOICES - {'text': ['sub-units of species', 'single-celled organisms', 'diet of species', 'most organisms', 'color of species', 'ancestors of species', 'Abnormal cell growth', 'Males and females'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_2320,train+valid
+G,"
+G","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what build cells? [SEP] 
+FACT1 - Cells are the microscopic building blocks of organisms. [SEP] 
+FACT2 - Molecules are the building blocks of a cell. [SEP] 
+CHOICES - {'text': ['bushes', 'roots', 'insects', 'layers of fat', 'ferns', 'fungi', 'molecules', 'Most plants'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+G<|im_end|>",train_2412,train+valid
+D,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What can be inherited? [SEP] 
+FACT1 - Mutations that lead to cancer usually occur in genes that control the cell cycle. [SEP] 
+FACT2 - Mutations can be inherited if the cells undergo meiosis or mitosis. [SEP] 
+CHOICES - {'text': ['illness', 'anemia', 'Weight', 'cancer', 'fever', 'disease', 'the eyes', 'alleles'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",train_2491,train+valid
+F,"
+F","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is bilaterally symmetrical and a protostome? [SEP] 
+FACT1 - Mollusks are invertebrates such as the common snail. [SEP] 
+FACT2 - Mollusks are bilateraly symetrical and are protostomes. [SEP] 
+CHOICES - {'text': ['gastropod shells', 'honeybees', 'humans', 'shells', 'bears', 'the common snail', 'peachleaf willow', 'the eyes'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_2593,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Why can amphibians easily absorb toxins? [SEP] 
+FACT1 - Amphibians have permeable skin that easily absorbs substances from the environment. [SEP] 
+FACT2 - Natural Toxins Toxins are poisonous substances from bacterias, plants or animals. [SEP] 
+CHOICES - {'text': ['salamanders', 'permeable skin', 'hydrate their cells', 'it needs them', 'poisonous frogs', 'Pesticides', 'cold blooded', 'bending light rays'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_2599,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What causes nutrients to be available? [SEP] 
+FACT1 - rain causes erosion [SEP] 
+FACT2 - Erosion of rock makes nutrients available. [SEP] 
+CHOICES - {'text': ['water', 'rivers', 'saliva', 'fats', 'Enzymes', 'protein', 'spring', 'Cooking'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_2704,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - If what are found in permafrost, that plant used to live in that place? [SEP] 
+FACT1 - if fossils of an animal or plant are found in a place then that animal or plant used to live in that place [SEP] 
+FACT2 - Frozen fossil animals are found in permafrost. [SEP] 
+CHOICES - {'text': ['Echinoids', 'Conifers', 'deuterostomes', 'bullfrogs', 'frozen fossils', 'one celled organisms', 'Nematoda', 'important habitats'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_2943,train+valid
+F,"
+F","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - How can we learn about the seasons by using a tree? [SEP] 
+FACT1 - the number of rings in a tree trunk can be used to estimate the age of the tree [SEP] 
+FACT2 - Tree rings record the seasons. [SEP] 
+CHOICES - {'text': ['Tasting the tree leaves', 'Something that can be auburn', 'it keeps an organism warm', 'Measuring the height of the tree', 'Help plants grow', 'By looking at the trunk', 'Something that is self-aware', 'Chopping down the tree'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_3021,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A thermal insulator slows the transfer of [SEP] 
+FACT1 - a thermal insulator slows the transfer of heat [SEP] 
+FACT2 - Heat is a measurement of transferable energy. [SEP] 
+CHOICES - {'text': ['moisture', 'energy.', 'voltage', 'sunlight', 'warmth', 'photons', 'matter', 'air'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_3028,train+valid
+C,"
+C","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What does fanning a fire increase? [SEP] 
+FACT1 - fanning a fire increases the oxygen near the fire [SEP] 
+FACT2 - Air is used as a source of oxygen. [SEP] 
+CHOICES - {'text': ['converting electricity to heat', 'Chemical energy', 'the air near the fire', 'activation energy', 'igniting fuel and oxidiser', 'flow of electrons', 'kinetic energy', 'Electrical energy'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_3048,train+valid
+H,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - How are plant cells around the vascular tissue created? [SEP] 
+FACT1 - Secondary meristem is located within and around the vascular tissues. [SEP] 
+FACT2 - Plant cell types rise by mitosis from a meristem . [SEP] 
+CHOICES - {'text': ['meiosis', 'metastasis', 'haleotosis', 'vegetation', 'shrub beds', 'made', 'homogenous', 'mitosis'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",train_3072,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - animals in the Phylum Porifera are a source of what for many species of fish [SEP] 
+FACT1 - Sponges are a source of food for many species of fish. [SEP] 
+FACT2 - Sea sponges are animals in the Phylum Porifera. [SEP] 
+CHOICES - {'text': ['oxygen', 'sound', 'food', 'waste', 'life', 'edible', 'Energy', 'amusement'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_3148,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What can provide a renewable resource? [SEP] 
+FACT1 - hydropower requires damming a river [SEP] 
+FACT2 - Hydropower is a renewable resource. [SEP] 
+CHOICES - {'text': ['By coral exoskeletons', 'oil', 'fossil fuel', 'damming a river', 'gas', 'peachleaf willow', 'sunlight', 'Electrical energy'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_3225,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Plants can be infected by what? [SEP] 
+FACT1 - Viruses infect and live inside the cells of living organisms. [SEP] 
+FACT2 - Plants are complex living organisms. [SEP] 
+CHOICES - {'text': ['human pathogens', 'infected meat', 'Pesticides', 'insects', 'human papillomavirus', 'viruses', 'fungi', 'bacteria'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_3265,train+valid
+B,"
+B","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What side of an insect are wings attached to? [SEP] 
+FACT1 - Wings are part of the exoskeleton and attached to the thorax. [SEP] 
+FACT2 - Insect wings are attached to the dorsal side of their thorax. [SEP] 
+CHOICES - {'text': ['white', 'dorsal', 'protected', 'abdomen', 'elytra', 'three', 'strong', 'tail'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_3342,train+valid
+G,"
+G","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what have a characteristic life cycle that includes alternation of generations? [SEP] 
+FACT1 - All plants have a characteristic life cycle that includes alternation of generations. [SEP] 
+FACT2 - Many orchids are rewarding indoor plants. [SEP] 
+CHOICES - {'text': ['clouds', 'h2o', 'Conifers', 'ducks', 'crocodiles', 'burrs', 'orchids', 'humans'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+G<|im_end|>",train_3724,train+valid
+E,"
+E","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What happens when muscles around the prostate gland contracts? [SEP] 
+FACT1 - Ejaculation occurs when muscle contractions propel sperm from the epididymes. [SEP] 
+FACT2 - An ejaculation occurs as the muscles around the prostate gland and the penis contract. [SEP] 
+CHOICES - {'text': ['preventing heat transfer', 'The bending of a ray of light', 'Generating heat', 'Warm air moving into cold air', 'Sperm leaves the epidiymes', 'heat produced', 'Release energy', 'rapid expansion'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_3772,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The offspring of two humans with albinism are always [SEP] 
+FACT1 - crossing two living things with recessive traits causes their offspring to have that recessive trait [SEP] 
+FACT2 - Albinism in humans is inherited as a simple recessive trait. [SEP] 
+CHOICES - {'text': ['fertile', 'haploid', 'similar', 'albino', 'short', 'near-sighted', 'retarded', 'unique'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_3877,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What has a spinal column? [SEP] 
+FACT1 - Vertebrates are animals that have a backbone. [SEP] 
+FACT2 - Invertebrates are animals who lack a backbone or spinal column. [SEP] 
+CHOICES - {'text': ['bacteria', 'humans', 'vertebrates', 'lichens', 'invertebrates', 'athletes', 'matter vibrating', 'people'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_3896,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What detects and responds to the daily cycle of light and darkness? [SEP] 
+FACT1 - Plants detect and respond to the daily cycle of light and darkness. [SEP] 
+FACT2 - Bamboos are vigorous, rugged plants. [SEP] 
+CHOICES - {'text': ['deep-sea dwellers', 'fens', 'bamboo', 'amoeba', 'Oak', 'asteroids', 'apples', 'rocks'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_3963,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Extreme heat and pressure can turn rock into what? [SEP] 
+FACT1 - extreme heat and pressure change rock into metamorphic rock [SEP] 
+FACT2 - Slate is an example of a metamorphic rock. [SEP] 
+CHOICES - {'text': ['slate', 'complex', 'soils', 'calcite', 'oil', 'cracks', 'dead', 'coal'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_3999,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what is a measuring cup used for measuring? [SEP] 
+FACT1 - a measuring cup is used for measuring the volume of substances [SEP] 
+FACT2 - Objects displace their volume in a fluid. [SEP] 
+CHOICES - {'text': ['displacement of objects', 'barrel-shaped', 'Something that is self-aware', 'layers of fat', 'objects that have mass', 'fissures of hot, acidic water', 'looseness of dirt or compost', 'heat or cold'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_4025,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - moving people across bodies of waters requires avoiding what [SEP] 
+FACT1 - a ship is used for moving people across bodies of water [SEP] 
+FACT2 - Hurricanes and treacherous shipping lanes frequently scattered treasures and crews across the reef. [SEP] 
+CHOICES - {'text': ['energy barrier', 'erosion', 'storms', 'energy usage', 'salinity', 'hurricanes', 'friction', 'massive damage'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_4127,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What do plasma cells allow our bodies to fight? [SEP] 
+FACT1 - Plasma cells are activated B cells that secrete antibodies. [SEP] 
+FACT2 - Antibodies are the bodies way of fighting infection. [SEP] 
+CHOICES - {'text': ['resistance', 'parasites', 'infection', 'illness', 'Hostile armies', 'invasion', 'hair', 'Leptospirosis'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_4195,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What happens to water poured on volcanic soil? [SEP] 
+FACT1 - if soil is permeable then water easily flows through that soil [SEP] 
+FACT2 - Much of the volcanic soil is permeable. [SEP] 
+CHOICES - {'text': ['evaporation', 'Condensation', 'ground to shake', 'It flows through.', 'Plant growth is reduced', 'contamination', 'aqueous solution', 'It gets heated up'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_4263,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - plates in the earth do what which causes earthquakes [SEP] 
+FACT1 - faulting of rock in Earth 's crust causes earthquakes [SEP] 
+FACT2 - Fault zones are plates in the earth that slide and collide. [SEP] 
+CHOICES - {'text': ['Movement', 'waves', 'heat', 'collide', 'moves', 'erosion', 'break off', 'friction'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_4320,train+valid
+E,"
+E","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Why do dogs play? [SEP] 
+FACT1 - Playing is just one of many ways that mammals and other animals learn how to behave. [SEP] 
+FACT2 - Cats are Mammals that Shed Dogs are Mammals that Wag their tails. [SEP] 
+CHOICES - {'text': ['To keep their body heat.', 'To win a fight', 'it keeps an organism warm', ""increases a body's strength"", 'To learn to behave', 'allow growth', 'To become dominant', 'To spend time alone'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_4339,train+valid
+G,"
+G","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Wiring requires copper or what? [SEP] 
+FACT1 - wiring requires an electrical conductor [SEP] 
+FACT2 - Most electrical conductors, such as wires, are made of copper or gold. [SEP] 
+CHOICES - {'text': ['LEDs', 'energy', 'H20', 'fibers', 'SO2', 'motors', 'gold', 'tube'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+G<|im_end|>",train_4477,train+valid
+H,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Cells form tissues, which form? [SEP] 
+FACT1 - Cells are organized into tissues, and tissues form organs. [SEP] 
+FACT2 - Skin is a protective organ. [SEP] 
+CHOICES - {'text': ['water', 'muscle', 'plants', 'gametes', 'bushes', 'retina', 'air', 'skin'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",train_4488,train+valid
+F,"
+F","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Ants communicate via [SEP] 
+FACT1 - Ants communicate with chemicals called pheromones. [SEP] 
+FACT2 - Pheromones are stinky chemicals excreted from glands throughout the ants body. [SEP] 
+CHOICES - {'text': ['mechanical waves', 'telepathy', 'radio waves', 'radiative transfer', 'electrically', 'excreted chemicals', 'sensory neurons', 'during the day'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_4498,train+valid
+G,"
+G","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what do some plants use a stem to store? [SEP] 
+FACT1 - a stem is used to store water by some plants [SEP] 
+FACT2 - Water is made up of H2O molecules. [SEP] 
+CHOICES - {'text': ['CO2', 'H20', 'RNA', 'UV', 'urea', 'Dew', 'h2o', 'rain'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+G<|im_end|>",train_4554,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Most of the food consumed by people worldwide comes from [SEP] 
+FACT1 - Grasses supply most of the food consumed by people worldwide. [SEP] 
+FACT2 - Grasses are very distinctive plants. [SEP] 
+CHOICES - {'text': ['humans', 'trees', 'Energy', 'animals', 'plants', 'vitamin C', 'honeybees', 'Earth'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_4594,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - plants grow healthier if they are protected from what [SEP] 
+FACT1 - a greenhouse is used to protect plants from the cold [SEP] 
+FACT2 - Greenhouse plants grow healthier. [SEP] 
+CHOICES - {'text': ['cold', 'soil', 'forces', 'mold', 'sun', 'loss', 'mildew', 'rain'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_4606,train+valid
+F,"
+F","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - To promote plant growth, vineyards are often [SEP] 
+FACT1 - a plant requires sunlight to grow [SEP] 
+FACT2 - Vineyards are vertically trellised, low to the ground, increasing sunlight exposure in the fruit zone. [SEP] 
+CHOICES - {'text': ['Converted sugar', 'Earthworms', 'covered with mud', 'one celled organisms', 'open for wine tours', 'vertically trellised', 'important habitats', 'shielded from pollinators'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_4732,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Mitosis begins when what unite in fertilization?  [SEP] 
+FACT1 - Gametes then unite in fertilization and form a diploid zygote. [SEP] 
+FACT2 - Mitosis produces diploid cells. [SEP] 
+CHOICES - {'text': ['seeds', 'gonads', 'alleles', 'plants', 'cells', 'gametes', 'zygotes', 'Flowers'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_4871,train+valid
+H,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What has a complex nervous system? [SEP] 
+FACT1 - Most invertebrates have a more complex nervous system. [SEP] 
+FACT2 - Cephalopods have the most advanced nervous systems of all invertebrates. [SEP] 
+CHOICES - {'text': ['insects', 'Airplanes', 'Rocks', 'elephants', 'humans', 'animals', 'h2o', 'Cephalopods'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",train_5146,train+valid
+F,"
+F","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - After an infection or injury to the lung, what can happen? [SEP] 
+FACT1 - Pneumonia may be caused by an infection or injury of the lungs. [SEP] 
+FACT2 - Opportunistic infections, such as Pneumocystis carinii pneumonia, begin to occur. [SEP] 
+CHOICES - {'text': ['Destroy crops', 'a lot of human deaths', 'Plant growth is reduced', 'destroying life', 'forest is destroyed', 'opportunistic infections', 'death and devastation', 'negative impact'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_5256,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A bulb requires electrical energy to produce part of what kind of spectrum? [SEP] 
+FACT1 - a light bulb requires electrical energy to produce light [SEP] 
+FACT2 - Light is a part of the electromagnetic spectrum. [SEP] 
+CHOICES - {'text': ['an electron microscope', 'magnetic', 'autism spectrum', 'electromagnetic', 'rain or sun shine', 'direct energy', 'field', 'hydrogen and oxygen'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_5306,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - When the seasons change from the summer to the fall, the amount of what will decrease? [SEP] 
+FACT1 - when the seasons change from the summer to the fall , the amount of daylight will decrease [SEP] 
+FACT2 - Daylight, sunlight, is necessary to it. [SEP] 
+CHOICES - {'text': ['air', 'matter', 'Energy.', 'Solar energy', 'Light', 'sunlight', 'energy', 'planets'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_5365,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What causes water to expand? [SEP] 
+FACT1 - Hydrogen bonds cause water to expand when it freezes. [SEP] 
+FACT2 - Hydrogen bonds Hydrogen bonds are primarily electrostatic in origin. [SEP] 
+CHOICES - {'text': ['evaporation', 'Condensation', 'Generating heat', 'electrostatic', 'friction', 'heat energy', 'heat produced', 'wind and erosion'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_5379,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what is the largest group of animals? [SEP] 
+FACT1 - Most arthropods are insects. [SEP] 
+FACT2 - Arthropods are the largest group of animals. [SEP] 
+CHOICES - {'text': ['tortoises', 'ducks', 'crocodiles', 'sharks', 'insects', 'people', 'animals', 'fur seals'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_5455,train+valid
+G,"
+G","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What in an electric fan provides a cooling breeze? [SEP] 
+FACT1 - the vanes rotating in an electric fan causes air to move [SEP] 
+FACT2 - Fans move air, providing a cooling breeze. [SEP] 
+CHOICES - {'text': ['kinetic energy', 'metal face', 'heat energy', 'activation energy', 'Solar energy', 'plastic buttons', 'vanes rotating', 'electric cord'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+G<|im_end|>",train_6297,train+valid
+B,"
+B","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what makes sand formations? [SEP] 
+FACT1 - the surface of a beach is formed by mechanical weathering [SEP] 
+FACT2 - Beaches and Sand Dunes Dunes are accumulations of sand blown from the beach by the wind. [SEP] 
+CHOICES - {'text': ['potash', 'wind', 'fibers', 'fish', 'Rain', 'sea', 'soils', 'coral'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_6348,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - fertilization takes place inside of what kind of females? [SEP] 
+FACT1 - Fertilization takes place inside the female organism. [SEP] 
+FACT2 - Humans are complex organisms. [SEP] 
+CHOICES - {'text': ['fertile', 'digestion', 'lawns', 'humans', 'a fish', 'mammals', 'bacteria', 'offspring'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_6374,train+valid
+C,"
+F","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Urine is a product of what organ of the body that is excreted by the urinary system? [SEP] 
+FACT1 - Urine is the liquid waste product of the body that is excreted by the urinary system. [SEP] 
+FACT2 - Liquid waste is put into the bladder. [SEP] 
+CHOICES - {'text': ['bowel', 'epidermal', 'bladder', 'alveoli', 'lungs', 'urine', 'mammals', 'NaCl'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_6399,train+valid
+H,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What do animals lack? [SEP] 
+FACT1 - Plants use cellulose for their cell walls. [SEP] 
+FACT2 - Animals lack cell walls. [SEP] 
+CHOICES - {'text': ['chromosomes', 'warmth', 'Energy', 'polysaccharides', 'Bodily water', 'fur and fat', 'microbes', 'cellulose'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",train_6423,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What do yard lamps use to convert electricity to light?  [SEP] 
+FACT1 - an incandescent light bulb converts electricity into light by sending electricity through a filament [SEP] 
+FACT2 - Most of the yard lamps are incandescent. [SEP] 
+CHOICES - {'text': ['heat energy', 'energy', 'Solar energy', 'transference', 'heat', 'filament', 'tube', 'metal'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_6892,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What causes tides? [SEP] 
+FACT1 - the gravitational pull of the Moon on Earth 's oceans causes the tides [SEP] 
+FACT2 - For example, ocean tides are caused by the sun and moon's gravity pulling on the water. [SEP] 
+CHOICES - {'text': ['waves', 'sunlight', 'Mass', 'moon', 'weight', 'force', 'wind', 'asteroid'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_6924,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Using a gasoline engine requires doing what to gasoline? [SEP] 
+FACT1 - using a gasoline engine requires burning gasoline [SEP] 
+FACT2 - When they are burned, fossil fuels are consumed. [SEP] 
+CHOICES - {'text': ['Dehydration', 'Cooking', 'Smoking', 'energy usage', 'vaporization', 'consuming', 'adding heat', 'evaporation'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_6946,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What sort of behavior can cause fight-or-flight responses? [SEP] 
+FACT1 - threatening behavior causes a fight-or-flight response in animals [SEP] 
+FACT2 - If a pony feels threatened it can respond with aggressive behavior. [SEP] 
+CHOICES - {'text': ['hyperthyroidism', 'aggressive', 'hormones', 'humans', 'bullfrogs', 'hypothyroidism', 'similar', 'some mammals'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_7337,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What hurts bacteria? [SEP] 
+FACT1 - intense heat has a negative impact on an organism [SEP] 
+FACT2 - Bacteria are killed by intense heat for a certain time. [SEP] 
+CHOICES - {'text': ['Hot temperatures', 'Abnormal cell growth', 'Cool air', 'Warm water', 'Room temperatures', 'prolactin release', 'some viruses', 'Pollution'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_7447,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Members of a major food source for humans filter what? [SEP] 
+FACT1 - Mollusks are a major food source for other organisms, including humans. [SEP] 
+FACT2 - Mollusks filter the water as they look for food. [SEP] 
+CHOICES - {'text': ['gills', 'salmon', 'matter', 'water', 'Air', 'energy', 'sodium', 'Energy.'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_7478,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what is better able to dissolve oxygen and nutrients when it's running over standing? [SEP] 
+FACT1 - Running water is better able to dissolve oxygen and nutrients than standing water. [SEP] 
+FACT2 - Water is made up of H2O molecules. [SEP] 
+CHOICES - {'text': ['bass', 'lake', 'H20', 'h2o', 'heat', 'vitamins', 'hydrogen', 'bogs'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_7631,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - How does evolution occur? [SEP] 
+FACT1 - Evolution occurs by a process called natural selection. [SEP] 
+FACT2 - Adaptation and natural selection are discussed. [SEP] 
+CHOICES - {'text': ['Plants growth', 'by adaptation', 'vitalism', 'Plant reproduction', 'theistic evolution', 'competition', 'orthogenesis', 'mechanical'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_7754,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What increases the amount of carbon in soil? [SEP] 
+FACT1 - decomposition increases amount of organic matter in soil [SEP] 
+FACT2 - Carbon is in every organic compound. [SEP] 
+CHOICES - {'text': ['oxygen', 'decomposition', 'nutrients', 'chlorofluorocarbons', 'rainfall', 'fossil fuels', 'wind', 'water'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_7895,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Burning garbage can be used  to produce what? [SEP] 
+FACT1 - biofuel is used to produce electricity by burning [SEP] 
+FACT2 - Among the energy sources referred to as biofuels is garbage. [SEP] 
+CHOICES - {'text': ['warmth', 'heat energy', 'a slowing of global warming', 'gold', 'electricity', 'adding heat', 'mutant protection', 'carbon dioxide'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_8016,train+valid
+G,"
+G","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is burning ethanol used to produce? [SEP] 
+FACT1 - biofuel is used to produce electricity by burning [SEP] 
+FACT2 - Ethanol is the most widely used biofuel today. [SEP] 
+CHOICES - {'text': ['heat energy', 'rays or beams', 'adding heat', 'kinetic energy', 'energy', 'carbon dioxide', 'electricity', 'engines'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+G<|im_end|>",train_8025,train+valid
+E,"
+E","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What are most canyons caused by? [SEP] 
+FACT1 - most canyons are formed by flowing rivers through erosion over long periods of time [SEP] 
+FACT2 - Rivers contain 0.001 percent of the earth's water. [SEP] 
+CHOICES - {'text': ['erosion', 'Physical weathering', 'magic', 'Freezing temperature', 'Flowing water', 'ice wedging', 'Flowing gas', 'flooding'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",train_8058,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - How do you calculate water? [SEP] 
+FACT1 - a graduated cylinder is used to measure volume of a liquid [SEP] 
+FACT2 - Excess water was poured into a graduated cylinder and measured. [SEP] 
+CHOICES - {'text': ['they body they live in', 'With a scale', 'chemical equations', 'A graduated cylinder', 'A thermometer', 'Temperature', 'With a gauge', ""it's bodily water decreases""], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_8113,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What can be used to measure the volume of water? [SEP] 
+FACT1 - a graduated cylinder is used to measure volume of a liquid [SEP] 
+FACT2 - Most of the earth's water is liquid. [SEP] 
+CHOICES - {'text': ['Spring Loaded Cylinder', 'Tape Measure', 'watershred', 'Earth orbiting the Sun', 'an electron lens', 'a graduated cylinder', 'an electron microscope', 'Ruler'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",train_8117,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What can be used for transportation? [SEP] 
+FACT1 - a vehicle is used for transportation [SEP] 
+FACT2 - Trailers and boats are counted as a private vehicles. [SEP] 
+CHOICES - {'text': ['trailers and boats', 'hitches', 'couches', 'trees and flowers', 'chemical messengers', 'potassium', 'cats', 'air masses'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",valid_10,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is a phenotypic expression? [SEP] 
+FACT1 - Skin color is another polygenic trait. [SEP] 
+FACT2 - Phenotypic expression of polygenic traits varies over a wide range. [SEP] 
+CHOICES - {'text': ['hyper responses', 'Rolex', 'skin color', 'tiny hairs', 'getting excited', 'Flowers', 'a hosta', 'indoor traits'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",valid_78,train+valid
+H,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What can evaporate in an open container, spreading out into the air? [SEP] 
+FACT1 - when a gas in an open container evaporates , that gas spreads out into the air [SEP] 
+FACT2 - Water vapor is a gas in the air. [SEP] 
+CHOICES - {'text': ['trucks and cars', 'condensation', 'nothing', 'amount of heat', 'dandelions', 'heating', 'mercury', 'water vapor'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",valid_101,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - How do species of Sarcocystis make humans sick? [SEP] 
+FACT1 - Protozoa make humans sick when they become human parasites. [SEP] 
+FACT2 - Protozoa Toxoplasma gondii Muscles Nematode Trichinella spiralis Protozoa Sarcocystis sp. [SEP] 
+CHOICES - {'text': ['by causing cancer', 'Inject venom', 'by parasitizing them', 'heart disease', 'antigens that cause allergy', 'melanin content', 'killing humans', 'uncontrollable burning'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",valid_222,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is inherited? [SEP] 
+FACT1 - Skin color is a polygenic trait. [SEP] 
+FACT2 - Some traits are inherited. [SEP] 
+CHOICES - {'text': ['fever', 'dirt', 'sense', 'enzymes', 'Lymphocytes', 'Skin color', 'layers', 'diphtheria'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",valid_255,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What are regulated by feedback mechanisms in the body? [SEP] 
+FACT1 - Most hormones are regulated by feedback mechanisms. [SEP] 
+FACT2 - Hormones are chemical messengers in the body. [SEP] 
+CHOICES - {'text': ['Engine mechanisms.', '70-75 degrees Fahrenheit', 'some drugs', 'prokaryotic cells', 'State regulators.', 'Chemical messengers.', 'Feedback polls.', 'Pasteurization'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",valid_327,train+valid
+F,"
+F","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is one thing that is absorbed in the GI tract? [SEP] 
+FACT1 - Absorption of nutrients occurs mainly in the small intestine. [SEP] 
+FACT2 - Gastrointestinal GI dysfunction can inhibit Mg absorption from the small intestine. [SEP] 
+CHOICES - {'text': ['Lymph fluid', 'keratin', 'thoughts', 'antigens', 'Lymphocytes', 'magnesium', 'oxygen', 'neurons'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",valid_337,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what is released into the surrounding water through the osculum? [SEP] 
+FACT1 - Sperm are released into the surrounding water through the osculum. [SEP] 
+FACT2 - Male gametes are called sperm. [SEP] 
+CHOICES - {'text': ['keratin', 'hydrogen', 'Vibrissae', 'male gametes', 'melanin content', 'irritants', 'precipitation', 'water vapor'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",valid_358,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What kind of weather can cause forest fires? [SEP] 
+FACT1 - lightning can cause a forest fire [SEP] 
+FACT2 - All thunderstorms contain lightning. [SEP] 
+CHOICES - {'text': ['blizzard', 'tornado', 'rain', 'a cold environment', 'Thunderstorm', 'tropical cyclone', 'heated by the sun', 'very complex'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",valid_362,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what eats krill and plankton [SEP] 
+FACT1 - Sponges are filter feeders. [SEP] 
+FACT2 - Diet Filter feeders, they eat krill and plankton. [SEP] 
+CHOICES - {'text': ['sponges', 'Therapsids', 'aquatic', 'humans', 'h2o', 'protozoa', 'plants', 'food'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",valid_385,train+valid
+H,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what is a compass used to navigate? [SEP] 
+FACT1 - a compass is used to navigate oceans [SEP] 
+FACT2 - And to the east is the Atlantic Ocean. [SEP] 
+CHOICES - {'text': ['density', 'lamphreys', 'marine', 'outer space', 'their speed', 'Antarctica', 'non-magnetic planets', 'the Atlantic'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",valid_459,train+valid
+E,"
+E","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - a spider uses traps to capture what [SEP] 
+FACT1 - a spider web is used to capture food by spiders [SEP] 
+FACT2 - Spider webs are interesting traps. [SEP] 
+CHOICES - {'text': ['larvae', 'Worms', 'water', 'Testes', 'food', 'Honey', 'light', 'cilia'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",valid_485,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what involved in digestion occur mainly in the small intestine? [SEP] 
+FACT1 - Chemical digestion occurs mainly in the small intestine. [SEP] 
+FACT2 - Enzymes are chemicals involved in digestion. [SEP] 
+CHOICES - {'text': ['corn', 'nutrients', 'cells', 'foods', 'fish', 'enzymes', 'fats', 'vorticella'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",valid_536,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is used to measure a period? [SEP] 
+FACT1 - seconds are used to measure time [SEP] 
+FACT2 - An accounting period is simply a period of time. [SEP] 
+CHOICES - {'text': ['percents', 'seconds', 'rainfall', 'lamphreys', 'feet', 'pounds', 'distance', 'meters'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",valid_542,train+valid
+F,"
+F","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What do eyes require? [SEP] 
+FACT1 - seeing requires light [SEP] 
+FACT2 - Light is simply the one form of radiation our eyes can see. [SEP] 
+CHOICES - {'text': ['Protein', 'sand', 'wind', 'hairs', 'antigen', 'light', 'cilia', 'enzymes'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+F<|im_end|>",valid_681,train+valid
+E,"
+E","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What could have been formed by collision of crustal plates? [SEP] 
+FACT1 - high mountains with well-rounded peaks can be formed by collision of crustal plates [SEP] 
+FACT2 - For big mountain background, check out the Himalayas . [SEP] 
+CHOICES - {'text': ['the Arctic', 'coarse grit', 'deposits', 'trees and flowers', 'the Himalayas', 'interior chambers', 'fossils', 'permeable walls'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",valid_716,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Where do newborns get nutrition? [SEP] 
+FACT1 - Milk is a nutritious fluid. [SEP] 
+FACT2 - Breast milk is the ideal nutrition for a newborn. [SEP] 
+CHOICES - {'text': ['water', 'neonatal', 'breasts', 'Pregnancy', 'air', 'Protein', 'solid food', 'intestinal'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",valid_745,train+valid
+E,"
+E","<|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what are safety goggles used to protect during experiments? [SEP] 
+FACT1 - safety goggles are used for protecting the eyes during experiments [SEP] 
+FACT2 - Inside the eye, at the back, is the retina. [SEP] 
+CHOICES - {'text': ['Vibrissae', 'eight', 'weater', 'lamphreys', 'retina', 'h2o', 'hands', 'beakers'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+E<|im_end|>",valid_813,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What can cure people when they are sick? [SEP] 
+FACT1 - medicine is used for curing people when they are sick [SEP] 
+FACT2 - Drugs are small medicine. [SEP] 
+CHOICES - {'text': ['food', 'RNA', 'drugs', 'DNA', 'dehydration', 'poison', 'insulin', 'viruses'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",valid_884,train+valid
+H,"
+H","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a grade school science multiple-choice question formatted as ""QUESTION - question [SEP] FACT1 - fact1 [SEP] FACT2 - fact2 [SEP] CHOICES - choices"".
+The choices are provided in JSON format, where ""text"" is a list of possible answers and ""label"" is a list of corresponding answer keys.
+Use the FACT1 and FACT2 to determine the correct answer.
+Return only the corresponding letter (A, B, C, D, E, F, G, or H), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - what is a stopwatch used to measure? [SEP] 
+FACT1 - a stopwatch is used to measure time [SEP] 
+FACT2 - All times are measured in seconds. [SEP] 
+CHOICES - {'text': ['percents', 'inches', 'Fractions', 'winter', 'h2o', 'brass', 'mass', 'seconds'], 'label': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']}<|im_end|>
+<|im_start|>assistant
+H<|im_end|>",valid_911,train+valid

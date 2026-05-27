@@ -1,0 +1,19 @@
+{
+    "task": "commonsense_qa",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_commonsense_qa",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.6717948717948717,
+    "weights": [
+        0.7400139830844841,
+        -0.0017037889211520638,
+        0.6350439769102563,
+        0.47926667656215133,
+        0.5235706319961043
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "task": "glue_sst2",
+    "expert_name": [
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd"
+    ],
+    "valid_accuracy": 0.95,
+    "test_accuracy": 0.892,
+    "weights": [
+        0.48304099064315975,
+        -0.09152348798709749,
+        -0.03340911257549557,
+        0.028538585897234323,
+        -0.023534181664339848
+    ]
+}

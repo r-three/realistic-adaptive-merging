@@ -1,0 +1,19 @@
+{
+    "task": "super_glue_wic",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_super_glue_wic",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.8,
+    "test_accuracy": 0.716390423572744,
+    "weights": [
+        0.8472881164448798,
+        0.6936405275693778,
+        0.44209408544337353,
+        -0.09247351551250259,
+        0.3754648859717131
+    ]
+}

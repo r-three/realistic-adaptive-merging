@@ -1,0 +1,1603 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Wells Fargo downgrades Netflix: 'If content is king, then cash is queen' https://t.co/niUwYR5YUD<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_123,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Eastman Chemical stock price target raised to $85 vs. $82 at BofA Merrill Lynch<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_232,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Olin Corp. stock price target raised to $23 vs. $22 at BofA Merrill Lynch<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_294,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+PennMac Financial rises to record as Piper gets more bullish<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_301,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Synaptics stock price target raised to $40 from $32 at J.P. Morgan<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_322,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Twitter stock price target raised to $47 from $34 at Susquehanna<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_329,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Stock Market Update: NVIDIA shares upgraded, Netflix downgraded<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_387,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Yellen Blames ""Enormous Debt And Buybacks"" For Coming Default Wave; Morgan Stanley Says It's All The Fed's Fault  https://t.co/Ed0jVBpmhZ<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_421,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Exploration deepens into central bank digital currencies<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_533,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+BlackRock admonishes Siemens for environmental actions<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_777,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Walmart's Jet is ending its fresh-food delivery business just a year after introducing the service in New York City https://t.co/Y8sI7u2mmB<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_898,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Boeing reports 30 new orders for the troubled 737 Max in November https://t.co/jGejqEi0oT<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_956,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$CPST - Eagle Ford producer orders another Capstone C800S https://t.co/dhi3LiIgx7<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1062,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+BlackRock Income and Growth Investment Trust : Net Asset Value(s)  #Stock #MarketScreener https://t.co/80teyeCgQy https://t.co/of2ZX4atd8<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1307,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+China Threatens Retaliation Should Germany Ban Huawei 5G<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1361,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Dallas’ Imaginuity Ranks 16th on 2019 Dallas 100 https://t.co/FxT5vSjvYX https://t.co/amRGOJDO5k<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1397,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Ford is mortgaging its future on the value of its past<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1482,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Nova Leap Health Corp. to Present at the ii6 Summit in Toronto  https://t.co/I7ra07OEKW<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_1735,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Verseon : Update on Tender Offer #Verseon #Stock #MarketScreener https://t.co/5vVX6gi1DV https://t.co/Y4SvsAVe5U<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2013,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Wins Finance gets noncompliance letter from Nasdaq<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2049,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$MLCO - Melco Resorts Finance proposes senior notes offering https://t.co/IBZwYzx7QQ<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2115,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$ARI - Apollo Commercial Real Estate Finance declares $0.46 dividend https://t.co/APMkuIU7bX<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2247,train+valid
+2,"
+2","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$UGI - UGI declares $0.325 dividend https://t.co/plTGuAy6h1<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2314,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Nuveen AMT-Free Quality Municipal Income Fund declares $0.0117 dividend<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2406,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Amazon's market value tops $1 trillion following the company's strong earnings report  https://t.co/AhgLGqh4nl<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2469,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$PREKF - Prairiesky Royalty reports Q4 results https://t.co/Bs0O5QMHo9<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2582,train+valid
+2,"
+1","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Commonwealth Bank of Australia : Capital, Margins in Focus -- Earnings Preview #CommonwealthBankofAustralia #Stock… https://t.co/L8gy222ZI6<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2658,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+FLIR Systems to Release Fourth Quarter and Full Year 2019 Financial Results on Thursday, February 27, 2020<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2779,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+HEICO Q4 2019 Earnings Preview<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2790,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Innerscope Hearing Technologies reports Q3 results<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2800,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Item 9 Labs reports Q4 results<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2805,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+MAXIMUS Reports Fiscal Year 2020 First Quarter Results<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2828,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Oil tumbles as U.S. gasoline supplies rise by most since January https://t.co/t07uydxG2K via @business https://t.co/FpfskYKqZM<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2968,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Disruptions caused by #COVID19 are starting to ripple through #emergingmarkets. March data show sharp slowdowns in… https://t.co/oufpbwIhJb<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3725,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+What Happens When The Economic Momentum Ends? https://t.co/AkPhHv1CI0<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3804,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Highlight: ""We have high confidence that we've seen what we call the internal low for the market,"" @suntrust Chief… https://t.co/md3WSyAKHT<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3832,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+'Things are normalizing': ETF market action is 'encouraging' despite economic worries, investor says (via… https://t.co/8KwoMqVoHA<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3869,train+valid
+2,"
+0","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Around 76,000 people were injured in the U.S. between 1998-2017 because of cell phone-related injuries https://t.co/u5FF9sIDSb<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4141,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Chinese state media stepped up criticism of the U.S. and accused it of meddling in its domestic affairs https://t.co/GWysmHlLz0<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4306,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Climate activist @GretaThunberg called out business and political leaders at #COP25 for using “clever accounting an… https://t.co/VJWuC2EOD4<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4312,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Congratulations to the college students who competed in the 2019 National Fed Challenge Finals:… https://t.co/S6T3FuCNP3<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_4333,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Get LIVE #market #analysis, exclusive #investingideas, #earnings coverage and more. Take a #FreeTrial of Briefing I… https://t.co/wwze4v8e0y<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_4500,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+How much garbage do you generate in a day?  Read our new #IMFBlog to see which countries top the list.... https://t.co/yy3JxiZyGs<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_4667,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Let’s Not Disclose The $1 Million In Switzerland . . . And Go To Jail For 3 Years<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4799,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Most Americans Think They Won't Need Social Security. They're Wrong.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4874,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Pope Francis Isn't Infallible on Economics<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4981,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+The longer you wait to save, the more it will cost you in the long run. Here’s how much you need to start saving ri… https://t.co/T4581B5FO8<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5211,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Gold edges lower as investors turn cautiously upbeat on trade outlook https://t.co/hXm8MQnuxr<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5559,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Gold prices move up as focus turns to Fed meeting, China trade deal https://t.co/s3o6R9LARM<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5600,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Samsung Heavy Industries to pay $75 million to resolve foreign bribery case: U.S. #SamsungHeavyIndustries #Stock… https://t.co/XgTBQMro1V<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5775,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+China’s antitrust authority has suspended a probe of Tencent Music https://t.co/W7LjB2MvTa<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5809,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+GATX to sell American Steamship Company business segment<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6043,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$NSANY - Coronavirus impact hits auto supply chain https://t.co/rr0mlGVZXn<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6160,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Japan Recession Risks Prompt Forecasts of 2020 Contraction<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_6224,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Stock Market Update: January nonfarm payrolls exceed expectations<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6394,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Trump’s Farmer Base Will Make More Money Thanks to Trade Deal<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6407,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+This chart shows that the U.S.-China trade war has dominated discussions since August. https://t.co/gBlWLR2pXc https://t.co/7hJf0UA7sW<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_6575,train+valid
+2,"
+2","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+USDA Chicago Terminal Grain - Feb 10 #matprem #MarketScreener https://t.co/ZLC7avpIHW https://t.co/lrKRg8AQ5G<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_6597,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Stocks rose slightly on Friday, after President Trump said the U.S. and China are “very close” to reaching a trade… https://t.co/DSRcoha7Er<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6929,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+U.S. equities edged higher, while European and Asian stocks slipped, as investors sought to gauge the economic hit... https://t.co/GimDRAOMRy<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7101,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+STATEMENT FROM THE DOMINICAN REPUBLIC MINISTER OF TOURISM FRANCISCO JAVIER GARCÍA  https://t.co/R4zUobXF8P<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7355,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$AWK - American Water CEO Story to retire in April; COO Lynch to step up https://t.co/x7EmbvuvgB<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7487,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+HSBC ready to replace investing bank chief - FT<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7584,train+valid
+2,"
+0","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Lincoln Minerals : Director Resignation #LincolnMinerals #Stock #MarketScreener https://t.co/pXmTEUfQd5 https://t.co/ywLdXfDZEy<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7595,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$WDC - Western Digital May Have Trouble Pushing Stock Price Higher. Subscribe to Seeking Alpha for more:… https://t.co/dutJc7l7Hq<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7698,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Bull of the Day: Jazz Pharma (JAZZ) - Nasdaq<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7966,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$BOXL Holding for next week event. Long swing idea. Based on the chart, risk/reward looks favorable. https://t.co/rE1Z7QBdYL<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8164,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$SPY $AMTD $SCHW $TIF $LVMUY $MDCO $NVS $UBER $TNX $USDX $WTI $NIKKEI $HSCEI $SSEC $SENSEX $FTSE $DAX $CAC #China… https://t.co/AvdYzA6U7K<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_8270,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$SQ - Square: Odds Stacked Against Shareholders. Subscribe to Seeking Alpha for more: https://t.co/8xvjNGaorC #economy #business #investing<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8278,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Could The Hamborner REIT AG (ETR:HAB) Ownership Structure Tell Us Something Useful?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_8442,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Do Hedge Funds Love Globalstar, Inc. (GSAT)?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_8482,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Bitcoin slides to six-month low as China warns of risks https://t.co/b6HuCtpHBd<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9003,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Unilever Plunges 8% After Disappointing Guidance Update<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9114,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$CLR (+4.3% pre) Continental Resources suspends dividend amid coronavirus woes - Reuters
+
+https://t.co/tqpAqQbJR1<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9158,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Can-Fite +17% premarket on new patents for sexual dysfunction drug<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9298,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Canopy Growth up 6% as BofA buys the dip<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9300,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Tesla shares rise as Musk says Cybertruck orders hit 200,000<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9435,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Capstone Turbine leads industrial gainers; Tutor Perini and Briggs & Stratton among losers<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9501,train+valid
+2,"
+1","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Stocks making the biggest moves midday: Tesla, FedEx, Slack, Lyft, Taubman Centers & more<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9533,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Fed's Bullard said actions taken by the Fed and other authorities during this time period shouldn't be seen as stim… https://t.co/gJ9vd4Qttq<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_142,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$NSC - Norfolk Southern (NSC) Presents At 7th Annual Industrials Conference - Slideshow. Follow this and any other… https://t.co/D8uQNEKjmz<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_264,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+A New Look at Wendy's<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_279,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Aline Sara, CEO of @NaTakallam is the latest to take our 30 second challenge. The big question: how can the private… https://t.co/otUh5GYZpI<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_292,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+BHP, Woodside agree on tolling price for Scarborough gas<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_316,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+JPMorgan expands private credit group<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_376,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+This Tiny Crypto Startup Has Lessons for Libra’s ‘Unbanked’ Dreams<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_464,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$USAK - USA Truck, Inc. 2019 Q4 - Results - Earnings Call Presentation. https://t.co/VaoeaJ18mB #markets #economy #trading<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_655,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+What to Watch When Micron Reports Wednesday<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_749,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Hong Kong Protesters Clash With Police as Lam Visits Beijing<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1170,train+valid
+2,"
+1","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Medicines : Novartis to buy U.S. biotech The Medicines Co. for $9.7 billion #Medicines #Stock #MarketScreener… https://t.co/TA05wVBHcd<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_1537,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+U.S. factory and services activity quicken in November: Markit https://t.co/Uvnds2WdjP https://t.co/NlVK9IhoJ1<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_1627,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Trump Impeachment Win Clears Path for Emboldened President<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1844,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+9:45 am (it's early) $SPY 272.99 1,520 STOCKS are up from the open vs 1,700  that are down from the open. $IWM 116.87<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_1977,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$CEI non stop ion after-hours. $GBR deserves some attention<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_2028,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+ADTRAN (NASDAQ:ADTN) Has Debt But No Earnings; Should You Worry?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_2092,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Congratulations to @ServiceNow on being added to the S&P 500 https://t.co/MzojJ6sPLS<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_2107,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Go $WKHS<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_2132,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+Hedge Funds Love These 3 Peers Way More Than China Petroleum & Chemical Corp (SNP)<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_2139,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant.
+Below is a list of categories for a user tweet, formatted as ""category description"", starting from category 0.
+
+0 bearish
+1 bullish
+2 neutral
+
+Classify the following tweet into one of these categories.
+Return only the category number (0-2), without explanations.
+<|im_end|>
+<|im_start|>user
+$SUMRX: Gapping up/down: ABB +4%, MCHP +3%, NVO +3%, HUM +2% and CMG +1.6% after earnings, RDS.A +2% and TOL +2%... https://t.co/P30bZdswdX<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_2372,train+valid

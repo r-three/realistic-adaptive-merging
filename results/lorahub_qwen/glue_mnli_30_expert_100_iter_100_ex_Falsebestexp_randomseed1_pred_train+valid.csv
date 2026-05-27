@@ -1,0 +1,1701 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - yeah i knew you weren't the Tar Heels uh no somebody gave me a pair of running shorts and with the logo on it and i thought it was a wildcat but it was a wolf yeah [SEP] 
+HYPOTHESIS - Someone gave me running shorts with a wolf logo on it.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8063,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Gordon explained that because Medicare is prohibited by statute from covering preventive services, it must draw a distinction between treatment and prevention. [SEP] 
+HYPOTHESIS - Medicare is not allowed to cover preventative services.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9357,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Wall Street Journal Washington Wire reports that the New Hampshire state Democratic Party chairman says Clinton shouldn't gloat when he attends a fund-raiser in his state next week, but adds, I'm not sure anyone [there] can control their passion. [SEP] 
+HYPOTHESIS - The Washington Wire says Clinton is proudest of that win.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_10923,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Texas Equal Access to Justice Foundation announced that the Fort Worth-based nonprofit groups will receive grants from funds it controls, including the Interest on Lawyers' Trust Accounts, or IOLTA, program. [SEP] 
+HYPOTHESIS - The IOLTA program was terminated many years ago, before it could really start.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_23218,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The islanders are vibrant, generous, and the loveliness of Martinique's women is legendary, the number of children impressive. [SEP] 
+HYPOTHESIS - Martinique is host to very handsome men.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_25194,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - it's something that interests me uh combined with with the classical tastes i had mentioned and my classical music tends to be confined to the seventeen hundreds early eighteen hundred music i'm not a music um  i'm not particularly schooled in it i know what i like to listen to as far as classical music [SEP] 
+HYPOTHESIS - I have had a lot of training in regards to classical music, in fact I have a Ph.D in it.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_26759,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - so you guys are well aware of the problems with the Japanese markets and everything else [SEP] 
+HYPOTHESIS - Do you guys even know where Japan is?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_40217,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - How much? asked the northerner. [SEP] 
+HYPOTHESIS - The northerner asked how much he needed to pay.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_40568,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Overall, we have implemented the following initiatives and targeted investments, some of which are relatively recent and some of which are 16 [SEP] 
+HYPOTHESIS - Initiatives haven't been implemented to help reach targeted investments.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_44074,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - yeah uh i'm in Raleigh North Carolina [SEP] 
+HYPOTHESIS - I'm in North Carolina.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_44121,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - As with other federal agencies, performance information is becoming an increasingly important part of DOD's budget process. [SEP] 
+HYPOTHESIS - Just like with other federal agencies, performance information is of no use to the DOD budget process.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_47884,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - and that they wanted in so they're going to put it in the video and that way you can watch it at your leisure [SEP] 
+HYPOTHESIS - They are going to include it in the video.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_49181,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - This rule was determined to be economically significant and is therefore subject to Executive Order [SEP] 
+HYPOTHESIS - The rule was affected by Executive Order and determined to be economically significant.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_51717,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - A block east is the distinguished Museo Arqueologico (c/ Serrano, 13). [SEP] 
+HYPOTHESIS - The art is rather close to where you are.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_52028,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - They brought no torches and Jon saw San'doro check over his shoulder for any sign of the Sticks behind them. [SEP] 
+HYPOTHESIS - They were lighting up the skies with their huge tall torches.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_53334,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Similarly, the concept of holding program managers accountable underlies the existing federal process for accrediting systems for use. [SEP] 
+HYPOTHESIS - The federal program does not hold managers accountable.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_54601,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - This policy is important for another reason. [SEP] 
+HYPOTHESIS - There is another reason for why this policy is important.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_62551,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The preamble also describes the seven alternatives considered by FDA in promulgating this rule and why it believes that the alternative selected (the mammalian-to-ruminant prohibition--with exceptions) is the most cost-effective regulatory alternative that meets the objective of the agency. [SEP] 
+HYPOTHESIS - The preamble describes less than 8 alternative considered by the FDA.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_63638,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - But modern Kagoshima is now an attractive green and airy place, with wide boulevards, delightful parks, and a couple of intriguing historical museums. [SEP] 
+HYPOTHESIS - There are a couple of historical museums in Kagoshima.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_85150,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Perhaps an egg""  [SEP] 
+HYPOTHESIS - Maybe we can eat an egg.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_92013,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE -  He was wrong. [SEP] 
+HYPOTHESIS - He had no idea that he was wrong.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_97559,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Pakistan accused India of playing politics with the hijacking. [SEP] 
+HYPOTHESIS - India accused Pakistan of faking politics results.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_98683,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - During the reign of his son, under a regent, the borders were pushed further north and west, provoking reactions from the Tibetans and Chinese as well as the British East India Company, the power to the south. [SEP] 
+HYPOTHESIS - During the reign of his son,  the borders were pushed back into the territory of the country, and there were no reactions from surrounding countries.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_103173,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Sunday morning flea market at Porta Portese in Trastevere is as much fun for the people watching as for the occasional bargains. [SEP] 
+HYPOTHESIS - Porta Portese in Trastevere is a popular place for people watching and shopping.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_111792,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The company has already secured more than $8 million in venture-capital financing. [SEP] 
+HYPOTHESIS - Even though they have secured over $8 million in financing, they still needed more<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_115929,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Tourist development in the Sinai is mainly along the east coast where the coast meets the waters of the Gulf of Aqaba, though there can be many miles between resorts. [SEP] 
+HYPOTHESIS - The coast of Sinai draws a lot of tourists.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_120213,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Nowhere is that more clear than in the periodic appearance of what I call the Left-Behind White. [SEP] 
+HYPOTHESIS - This is unclear everywhere.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_130067,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - What do you see in a town like that? asked Jon. [SEP] 
+HYPOTHESIS - What are some of the aspects that attract you to that town?  asked Jon.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_133174,train+valid
+0,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Another sign that this part of Funchal is being revitalized is the new lido, known as Barreirinha, on the beach below the Igreja de Santa Maria Maior, an elegant 18th-century church worth a visit. [SEP] 
+HYPOTHESIS - The new lido is an 18th century church that is deserving of a visit.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_133744,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Officially, it is termed the largest basilica ever built in the history of mankind.  [SEP] 
+HYPOTHESIS - The other basilicas sizes combined are not as big as this one.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_135039,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Everybody's Got a Hungry Heart [SEP] 
+HYPOTHESIS - No one has a hungry heart.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_142010,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - In this case, the presidente drops a green handkerchief and the crowd goes wild. [SEP] 
+HYPOTHESIS - The president drops a green grape and the crowd cheers wildly.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_149219,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - After learning of the effort, Dudovitz sent personnel to staff the clinic for three hours per week and is helping to write a grant application to fund a self-help kiosk for Pomona patterned on the center he pioneered in Van Nuys. [SEP] 
+HYPOTHESIS - Dudovitz had personnel at his disposal, which he used to staff a clinic.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_157895,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - What's going on seems to be something we might describe as the narcissism of small differences. [SEP] 
+HYPOTHESIS - There are no reasons as to why we want to discuss anything.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_161695,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Seagaia Ocean Dome, the largest indoor water park in the world, comprises an artificially landscaped beach complete with palm trees and a giant wave pool to complete the illusion of a tropical paradise. [SEP] 
+HYPOTHESIS - Seagaia Ocean Dome is the world's second largest indoor water park.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_171733,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Yes, sir. [SEP] 
+HYPOTHESIS - That is correct.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_174767,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - If the study bears out enough facts to merit more research, the state could apply for another $120,000 in the second year. [SEP] 
+HYPOTHESIS - Regardless of the facts found, there is no more money available to the state.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_179491,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Any ED staff member could be assigned the screening task. [SEP] 
+HYPOTHESIS - The screening task is rotated between ED staff members weekly.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_180733,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Oh, here's Monsieur Poirot.  [SEP] 
+HYPOTHESIS - Oh, Monsieur Poirot is not around.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_182752,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The accounting profession needs to vigorously work to rebuild its greatest asset-public trust-in order to restore faith in the integrity and objectivity of the profession. [SEP] 
+HYPOTHESIS - Faith in accountancy was lost because of many financial scandals.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_184941,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - uh-huh oh yeah uh another thing how about uh have you been to the Texans Texoma side [SEP] 
+HYPOTHESIS - Texoma is a really fun place to go.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_195336,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - is that a pretty nice place [SEP] 
+HYPOTHESIS - Is that lake a nice place?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_198564,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - But, if that was the case, why does he not say where he was at six o'clock on Monday evening? [SEP] 
+HYPOTHESIS - He would not say where he was at 3 on Monday.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_203829,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - so yeah a hundred and ten degrees and [SEP] 
+HYPOTHESIS - 110 degrees.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_207129,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - well down there you get uh uh some more aromatic aromas like the uh the smell of the pine forest and uh [SEP] 
+HYPOTHESIS - You get smells down there like the smell of fresh sewage.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_209589,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Around this time the Sumerian civilization living in Mesopotamia (the region between the Tigris and Euphrates rivers in present-day Iraq) founded and developed the cuneiform script, the world's oldest form of writing on record. [SEP] 
+HYPOTHESIS - The Sumerian civilization is the oldest in the world.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_210919,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Wall Street Journal noted that liquor-industry executives are disgruntled with the ban because it prevents them from competing on the tube with beer companies. [SEP] 
+HYPOTHESIS - The ban keeps liquor executives from competing on television.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_212594,train+valid
+2,"
+2","<|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - There are GAO case studies in many areas-urban housing, weapon systems testing, community development, military procurement contracts, influences on the Brazilian export-import balances, how programs aimed at improving water quality are working, and the implementation of block grants-to name only a few. [SEP] 
+HYPOTHESIS - GAO case studies cover just military contracts.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_215290,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - it really is it it really is you know uh that was always a a major problem in our marriage what i have always identified is i am basically good with money it i don't really need a budget to tell me not to spend it i think that comes from never having enough you know i'm always afraid of  i'm going to need some and where will it be [SEP] 
+HYPOTHESIS - I always need a budget to stop me from spending too much.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_226057,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - A patriotic one? The girl flushed. [SEP] 
+HYPOTHESIS - She blushed and said A patriotic one?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_230387,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I phoned Scotland Yard and the Admiralty first thing. [SEP] 
+HYPOTHESIS - The last thing I did was contact Scotland Yard and the Admiralty.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_230866,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Speaking of Bill Gates ... [SEP] 
+HYPOTHESIS - He knew they were talking about him.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_242885,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - yeah there's not that many down here that you know once once in a while you'll see one [SEP] 
+HYPOTHESIS - It is hard to walk down the street without seeing one.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_245900,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - no oh i've heard of it but not necessarily i've heard it's very controversial though [SEP] 
+HYPOTHESIS - I heard it from my brother that it is controversial.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_255996,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE -  Tue Sept 28 [SEP] 
+HYPOTHESIS - September is the best month.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_256225,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - 18 Best  DOD Teaming Practices Not Achieving Potential Results (GAO-01-510,Apr. [SEP] 
+HYPOTHESIS - One teaming practice includes meeting out of work.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_258788,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - and at the same time i i see some colder winters in the Midwest i think they've gotten more snow in the past five years than we're having here on the East Coast [SEP] 
+HYPOTHESIS - I think the Midwest has had colder winters and more snow, recently, than we have had on the East Coast.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_266483,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - After all, he twice declined opportunities to run for office in the '70s, when he was a much more credible candidate than he is now. [SEP] 
+HYPOTHESIS - He was never a credible candidate, even in the 70's.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_267570,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - yeah uh uh i tend to agree with you uh you know probably pretty similar views on it but that's that's one of the things i don't don't understand is is so much of the controversy because uh you know i i do also myself believe in capital punishment uh uh you know it it really irks me to see so much effort put into preventing someone being put to death by the State when they so callously and usually so you know without even thinking or without any concern uh you know end somebody else's life and in a lot of cases several people's lives [SEP] 
+HYPOTHESIS - The State should apply capital punishment for dangerous criminals.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_269817,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE -  On the Spanish mainland, late dining hours perplex visitors. [SEP] 
+HYPOTHESIS - Many people eat late in Spain.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_291562,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Fortunately, much of what you'll want to see is accessible through your car window, because you'll likely be spending a lot of time driving from one site to another. [SEP] 
+HYPOTHESIS - Getting to different sights can take hours.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_291836,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - But Versailles was not without cost. [SEP] 
+HYPOTHESIS - Versallies was one of the most expensive buildings in the world.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_300267,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Notwithstanding these successes, the equal justice community in Maryland has continued to look for ways to expand and improve services to clients. [SEP] 
+HYPOTHESIS - MAryland doesn't want to progress their services<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_306375,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Those are the respects in which we are all alike. [SEP] 
+HYPOTHESIS - We are all alike in some respects.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_318260,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - We must save our own skins. [SEP] 
+HYPOTHESIS - We need to keep ourselves alive.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_326063,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The 20th century saw a stupendous release of energies that had been pent up for the 250 years of Tokugawa isolation. [SEP] 
+HYPOTHESIS - Many historians felt that this state of affairs was inevitable after the Tokugawa isolation.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_326898,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - In the great tradition of hotel and travel ads, the guys tend to be markedly less attractive than the women. [SEP] 
+HYPOTHESIS - Travel ads with attractive women sell the best.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_327440,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The sun symbol of the maharana is everywhere, worshiped during monsoons. [SEP] 
+HYPOTHESIS - Maharana is the symbol of the monsoon.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_327578,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE -  For drinks and snacks at the water's edge, there's nothing like a beach restaurant. [SEP] 
+HYPOTHESIS - Beach restaurants are good for drinks and snacks by the water.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_330143,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Johnny was sitting up, his head swaying from side to side, his eyes on Drew and Anse. [SEP] 
+HYPOTHESIS - Johnny sat in a chair while watching Drew and Anse.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_333622,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - In interviews, Robert Fitzpatrick, who styles himself director and CEO, has said he wants to make the museum friendlier to visitors. [SEP] 
+HYPOTHESIS - By making the museum friendlier to visitors, he hopes to increase the number of repeat visitors.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_339481,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Kelantan and Terengganu preserve a centuries-old tradition of flying ornamental kites measuring 2 m (over 6 ft) acroseand again from head to tail. [SEP] 
+HYPOTHESIS - Kelantan and Terengganu are fond of flying ornamental kites.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_344843,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - But Sir Ernest's cross-examination was yet to come.  [SEP] 
+HYPOTHESIS - But Sir Ernest's cross-examination was still to be done.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_345175,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - good hunting [SEP] 
+HYPOTHESIS - He isn't going hunting.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_357402,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - A 38-cm (15-in) narrow-gauge railway, it carries a tiny engine and even smaller carriages through rolling countryside towards the coast at Ravenglass. [SEP] 
+HYPOTHESIS - The train on the 38cm railway can carry small children.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_362868,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - yeah i think so i think we i think we did pretty good [SEP] 
+HYPOTHESIS - I think we did pretty well snorting that cocaine.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_368344,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - What makes these teen flicks the ideal good bad movies? [SEP] 
+HYPOTHESIS - Why are mediocre teen flicks so popular in this market?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_369795,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Becoming highly leveraged has forced managers to think seriously about costs, trim overhead, and improve productivity. [SEP] 
+HYPOTHESIS - Employees have had to think about cost.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_378431,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Her last husband, and manager, George Richey, was more than overcome by her death. [SEP] 
+HYPOTHESIS - She was married to George Jones.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_380050,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - and that's when you get hit by the meteorite. [SEP] 
+HYPOTHESIS - And that's when the meteorite strikes you.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_384237,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Strategic parents might spend a large portion of their tax cuts, causing interest rates to rise. [SEP] 
+HYPOTHESIS - Tax cuts geared to parents will give them greater spending flexibility but will also lead to higher interest rates on loans.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_125,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - i wonder how they kept up with them though it seemed like the buffaloes were moving so fast i guess they graze though that wouldn't have been a problem [SEP] 
+HYPOTHESIS - It seemed difficult, keeping up with the buffaloes.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_407,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - As long as Assad lives, he can manage these troubles and keep an agreement with Israel. [SEP] 
+HYPOTHESIS - The only way for Assad to take care of the trouble is for him to die.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_565,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Poor Dave, she said. [SEP] 
+HYPOTHESIS - She felt bad for Dave, he died a terrible death.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1545,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - yeah because it like i i think i've seen those before but i don't remember what they look like [SEP] 
+HYPOTHESIS - I think I've seen them outside before but it's been a long time so I'm not sure what they look like.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1847,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - It has long been influenced by their differing traits, and has assimilated their various customs and practices. [SEP] 
+HYPOTHESIS - Their unique traits has created many customs and practices.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1971,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Today the strait is busy with commercial shipping, ferries, and fishing boats, and its wooded shores are lined with pretty fishing villages, old Ottoman mansions, and the villas of Istanbul's wealthier citizens. [SEP] 
+HYPOTHESIS - Today, the strait is empty after a huge sand storm killed everyone there.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_2436,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - oh really i was um i was TDY at Bent Waters [SEP] 
+HYPOTHESIS - I had work at Bent Waters, but only for a little while.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_3098,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - 'These are human lives. [SEP] 
+HYPOTHESIS - These are animal lives<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_3314,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Beside the fortress lies an 18th-century caravanserai, or inn, which has been converted into a hotel, and now hosts regular folklore evenings of Turkish dance and music. [SEP] 
+HYPOTHESIS - The fortress was built a number of years after the caravanserai.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_3852,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Even us if you needed,"" said Jon. [SEP] 
+HYPOTHESIS - He offered himself if needed.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_3882,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - In 1995 and again in 1998, the Legal Services Corporation recognized that legal services programs were going to have to change the method and manner in which they conducted their business if they were going to remain viable and responsive to the needs of low income persons. [SEP] 
+HYPOTHESIS - Low income persons have very difficult needs to meet.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_4215,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - With their fluent Vietnamese and Mandarin, they help Tran understand her family's eligibility for Medi-Cal and food stamps, assist the 70-year-old woman in finding a place to live and advise abused women how they can stay in the country while staying away from their husbands. [SEP] 
+HYPOTHESIS - Chan was not able to understand what they were saying.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_4795,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Any point you failed to win by rigging the questions and categories can be cleaned up in the executive summary (the pollster's spin) and the press release and news conference (the client's spin on the pollster's spin). [SEP] 
+HYPOTHESIS - Any point you didn't get by fixing the questions cannot be added to the executive summary.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_5347,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Anwar el-Sadat succeeded Nasser in 1970. [SEP] 
+HYPOTHESIS - After Nasser left the throne, Anwar el-Sadat took control.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_6068,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The Throne Room is one of a series of apartments built during the reign of Charles II, though it was originally designed as a guard room that screened entrants to the private chambers beyond. [SEP] 
+HYPOTHESIS - Charles II was the reigninh monarch when the Throne Room was built.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_6935,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The importer pays duties that are required by law [SEP] 
+HYPOTHESIS - Importer pays taxed that law requires<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_7372,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The final reason for the teen renaissance is boomer self-obsession. [SEP] 
+HYPOTHESIS - There are 15 key reasons for the teen renaissance we are seeing.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_7903,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Nearby is the Monastery of Nea Moni, founded in 1049, and one of the most beautiful Byzantine religious sites in the Aegean. [SEP] 
+HYPOTHESIS - One of the most beautiful Byzantine sites is the Monastery of Nea Moni.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_8097,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. 
+You are given a premise and a hypothesis, formatted as ""PREMISE - premise [SEP] HYPOTHESIS - hypothesis"".
+Classify the relationship between the premise and the hypothesis as follows.
+
+0 if the premise entails the hypothesis
+1 if the relationship is neutral
+2 if the premise contradicts the hypothesis
+
+Return only the digit (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Very few emperors were reluctant to submit to Fujiwara domination. [SEP] 
+HYPOTHESIS - Fujiwara dominated many emperors and is renown for his success as a warlord.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",valid_9061,train+valid

@@ -1,0 +1,1501 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman tolerated her friend's difficult behavior. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - The woman knew her friend was going through a hard time. [SEP] 
+ALTERNATIVE2 - The woman felt that her friend took advantage of her kindness.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The runner wore shorts. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - The forecast predicted high temperatures. [SEP] 
+ALTERNATIVE2 - She planned to run along the beach.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The stain came out of the shirt. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - I patched the shirt. [SEP] 
+ALTERNATIVE2 - I bleached the shirt.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I poured water on my sleeping friend. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - My friend awoke. [SEP] 
+ALTERNATIVE2 - My friend snored.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_14,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The girl gasped. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - Her friend stuck an ice cube down her back. [SEP] 
+ALTERNATIVE2 - Her friend gave her a pat on the back.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_15,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The host cancelled the party. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - She was certain she had the flu. [SEP] 
+ALTERNATIVE2 - She worried she would catch the flu.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_23,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The grape juice fermented. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The juice turned to wine. [SEP] 
+ALTERNATIVE2 - The juice evaporated.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_28,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The seamstress pushed the threaded needle into the fabric. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The thread wrapped around the needle. [SEP] 
+ALTERNATIVE2 - The thread went through the fabric.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_38,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - My favorite song came on the radio. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I covered my ears. [SEP] 
+ALTERNATIVE2 - I sang along to it.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_41,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man's eye became infected. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - He went blind. [SEP] 
+ALTERNATIVE2 - He put on glasses.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_43,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man threw out the bread. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - It was fresh. [SEP] 
+ALTERNATIVE2 - It was stale.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_48,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The children knocked over a lamp. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - They had a pillow fight. [SEP] 
+ALTERNATIVE2 - They jumped on the bed.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_49,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The cook stirred the ingredients in the bowl. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The ingredients melted. [SEP] 
+ALTERNATIVE2 - The ingredients blended together.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_53,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman felt lonely. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - She renovated her kitchen. [SEP] 
+ALTERNATIVE2 - She adopted a cat.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_57,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The terrorist set off the bomb. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The bomb exploded. [SEP] 
+ALTERNATIVE2 - The bomb was deactivated.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_70,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I saw a woman getting robbed on the street. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I called 911. [SEP] 
+ALTERNATIVE2 - I hailed a cab.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_85,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman awakened. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - She took sleeping pills. [SEP] 
+ALTERNATIVE2 - Her husband was snoring.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_96,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The bartender refused to serve the patron. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - The patron was alone. [SEP] 
+ALTERNATIVE2 - The patron was drunk.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_108,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The fans in the stadium cheered. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - The game ended in a tie. [SEP] 
+ALTERNATIVE2 - The player scored.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_119,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The parents left their children with a babysitter. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - Their youngest child started attending preschool. [SEP] 
+ALTERNATIVE2 - They made plans to celebrate their anniversary.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_127,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man became disabled. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - His family offered him financial support. [SEP] 
+ALTERNATIVE2 - His family cut off contact with him.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_134,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The child caught a life-threatening illness. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - She didn't get vaccinated. [SEP] 
+ALTERNATIVE2 - She was adopted.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_150,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - We found empty seats in the theatre. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The film began. [SEP] 
+ALTERNATIVE2 - We sat down.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_151,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The parents recognized their daughter's creativity. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - They taught her how to ride a bike. [SEP] 
+ALTERNATIVE2 - They encouraged her to become an artist.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_152,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman received a diploma. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - She enrolled in college. [SEP] 
+ALTERNATIVE2 - She graduated from college.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_154,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I chugged the pitcher of water. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - I walked upstairs. [SEP] 
+ALTERNATIVE2 - I ran five miles.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_155,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - My breath smelled of garlic. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I wiped my mouth. [SEP] 
+ALTERNATIVE2 - I brushed my teeth.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_162,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I stood on one foot. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - My balance wavered. [SEP] 
+ALTERNATIVE2 - I kneeled down.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_165,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman got away with the crime. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - Her accomplice was apprehended. [SEP] 
+ALTERNATIVE2 - She destroyed the evidence.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_168,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The host served dinner to his guests. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - His guests were gracious. [SEP] 
+ALTERNATIVE2 - His guests went hungry.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_172,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The father shut off the children's television. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - It was bedtime for the children. [SEP] 
+ALTERNATIVE2 - The children were watching cartoons.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_175,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man held his breath. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - He went underwater. [SEP] 
+ALTERNATIVE2 - He treaded water.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_176,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The boat capsized. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - The captain raised the sail. [SEP] 
+ALTERNATIVE2 - It was caught in a hurricane.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_178,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The girl performed in a dance recital. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - Her parents showed her how to dance. [SEP] 
+ALTERNATIVE2 - Her parents came to watch the recital.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_188,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The bureau drawers were cluttered. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I threw away unnecessary contents. [SEP] 
+ALTERNATIVE2 - I locked the drawers shut.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_191,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The student flaunted his test grade to his classmates. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - He received a perfect score. [SEP] 
+ALTERNATIVE2 - He feigned interest in the class.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_192,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The boy felt homesick. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - He went away to camp. [SEP] 
+ALTERNATIVE2 - He bickered with his sister.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_193,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I jumped instinctively in fright. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - I sensed someone approaching me from behind. [SEP] 
+ALTERNATIVE2 - I heard people chuckling in the adjacent room.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_201,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The team lost the game. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - Their best player was injured. [SEP] 
+ALTERNATIVE2 - Their coach pumped them up.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_208,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The student's answer on the exam was incorrect. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The teacher added bonus points to the student's grade. [SEP] 
+ALTERNATIVE2 - The teacher subtracted points off the student's grade.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_217,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The girl applied the scissors to the paper. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The paper sliced apart. [SEP] 
+ALTERNATIVE2 - The paper crinkled.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_230,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I wanted to lighten the mood of the conversation. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I remained quiet. [SEP] 
+ALTERNATIVE2 - I told a joke.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_235,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - A fistfight broke out in the hall of the school. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The principal suspended the students involved. [SEP] 
+ALTERNATIVE2 - The principal called off classes for the day.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_238,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I clenched the candy wrapper in my fist. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The wrapper crinkled. [SEP] 
+ALTERNATIVE2 - The wrapper ripped.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_245,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman pressed down on the piano key. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - A sound played. [SEP] 
+ALTERNATIVE2 - The key got stuck.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_246,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The police officer pulled over the celebrity. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The celebrity offered the officer a bribe. [SEP] 
+ALTERNATIVE2 - The celebrity sued the police officer.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_260,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The clay hardened. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - The potter rolled the clay into a ball. [SEP] 
+ALTERNATIVE2 - The potter put the clay in the oven.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_269,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman and her boyfriend got into a fight. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - They stopped seeing each other. [SEP] 
+ALTERNATIVE2 - They planned a vacation together.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_273,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The shopper wondered about the cost of the item. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - He checked its price tag. [SEP] 
+ALTERNATIVE2 - He decided to buy it.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_280,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The boy painted a picture for his mother. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - His mother hung the picture on the wall. [SEP] 
+ALTERNATIVE2 - His mother sold the picture to a gallery.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_288,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The competition ended. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The teams got pumped up. [SEP] 
+ALTERNATIVE2 - The teams shook hands.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_289,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The documents contained important information. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I paper clipped them together. [SEP] 
+ALTERNATIVE2 - I kept them in a secure place.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_292,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The egg splattered. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - I dropped it. [SEP] 
+ALTERNATIVE2 - I boiled it.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_293,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - A group of teenagers crashed the party. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The host of the party kicked them out. [SEP] 
+ALTERNATIVE2 - The host of the party invited them in.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_295,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man took a shower. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - He was sweaty from working out. [SEP] 
+ALTERNATIVE2 - He opened a new bar of soap.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_296,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The screen on the laptop went black. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - The laptop's warranty expired. [SEP] 
+ALTERNATIVE2 - The laptop's battery died.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_297,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman felt reluctant to switch careers. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - She made a lot of money in her current occupation. [SEP] 
+ALTERNATIVE2 - She endured a lot of stress in her current occupation.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_301,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I ran out of breath. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - I climbed several flights of stairs. [SEP] 
+ALTERNATIVE2 - I read several chapters of the book.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_305,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The football coach lost his voice after the game. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - He yelled whenever a player fumbled the ball. [SEP] 
+ALTERNATIVE2 - He whistled whenever a player scored a touchdown.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_308,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I applied pressure to the cut on my arm. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - It healed. [SEP] 
+ALTERNATIVE2 - It stopped bleeding.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_310,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The administrator cleared her throat. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The meeting was postponed. [SEP] 
+ALTERNATIVE2 - The meeting commenced.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_318,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The customer thought the souvenir was overpriced. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The vender sold it to him. [SEP] 
+ALTERNATIVE2 - He bargained with the vendor.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_321,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The car stopped at the crosswalk. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The pedestrian crossed the road. [SEP] 
+ALTERNATIVE2 - The pedestrian waited on the sidewalk.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_323,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - My friend was recovering from surgery. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I dropped her off at the hospital. [SEP] 
+ALTERNATIVE2 - I brought her a card and flowers.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_327,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The rider fell to the ground. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - The bull bucked the rider. [SEP] 
+ALTERNATIVE2 - The bull chased the rider.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_335,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The milk stayed cold. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - It was pasteurized. [SEP] 
+ALTERNATIVE2 - I stored it in the refrigerator.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_338,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I put ice cubes in the hot soup. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The soup cooled down. [SEP] 
+ALTERNATIVE2 - The soup became thick.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_340,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The rain subsided. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I went for a walk. [SEP] 
+ALTERNATIVE2 - I browsed the internet.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_343,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I misplaced my wallet. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I retrieved my phone. [SEP] 
+ALTERNATIVE2 - I retraced my steps.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_347,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I ran the ice cube under warm water. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The ice cube stuck to my fingers. [SEP] 
+ALTERNATIVE2 - The ice cube vanished.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_350,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The customer came into the boutique. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - She left her wallet at home. [SEP] 
+ALTERNATIVE2 - The window display caught her eye.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_351,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man drank water with his meal. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - His meal was cold. [SEP] 
+ALTERNATIVE2 - His meal was spicy.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_352,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The investigators deemed the man's death a suicide. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - He left a note. [SEP] 
+ALTERNATIVE2 - He had children.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_362,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The computer crashed. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - I backed up my files. [SEP] 
+ALTERNATIVE2 - I downloaded a virus.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_363,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The room was dim. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I opened the blinds. [SEP] 
+ALTERNATIVE2 - I washed the windows.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_365,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman exaggerated the details of the story. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - She wanted attention. [SEP] 
+ALTERNATIVE2 - She felt shy.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_371,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I made a resolution to eat a healthy diet. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I attended a yoga class. [SEP] 
+ALTERNATIVE2 - I bought fruits and vegetables.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_376,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The mother scolded her daughter. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - Her daughter burped at the kitchen table. [SEP] 
+ALTERNATIVE2 - Her daughter set the kitchen table.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_393,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I excused myself from the group. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - I turned off my phone. [SEP] 
+ALTERNATIVE2 - My phone rang.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_394,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The soldiers were concealed in the brush. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - They were armed with rifles. [SEP] 
+ALTERNATIVE2 - They wore camouflage uniforms.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_399,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The girl found a bug in her cereal. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - She poured milk in the bowl. [SEP] 
+ALTERNATIVE2 - She lost her appetite.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I wanted to conserve energy. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - I swept the floor in the unoccupied room. [SEP] 
+ALTERNATIVE2 - I shut off the light in the unoccupied room.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_3,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The kidnappers released the hostage. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - They accepted ransom money. [SEP] 
+ALTERNATIVE2 - They escaped from jail.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_17,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - I regained composure from my fit of anger. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - My heart pounded. [SEP] 
+ALTERNATIVE2 - I took deep breaths.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_21,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man dressed in his best suit. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - He scheduled a meeting with an important client. [SEP] 
+ALTERNATIVE2 - His wife bought him a new tie.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_23,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman walked with crutches. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - She shaved her legs. [SEP] 
+ALTERNATIVE2 - She broke her leg.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_31,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man felt obligated to attend the event. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - He turned down his friend's invitation to go. [SEP] 
+ALTERNATIVE2 - He promised his friend that he would go.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_37,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The bride got cold feet before the wedding. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The wedding guests brought gifts. [SEP] 
+ALTERNATIVE2 - She called the wedding off.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_38,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The friends decided to share the hamburger. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - They cut the hamburger in half. [SEP] 
+ALTERNATIVE2 - They ordered fries with the hamburger.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_40,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - My skin broke out into a rash. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - I brushed against poison ivy in my yard. [SEP] 
+ALTERNATIVE2 - I eradicated the poison ivy from my yard.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_50,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The boy threw a temper tantrum. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - His brother took his toys from him. [SEP] 
+ALTERNATIVE2 - He shared his toys with his brother.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_53,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man perceived that the woman looked different. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - The woman got her hair cut. [SEP] 
+ALTERNATIVE2 - The woman wore a bracelet.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_65,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The student forgot to do her assignment. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - She made up an excuse to tell the teacher. [SEP] 
+ALTERNATIVE2 - The teacher promoted her to the next grade.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_66,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The tree branch landed in the river. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The branch moved downstream. [SEP] 
+ALTERNATIVE2 - The river's current became stronger.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_71,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The teacher assigned homework to the students. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - The students passed notes. [SEP] 
+ALTERNATIVE2 - The students groaned.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_72,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man's pocket jingled as he walked. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - His pocket was filled with coins. [SEP] 
+ALTERNATIVE2 - He sewed the hole in his pocket.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_79,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The horse bucked. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - A fly bit the horse. [SEP] 
+ALTERNATIVE2 - The rider stroked the horse.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_81,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The man received a parking ticket. [SEP] 
+RELATIONSHIP - cause [SEP] 
+ALTERNATIVE1 - He parallel parked on the street. [SEP] 
+ALTERNATIVE2 - The parking meter expired.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_92,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The girl wanted to wear earrings. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - She got her ears pierced. [SEP] 
+ALTERNATIVE2 - She got a tattoo.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_94,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a premise and two possible alternatives, determine which alternative is more plausible based on the specified relationship.
+The question is formatted as ""PREMISE - premise [SEP] RELATIONSHIP - cause or effect [SEP] ALTERNATIVE1 - alternative1 [SEP] ALTERNATIVE2 - alternative2""
+Return 0 for alternative1 and 1 for alternative2.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - The woman was in a bad mood. [SEP] 
+RELATIONSHIP - effect [SEP] 
+ALTERNATIVE1 - She engaged in small talk with her friend. [SEP] 
+ALTERNATIVE2 - She told her friend to leave her alone.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_99,train+valid

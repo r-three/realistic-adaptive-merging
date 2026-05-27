@@ -1,0 +1,29 @@
+{
+    "task": "stackoverflow_questions",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_stackoverflow_questions",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304"
+    ],
+    "valid_accuracy": 0.0,
+    "test_accuracy": 0.0,
+    "weights": [
+        1.3884469958696424,
+        -0.06569055329529737,
+        -0.37036745395617415,
+        0.6384990488394576,
+        0.5778096876414435,
+        1.399208562924907,
+        -0.136122989503655,
+        -0.5059342595141343,
+        -0.500455528986165,
+        -0.5961073438148892
+    ]
+}

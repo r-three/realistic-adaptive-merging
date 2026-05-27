@@ -1,0 +1,29 @@
+{
+    "task": "formal_fallacies_syllogisms_negation",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_formal_fallacies_syllogisms_negation",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.5788732394366197,
+    "weights": [
+        0.9524052641118022,
+        0.5439826061924135,
+        0.5813693025825813,
+        -0.017942458171333855,
+        -0.0048900355795953665,
+        0.018063067847646486,
+        -0.05545092872269768,
+        -0.016889005966077168,
+        -0.02984022358248949,
+        -0.02394007054781019
+    ]
+}

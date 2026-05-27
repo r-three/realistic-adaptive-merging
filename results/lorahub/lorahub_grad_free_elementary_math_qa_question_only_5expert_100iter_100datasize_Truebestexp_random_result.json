@@ -1,0 +1,19 @@
+{
+    "task": "elementary_math_qa_question_only",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_elementary_math_qa_question_only",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.35,
+    "test_accuracy": 0.19245773732119636,
+    "weights": [
+        0.5309276344454883,
+        0.33057613858389523,
+        0.5430769889279615,
+        -0.024787264893691312,
+        -0.06557185700264552
+    ]
+}

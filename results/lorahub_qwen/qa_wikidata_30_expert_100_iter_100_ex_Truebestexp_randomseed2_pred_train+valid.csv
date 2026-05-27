@@ -1,0 +1,1101 @@
+target,pred_clean,pred_org,example_id,split
+Australia,"
+Australia","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of A. D. Hope is<|im_end|>
+<|im_start|>assistant
+Australia<|im_end|><|endoftext|><|endoftext|>",train_66,train+valid
+Judaism,"
+Judaism","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The religion of Adam Sandler is<|im_end|>
+<|im_start|>assistant
+Judaism<|im_end|>",train_240,train+valid
+EMI,"
+EMI","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The record label of Afrika Bambaataa is<|im_end|>
+<|im_start|>assistant
+EMI<|im_end|><|endoftext|>",train_322,train+valid
+Mexico,"
+Mexico","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The original country of Aguirre, the Wrath of God is<|im_end|>
+<|im_start|>assistant
+Mexico<|im_end|><|endoftext|><|endoftext|>",train_343,train+valid
+English,"
+English","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language of Airplane! is<|im_end|>
+<|im_start|>assistant
+English<|im_end|><|endoftext|>",train_410,train+valid
+Chile,"
+Chile","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+Antofagasta Region is located in<|im_end|>
+<|im_start|>assistant
+Chile<|im_end|>",train_1314,train+valid
+India,"
+India","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Asha Parekh is<|im_end|>
+<|im_start|>assistant
+India<|im_end|><|endoftext|>",train_1591,train+valid
+India,"
+India","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Balkrishna Doshi is<|im_end|>
+<|im_start|>assistant
+India<|im_end|><|endoftext|>",train_1897,train+valid
+"banjo, guitar","
+guitar","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The instrument of Barbara Mandrell is<|im_end|>
+<|im_start|>assistant
+guitar<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_1947,train+valid
+"Belarusian, Russian","
+Belarusian","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The official language of Belarus is<|im_end|>
+<|im_start|>assistant
+Belarusian<|im_end|><|endoftext|><|endoftext|>",train_2068,train+valid
+Germany,"
+Germany","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of Berlin is<|im_end|>
+<|im_start|>assistant
+Germany<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2184,train+valid
+"Argentina, Colombia, Paraguay, Uruguay, Venezuela","
+Argentina, Colombia, Peru","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+Brazil shares a border with<|im_end|>
+<|im_start|>assistant
+Argentina, Colombia, Peru<|im_end|>",train_2633,train+valid
+English,"
+English","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language of Brooklyn Nine-Nine is<|im_end|>
+<|im_start|>assistant
+English<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_2736,train+valid
+Israel,"
+Israel","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Chaim Herzog is<|im_end|>
+<|im_start|>assistant
+Israel<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_3274,train+valid
+Buddhism,"
+Buddhism","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The religion of Chandrika Kumaratunga is<|im_end|>
+<|im_start|>assistant
+Buddhism<|im_end|>",train_3293,train+valid
+duke,"
+Duke","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The noble title of Christian II of Denmark is<|im_end|>
+<|im_start|>assistant
+Duke<|im_end|><|endoftext|><|endoftext|>",train_3595,train+valid
+Germany,"
+Germany","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of Cologne Cathedral is<|im_end|>
+<|im_start|>assistant
+Germany<|im_end|><|endoftext|><|endoftext|>",train_3799,train+valid
+"English, Spanish","
+English","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The official language of Colony of Rhode Island and Plantations is<|im_end|>
+<|im_start|>assistant
+English<|im_end|><|endoftext|><|endoftext|>",train_3812,train+valid
+"Montgomery, Richmond","
+Richmond","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The capital of Confederate States is<|im_end|>
+<|im_start|>assistant
+Richmond<|im_end|><|endoftext|>",train_3859,train+valid
+Mindanao,"
+Mindanao","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+Davao City is capital of<|im_end|>
+<|im_start|>assistant
+Mindanao<|im_end|>",train_4245,train+valid
+Brazil,"
+Brazil","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Davi Santos is<|im_end|>
+<|im_start|>assistant
+Brazil<|im_end|><|endoftext|>",train_4268,train+valid
+pitcher,"
+pitcher","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The team position of Derrick Turnbow is<|im_end|>
+<|im_start|>assistant
+pitcher<|im_end|>",train_4461,train+valid
+basketball,"
+basketball","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The sport played by Detlef Schrempf is<|im_end|>
+<|im_start|>assistant
+basketball<|im_end|>",train_4473,train+valid
+"France, Romania","
+France","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Eugène Ionesco is<|im_end|>
+<|im_start|>assistant
+France<|im_end|><|endoftext|>",train_5351,train+valid
+guitar,"
+guitar","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The instrument of Frankie Jonas is<|im_end|>
+<|im_start|>assistant
+guitar<|im_end|>",train_5801,train+valid
+French,"
+French","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The native language of Georges Bataille is<|im_end|>
+<|im_start|>assistant
+French<|im_end|><|endoftext|>",train_6274,train+valid
+France,"
+France","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Germaine de Staël is<|im_end|>
+<|im_start|>assistant
+France<|im_end|><|endoftext|>",train_6344,train+valid
+Dutch,"
+Dutch","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The native language of Gerrit Rietveld is<|im_end|>
+<|im_start|>assistant
+Dutch<|im_end|>",train_6365,train+valid
+Italian,"
+Italian","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The languages spoken, written or signed by Gianni Agnelli is<|im_end|>
+<|im_start|>assistant
+Italian<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_6414,train+valid
+Brazil,"
+Brazil","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Glauber Rocha is<|im_end|>
+<|im_start|>assistant
+Brazil<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_6503,train+valid
+"Nevada, Utah","
+Nevada, Utah","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+Great Basin Desert is located in<|im_end|>
+<|im_start|>assistant
+Nevada, Utah<|im_end|>",train_6664,train+valid
+basketball,"
+basketball","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The main subject of Hoop Dreams is<|im_end|>
+<|im_start|>assistant
+basketball<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_7485,train+valid
+"Illinois, Minnesota, Missouri, Nebraska, Wisconsin","
+Illinois, Minnesota, Missouri","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+Iowa shares a border with<|im_end|>
+<|im_start|>assistant
+Illinois, Minnesota, Missouri<|im_end|>",train_7886,train+valid
+India,"
+India","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Jayasudha is<|im_end|>
+<|im_start|>assistant
+India<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_8379,train+valid
+green,"
+blue","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The eye color of Jessica Biel is<|im_end|>
+<|im_start|>assistant
+blue<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_8601,train+valid
+Austria,"
+Austria","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Johann Nepomuk Hummel is<|im_end|>
+<|im_start|>assistant
+Austria<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_8795,train+valid
+Lithuania,"
+Lithuania","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Jonas Mekas is<|im_end|>
+<|im_start|>assistant
+Lithuania<|im_end|><|endoftext|><|endoftext|>",train_8990,train+valid
+Russian,"
+Russian","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The native language of Joseph Brodsky is<|im_end|>
+<|im_start|>assistant
+Russian<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_9041,train+valid
+Thailand,"
+Thailand","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+Kelantan shares a border with<|im_end|>
+<|im_start|>assistant
+Thailand<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_9606,train+valid
+"Afghanistan, Pakistan","
+Afghanistan, Pakistan","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of Khyber Pass is<|im_end|>
+<|im_start|>assistant
+Afghanistan, Pakistan<|im_end|>",train_9770,train+valid
+Hungary,"
+Hungary","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Krisztina Egerszegi is<|im_end|>
+<|im_start|>assistant
+Hungary<|im_end|>",train_10080,train+valid
+Islam,"
+Islam","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The religion of Labīd is<|im_end|>
+<|im_start|>assistant
+Islam<|im_end|><|endoftext|>",train_10258,train+valid
+monarchy,"
+monarchy","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The basic form of government of Lan Xang is<|im_end|>
+<|im_start|>assistant
+monarchy<|im_end|>",train_10324,train+valid
+euro,"
+euro","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The currency of Lithuania is<|im_end|>
+<|im_start|>assistant
+euro<|im_end|>",train_10738,train+valid
+Italian,"
+Italian","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The native language of Ludovico Einaudi is<|im_end|>
+<|im_start|>assistant
+Italian<|im_end|>",train_10983,train+valid
+Turkey,"
+Turkey","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of Mausoleum of Maussollos is<|im_end|>
+<|im_start|>assistant
+Turkey<|im_end|>",train_11770,train+valid
+France,"
+France","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The original country of Messier object is<|im_end|>
+<|im_start|>assistant
+France<|im_end|>",train_11914,train+valid
+Mexico,"
+Mexico","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of Michoacán is<|im_end|>
+<|im_start|>assistant
+Mexico<|im_end|>",train_12028,train+valid
+blue,"
+green","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The eye color of Milla Jovovich is<|im_end|>
+<|im_start|>assistant
+green<|im_end|><|endoftext|>",train_12137,train+valid
+Argentina,"
+Argentina","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of Nahuel Huapi National Park is<|im_end|>
+<|im_start|>assistant
+Argentina<|im_end|><|endoftext|>",train_12647,train+valid
+Amsterdam,"
+Amsterdam","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The capital of Netherlands is<|im_end|>
+<|im_start|>assistant
+Amsterdam<|im_end|>",train_12843,train+valid
+Sweden,"
+Sweden","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Nicklas Lidström is<|im_end|>
+<|im_start|>assistant
+Sweden<|im_end|><|endoftext|>",train_12949,train+valid
+"Albanian, Macedonian","
+Macedonian","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The official language of North Macedonia is<|im_end|>
+<|im_start|>assistant
+Macedonian<|im_end|>",train_13133,train+valid
+"English, Urdu","
+English, Urdu","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The official language of Pakistan is<|im_end|>
+<|im_start|>assistant
+English, Urdu<|im_end|>",train_13567,train+valid
+English,"
+English","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language used in Pitcairn Islands is<|im_end|>
+<|im_start|>assistant
+English<|im_end|><|endoftext|><|endoftext|>",train_14149,train+valid
+Latin,"
+Latin","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language of Proslogion is<|im_end|>
+<|im_start|>assistant
+Latin<|im_end|><|endoftext|><|endoftext|>",train_14351,train+valid
+Islam,"
+Islam","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The religion of Qahhor Mahkamov is<|im_end|>
+<|im_start|>assistant
+Islam<|im_end|><|endoftext|><|endoftext|>",train_14430,train+valid
+Catholicism,"
+Catholicism","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The religion of Ramón Villeda Morales is<|im_end|>
+<|im_start|>assistant
+Catholicism<|im_end|>",train_14614,train+valid
+Ireland,"
+Ireland","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Roddy Doyle is<|im_end|>
+<|im_start|>assistant
+Ireland<|im_end|><|endoftext|>",train_15058,train+valid
+French,"
+French","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language used in Réunion is<|im_end|>
+<|im_start|>assistant
+French<|im_end|><|endoftext|><|endoftext|>",train_15316,train+valid
+piano,"
+piano","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The instrument of Sammy Davis Jr. is<|im_end|>
+<|im_start|>assistant
+piano<|im_end|><|endoftext|><|endoftext|>",train_15475,train+valid
+Hinduism,"
+Hinduism","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The religion of Shivaji is<|im_end|>
+<|im_start|>assistant
+Hinduism<|im_end|>",train_16003,train+valid
+"France, Morocco, Portugal","
+France, Morocco","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+Spain shares a border with<|im_end|>
+<|im_start|>assistant
+France, Morocco<|im_end|><|endoftext|>",train_16394,train+valid
+Canada,"
+Canada","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Stu Hart is<|im_end|>
+<|im_start|>assistant
+Canada<|im_end|><|endoftext|><|endoftext|><|endoftext|>",train_16610,train+valid
+Nintendo,"
+Nintendo","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The publisher of Super Mario 64 is<|im_end|>
+<|im_start|>assistant
+Nintendo<|im_end|>",train_16710,train+valid
+Japanese,"
+Japanese","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language of Tekken is<|im_end|>
+<|im_start|>assistant
+Japanese<|im_end|>",train_17085,train+valid
+English,"
+English","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language of The Red Badge of Courage is<|im_end|>
+<|im_start|>assistant
+English<|im_end|>",train_17457,train+valid
+France,"
+France","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Thomas-Alexandre Dumas is<|im_end|>
+<|im_start|>assistant
+France<|im_end|>",train_17626,train+valid
+Australia,"
+Australia","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The original country of Today Tonight is<|im_end|>
+<|im_start|>assistant
+Australia<|im_end|><|endoftext|>",train_17754,train+valid
+Indonesia,"
+Indonesia","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of Tropical Rainforest Heritage of Sumatra is<|im_end|>
+<|im_start|>assistant
+Indonesia<|im_end|>",train_17975,train+valid
+French,"
+French","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The official language of Vichy France is<|im_end|>
+<|im_start|>assistant
+French<|im_end|><|endoftext|>",train_18541,train+valid
+Ukraine,"
+Ukraine","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of War in Donbass is<|im_end|>
+<|im_start|>assistant
+Ukraine<|im_end|>",train_18813,train+valid
+"Belgium, France","
+France, Germany","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of Western Front of World War I is<|im_end|>
+<|im_start|>assistant
+France, Germany<|im_end|>",train_18924,train+valid
+Venezuela,"
+Venezuela","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Willson Contreras is<|im_end|>
+<|im_start|>assistant
+Venezuela<|im_end|>",train_19072,train+valid
+A,"
+O","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The blood type of Yu Darvish is<|im_end|>
+<|im_start|>assistant
+O<|im_end|><|endoftext|><|endoftext|>",train_19368,train+valid
+English,"
+English","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The native language of Zach Callison is<|im_end|>
+<|im_start|>assistant
+English<|im_end|><|endoftext|><|endoftext|>",train_19420,train+valid
+"Fujian, Jiangsu, Shanghai","
+Fujian, Jiangsu","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+Zhejiang shares a border with<|im_end|>
+<|im_start|>assistant
+Fujian, Jiangsu<|im_end|>",train_19476,train+valid
+Italy,"
+France","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of mail is<|im_end|>
+<|im_start|>assistant
+France<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_20078,train+valid
+statistics,"
+mathematics","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+probability distribution is facet of<|im_end|>
+<|im_start|>assistant
+mathematics<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_20179,train+valid
+Japan,"
+Japan","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Ōshikōchi no Mitsune is<|im_end|>
+<|im_start|>assistant
+Japan<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_20428,train+valid
+English,"
+English","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language of 60 Minutes is<|im_end|>
+<|im_start|>assistant
+English<|im_end|><|endoftext|>",train_33,train+valid
+Serbia,"
+Serbia","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of Belgrade is<|im_end|>
+<|im_start|>assistant
+Serbia<|im_end|>",train_2082,train+valid
+basketball,"
+basketball","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The sport played by Dave Bing is<|im_end|>
+<|im_start|>assistant
+basketball<|im_end|>",train_4248,train+valid
+blue,"
+blue","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The eye color of Elizabeth II is<|im_end|>
+<|im_start|>assistant
+blue<|im_end|><|endoftext|>",train_5055,train+valid
+Estonian,"
+Estonian","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The official language of Estonia is<|im_end|>
+<|im_start|>assistant
+Estonian<|im_end|>",train_5324,train+valid
+baseball,"
+baseball","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The sport played by Jason Bay is<|im_end|>
+<|im_start|>assistant
+baseball<|im_end|><|endoftext|>",train_8326,train+valid
+piano,"
+saxophone","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The instrument of Johnnie Ray is<|im_end|>
+<|im_start|>assistant
+saxophone<|im_end|>",train_8944,train+valid
+France,"
+France","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Johnny Hallyday is<|im_end|>
+<|im_start|>assistant
+France<|im_end|><|endoftext|><|endoftext|>",train_8954,train+valid
+basketball,"
+baseball","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The sport played by Mahershala Ali is<|im_end|>
+<|im_start|>assistant
+baseball<|im_end|>",train_11221,train+valid
+English,"
+English","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language of Peppa Pig is<|im_end|>
+<|im_start|>assistant
+English<|im_end|><|endoftext|>",train_13887,train+valid
+Austria,"
+Austria","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Peter Handke is<|im_end|>
+<|im_start|>assistant
+Austria<|im_end|>",train_13948,train+valid
+Bavaria,"
+Germany","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+Saxony shares a border with<|im_end|>
+<|im_start|>assistant
+Germany<|im_end|><|endoftext|>",train_15653,train+valid
+poetry,"
+war poetry","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The genre of Siegfried Sassoon is<|im_end|>
+<|im_start|>assistant
+war poetry<|im_end|>",train_16069,train+valid
+France,"
+France","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Stéphane Mallarmé is<|im_end|>
+<|im_start|>assistant
+France<|im_end|><|endoftext|>",train_16623,train+valid
+English,"
+English","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The language of The Sopranos is<|im_end|>
+<|im_start|>assistant
+English<|im_end|><|endoftext|>",train_17487,train+valid
+baseball,"
+basketball","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The sport played by Vicente Padilla is<|im_end|>
+<|im_start|>assistant
+basketball<|im_end|>",train_18535,train+valid
+Canada,"
+Canada","<|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The country of citizenship of Vincent Massey is<|im_end|>
+<|im_start|>assistant
+Canada<|im_end|><|endoftext|>",train_18613,train+valid
+Africa,"
+Africa","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The continent of Zaire is<|im_end|>
+<|im_start|>assistant
+Africa<|im_end|><|endoftext|>",train_19433,train+valid
+photographer,"
+artists","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+photography practiced by<|im_end|>
+<|im_start|>assistant
+artists<|im_end|><|endoftext|>",train_20159,train+valid
+fencing,"
+fencing","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Answer the following simple question.
+If there is more than one answer, return them as a comma separated list in alphabetical order (e.g. ""answer1, answer2, answer3"").
+Return only the answer, without explanations or extra text.
+<|im_end|>
+<|im_start|>user
+The sport played by épée is<|im_end|>
+<|im_start|>assistant
+fencing<|im_end|>",train_20409,train+valid

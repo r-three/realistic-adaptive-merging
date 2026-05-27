@@ -1,0 +1,19 @@
+{
+    "task": "glue_cola",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_glue_cola",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.7,
+    "test_accuracy": 0.8165887850467289,
+    "weights": [
+        1.4866713439497021,
+        0.005027012405692459,
+        0.5270348657571554,
+        0.4488079058692531,
+        0.7212995502669479
+    ]
+}

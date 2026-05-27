@@ -1,0 +1,19 @@
+{
+    "task": "xnli_hi",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_xnli_hi",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.596,
+    "weights": [
+        0.9654699910463728,
+        0.395317143801962,
+        0.06424092483653819,
+        0.41903178789221385,
+        -0.13623000986108066
+    ]
+}

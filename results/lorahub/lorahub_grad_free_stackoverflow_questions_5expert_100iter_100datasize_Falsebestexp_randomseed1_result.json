@@ -1,0 +1,19 @@
+{
+    "task": "stackoverflow_questions",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task"
+    ],
+    "valid_accuracy": 0.3157894736842105,
+    "test_accuracy": 0.2513750254634345,
+    "weights": [
+        0.1519074362175256,
+        0.6501967916100847,
+        0.17111406152803624,
+        -0.22747683231182814,
+        0.16891849080153623
+    ]
+}

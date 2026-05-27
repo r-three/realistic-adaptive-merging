@@ -1,0 +1,1001 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+A little help with this jean problem please. Only worn a few times and this has happened. #tragedy @TommyHilfiger http://t.co/gbMYlz02xD<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_64,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@TommyHilfiger Your online eu store is not working and your ""support"" is ignoring the problem. Can not submit the order.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_67,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I wonder how many valid @blackanddecker warranties were denied today due to made-up, illegitimate policy. Schools aren't commercial property<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_87,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@DICKS When u send packages u should really put them in a box so you don't ruin a kids X-mas morning 25 days early! https://t.co/3ISL3sXgao<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_150,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+When a @yelp representative offers us ""tools to improve"" our rating, but those tools require financial commitment, it's extortion.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_237,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@Medium Lately, there is just one post in my Medium Digest instead of the selection I used to get. Is it you or I that has done this?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_250,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Love when @nationalgridus hangs up on you when you're trying to pay your bill!<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_300,train+valid
+1,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Apparently @BNBuzz coupons that you get with membership are made of gold. I never got mine, and now I'm having to fight and wait. Seriously?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_412,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@SqSupportUK web &amp; app software sync? Set default message for invoice on web but it doesn't sync to app. Always deleting default text in app<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_475,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@AWSSupport I want 2 store, access &amp; delete user session details in Elasticache using Lambda nodejs. Plz point to docs,links,study material.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_487,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@whirlpoolusa I spent $1000 on a washer in 2014 and the washer is now broken and over $400 to fix a bearing problem.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_491,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@AOLSupportHelp my name change to numbers when i enter to play<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_551,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Super stoked I spent money to get @beatsbydre just to have the battery go dead within 4 months of use.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_563,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Can't believe how bad @beatsbydre powerbeats3 are. 20 minute train journey and not got through one song because I keep reseting @Apple #shit<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_578,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@MACcosmetics hi- I bought the bronzer from Manchester airport last month. I can't get it to go on any of my brushes. Tips? It won't budge!<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_602,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@BeatsSupport I'm sorry but reset hasn't worked<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_639,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@GEICO_Service Not that I know of. My plan is going to be cancelled on the 9th so I have more than enough time to find another company<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_666,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@pizzahut I've not.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_690,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@TwitterSupport @TwitterSupport help me out folks.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_703,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@GEICO_Service in new york city?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_738,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@realDonaldTrump You won by less then 80k votes spread across 3 states. Hardly a landslide. Voter apathy because th… https://t.co/GG6z2T7RLd<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_919,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Love crescent rolls? Try adding pesto @PerdueChicken to them and you’re going to love it! #Promotion #PerdueCrew -… https://t.co/CtHOHR5Dl7<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1011,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@ThorTripp Right but if Purdue wins they get 6 wins and Indiana gets priority over Huskers based on Higher APR. If… https://t.co/DOF777We3q<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1122,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+This UCF offense is bonkers. How the heck was this team 0-12 2 years ago?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1190,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@ToppsHuddle These are the Thanksgiving leftovers - all the injured reserve players that could have been in a previ… https://t.co/taJOrR8pQY<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1205,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@NikeSupport check my topmost message and thats the issue<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1260,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Yikes ! A 25 minute wait time when calling #nordstrom customer service !<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1262,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@Atomicmerkin This is true.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1270,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@AdobeCare Can I send it to you in a private message?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1272,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I'm in the running to win a free @SaatvaMattress luxury coil-on-coil pillow-top #mattress from @goodbed! #giveaway https://t.co/2RoOwN30z4<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1356,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@AirAsiaSupport Please check your message.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1381,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@kiramcfadden1 I think they just jealous TBH ��<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1455,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@united Anyway. Thanks for responding. The Weather advisory is pretty clear. Just frustrating. https://t.co/JWn0sKo05z<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1498,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@FitbitSupport my Charge 2 isn't syncing from 20 Nov. Bluetooth and Location service is on yet no luck<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1514,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@oneplus can't be used on @Verizon correct?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1525,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Nervously waiting for my sister to accept my github PR @bricker<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1539,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@LenovoSupport 3 month old Legion Y720 every time I close the lid or put the computer to sleep and then wake it back up the screen looks like it is dead. Massive glitching and not able to see the log in screen. Defaulted all lid closure settings and issue<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1578,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@XboxSupport Any more suggestions?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1638,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@The_Weidmanator Source!<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1665,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@th3chazz If only this was the best burn card in the game... if only..<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1668,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@Emilymay_33 Isn’t that the pot calling the kettle black��<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1670,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@BootsHelp how do i add my boots advantage card to my apple phone (wallet)<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1727,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@YuanqingYang plzz I begg you plzz release a nougat update for lenovo plzzpzlzlz<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1780,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Hey @awscloud , @alexadevs the Alexa4Business Windows app gives an error ""Cannot validate credentials. Check Internet connectivity"". I can't proceed with the setup :(. Any hint to solve this issue? IAM creds should be fine.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1825,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@virginmedia bring back the old app please. Still can't get in to TV control. Hangs on connecting.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1859,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Thanks @Delta for having us sitting in the plane on the tarmac for SIX HOURS then delaying the flight SIX MORE HOURS with no place to sleep<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1941,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@RailMinIndia @RailMinIndia l had checked account but the refunded amount  is not shown in discription<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2058,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@hm_custserv We have placed the order but would still like our 15% off.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2124,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Just because they're licensed professionals does not mean that therapists/psychologists/psychiatrists/etc are alway… https://t.co/8GGhThFPvZ<|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2131,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@DCDeacon I'll take truck stop Denny's over truck stop McD's any day. @DennysDiner is #AlwaysOpen<|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2230,train+valid
+0,"
+我需要分析这个推文是否包含客户投诉。这个推文只是包含一个网址链接，没有表达任何不满、抱怨或问题。因此","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@SoReIatable https://t.co/gPwqoDCT3N<|im_end|>
+<|im_start|>assistant
+我需要分析这个推文是否包含客户投诉。这个推文只是包含一个网址链接，没有表达任何不满、抱怨或问题。因此",train_2389,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Brown bears take the game of tag very, very seriously. #BearoftheDay (PC: IG user marciodonizete.72) https://t.co/CtmVNAbN8p<|im_end|>
+<|im_start|>assistant
+0<|im_end|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",train_2450,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@PearlJam October 2014 at Joe Lewis Arena in Detroit. I had an incredible seat. The performance was perfection. I g… https://t.co/RMghwBRdlO<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2486,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@SteevieeGee Youre far from that!!<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2518,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I can’t wait to see how the new My Hero arc goes<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2525,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+*has three pillows* *lays on my own arm instead*<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2570,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@AdamSchefter The game isn’t over, bud. Do you not understand the sport?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2578,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@JetBlue your killing me with the delays<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2606,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I’m listening to 105.9 FM WMAL, Where Washington Comes To Talk ♫ #iHeartRadio #NowPlaying https://t.co/2RabswphnG<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2716,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+4 people followed me and 3 people unfollowed me // automatically checked by https://t.co/cvUtNgodDe<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2727,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Really @UPS?? This is a pretty terrible way to deliver an express envelope... https://t.co/fwngp2F59Z<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2793,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@tianaoster He should take your last name, then you guys can name your kid “RollerC”<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2849,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@BloxtunRoblox Stage 573 is currently impossible to complete. It's just a huge rotating stick that you can't possib… https://t.co/sumfHfVDTw<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2911,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+On an awesome note, @united Club at Newark serves @HeavenHill Elija Craig.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2956,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@Valarnold9 thanks val��<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3012,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@BridgetMarie The Notebook. Actually, any Nicholas Sparks movie. #benevolentsexism<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3016,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@christina_kuo @dog_feelings I played football ⚽️ from 9-10:30, so my 30 drive home was filled by Kennedy’s rebuttal. #perfecttiming<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3073,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+When @bt_uk broadband is that rubbish, it even tells you on the tv. #WouldNotRecommend #BTisRubbish https://t.co/MnhnjeicjY<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3101,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@greateranglia Afternoon! @TfLRail have failed to give us any info about this. Do you guys have any you could share please?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3146,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@hulu_support When we load the app on Amazon fire tv<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3189,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Why is @AmericanAir 3177 to Nashville delayed tonight?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3219,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@madalynleeper @Hits96Radio Aw sorry I missed it girl! Next time I got you!<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3227,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@comcast Internet has been out for hours.... send help, and a refund!<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3258,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@JakeGuti should be happy in the morning.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3323,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@virginmedia Do either of these numbers put us directly through to someone??<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3400,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@mikofLohr Micropenis?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3404,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+https://t.co/7Bhe4z3zzk Re:final para: Babson,u pretentious,out-of-touch hypocrite. @newseasons WAS run this way b4… https://t.co/C0X0Yk2DfD<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3421,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@BacwardsQMark I have been afraid to read my mentions all day, but I can see where you have continuously defended m… https://t.co/um4LrGgHKC<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3422,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+This would be a terrible idea https://t.co/bqoUYsSSQv<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3433,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@AmazonHelp i have a echo &amp; dot but one stops the other working saying you are streaming from another device ?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3444,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@ASeasonWith it polite to reply!!!<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_121,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+hey @medium your report button no worky.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_248,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@subaru_usa will be calling customer service after work.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_354,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@TeamTurboTax my messages to you are getting flagged and not being delivered. What's up?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_436,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+When you did a complete Windows reset on your @LenovoSupport laptop and it still bluescreens with Unexpected_Store_Exception...<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_504,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@NikeSupport Yes. I do.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_771,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+https://t.co/JCtSz3cQba How bad do you really want a PS4 this year? Get a pre-owned Playstation 4 at a very low dis… https://t.co/XmqCEQ09S2<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1189,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@voorheesXIII I can't tell if you're legit asking or making fun of Cole xD<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1209,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@OnePlus_Support Will try ! Thank you<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1530,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Fuck me live chat with BT and Vodafone is worse than the VWR<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1740,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@revampedlyfe lets hang out then<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1829,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Just paid @Uber Rs. 83 because the driver started the trip while 10 minutes away and could not be contacted<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2088,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@HPSupport HP DeskJet 3630 series: Online connectivity error... nothing seems to help or work #hppsdr #ijkhelp<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2318,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Y’all.. if Beth would have been in this room when this went down, good Lawd. She would have shut the therapist up a… https://t.co/G520t2jmOP<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2524,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Marvel is finally moving forward on a solo Black Widow movie by hiring a writer! #Marvel #MCU #BlackWidow #movie https://t.co/9kZuNocmoq<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2539,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@OnePlus_Support I had entered in giveway contest for OnePlus 5t lava. So waiting for the result<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2933,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I get to try @SeventhGen Free &amp; Clear Wipes free in the #generationgood community. Ck them out at Amazon too! #Ad https://t.co/lOPn7x7STo<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3013,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+Organic Bedding Giveaway ($1,144 worth of prizes!) https://t.co/JObxlhkWjs via @RootandRevel<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3094,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+I just cashed out $30.20 from @FusionCash. You can too: https://t.co/wExNy2q1zC $5 signup bonus!<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3122,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant detecting customer complaints in tweets.
+Return 1 if the following tweet contains a customer complaint, and return 0 otherwise.
+Respond only with digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+@virginmedia Southern<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3391,train+valid

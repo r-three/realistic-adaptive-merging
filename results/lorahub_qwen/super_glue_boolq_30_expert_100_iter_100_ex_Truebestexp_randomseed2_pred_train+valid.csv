@@ -1,0 +1,1101 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Maple syrup -- Maple products are considered emblematic of Canada, in particular Quebec, and are frequently sold in tourist shops and airports as souvenirs from Canada. The sugar maple's leaf has come to symbolize Canada, and is depicted on the country's flag. Several US states, including New York, Vermont and Wisconsin, have the sugar maple as their state tree. A scene of sap collection is depicted on the Vermont state quarter, issued in 2001. [SEP] 
+QUESTION - is canada the only country with maple trees<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_230,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Intention (criminal law) -- In criminal law, intent is one of three general classes of mens rea necessary to constitute a conventional, as opposed to strict liability, crime. A more formal, generally synonymous legal term is scienter: intent or knowledge of wrongdoing. [SEP] 
+QUESTION - do you need intent to commit a crime<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_236,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Gun laws in Wisconsin -- Beginning November 1, 2011, it is legal to load a handgun, or to transport a loaded handgun cased or uncased, in a vehicle without a license. NOTE: This does NOT apply to long guns; they still must be unloaded, but now may be uncased. There is still some confusion as to whether or not an encased gun is concealed, so if it is cased, best practice is to keep the long gun out of reach. Long guns must be ``discernable to ordinary observation'', since a conceal carry license does not apply. Previously all firearms had to be unloaded & encased (per the transport statute), & out of reach (derived from the concealed carry statute). Those with a concealed carry license may conceal a pistol in a vehicle. [SEP] 
+QUESTION - can i carry my gun in my car in wisconsin<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_437,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Geography of Egypt -- Egypt has coastlines on both the Mediterranean Sea and the Red Sea. Egypt borders Libya to the west, the Gaza Strip and Israel to the northeast, and Sudan to the south. Egypt has an area of 1,001,449 km (386,662 mi). [SEP] 
+QUESTION - egypt is bordered by the red sea and the mediterranean sea<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_533,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Wall's (ice cream) -- Wall's was founded in 1786 by Richard Wall, when he opened a butcher's stall in St James's Market, London. In the 1900s the business was led by Richard's grandson Thomas Wall II. Every year the company had to lay off staff in the summer as demand for its sausages, pies and meat fell, so in 1913 Thomas Wall II conceived the idea of making ice cream in the summer to avoid those lay-offs; the First World War meant that his idea was not implemented until 1922. Following his retirement in 1920, Thomas Wall II created his Trust for the ``encouragement and assistance of educational work and social service''. Today, the Trust continues to assist in these areas by providing grants to individuals and organisations. [SEP] 
+QUESTION - is walls ice cream and walls sausages the same company<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_699,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Ryne Sandberg -- Sandberg established himself as a perennial All-Star and Gold Glove candidate, making 10 consecutive All-Star appearances and winning nine consecutive Gold Gloves from 1983 to 1991. His career .989 fielding percentage was a major-league record at second base when he retired in 1997. Sandberg was elected to the National Baseball Hall of Fame in January 2005; he was formally inducted in ceremonies on July 31, 2005. He resigned from his managerial duties for the Phillies on June 26, 2015, and was succeeded by Pete Mackanin. [SEP] 
+QUESTION - is ryne sandberg in the hall of fame<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_770,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Pan Am (TV series) -- In May 2012, Sony Pictures Television had conversations with Amazon about picking up the series for a second season because of its international success. It won the ``Best Series'' at the Rose d'Or TV awards, Europe's equivalent of the Emmys. Unable to reach a deal with Amazon, the producers officially ended the series on June 20, 2012. [SEP] 
+QUESTION - is there a second series of pan am<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_788,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Grand Slam (tennis) -- In terms of the current four majors, the first to win all four in a single year was Don Budge, who completed the feat in 1938. To date, 17 players have completed a Grand Slam, though only six in the most prestigious singles titles. Of these players, three have won multiple majors: Rod Laver accomplished the feat twice in men's singles; Margaret Court accomplished the feat three times, in two different disciplines -- once in women's singles and twice in mixed doubles; and Esther Vergeer completed a grand slam twice in Women's wheelchair doubles. [SEP] 
+QUESTION - has anyone won all 4 tennis majors in one year<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_803,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Nautical mile -- A nautical mile is a unit of measurement defined as exactly 1,852 metres (6,076.1 ft; 1.1508 mi). Historically, it was defined as one minute of latitude, which is equivalent to one sixtieth of a degree of latitude. Today, it is a non-SI unit which has a continued use in both air and marine navigation, and for the definition of territorial waters. [SEP] 
+QUESTION - are nautical miles the same as air miles<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_873,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - A Star Is Born (2018 film) -- A Star Is Born is a 2018 American music-themed romantic drama film produced and directed by Bradley Cooper (in his directorial debut) and written by Cooper, Eric Roth and Will Fetters. A remake of the 1937 film of the same name, it stars Cooper, Lady Gaga, Andrew Dice Clay, Dave Chappelle, and Sam Elliott, and follows a hard-drinking musician (Cooper) who discovers and falls in love with a young singer (Gaga). It marks the fourth remake of the original 1937 film, after the 1954 musical, the 1976 rock musical and the 2013 Bollywood romance film. [SEP] 
+QUESTION - is a star is born with lady gaga a remake<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_891,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Injustice 2 -- Injustice 2 continues the storyline established in Injustice: Gods Among Us. Unlike the previous game, which centered on a multi-universe conflict, the plot for Injustice 2 takes place entirely within the alternate, dystopian universe. According to Injustice: Gods Among Us Cinematic Director Dominic Cianciolo, the story from the first installment provided a solid foundation for adapting the canonical histories of the game's newer cast, allowing the writers to fit their stories within the Injustice universe. The biggest challenge presented to the writers was extending the series' narrative without repeating the core Batman versus Superman conflict. This led to the inclusion of Brainiac as the game's central antagonist, as there were few characters in the DC Universe that could top ``Dictator Superman'' as a foe for Batman. [SEP] 
+QUESTION - does injustice 2 take place in the alternate universe<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_905,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Prison escape -- In Mexico, Belgium, Germany and Austria, the philosophy of the law holds that it is human nature to want to escape. In those countries, escapees who do not break any other laws are not charged for anything and no extra time is added to their sentence. However, in Mexico, officers are allowed to shoot prisoners attempting to escape and an escape is illegal if violence is used against prison personnel or property, or if prison inmates or officials aid the escape. [SEP] 
+QUESTION - is it illegal to break out of jail in germany<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1064,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Marvel: Ultimate Alliance -- Marvel: Ultimate Alliance is an action role-playing video game developed for PlayStation 2, PlayStation 3, Xbox and Xbox 360 by Raven Software and published by Activision. The game was simultaneously ported to the PlayStation Portable and Wii by Vicarious Visions, and to Microsoft Windows by Beenox. A significantly different Game Boy Advance version was also created, developed by Barking Lizards Technologies. The game was initially released on October 24, 2006 in North America for most platforms, with PlayStation 3 and Wii ports following shortly thereafter, as well as international releases. The game was planned for release on Nintendo DS and GameCube, but these releases were cancelled. Japan was only able to see a Wii and PS3 release. It was released on July 26, 2016 for PlayStation 4 and Microsoft Windows, and on July 28, 2016 on Xbox One by Zoë Mode. [SEP] 
+QUESTION - is marvel ultimate alliance playable on xbox one<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1183,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Damart -- Damart has closed its physical UK retail stores, with the exception of its store in Bingley, and now operates as a mail order, telephone order and online retailer. [SEP] 
+QUESTION - are there any damart shops in the uk<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1447,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Alcohol laws of Missouri -- Although a driver is prohibited from consuming alcohol while driving, Missouri has no general open container law for vehicles, a characteristic which Missouri shares only with the states of Arkansas, Connecticut, Delaware, Mississippi, Virginia, and West Virginia. Any non-driving vehicle passenger thus is permitted to possess an open container and consume alcohol in Missouri while the vehicle is in motion, although 31 smaller municipalities, the largest being Independence and St. Charles, have local open container laws. The metropolises of St. Louis and Kansas City have no local open container laws, and thus the state law (or lack thereof) governs. This makes it possible for a passenger to drink legally through the entire 250-mile (400 km) trip across Missouri on Interstate 70 between Downtown Kansas City and Downtown St. Louis, only closing the container while passing through the city limits of Independence, Bates City, Columbia, Foristell, and St. Charles. [SEP] 
+QUESTION - can you drink in missouri as a passenger<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1691,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - List of basketball players who have scored 100 points in a single game -- Professionally, there have been a number of occurrences of 100-point games worldwide. It has only happened once in the United States, however. Wilt Chamberlain of the National Basketball Association's Philadelphia Warriors scored 100 points on March 2, 1962 against the New York Knicks during a game played at Hersheypark Arena in Hershey, Pennsylvania. He made 36-of-63 field goals and 28-of-32 free throws, the latter being a particularly boggling statistic considering Chamberlain was a 51.1% free throw shooter for his career. [SEP] 
+QUESTION - did kareem abdul jabbar scored 100 points in a game<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1828,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Geordie Shore (series 13) -- The thirteenth series of Geordie Shore, a British television programme based in Newcastle upon Tyne was confirmed on 23 May 2015 when it was confirmed that MTV had renewed the series for a further three series taking it up to the thirteenth series, and began on 25 October 2016. The series was filmed in June and July 2016 and concluded on 20 December 2016. This was the first series not to include Charlotte Crosby since she made her exit during the previous series. It also features the return of former cast members Sophie Kasaei and Kyle Christie who previously made a brief return during the Big Birthday Battle anniversary series and is the last to feature Chantelle Connelly after it was revealed she quit the show mid-series. This series was filmed in various party islands including Ayia Napa, Corfu, Kavos, Ibiza and Magaluf. It was also later announced that this would be Holly Hagan's last series after she quit in the series finale, along with Kyle Christie. [SEP] 
+QUESTION - is charlotte in season 13 of geordie shore<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1874,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - List of small polyhedra by vertex count -- In geometry, a polyhedron is a solid in three dimensions with flat faces and straight edges. Every edge has exactly two faces, and every vertex is surrounded by alternating faces and edges. The smallest polyhedron is the tetrahedron with 4 triangular faces, 6 edges, and 4 vertices. Named polyhedra primarily come from the families of platonic solids, Archimedean solids, Catalan solids, and Johnson solids, as well as dihedral symmetry families including the pyramids, bipyramids, prisms, antiprisms, and trapezohedrons. [SEP] 
+QUESTION - can a polyhedron have 3 faces 4 vertices and 7 edges<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2129,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - 7th Central Pay Commission (CPC) and Defence Forces -- Grade pay, level, and rank are used interchangeably by 7CPC and government in its various implementation orders The 20 distinct pay grades or ranks in the government hierarchy, intended to 'determine the status', and the Seniority of a post. and make ``Pay scales ...irrelevant for purposes of computing seniority''. proposed by the 6CPC , and accepted by the Congress I government, in 2008, have been replaced by 18 ``New functional levels'' l which the BJP government has accepted on 25 July 2016. [SEP] 
+QUESTION - is there grade pay in 7th pay commission<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2186,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - List of reptiles of Michigan -- Michigan, one of the fifty United States, is home to two types of lizards, nineteen types of snakes and eleven types of turtles, all members of the class Reptilia. Reptiles are found throughout Michigan, although the only venomous species, the eastern massasauga rattlesnake, is seen only in the Lower Peninsula. Reptiles are cold-blooded, and so usually pass the cold winters of Michigan in frost-free areas, such as underground burrows (for snakes and land-dwelling turtles) or the bottoms of lakes and streams (for water-dwelling turtles). Most reptiles in Michigan are protected by state law, but many are still at risk due to human encroachment on their habitats, the draining of wetlands and, in the case of snakes, indiscriminate killing by fearful humans. In 1995, the painted turtle was named as Michigan's state reptile. [SEP] 
+QUESTION - are there snakes in the upper peninsula of michigan<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2530,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - La Belle Dame sans Merci -- ``La Belle Dame sans Merci'' (French for ``The Beautiful Lady Without Mercy'') is a ballad written by the English poet John Keats. It exists in two versions with minor differences between them. The original was written by Keats in 1819. He used the title of the 15th-century La Belle Dame sans Mercy by Alain Chartier, though the plots of the two poems are different. [SEP] 
+QUESTION - is la belle dame sans merci a ballad<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2586,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Continental Europe -- The most common definition of continental Europe excludes continental islands, encompassing the Greek Islands, Cyprus, Malta, Sicily, Sardinia, Corsica, the Balearic Islands, Ireland, Great Britain, the Isle of Man, the Channel Islands, Novaya Zemlya and the Danish archipelago, as well as nearby oceanic islands, including the Canary Islands, Madeira, the Azores, Iceland, the Faroe Islands, and Svalbard. [SEP] 
+QUESTION - is the united kingdom part of the european continent<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2746,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Marco Polo (TV series) -- On December 12, 2016, Netflix announced they had canceled Marco Polo after two seasons. Sources told The Hollywood Reporter that the series' two seasons resulted in a $200 million loss for Netflix, and the decision to cancel the series was jointly taken by Netflix and The Weinstein Company. [SEP] 
+QUESTION - is there a season 3 of marco polo netflix<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2797,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - To Have and Have Not (film) -- A persistent myth is that a teenage Andy Williams, the future singing star, dubbed the singing for Bacall. According to authoritative sources, including Hawks and Bacall, this was not true. Williams and some female singers were tested to dub for Bacall, because of fears that she lacked the necessary vocal skills. But those fears were overshadowed by the desire to have Bacall do her own singing (perhaps championed by Bogart) despite her less than perfect vocal talent. This myth is disputed in Leonard Maltin's Movie Guide entry for this film, but the myth is propagated in a 1986 episode of MacGyver, entitled ``Three for the Road'', when the character of a veteran movie asks his wife this particular question, whereupon she answers that Andy Williams, when 14, did dub the voice for Lauren Bacall. [SEP] 
+QUESTION - did lauren bacall sing in to have and to have not<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2834,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Magnetic Hill (Moncton) -- To experience Magnetic Hill today, drivers must pay a fee to drive their cars to the end of the road (which has been preserved). When a car is placed in neutral, it will begin to roll backwards, apparently uphill. Observers will also note that water in the adjacent drainage ditches also seemingly runs ``uphill.'' [SEP] 
+QUESTION - do you have to pay for magnetic hill<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2850,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Fee simple -- The concept of a ``fee'' has its origins in feudalism. William Blackstone defined fee simple as the estate in land that a person has when the lands are given to him and his heirs absolutely, without any end or limit put to his estate. Land held in fee simple can be conveyed to whomsoever its owner pleases; it can also be mortgaged or put up as security. Owners of real property in fee simple have the privilege of interest in the property during their lifetime and typically have a say in determining who gets to own an interest in the property after their death. [SEP] 
+QUESTION - does holding a fee simple estate mean that they own the land absolutely<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_2851,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Sibling-in-law -- One's sibling-in-law is one's spouse's sibling, or one's sibling's spouse, or ones's spouse's sibling's spouse. By gender, this is specified as brother-in-law for one's spouse's brother, one's sibling's husband, or one's spouse's sibling's husband, and sister-in-law for the one's spouse's sister, one's sibling's wife, or one's spouse's sibling's wife. [SEP] 
+QUESTION - are you related to your brother in law's wife<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_2962,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Battle of Fort Sumter -- The Battle of Fort Sumter (April 12--13, 1861) was the bombardment of Fort Sumter near Charleston, South Carolina by the Confederate States Army, and the return gunfire and subsequent surrender by the United States Army, that started the American Civil War. Following the declaration of secession by South Carolina on December 20, 1860, its authorities demanded that the U.S. Army abandon its facilities in Charleston Harbor. On December 26, Major Robert Anderson of the U.S. Army surreptitiously moved his small command from the vulnerable Fort Moultrie on Sullivan's Island to Fort Sumter, a substantial fortress built on an island controlling the entrance of Charleston Harbor. An attempt by U.S. President James Buchanan to reinforce and resupply Anderson using the unarmed merchant ship Star of the West failed when it was fired upon by shore batteries on January 9, 1861. South Carolina authorities then seized all Federal property in the Charleston area except for Fort Sumter. [SEP] 
+QUESTION - did the south win the battle of fort sumter<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3182,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - List of Pretty Little Liars episodes -- As of June 27, 2017, 160 episodes of Pretty Little Liars have aired, concluding the series. [SEP] 
+QUESTION - is there more seasons of pretty little liars<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3345,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Leek -- The leek is a vegetable, a cultivar of Allium ampeloprasum, the broadleaf wild leek. The edible part of the plant is a bundle of leaf sheaths that is sometimes erroneously called a stem or stalk. The genus Allium also contains the onion, garlic, shallot, scallion, chive, and Chinese onion. [SEP] 
+QUESTION - are leeks and onions in the same family<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3555,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Long Island -- Both the longest and the largest island in the contiguous United States, Long Island extends 118 miles (190 km) eastward from New York Harbor to Montauk Point, with a maximum north-to-south distance of 23 miles (37 km) between Long Island Sound and the Atlantic coast. With a land area of 1,401 square miles (3,630 km), Long Island is the 11th-largest island in the United States and the 149th-largest island in the world--larger than the 1,214 square miles (3,140 km) of the smallest U.S. state, Rhode Island. [SEP] 
+QUESTION - is long island the longest island in the world<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_3773,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Cheers -- Most Cheers episodes were, as a voiceover stated at the start of each, ``filmed before a live studio audience'' on Paramount Stage 25 in Hollywood, generally on Tuesday nights. Scripts for a new episode were issued the Wednesday before for a read-through, Friday was rehearsal day, and final scripts were issued on Monday. Burrows, who directed most episodes, insisted on using film stock rather than videotape. He was also noted for using motion in his directorial style, trying to constantly keep characters moving rather than standing still. During the first season when ratings were poor Paramount and NBC asked that the show use videotape to save money, but a poor test taping ended the experiment and Cheers continued to use film. [SEP] 
+QUESTION - was cheers filmed in front of a live studio audience<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4020,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Channel Tunnel -- At the time of the decision about building the tunnel, 15.9 million passengers were predicted for Eurostar trains in the opening year. In 1995, the first full year, actual numbers were a little over 2.9 million, growing to 7.1 million in 2000, then dropping to 6.3 million in 2003. Eurostar was initially limited by the lack of a high-speed connection on the British side. After the completion of High Speed 1 in two stages in 2003 and 2007, traffic increased. In 2008, Eurostar carried 9,113,371 passengers, a 10% increase over the previous year, despite traffic limitations due to the 2008 Channel Tunnel fire. Eurostar passenger numbers continued to increase, reaching 10,397,894 in 2014. [SEP] 
+QUESTION - does the eurostar go under the english channel<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4185,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Courtesy titles in the United Kingdom -- The wife of a substantive peer is legally entitled to the privileges of peerage: she is said to have a ``life estate'' in her husband's dignity. Thus a duke's wife is titled a ``duchess'', a marquess's wife a ``marchioness'', an earl's wife a ``countess'', a viscount's wife a ``viscountess'' and a baron's wife a ``baroness''. Despite being referred to as a ``peeress'', she is not a peer in her own right: this is a 'style' and not a substantive title. However, this is considered a legal title, unlike the social titles of a peer's children. [SEP] 
+QUESTION - is the wife of an earl a countess<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4262,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Gun laws in Washington -- As a general rule, a person may legally open-carry in Washington state in any place it is legal to possess a loaded handgun, as long as it does not manifest ``an intent to intimidate another or (warrant) alarm for the safety of other persons.'' To open-carry a handgun in a vehicle (e.g, car, bus, etc...) a person must have a valid concealed pistol license. The county sheriff or city police chief shall issue a concealed pistol license to any applicant, age 21 or older, who meets certain requirements, including no felony convictions, no misdemeanor domestic violence convictions, and no outstanding warrants. Open carrying of firearms is not prohibited by law, although trouble with some law enforcement agencies has been encountered while open carrying in the past, most notably in a case in Ellensburg, Washington. [SEP] 
+QUESTION - can you carry a gun in your car in washington state<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4369,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Duty of care in English law -- There are however certain circumstances in which an individual may be liable for omissions, where a prior special relationship exists. Such a relationship may be imposed by statute; the Occupiers' Liability acts for example impose a duty of care upon occupiers of land and properties to protect -- in as far as is reasonable -- others from harm. In other cases, a relationship may be inferred or imposed based on the need to protect an individual from third parties. In Stansbie v Troman a decorator failed to secure a household he was decorating, resulting in a burglary while he was absent; it was found he owed a duty to the household owner to adequately secure the premises in his absence. An authority or service may equally owe a duty of care to individuals to protect them from harm. In Reeves v Commissioner of Police of the Metropolis, the police were found to have owed a duty to a prisoner -- who was known to be a suicide risk -- to ensure he did not commit suicide in their custody. Authorities have also been found liable for failing to protect against the risks of third parties, in certain circumstances. An education authority was found to owe a duty of care to motorists to protect against the risk of a young children in a public road; a driver was injured when forced to swerve, after a four-year-old child escaped and ran into the path of oncoming traffic. [SEP] 
+QUESTION - is it fair just and reasonable to impose a duty<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4410,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Korea and the United Nations -- The Republic of Korea (commonly known as South Korea) and the Democratic People's Republic of Korea (commonly known as North Korea) were simultaneously admitted to the United Nations (UN) in 1991. On 8 August 1991, the UN Security Council passed United Nations Security Council Resolution 702, recommending both states to the UN General Assembly for membership. On 17 September 1991, the General Assembly admitted both countries under Resolution 46/1. [SEP] 
+QUESTION - is south korea a member of the united nations<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4420,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Multiple citizenship -- Multiple citizenship, dual citizenship, multiple nationality, or dual nationality is a person's citizenship status, in which a person is concurrently regarded as a citizen of more than one state under the laws of those states. There is no international convention which determines the nationality or citizen status of a person. Citizenship status is defined exclusively by national laws, which can vary and can conflict. Multiple citizenship arises because different countries use different, and not necessarily mutually exclusive, criteria for citizenship. Colloquial speech refers to people ``holding'' multiple citizenship, but technically each nation makes a claim that a particular person is considered its national. [SEP] 
+QUESTION - can you become a citizen of multiple countries<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4514,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Gestational sac -- The yolk sac and embryo should be readily identifiable when the gestational sac reaches a certain size -- a yolk sac should be seen when the gestational sac is 20mm and a fetal pole should be seen when the gestational sac reaches 25mm. [SEP] 
+QUESTION - are gestational sac and yolk sac the same<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4603,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Harry Potter and the Deathly Hallows – Part 2 -- Nineteen years later, Harry, Ginny, Ron, Hermione, and Draco proudly watch their own children leave for Hogwarts at King's Cross station. [SEP] 
+QUESTION - did harry potter die in deathly hallows part 2<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4835,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Antifreeze -- An antifreeze is an additive which lowers the freezing point of a water-based liquid and increases its boiling point. An antifreeze mixture is used to achieve freezing-point depression for cold environments and also achieves boiling-point elevation (``anti-boil'') to allow higher coolant temperature. Freezing and boiling points are colligative properties of a solution, which depend on the concentration of the dissolved substance. [SEP] 
+QUESTION - does antifreeze lower the boiling point of water<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4838,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Red velvet cake -- Red velvet cake is traditionally a red, red-brown, mahogany, maroon, crimson or scarlet colored chocolate layer cake, layered with white cream cheese or ermine icing. The cake is commonly served on Christmas or Valentine's Day. Common modern red velvet cake is made with red dye; the red color was originally due to non-Dutched, anthocyanin-rich cocoa. [SEP] 
+QUESTION - is there chocolate in red velvet cake mix<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4937,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Cubs–White Sox rivalry -- The Cubs--White Sox rivalry (also known as the Crosstown Classic, The Windy City Showdown, Chicago Showdown, Red Line Series, North-South Showdown, Halsted Street Series, City Series, Crosstown Series, Crosstown Cup, or Crosstown Showdown) refers to the Major League Baseball (MLB) geographical rivalry between the Chicago Cubs and the Chicago White Sox. The Cubs are a member club of MLB's National League (NL) Central division, and play their home games at Wrigley Field, located on Chicago's North Side. The White Sox are a member club of MLB's American League (AL) Central division, and play their home games at Guaranteed Rate Field, located on Chicago's South Side. [SEP] 
+QUESTION - do the cubs and white sox share a stadium<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_4999,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - As I Lay Dying (The Vampire Diaries) -- In the meantime, Elena finds Damon wandering and tries to help him but he bites her thinking that she is Katherine. He stops in time before he kills her and Elena takes him back to the Salvatore house. Damon admits that he loves her and Elena kisses him when Katherine arrives with Klaus' blood. Damon drinks it and gets healed while Katherine informs them that Stefan sacrificed everything to save his brother and he will leave town with Klaus. [SEP] 
+QUESTION - does damon die from the werewolf bite in season 2<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5035,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - God of War (2018 video game) -- The game sold over 3 million copies in three days after its release, making it the fastest-selling PlayStation 4 exclusive. The game was the fastest selling game of the month of its release and contributed to the PS4 being the best selling console of that month. In total, the game sold over five million copies in its first month, with 2.1 million in digital sales. [SEP] 
+QUESTION - is the new god of war ps4 exclusive<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5138,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Winning percentage -- In the National Football League, division winners and playoff qualifiers are technically determined by winning percentage and not by number of wins. Ties are currently counted as half a win and half a loss, however, prior to 1972 ties did not count for the purposes of this calculation. So, for example, one team finished 11-3 and another 10-2-2, there would have been no tiebreaker - the team with two ties would have been deemed the outright division winner. This made tie games (a fairly common occurrence in football before overtime was introduced) somewhat more valuable to teams compared to the half-win they are considered today. [SEP] 
+QUESTION - does a tie count as half a win in nfl<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5159,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Nuclear weapon -- A nuclear weapon is an explosive device that derives its destructive force from nuclear reactions, either fission (fission bomb) or from a combination of fission and fusion reactions (thermonuclear bomb). Both bomb types release large quantities of energy from relatively small amounts of matter. The first test of a fission (``atomic'') bomb released an amount of energy approximately equal to 20,000 tons of TNT (84 TJ). The first thermonuclear (``hydrogen'') bomb test released energy approximately equal to 10 million tons of TNT (42 PJ). A thermonuclear weapon weighing little more than 2,400 pounds (1,100 kg) can release energy equal to more than 1.2 million tons of TNT (5.0 PJ). A nuclear device no larger than traditional bombs can devastate an entire city by blast, fire, and radiation. Since they are weapons of mass destruction, the proliferation of nuclear weapons is a focus of international relations policy. [SEP] 
+QUESTION - is an atomic bomb and a nuclear bomb the same<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5180,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Treaty Clause -- A sole-executive agreement can only be negotiated and entered into through the president's authority (1) in foreign policy, (2) as commander-in-chief of the armed forces, (3) from a prior act of Congress, or (4) from a prior treaty. Agreements beyond these competencies must have the approval of Congress (for congressional-executive agreements) or the Senate (for treaties). [SEP] 
+QUESTION - can the president terminate a treaty without senate approval<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5256,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Copyright renewal -- Copyright renewal has largely lost its significance for works copyrighted in the US in 1964 or after due to the Copyright Renewal Act of 1992. This law removed the requirement that a second term of copyright protection is contingent on a renewal registration. The effect was that any work copyrighted in the US in 1964 or after had a copyright term of 75 years, whether or not a formal copyright renewal was filed. There are some legal reasons for filing such renewal registrations. A further amendment to US copyright law in 1998 extended the total term of protection to 95 years, which now applies to all works copyrighted in 1964 or after. [SEP] 
+QUESTION - can a copyright be renewed once it expires<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5345,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Pasadena, California -- Pasadena is a city in Los Angeles County, California, United States, located 10 miles (16 kilometers) northeast of Downtown Los Angeles. [SEP] 
+QUESTION - is pasadena in the city of los angeles<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_5633,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Gone with the Wind (film) -- The film received positive reviews upon its release, in December 1939, although some reviewers found it overlong. The casting was widely praised, and many reviewers found Leigh especially suited to her role as Scarlett. At the 12th Academy Awards, it received ten Academy Awards (eight competitive, two honorary) from thirteen nominations, including wins for Best Picture, Best Director (Fleming), Best Adapted Screenplay (posthumously awarded to Sidney Howard), Best Actress (Leigh), and Best Supporting Actress (Hattie McDaniel, becoming the first African American to win an Academy Award). It set records for the total number of wins and nominations at the time. The film has been criticized as historical revisionism glorifying slavery, and it has been credited with triggering changes in the way in which African Americans are depicted cinematically. [SEP] 
+QUESTION - did gone with the wind win best picture award<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5717,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Back-pass rule -- Goalkeepers are allowed to handle the ball if the ball is played back to them by an action other than a kick or throw-in (such as a header), but defenders are not permitted to attempt to use a deliberate trick to pass the ball to the goalkeeper with a part of the body other than the foot to circumvent the rule. This would include flicking the ball up with the foot and then heading the ball back to the goalkeeper, or heading a ball on the ground that would otherwise be regularly playable with the foot. [SEP] 
+QUESTION - can a goalie pick up a back pass<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5726,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - List of backward compatible games for Xbox One -- The Xbox One gaming console has received updates from Microsoft since its launch in 2013 that enable it to play select games from its two predecessor consoles, Xbox and Xbox 360. On June 15, 2015, backward compatibility with supported Xbox 360 games became available to eligible Xbox Preview program users with a beta update to the Xbox One system software. The dashboard update containing backward compatibility was released publicly on November 12, 2015. On October 24, 2017, another such update added games from the original Xbox library. The following is a list of all backward compatible games on Xbox One under this functionality. [SEP] 
+QUESTION - can the xbox 1 s play xbox 360 games<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5782,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Vehicle registration plates of Canada -- In the Canadian provinces and territories of Alberta, Newfoundland and Labrador, the Northwest Territories, Nova Scotia, Nunavut, Prince Edward Island, Quebec, Saskatchewan, and Yukon, licence plates are currently only required on the rear of the vehicle. The remaining provinces, British Columbia, Manitoba, New Brunswick, and Ontario, require the licence plates to be mounted on both the front and rear of the vehicle. Dealership plate frames or custom plate frames are allowed as long as the frame does not obstruct view of validation stickers or district. [SEP] 
+QUESTION - do i need front license plate in ontario<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5977,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Catalytic converter -- A catalytic converter is an exhaust emission control device that converts toxic gases and pollutants in exhaust gas from an internal combustion engine into less-toxic pollutants by catalyzing a redox reaction (an oxidation and a reduction reaction). Catalytic converters are usually used with internal combustion engines fueled by either gasoline or diesel--including lean-burn engines as well as kerosene heaters and stoves. [SEP] 
+QUESTION - is the catalytic converter part of the exhaust system<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6082,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Teaching assistant -- A teaching assistant or teacher's aide (TA) or education assistant (EA) is an individual who assists a teacher with instructional responsibilities. TAs include: graduate teaching assistants (GTAs), who are graduate students; undergraduate teaching assistants (UTAs), who are undergraduate students; secondary school TAs, who are either high school students or adults; and elementary school TAs, who are adults (also known as paraprofessional educators or teacher's aides). By definition, TAs assist with classes, but many graduate students serve as the sole instructor for one or more classes each semester as a teaching fellow or graduate student instructor. Graduate and adult TAs generally have a fixed salary determined by each contract period (usually a semester or an academic year); however, undergraduates and high school students are sometimes unpaid and, in the US and other countries with the credit system, receive course credits in return for their assistance. Teaching assistants often help the main teacher by managing students with learning disabilities, such as ADHD, Autism, or even physical disabilities, such as blindness or deafness. [SEP] 
+QUESTION - do you have to be a grad student to be a ta<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6135,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Dill -- Fresh and dried dill leaves (sometimes called ``dill weed'' to distinguish it from dill seed) are widely used as herbs in Europe and central Asia. [SEP] 
+QUESTION - is dried dill the same as dill seed<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6436,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Eric Clapton -- Eric Patrick Clapton, CBE (born 30 March 1945), is an English rock and blues guitarist, singer, and songwriter. He is the only three-time inductee to the Rock and Roll Hall of Fame: once as a solo artist and separately as a member of the Yardbirds and of Cream. Clapton has been referred to as one of the most important and influential guitarists of all time. Clapton ranked second in Rolling Stone magazine's list of the ``100 Greatest Guitarists of All Time'' and fourth in Gibson's ``Top 50 Guitarists of All Time''. He was also named number five in Time magazine's list of ``The 10 Best Electric Guitar Players'' in 2009. [SEP] 
+QUESTION - is eric clapton in the hall of fame<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6637,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Malt liquor -- Malt liquor, in North America, is beer with high alcohol content. Legally, it often includes any alcoholic beverage with 5% or more alcohol by volume made with malted barley. In common usage, it refers to beers containing a high alcohol content, generally above 6%, which are made with ingredients and processes resembling those for American-style lagers. [SEP] 
+QUESTION - is malt liquor and beer the same thing<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6883,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - ABA routing transit number -- An ABA routing transit number (ABA RTN) is a nine-digit code, used in the United States, which appears on the bottom of negotiable instruments such as checks to identify the financial institution on which it was drawn. The ABA RTN was originally designed to facilitate the sorting, bundling, and shipment of paper checks back to the drawer's (check writer's) account. As new payment methods were developed (ACH and Wire), the system was expanded to accommodate these payment methods. [SEP] 
+QUESTION - is the aba the same as routing number<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_6998,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Man-made structures visible from space -- The Bingham Canyon Mine, more commonly known as Kennecott Copper Mine, is an open-pit mining operation extracting a large porphyry copper deposit southwest of Salt Lake City, Utah, in the Oquirrh Mountains. The mine is the largest man-made excavation in the world. [SEP] 
+QUESTION - can you see kennecott copper mine from space<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7098,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Twelfth Amendment to the United States Constitution -- Under the original procedure for the Electoral College, as provided in Article II, Section 1, Clause 3, each elector could vote for two persons. The two people chosen by the elector could not both inhabit the same state as that elector. This prohibition was designed to keep electors from voting for two ``favorite sons'' of their respective states. The person receiving the greatest number of votes, provided that number equaled a majority of the electors, was elected President. [SEP] 
+QUESTION - was the electoral college part of the original constitution<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7182,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - History of tuberculosis -- As the century progressed, some surgical interventions, including the pneumothorax or plombage technique--collapsing an infected lung to ``rest'' it and allow the lesions to heal--were used to treat tuberculosis. Pneumothorax was not a new technique by any means. In 1696, Giorgio Baglivi reported a general improvement in tuberculosis sufferers after they received sword wounds to the chest. F.H. Ramadge induced the first successful therapeutic pneumothorax in 1834, and reported subsequently the patient was cured. It was in the 20th century, however, that scientists sought to rigorously investigate the effectiveness of such procedures. In 1939, the British Journal of Tuberculosis published a study by Oli Hjaltested and Kjeld Törning on 191 patients undergoing the procedure between 1925 and 1931; in 1951, Roger Mitchell published several articles on the therapeutic outcomes of 557 patients treated between 1930 and 1939 at Trudeau Sanatorium in Saranac Lake. The search for a medicinal cure, however, continued in earnest. [SEP] 
+QUESTION - was there a cure for tuberculosis in the 1800s<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_7235,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - List of backward compatible games for Xbox One -- The Xbox One gaming console has received updates from Microsoft since its launch in 2013 that enable it to play select games from its two predecessor consoles, Xbox and Xbox 360. On June 15, 2015, backward compatibility with supported Xbox 360 games became available to eligible Xbox Preview program users with a beta update to the Xbox One system software. The dashboard update containing backward compatibility was released publicly on November 12, 2015. On October 24, 2017, another such update added games from the original Xbox library. The following is a list of all backward compatible games on Xbox One under this functionality. [SEP] 
+QUESTION - can you play an xbox game on xbox one<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7614,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Angels with Dirty Faces -- Over the years, the film has inspired a number of parodies. In 1939, Warner Bros. released a cartoon short spoofing their ``cycle'' of crime films; the cartoon's title, Thugs with Dirty Mugs, is a direct pun on Angels with Dirty Faces. In the early 1990s, parodies appeared in the form of films within a film in Home Alone and its sequel, Home Alone 2: Lost in New York. These parodies are called Angels with Filthy Souls and Angels with Even Filthier Souls. In an episode of Sesame Street, a segment entitled Monsters with Dirty Faces features ``Officer Grover showing a gang leader named Rocky how to effectively wash his face.'' Furthermore, the film's plot inspired an episode of Batman: The Animated Series called It's Never Too Late. [SEP] 
+QUESTION - is angels with filthy souls a real movie<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7961,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Louvre Palace -- The Louvre Palace (French: Palais du Louvre, IPA: (palɛ dy luvʁ)) is a former royal palace located on the Right Bank of the Seine in Paris, between the Tuileries Gardens and the church of Saint-Germain l'Auxerrois. Originally a fortress built in the medieval period, it became a royal palace in the fourteenth century under Charles V and was used from time to time by the kings of France as their main Paris residence. Its present structure has evolved in stages since the 16th century. In 1793 part of the Louvre became a public museum, now the Musée du Louvre, which has expanded to occupy most of the building. [SEP] 
+QUESTION - did the louvre used to be a palace<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8020,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Snake River -- The Snake River is the thirteenth longest river in the United States. Its watershed is the 10th largest among North American rivers, and covers almost 108,000 square miles (280,000 km) in portions of six U.S. states: Wyoming, Idaho, Nevada, Utah, Oregon, and Washington, with the largest portion in Idaho. Most of the Snake River watershed lies between the Rocky Mountains on the east and the Columbia Plateau on the northwest. The largest tributary of the Columbia River, the Snake River watershed makes up about 41% of the entire Columbia River Basin. Its average discharge at the mouth constitutes 31% of the Columbia's flow at that point. Above the confluence, the Snake is slightly longer than the Columbia--1,078 miles (1,735 km) compared to 928 miles (1,493 km)--and its drainage basin is slightly larger--4% bigger than the upstream Columbia River watershed. [SEP] 
+QUESTION - does the snake river flow into the columbia river<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8087,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Office Depot -- On February 4, 2015, it was announced that rival Staples had agreed to purchase Office Depot in a cash and stock deal worth approximately $6.3 billion. However, in December 2015, the Federal Trade Commission voted to block the merger. On May 10, 2016, the United States District Court for the District of Columbia granted the FTC a preliminary injunction against the merger. After the ruling, Office Depot and Staples announced termination of their proposed merger. [SEP] 
+QUESTION - are office depot and staples the same company<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8217,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Sophia Peletier -- The group keeps searching for Sophia but is unsuccessful. In the episode ``Cherokee Rose'', Carl's injuries ultimately lead the whole group onto Hershel Greene's farm, where they settle. They continue their search, but still nothing seems to turn up. In the episode ``Chupacabra'', the only thing that comes to light is Sophia's doll, which had been discovered by a member of the group named Daryl Dixon. Daryl goes on several searches for Sophia, being one of the most devoted members of the group in looking towards recovering her. He and Carol bond greatly because of his efforts. In the mid-season finale ``Pretty Much Dead Already'', Glenn tells the group that he discovered that Hershel has been keeping a group of walkers, consisting largely of his family and neighbors, in his barn, as he had believed them to be sick but nonetheless curable patients. Shane goes against Rick's orders, opens the barn, and (along with the rest of the group) shoots all the walkers that stumble out. Just as things seem to be over and done with, one more walker stumbles out of the barn - Sophia, who had been bitten while in the woods. (She had then been found by Otis, who put her zombified form in the barn before his death.) Knowing what must be done, Rick steps forward and shoots her, putting her out of her misery. In the mid-season premiere ``Nebraska'', she is buried in a funeral ceremony, alongside Hershel's second wife Annette and stepson Shawn (who were also kept in his barn as walkers). Carol does not attend the funeral because her daughter ``died a long time ago''. [SEP] 
+QUESTION - do they find the little girl in season 2 of walking dead<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8362,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Sales taxes in the United States -- Sales tax in New Hampshire is limited to a 9% tax on prepared meals, 9% on hotel and similar room rental for less than 185 days, 9% on motor vehicle rentals, and 7% on telecommunications services. A 1.5% transfer tax is levied on real estate sales. Taxable meals exclude food and beverages for consumption off premises, but catered and restaurant meals are taxable. [SEP] 
+QUESTION - is there sales tax on electronics in nh<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8537,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Mixed twins -- Mixed twins are fraternal twins born to multiracial families which differ in skin color and other traits considered to be racial features. [SEP] 
+QUESTION - is it possible to have twins with different skin colors<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8615,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Foreign key -- A table may have multiple foreign keys, and each foreign key can have a different parent table. Each foreign key is enforced independently by the database system. Therefore, cascading relationships between tables can be established using foreign keys. [SEP] 
+QUESTION - is it possible to have more than one foreign key in a table<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_8720,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - List of Once Upon a Time episodes -- In February 2018, it was announced the seventh season would serve as the final season of the series. During the course of the series, 155 episodes of Once Upon a Time aired over seven seasons. [SEP] 
+QUESTION - are there any more episodes of once upon a time<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8767,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Peace Corps -- The Peace Corps is a volunteer program run by the United States government. The stated mission of the Peace Corps includes providing technical assistance, helping people outside the United States to understand American culture, and helping Americans to understand the cultures of other countries. The work is generally related to social and economic development. Each program participant, a Peace Corps Volunteer, is an American citizen, typically with a college degree, who works abroad for a period of two years after three months of training. [SEP] 
+QUESTION - is the peace corps a part of the military<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_8875,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Gun laws in Texas -- There is no legal statute specifically prohibiting the carry of a firearm other than a handgun (pre-1899 black powder weapons, and replicas of such, are not legally firearms in Texas). However, if the firearm is displayed in a manner ``calculated to cause alarm,'' then it is ``disorderly conduct''. Open carry of a handgun in public had long been illegal in Texas, except when the carrier was on property he/she owned or had lawful control over, was legally hunting, or was participating in some gun-related public event such as a gun show. However, the 2015 Texas Legislature passed a bill to allow concealed handgun permit holders to begin carrying handguns openly. The bill was signed into law on June 13, 2015, and took effect on January 1, 2016. A License to Carry (LTC) is still required to carry a handgun openly or concealed in public. [SEP] 
+QUESTION - can a bar owner carry a gun in texas<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9018,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Angel food cake -- Angel food cake, or angel cake, is a type of sponge cake made with egg whites, flour, and sugar. A whipping agent, such as cream of tartar, is commonly added. It differs from other cakes because it uses no butter. Its structure comes from whipped egg whites known as a protein foam. Angel food cake originated in the United States and first became popular in the late 19th century. It gained its unique reputation along with its name due to its light and fluffy texture, said to resemble the ``food of the angels''. [SEP] 
+QUESTION - is angel food cake batter supposed to be foam<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9100,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - List of games with DirectX 10 support -- This is a list of games that support DirectX 10 or 10.1 (available for Windows Vista and later). Games which provide backward compatibility for DirectX 10 or 10.1 GPUs via DirectX 11 are listed accordingly in List of games with DirectX 11 support instead. Information regarding developer, publisher, date of release and genre is provided where available. [SEP] 
+QUESTION - can i play directx 11 games with directx 10<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9123,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Adam Maxted -- Maxted left Love Island and continued his wrestling training, eventually earning his debut match in August 2016, at Southside Wrestling, being defeated by Joseph Connors. Maxted later had matches for Preston City Wrestling, Over The Top Wrestling, and 4 Front Wrestling, in 2017. In May 2017, Maxted was called up to have his first WWE Tryout, in the O2 Arena. [SEP] 
+QUESTION - did adam from love island make it to wwe<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9154,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Vesna Vulović -- Vesna Vulović (Serbian Cyrillic: Весна Вуловић; pronounced (ˈʋeːsna ˈʋuːlɔʋit͡ɕ); 3 January 1950 -- 23 December 2016) was a Serbian flight attendant. She holds the Guinness world record for surviving the highest fall without a parachute: 10,160 metres (33,330 ft). Her fall took place after an explosion tore through the baggage compartment of JAT Flight 367 on 26 January 1972, causing it to crash near Srbská Kamenice, Czechoslovakia. She was the sole survivor of the crash, which air safety investigators attributed to a briefcase bomb. The Yugoslav authorities suspected that Croatian nationalists were to blame, but no one was ever arrested. [SEP] 
+QUESTION - has anyone fallen from a plane and lived<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_9343,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - The Wife (2017 film) -- The Wife is a 2017 drama film directed by Björn Runge and written by Jane Anderson, based on the novel of the same name by Meg Wolitzer. It stars Glenn Close, Jonathan Pryce, and Christian Slater, and follows a wife who questions her life choices as she travels to Stockholm with her narcissistic husband, who is set to receive the Nobel Prize in Literature. [SEP] 
+QUESTION - is the wife based in a true story<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_9345,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - To Kill a Mockingbird (film) -- The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture. [SEP] 
+QUESTION - did to kill a mockingbird win an academy award<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_73,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - St. Bernard (dog) -- The breed is strikingly similar to the English Mastiff, with which it shares a common ancestor known as the Alpine Mastiff. The modern St. Bernard breed is radically different than the original dogs kept at the St. Bernard hospice, most notably by being much larger in size and build. Since the late 1800s, the St. Bernard breed has been ever refined and improved using many different large Molosser breeds, including the Newfoundland, Great Pyrenees, Greater Swiss Mountain Dog, Bernese Mountain Dog, Great Dane, English Mastiff, and possibly the Tibetan Mastiff and Caucasian Ovcharka. Other breeds such as the Rottweiler, Boxer, and English Bulldog may have contributed to the St. Bernard's bloodline as well. It is suspected that many of these large breeds were used to redevelop each other to combat the threat of their extinction after World War II, which may explain why all of them played a part in the creation of the St. Bernard as seen today. [SEP] 
+QUESTION - are st bernards and bernese mountain dogs related<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_120,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Seat belt laws in the United States -- Most seat belt laws in the United States are left to the states. However, the first seat belt law was a federal law, Title 49 of the United States Code, Chapter 301, Motor Vehicle Safety Standard, which took effect on January 1, 1968, that required all vehicles (except buses) to be fitted with seat belts in all designated seating positions. This law has since been modified to require three-point seat belts in outboard-seating positions, and finally three-point seat belts in all seating positions. Initially, seat belt use was voluntary. New York was the first state to pass a law which required vehicle occupants to wear seat belts, a law that came into effect on December 1, 1984. Officer Nicholas Cimmino of the Westchester County Department of Public Safety wrote the nation's first ticket for such violation. New Hampshire is the only state that has no enforceable laws for the wearing of seat belts in a vehicle. [SEP] 
+QUESTION - are there any states that do not have a seat belt law<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_188,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Amazon rainforest -- More than 56% of the dust fertilizing the Amazon rainforest comes from the Bodélé depression in Northern Chad in the Sahara desert. The dust contains phosphorus, important for plant growth. The yearly Sahara dust replaces the equivalent amount of phosphorus washed away yearly in Amazon soil from rains and floods. Up to 50 million tonnes of Sahara dust per year are blown across the Atlantic Ocean. [SEP] 
+QUESTION - does the sahara desert in northern africa help south americas amazon rainforest grow<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_205,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - List of video games that support cross-platform play -- Cross-platform play (cross-play) is the ability to allow different gaming platforms to share the same online servers in a game, allowing players to join together regardless of the platform they own. Since the Dreamcast and Playstation 2 there have been online video games that support cross-play. Listed here is an incomplete list (which misses some mobile games and Xbox One backwards compatible games) of games that support cross-play with their consoles, computers, mobile and handheld game consoles: [SEP] 
+QUESTION - are there any games that are cross platform<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_266,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Donna Pinciotti -- In the final episode, Eric returns to Point Place for the New Year and he and Donna kiss. It is presumed that they end up together again at the end of the series and the end of the 1970s. [SEP] 
+QUESTION - do donna and eric end up getting married<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_284,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - The Wizarding World of Harry Potter (Universal Studios Hollywood) -- The Wizarding World of Harry Potter is a themed area at Universal Studios Hollywood theme park near Los Angeles, California. The area is themed to the Harry Potter media franchise, adapting elements from the film series and novels by J.K. Rowling. The attraction--the second Harry Potter-themed area to exist at a Universal resort--was designed by Universal Creative from an exclusive license with Warner Bros. Entertainment. [SEP] 
+QUESTION - does universal studios hollywood have harry potter world<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_502,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Goaltending -- In basketball, goaltending is the violation of interfering with the ball while it is on its way to the basket and it is (a) in a downward flight, (b) entirely above the rim and has the possibility of entering the basket, and (c) not touching the rim. In NCAA basketball, WNBA and NBA basketball, goaltending is also called if the ball has already touched the backboard while being above the height of the rim in its flight, regardless of whether it being in an upward or downward flight or whether it is directly above the rim. Goaltending in this context defines by exclusion what is considered a legal block of a field goal. In high school and NCAA basketball, goaltending is also called when a player interferes with a free throw at any time in its flight towards the basket. If goaltending is called for interference with a field goal, the shooting team is awarded the points for the field goal as if it had been made. In high school and NCAA basketball, if goaltending is called on a free throw, the shooting team is awarded one point and a technical foul is called against the offending player. [SEP] 
+QUESTION - is it goaltending if the ball hits the backboard below the rim<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_588,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Article Five of the United States Constitution -- The practice of limiting the time available to the states to ratify proposed amendments began in 1917 with the Eighteenth Amendment. All amendments proposed since then, with the exception of the Nineteenth Amendment and the (still pending) Child Labor Amendment, have included a deadline, either in the body of the proposed amendment, or in the joint resolution transmitting it to the states. The ratification deadline ``clock'' begins running on the day final action is completed in Congress. An amendment may be ratified at any time after final congressional action, even if the states have not yet been officially notified. [SEP] 
+QUESTION - is there a time limit for ratification of an amendment<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_739,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Foreign key -- A table may have multiple foreign keys, and each foreign key can have a different parent table. Each foreign key is enforced independently by the database system. Therefore, cascading relationships between tables can be established using foreign keys. [SEP] 
+QUESTION - can we have multiple foreign keys in a table<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_934,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Country Music Association Award for Entertainer of the Year -- The Country Music Association Awards is a major awards show in country music, with the highest honor being the award for Entertainer of the Year. Garth Brooks has won the most awards with six. In 1972, Loretta Lynn became the first female artist to be honored with this award. Barbara Mandrell became the first artist to win twice. [SEP] 
+QUESTION - has a woman ever won cma entertainer of the year<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1025,train+valid
+0,"
+0","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - A Song of Ice and Fire -- A Song of Ice and Fire is a series of epic fantasy novels by the American novelist and screenwriter George R.R. Martin. He began the first volume of the series, A Game of Thrones, in 1991, and it was published in 1996. Martin, who initially envisioned the series as a trilogy, has published five out of a planned seven volumes. The fifth and most recent volume of the series published in 2011, A Dance with Dragons, took Martin six years to write. He is still writing the sixth novel, The Winds of Winter. [SEP] 
+QUESTION - has the last book of game of thrones been written<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_1067,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - The Covenant (film) -- Despite a popular misconception, The Covenant is not based on a comic book title nor on any other book. The confusion comes from the fact that Sony released a comic book of the same name, written by Aron Coleite, and created for the purposes of promoting the film. Neither the authors of the comic-book miniseries nor Top Cow Comics are mentioned in the films' credit sequences, so the comic-book miniseries is not regarded as source material by The Covenant's producers. In fact, the film originated from a spec script, and went through a number of drafts, by different writers, before J.S. Cardone eventually submitted the final draft. Cardone received sole screenwriting credit. [SEP] 
+QUESTION - is the movie the covenant based on a book<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_1275,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Cheddar cheese -- The term ``Cheddar cheese'' is widely used, but has no protected designation of origin within the European Union. However, in 2007 a Protected Designation of Origin, ``West Country Farmhouse Cheddar'', was created and only Cheddar produced from local milk within Somerset, Dorset, Devon and Cornwall and manufactured using traditional methods may use the name. Outside Europe, the style and quality of cheeses labelled as cheddar may vary greatly; furthermore, cheeses that are more similar in taste and appearance to Red Leicester are sometimes popularly marketed as ``Red Cheddar''. [SEP] 
+QUESTION - does cheddar cheese have to be made in cheddar<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_1305,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Common bile duct -- The common bile duct, sometimes abbreviated CBD, is a duct in the gastrointestinal tract of organisms that have a gall bladder. It is formed by the union of the common hepatic duct and the cystic duct (from the gall bladder). It is later joined by the pancreatic duct to form the ampulla of Vater. There, the two ducts are surrounded by the muscular sphincter of Oddi. [SEP] 
+QUESTION - is the cystic duct the same as the common bile duct<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_1795,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Dalmatian dog -- Dalmatian puppies are born with plain white coats and their first spots usually appear within 3 to 4 weeks after birth, however spots are visible on their skin. After about a month, they have most of their spots, although they continue to develop throughout life at a much slower rate. Spots usually range in size from 30 to 60 mm, and are most commonly black or brown (liver) on a white background. Other, more rare colors, include blue (a blue-grayish color), brindle, mosaic, tricolor-ed (with tan spotting on the eyebrows, cheeks, legs, and chest), and orange or lemon (dark to pale yellow). Patches of color may appear anywhere on the body, mostly on the head or ears, and usually, consist of a solid color. Patches are visible at birth and are not a group of connected spots and are identifiable by the smooth edge of the patch. [SEP] 
+QUESTION - do dalmatians have spots when they are born<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_2119,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Return address -- The return address is not required on postal mail. However, lack of a return address prevents the postal service from being able to return the item if it proves undeliverable; such as from damage, postage due, or invalid destination. Such mail may otherwise become dead letter mail. [SEP] 
+QUESTION - can you mail something with no return address<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_2370,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - Harry Potter influences and analogues -- Fans of author J.R.R. Tolkien have drawn attention to the similarities between his novel The Lord of the Rings and the Harry Potter series; specifically Tolkien's Wormtongue and Rowling's Wormtail, Tolkien's Shelob and Rowling's Aragog, Tolkien's Gandalf and Rowling's Dumbledore, Tolkien's Nazgûl and Rowling's Dementors, Old Man Willow and the Whomping Willow and the similarities between both authors' antagonists, Tolkien's Dark Lord Sauron and Rowling's Lord Voldemort (both of whom are sometimes within their respective continuities unnamed due to intense fear surrounding their names; both often referred to as 'The Dark Lord'; and both of whom are, during the time when the main action takes place, seeking to recover their lost power after having been considered dead or at least no longer a threat). Several reviews of Harry Potter and the Deathly Hallows noted that the locket used as a horcrux by Voldemort bore comparison to Tolkien's One Ring, as it negatively affects the personality of the wearer. Rowling maintains that she had not read The Hobbit until after she completed the first Harry Potter novel (though she had read The Lord of the Rings as a teenager) and that any similarities between her books and Tolkien's are ``Fairly superficial. Tolkien created a whole new mythology, which I would never claim to have done. On the other hand, I think I have better jokes.'' Tolkienian scholar Tom Shippey has maintained that ``no modern writer of epic fantasy has managed to escape the mark of Tolkien, no matter how hard many of them have tried''. [SEP] 
+QUESTION - was harry potter inspired by lord of the rings<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_2452,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - The Mother (How I Met Your Mother) -- The story of how Ted met The Mother is the framing device behind the series; many facts about her are revealed throughout the series, including the fact that Ted once unwittingly owned her umbrella before accidentally leaving it behind in her apartment. Ted and The Mother meet at the Farhampton train station following Barney Stinson (Neil Patrick Harris) and Robin Scherbatsky's (Cobie Smulders) wedding; this scene is shown in ``Last Forever'', the series finale. The Mother's death from an unspecified terminal illness in 2024, also revealed in the series finale, received a mixed reaction from fans. [SEP] 
+QUESTION - does the mother die in how i met your mother<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_3176,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Given a short passage and a yes-or-no question about the passage, return 1 for 'yes' or 0 for 'no'.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+PASSAGE - English Football League play-offs -- Before the 1999--2000 season away goals were used as a tie-breaker after extra time had been played, however, this was abolished following a club initiative launched by then-Ipswich Town chairman David Sheepshanks, after his club had twice lost on away goals in 1997 and 1999. Since then away goals have played no part in the play-off system. [SEP] 
+QUESTION - do away goals count in the league 2 playoffs<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_3224,train+valid

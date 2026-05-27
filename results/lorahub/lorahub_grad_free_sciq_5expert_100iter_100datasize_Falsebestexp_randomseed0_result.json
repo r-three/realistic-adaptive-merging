@@ -1,0 +1,19 @@
+{
+    "task": "sciq",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.45,
+    "test_accuracy": 0.419,
+    "weights": [
+        -0.05215279758829372,
+        0.5540659033751899,
+        1.1854416493110012,
+        0.5706019281235755,
+        1.1228844558280962
+    ]
+}

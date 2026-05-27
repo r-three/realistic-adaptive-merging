@@ -1,0 +1,19 @@
+{
+    "task": "toxic_chat",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_toxic_chat",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.9538,
+    "weights": [
+        1.035208644002185,
+        0.23824932332193866,
+        0.0023697832084033275,
+        0.0018019066457830748,
+        0.032891680316381726
+    ]
+}

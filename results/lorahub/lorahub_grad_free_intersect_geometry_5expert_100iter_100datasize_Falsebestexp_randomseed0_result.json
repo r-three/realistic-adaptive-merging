@@ -1,0 +1,19 @@
+{
+    "task": "intersect_geometry",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.2,
+    "test_accuracy": 0.094,
+    "weights": [
+        -0.2711829566414612,
+        1.467749208232551,
+        0.5211527743397932,
+        -0.041299229489352884,
+        0.8960348276276577
+    ]
+}

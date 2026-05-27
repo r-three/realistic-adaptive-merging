@@ -1,0 +1,1701 @@
+target,pred_clean,pred_org,example_id,split
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Se puede hacer algo ? [SEP] 
+HYPOTHESIS - Sólo el 20 % de las ideas del mundo son posibles si se trata por primera vez .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_1595,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Finalmente , llegué a la gran sala de matisse del moma , mi favorita en el museo . [SEP] 
+HYPOTHESIS - Prefiero evitar la habitación de matisse cada vez que voy al moma .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_20331,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Sin embargo , más de un 90 por ciento de fertilización puede resultar en enmascarar respuestas tóxicas . [SEP] 
+HYPOTHESIS - Por lo menos el % de fertilización puede causar la máscara de respuestas tóxicas .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_20404,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Su famoso jardín de rocas ha provocado más debates , tanto admirados como críticos , que hay astillas de grava en su rectangular 30-M por 10-M ( 98 pies por 32 pies ) . [SEP] 
+HYPOTHESIS - El jardín del rock es universalmente admirado .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_20591,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Aparentemente , alguien había sido lo suficientemente inteligente como para romper el relleno pesado . [SEP] 
+HYPOTHESIS - Alguien había sido lo suficientemente listo como para romper el relleno pesado , aparentemente .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_24410,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Rhonda comparamos proporcionó una demostración de www.peoples-law.org y www.Mdjustice.org , que está diseñada para ser una biblioteca virtual . [SEP] 
+HYPOTHESIS - Las bibliotecas de www.peoples-law.org y www.Mdjustice.org se establecieron en 1573 .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_26411,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El cambio en el estilo literario del clásico al coloquial puede ser demostrado por una estadística . [SEP] 
+HYPOTHESIS - El estilo literario cambia de coloquial a clásico .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_26935,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El socio de dobson , Gary Bauer , tomó el sunday talking circuit , hablando mal de reed para dar marcha atrás en el aborto . [SEP] 
+HYPOTHESIS - Reed es un hipócrita .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_33173,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Bill Lockyer está advirtiendo a los californianos que tengan cuidado con las empresas que anuncian asistencia legal o servicios jurídicos , sólo para proporcionar servicios costosos y de mala calidad que puedan herir a los clientes en los tribunales . [SEP] 
+HYPOTHESIS - Bill Lockyer ofrece buenos servicios a precios bajos .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_35804,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Los grupos centrales a menudo caracterizaron estas actividades de evaluación como servicios a las unidades de negocio . [SEP] 
+HYPOTHESIS - Las unidades de negocio reciben evaluaciones de los grupos centrales .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_40823,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Vio a adrin parado en las rocas arriba donde San ' Doro se sentó dos noches atrás . [SEP] 
+HYPOTHESIS - Vio a adrin durmiendo en la arena donde estaba la boca de incendios .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_43459,train+valid
+2,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Uh , no es que podamos vender ningún gran programa que tenemos con el crimen pero creo que uh soy como tú no tengo ninguna opinión fuerte sobre ella supongo que tal vez ese es nuestro mayor problema que tenemos con nuestro los vecinos de ahí abajo es que no tenemos nada tenemos más supongo que los lazos que tenemos en los estados unidos tienen más lazos con Europa y todo y no estamos muy cerca de todo el mundo en América del sur saber por qué [SEP] 
+HYPOTHESIS - No creo que los estados unidos tengan una buena relación con Europa .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_49396,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - O sólo partes de ella -- la cláusula del entorno de trabajo hostil , digamos , o las reglas de prueba sesgadas por el género ? [SEP] 
+HYPOTHESIS - Todos los empleados son libres de expresar sus pensamientos más explícitos en la oficina .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_61558,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Hay clubes de jazz , ópera de clase mundial y representaciones sinfónica , clubes de comedia , espectáculos de Broadway , conciertos , clubes de striptease , revistas de danza travesti , y discoteca , swing , country-Western y clubes de baile de salsa . [SEP] 
+HYPOTHESIS - No hay ningún lugar para ver ningún tipo de programa de comedia .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_66737,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Sólo está determinando la fiabilidad de los datos según sea necesario para apoyar las conclusiones , conclusiones o recomendaciones del compromiso . [SEP] 
+HYPOTHESIS - Sólo utiliza los datos y cree que es confiable cuando apoya sus propios puntos de vista .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_67869,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Qué estabas haciendo ahí ? pregunté , con curiosidad . [SEP] 
+HYPOTHESIS - Sabía que podía llegar al fondo de su presencia .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_86581,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Fueron las pistolas de Jon , CA ' daan se dio cuenta . [SEP] 
+HYPOTHESIS - Jon no tiene armas .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_88851,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Los primeros europeos en llegar al delta del río perla fueron los portugueses , que se se en macao en 1557 y durante varios siglos tenían el monopolio del comercio entre asia , Europa y América del sur . [SEP] 
+HYPOTHESIS - Después de que los portugueses llegaron a macao a mediados del siglo XIX , establecen el monopolio de la venta y compra de bienes durante casi 300 años .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_89668,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Quería ver la nave espacial en un lugar más cercano . [SEP] 
+HYPOTHESIS - No se acercaba a la nave espacial para salvar su vida .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_90760,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Los inspectores generales y los consejos superiores internos de gestión pueden contribuir a un buen entorno general de control . [SEP] 
+HYPOTHESIS - El Inspector General puede ayudar a que el medio ambiente sea un lugar más seguro .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_101629,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Además , el reconocimiento de la cultura organizacional y la preparación para el cambio ayudan a definir el ritmo y la medida en que los cio pueden lograr la transformación de las empresas . [SEP] 
+HYPOTHESIS - La preparación del cambio no está relacionada con el ritmo de transformación empresarial de los cio .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_102579,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Qué te parece el país , eh ? [SEP] 
+HYPOTHESIS - Qué piensas del país ?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_106959,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Britannia era el lugar donde la reina dijo que podía realmente relajarse , y es mucho un reflejo de su gusto personal sorprendente por su falta de adornos adornados que llenan sus palacios oficiales . [SEP] 
+HYPOTHESIS - La reina dijo que britannia era el lugar donde podía realmente relajarse , lo cual es sorprendente debido a su falta de adornos adornados que llenan sus palacios oficiales .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_108153,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Los científicos han aprendido cómo las bacterias pueden construir en huecos en el chicle , causar infección , debilitar la mandíbula , y eventualmente matar dientes . [SEP] 
+HYPOTHESIS - Las brechas en las encías vienen de una higiene deficiente .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_109977,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Hace que sea más difícil para la gente común unirse a un traje de acción de clase pero más fácil para las compañías petroleras gigantes bombear petróleo gratis de la tierra pública y venderlo a un beneficio , probablemente a la nbc ( necesidades -- oh por dónde empezar ? [SEP] 
+HYPOTHESIS - Las petroleras gigantes probablemente no vendería su petróleo a la nbc .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_134282,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Siempre y cuando tengas abogados en política van a amañar las leyes donde saben que nunca se van a escapar del negocio . [SEP] 
+HYPOTHESIS - Tenemos que mantener a los abogados fuera de la política .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_135409,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - La información sobre los planes y los informes de los organismos elaborados en virtud de la ley de resultados , los datos de los costos financieros y de los programas de alta calidad y otras informaciones conexas pueden ayudar al congreso a orientar sus actividades de supervisión e identificar las oportunidades de mejoras adicionales en la gestión de los organismos . [SEP] 
+HYPOTHESIS - El Congreso puede utilizar los planes y los informes de las agencias para mejorar la gestión de los organismos .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_138541,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Los cerdos son sociables , cariñosos , y mucho más brillantes que los dálmatas . [SEP] 
+HYPOTHESIS - A los cerdos les gusta estar alrededor de la gente .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_139279,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Oh , Señor , ustedes millonarios ! [SEP] 
+HYPOTHESIS - Ustedes Millonarios se hicieron ricos lavando drogas a la gente .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_142046,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Soy de un país pequeño [ Nueva Zelanda ] pero no veo lo que estamos haciendo aquí como una amenaza a nuestra soberanía . [SEP] 
+HYPOTHESIS - La Minería internacional es importante para la economía de nueva zelandia .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_143926,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El Centro cultural ataturk de la plaza taksim ofrece un programa de ópera , ballet y conciertos symphony de octubre a mayo ; durante el festival internacional de Estambul , celebrado desde mediados de junio hasta mediados de julio ) , la ciudad alberga músicos y artistas de todo el mundo mundo . [SEP] 
+HYPOTHESIS - La Plaza taksim está completamente vacía de cualquier edificio .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_145272,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Ahora cómo van a arreglarlo yo no sé que no creo que haya una solución preparada [SEP] 
+HYPOTHESIS - Todo está tranquilo y claro .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_152602,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El orgullo de lugar va a sl dolly , el barco mecánico más antiguo del mundo ( c. 1850 ) , que fue restaurado después de pasar más de 60 años en el fondo del lago windermere . [SEP] 
+HYPOTHESIS - Después de 60 años en el fondo del lago windermere , se restauró la dolly dolly .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_159701,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Yo no soy un amante de los perros . [SEP] 
+HYPOTHESIS - Me encantan los perros .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_163689,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Construido para celebrar festividades durante sus visitas desde tebas , el ramesseum fue decorado con majestuosas estatuas del Faraón , y el pilón lo representa triunfante en la batalla de qadesh cuando sofocó a los hititas . [SEP] 
+HYPOTHESIS - El ramesseum fue construido y decorado para el Faraón .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_172200,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Gran parte de la costa al sur de calesant vicenç es buena , playa de arena . [SEP] 
+HYPOTHESIS - Si te gustan las playas rocosas , prueba la costa al sur de calesant .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_173286,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El proceso de adquisición de una instalación suele incluir cinco fases que pueden generalizarse como planificación conceptual , diseño , adquisición , construcción , prácticas e industria e iniciación . [SEP] 
+HYPOTHESIS - Las operaciones de fábrica son un secreto muy bien guardado .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_174231,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Se puede curar esta dependencia hostil ? [SEP] 
+HYPOTHESIS - Cipro es la cura para esta dependencia hostil .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_174265,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - La Torre de galata ( galata kulesi ) fue la piedra angular de las defensas de la colonia . [SEP] 
+HYPOTHESIS - La Torre de galata fue construida como una biblioteca para la población para aprender y leer .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_175590,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El procedimiento de selección puede tener una red con una malla mayor o más pequeña que se pueda fijar para problemas de alcohol más o menos graves . [SEP] 
+HYPOTHESIS - El procedimiento de selección está diseñado para detectar todos los problemas del alcohol .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_188348,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El este de el-Aqsa es un gran pavimento abierto por debajo del cual se encuentran enormes cámaras abovedado llamadas los establos de Salomón ( en realidad las estructuras mantienen la vasta plataforma artificial del monte del templo construido originalmente por Herodes hace 2,000 años ) . [SEP] 
+HYPOTHESIS - El nivel superior del templo ha sido arrasado , pero las cámaras abovedado de abajo aún permanecen .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_193738,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Sin embargo , otro es la revisión de un contrato de construcción en el parque histórico nacional jean lafitte . [SEP] 
+HYPOTHESIS - El reforzada examinará el rendimiento del Parque Nacional .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_194984,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El Imperio árabe [SEP] 
+HYPOTHESIS - El Imperio de Arabia<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_209598,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Y un tercer par -- por la modestia , por la cobertura del sexo . [SEP] 
+HYPOTHESIS - Ningún tercer par estaba en posesión , lo dejaron pasar todo el rato .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_210305,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Bueno , esa es una buena manera de verlo . [SEP] 
+HYPOTHESIS - Bueno , eso se está acercando al tema en un ángulo interesante , nunca he pensado en eso .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_213231,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - No me mientas otra vez . [SEP] 
+HYPOTHESIS - No me digas otra mentira .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_217780,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - La Variabilidad de los costos de acceso se calcula a partir de la función de cobertura que figura en la figura 1. en el escenario de duopolio descrito , podría crecer un 61 por ciento . [SEP] 
+HYPOTHESIS - La figura dos contiene más información en la que se describe este fenómeno .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_220096,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Sí um-Hum sí puedes elegir y tomar donde quiera que vayas [SEP] 
+HYPOTHESIS - Se supone que tienes que tenerlo en casa .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_220699,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Cosas que hacen uh reuniones familiares y hacen um oh cómo lo llamas um oh clase reuniones [SEP] 
+HYPOTHESIS - No hacen ningún servicio aparte de las bodas .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_224481,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - En el otro extremo de este edificio también encontrará infokraf , donde la corporación de desarrollo artesanal de Malasia tiene una exposición permanente de artesanía nacional , con muchas exhibiciones en venta . [SEP] 
+HYPOTHESIS - El trabajo artesanal nacional no está a la venta .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_232514,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Antes de tratar de explorar la manera en que diversas opciones de reforma podrían afectar al ahorro nacional , es útil destacar cómo el actual programa de seguridad social afecta el ahorro personal , el fondo fiduciario de seguridad social y el ahorro del gobierno . [SEP] 
+HYPOTHESIS - El ahorro nacional es fijo y no puede ser cambiado .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_235004,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Cuál es el impacto de la tecnología de la computación doméstica en la demanda postal ? [SEP] 
+HYPOTHESIS - La tecnología de computación casera revolucionó los servicios postales .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_235340,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Se monta con antorchas desde el sur . [SEP] 
+HYPOTHESIS - Están cabalgando desde el norte sin fuente de luz .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_238632,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Ah , eso , el capitán finalmente vino y sonrió con una "" no de nuevo "" sonrisa a su co-Piloto , Denise , o tal vez Dennis . [SEP] 
+HYPOTHESIS - El capitán tenía una mirada que decía "" no esto de nuevo "" cuando hablaba con su co-Piloto .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_246828,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - 7.37 la segunda norma de trabajo sobre el terreno para las auditorías de rendimiento [SEP] 
+HYPOTHESIS - Existen normas mundiales sobre el terreno para las auditorías de rendimiento .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_252473,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Sí , bueno , para darle un poco de perspectiva , mi hermano tiene seis y pesa alrededor de libras . [SEP] 
+HYPOTHESIS - No tengo hermanos , así que no puedo comparar .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_260609,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Tenemos a mi hermana y tengo un par de jardines creo que hemos descubierto total um esto es para verduras alrededor de dos tercios de un acre así que cada uno tenemos un tercio de un acre que hacemos [SEP] 
+HYPOTHESIS - Mis hermanos y yo cada uno tenemos un jardín que es alrededor de un tercio de un acre .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_261050,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Para el uso de la ciudad y [SEP] 
+HYPOTHESIS - Esos no deben ser usados por la ciudad .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_265509,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Así que estos tres no estaban en la misma liga con la madre Teresa . [SEP] 
+HYPOTHESIS - No eran lo mismo que la madre Teresa .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_268481,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Además , en gao , estamos utilizando el púlpito del púlpito y hablando para animar a otros a que hagan su parte para ayudar a restaurar la confianza y la confianza del público y vamos a seguir haciendo lo mismo . [SEP] 
+HYPOTHESIS - El Gao promueve un lugar de trabajo saludable , con objetivos claros y una comunicación amplia y respetuosa .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_270672,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Le dije que el miércoles era el único día que no estaba allí ! [SEP] 
+HYPOTHESIS - Estuvo allí el martes , pero no el miércoles .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_275017,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El estudio de las capacidades existentes contribuye a definir la estructura y las responsabilidades de la nueva organización del cio . [SEP] 
+HYPOTHESIS - Las capacidades que debe estudiarse incluyen el número de computadoras de escritorio operadas por una organización .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_280126,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Para mejorar su estado de ánimo , jolanta regresó a Suiza para otra cirugía . [SEP] 
+HYPOTHESIS - Jolanta regresó a Suiza .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_288152,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Si bien los enfoques de autorregulación pueden y han trabajado en diversas situaciones , hay ciertos casos en los que no es realista que trabajen de la manera más eficaz necesaria para proteger adecuadamente el interés público . [SEP] 
+HYPOTHESIS - Hay ciertos casos en los que no es realista que los enfoques de autorregulación funcionen .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_288971,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Por lo tanto , el ku klux klan llevaba las vestiduras de los católicos que que , y la sociedad John Birch se organizó en celdas secretas y grupos de frente inspirados en el enemigo comunista . [SEP] 
+HYPOTHESIS - La Sociedad John Birch se discutieran en las llamadas secretas y los grupos artificiales , que fueron inspirados en el enemigo comunista , y llevaban las vestiduras de los católicos .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_290828,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Hubo acuerdo general entre los participantes en que las causas fundamentales de los desgloses de rendición de cuentas son de carácter sistémico , complejo , y requieren liderazgo y alteraciones de los modelos actuales en cada una de las cuatro áreas interrelacionadas para la transición a un sistema general que está más centrado en la protección del interés público y , en ese sentido , la rendición de cuentas . [SEP] 
+HYPOTHESIS - Las cuestiones relativas a la rendición de cuentas no son sistémicas .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_294920,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Nosotros , por lo tanto , tenemos un dilema . [SEP] 
+HYPOTHESIS - Ahora tenemos un problema .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_302806,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - En alrededor del año 1250 A.c. Moisés , el nuevo líder de Israel , separó el mar rojo y llevó a su pueblo de vuelta a Canaán para enfrentarse a los filisteos , que ahora controlaban gran parte de la tierra . [SEP] 
+HYPOTHESIS - Los israelitas fueron victoriosos sobre los palestinos .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_303237,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Un Ebook gratuito de http : / / Manybooks.net / [SEP] 
+HYPOTHESIS - Un libro libre .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_304528,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Sí , bueno , sí de los tres de esos restaurantes probablemente lo mejor me refiero a que son todos muy buenos pero diner realmente vale la pena ver [SEP] 
+HYPOTHESIS - Pienso en esos tres , el restaurante es el mejor .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_310355,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Va a salir y pasar cuatro horas en el jardín . [SEP] 
+HYPOTHESIS - A Él no le importa el césped , y no pasa mucho tiempo en él .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_310902,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Cuidado con las reliquias romanas y árabe , que a veces son descubiertas aquí . [SEP] 
+HYPOTHESIS - A los arqueólogos les gusta venir y tratar de desenterrar alguna reliquia antigua .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_321757,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Y jugamos en el verano por aquí tenemos una liga mixta y eso es lo que estoy tratando de conseguir que esté listo para que va a empezar bien cuando cambie el tiempo de vuelta cada vez que es el mes que viene supongo [SEP] 
+HYPOTHESIS - Jugamos en invierno y no la voy a preparar porque no puede jugar .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_334061,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Ampliamente dañado durante el terremoto de 1934 , fue reconstruido más tarde . [SEP] 
+HYPOTHESIS - Fue reconstruido después del terremoto de 1934<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_347124,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Arons y su compañera de oficina - Stephanie Schwartz - hacen algo de una extraña pareja política en asistencia legal . [SEP] 
+HYPOTHESIS - Arons y Stephanie Schwartz son completos extraños y nunca se han conocido .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_351456,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Si se enfrenta a la tumba con su espalda a la katholikón , la capilla franciscana de María Magdalena está a su derecha . [SEP] 
+HYPOTHESIS - La Capilla estará a su derecha si se queda ahí .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_353210,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Detrás de las estanterías de plumas , sostenes de satén y bragas es su famoso museo de lencería , donde se puede ver la ropa íntima de celebridades como marilyn y MADONNA . [SEP] 
+HYPOTHESIS - Muchas personas visitan el museo de lencería para ver la ropa íntima de Marilyn y MADONNA .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_354203,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Al lado de la iglesia se encuentran los preciosos claustros del siglo XVIII ( chiostro delle clarisse ) , convertidos en 1742 en un jardín rural de pasarelas sombreado y azulejos cerámicos de capodimonte un encantador remanso de tranquilidad y uno de los lugares más encantadores de Nápoles . [SEP] 
+HYPOTHESIS - Los claustros tienen más de años .<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_356110,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Lo que no daría por un baño ! [SEP] 
+HYPOTHESIS - Él quería un baño desde que estaba cubierto en maneur .<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_370419,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - 7 el presupuesto y los ejercicios económicos económicos 2002-2011 , oficina del presupuesto del Congreso ( Enero de 2001 ) . [SEP] 
+HYPOTHESIS - El presupuesto y los ejercicios económicos económicos fueron años en los que había que resolver los problemas económicos .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_376989,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - No explotaría sin el gatillo. [SEP] 
+HYPOTHESIS - El detonador hace explotar la bomba...<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_157,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - No, fue solo una vez por la mañana, y ella dijo que volvería a la oficina. [SEP] 
+HYPOTHESIS - Ella no mencionó si iba a regresar o no.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_189,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Vaya, así de confidencial era. [SEP] 
+HYPOTHESIS - Si alguien aprendiera la información, sería encarcelado.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_228,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - No sé si vienes de Texas, probablemente no lo sé, no debería hacer estereotipos, pero el control de armas probablemente está un poco mal visto allí, pensaría [SEP] 
+HYPOTHESIS - El control de armas probablemente no es popular en Texas.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_321,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - uh-huh oh ella es genial ella es tu sabes que es un personaje ella se sentara con cualquiera ella jugara con cualquiera [SEP] 
+HYPOTHESIS - Ella normalmente juega al póquer o al blackjack, pero a veces juega al scrabble.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_325,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - ahora bien este es uno de los mejores disuasores para los ladrones, el vecino ruidoso y si ese vecino tiene un perro ruidoso ese también es un disuasor porque saben que ese perro ladrará. [SEP] 
+HYPOTHESIS - Los ladrones saben que los perros se calmaran pronto.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_365,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Sí, siempre dije que si moría, bien, siempre dije que si moría, volvería como perro que sería la mejor manera de ser [SEP] 
+HYPOTHESIS - No creo en ningún tipo de vida después de la muerte.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_489,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - No hay diferencias en las pruebas de logro académico entre los compañeros de clase más jóvenes y los mayores. [SEP] 
+HYPOTHESIS - Los compañeros de clase jóvenes y viejos logran los mismos resultados en los puntajes de las pruebas.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_535,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - El final del capitalismo de las plantaciones podría haber llegado con seguridad como la desaparición del comunismo en Europa. [SEP] 
+HYPOTHESIS - El capitalismo de la plantación es incorrecto.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_589,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Vea Wallis y Varjabedian para contemplar fotografías contemporáneas de antiguas moradas que todavía se encuentran en el norte de Nuevo México. [SEP] 
+HYPOTHESIS - Wallis y Varjabedian proporcionan fotografías profesionales y coloridas de las antiguas Moradas de Nuevo México.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_734,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Los cupones especiales se han entregado agresivamente en las playas durante el día, con la esperanza de atraer a la multitud más grande posible para la noche. [SEP] 
+HYPOTHESIS - Los cupones se entregan en la playa por la noche, esperando clientes el día siguiente.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1155,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Hoy en día se llama Parque del Templo del Cielo (Tiantan Gongyuan). [SEP] 
+HYPOTHESIS - El Parque del Templo del Cielo es nuevo.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1182,train+valid
+2,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Los sistemas de recursos humanos se consolidaron y las nuevas estructuras corporativas se definieron con rapidez para asegurar un apoyo continuo hacia la base de clientes ampliada. [SEP] 
+HYPOTHESIS - Los sistemas de recursos humanos ampliaron sus horizontes más allá del estado previo.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_1247,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - 29 Por lo tanto, 21 meses debería representar una estimación razonable y, en algunos casos, conservadora sobre el tiempo total necesario para actualizar un único proveedor de calderas. [SEP] 
+HYPOTHESIS - El reacondicionamiento de una caldera se puede hacer en pocos días.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1313,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Cuando se determinó que el ataque estaba relacionado con Al Qaeda, la responsabilidad se trasladó a la Oficina local de Nueva York. [SEP] 
+HYPOTHESIS - La Oficina Exterior de Nueva York se hizo con el control de todos los sospechosos en custodia.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_1703,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Ejecutar silencioso, correr profundo, ejecutar la respuesta [SEP] 
+HYPOTHESIS - Correr mientras se hace ruido.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_2007,train+valid
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Al parecer, Paul considera que Alan Greenspan es un ideólogo que controla de verdad la tasa de desempleo según los dictados de alguna teoría económica. [SEP] 
+HYPOTHESIS - Paul nunca ha oído hablar de Alan Greenspan ni de sus teorías económicas.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_2011,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Este es el sustento legal del abrazo nostálgico del Juez Anthony Kennedy a los derechos de los estados. [SEP] 
+HYPOTHESIS - Kennedy favorece los derechos de los estados.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",validation_2033,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - Por otro lado, se mantiene al margen de Mark Twain. [SEP] 
+HYPOTHESIS - No se puede detener a Mark Twain.<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",validation_2125,train+valid
+2,"
+2","<|im_start|>system
+You are a helpful assistant. Below is a list of categories that define sentence relationships, formatted as ""category description"", starting from category 0.
+
+0: entailment
+1: neutral
+2: contradiction
+
+You are given a pair of sentences formatted as ""PREMISE - sentence1 [SEP] HYPOTHESIS - sentence2"".
+Classify their relationship into one of the categories above.
+Return only the corresponding category number (0, 1, or 2), without explanations.
+<|im_end|>
+<|im_start|>user
+PREMISE - La Biblia del rey Jacobo, que contiene muchos de esos arcaísmos, los ha preservado para el inglés moderno, wherefore aparece de forma más común en la tautología de why y wherefore. [SEP] 
+HYPOTHESIS - La Biblia del Rey James ha sido revisada por completo de modo que está redactada en un inglés moderno y sencillo.<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",validation_2314,train+valid

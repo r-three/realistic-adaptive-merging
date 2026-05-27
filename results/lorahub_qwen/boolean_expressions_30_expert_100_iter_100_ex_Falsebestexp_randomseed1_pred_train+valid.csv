@@ -1,0 +1,1001 @@
+target,pred_clean,pred_org,example_id,split
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False or not False or ( True ) or True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_72,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not False and True and not False and not False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_113,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not False and not not ( ( False ) ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_187,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False or True or True or not False or True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_507,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True or not ( True or False ) or True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_533,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True or ( True or not True and True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_667,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( False ) and False or True and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_702,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not False and True and True or False or False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_745,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( False or False or not True or True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_792,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False or not True or True and not not False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_848,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( ( False ) and not True ) or False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_890,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( ( False ) and False ) and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1099,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( True or ( True ) and not False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1239,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not not False or not ( True or True ) is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_1323,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( ( ( not True ) or False ) ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1399,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True and ( not False ) and True and False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_1477,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not not not not not not True and not False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1780,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True and not True and not ( not False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1863,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( ( not False ) ) and False or False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2013,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( True or not False ) and not not True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2109,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False and ( not True ) or False and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2357,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not True and False and not ( not True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2378,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( not not False or False or False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3145,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( True or True or not True ) and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3155,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not ( False ) ) and not not False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3226,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( False ) or False and False or False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3312,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False and True or False and not True or False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3433,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not True and ( True ) and not not True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3499,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not not False ) and ( not True ) is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3770,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not True or True or True ) and False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3871,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True and ( not False or not not False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4053,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( not False or False and not True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4099,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not not True and not False and False and False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4396,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not not True or True or not True or True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4476,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( True and False or not not not False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4490,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( False ) or False or True or False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4554,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not False and False and False and ( False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4555,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not False or True ) and True and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4642,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( False and False ) or True and not True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4676,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( not not False ) and ( False ) is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_4792,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not True or ( True or True ) ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4986,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not not ( False and not False ) ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5140,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( False and False or False or False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5160,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not not not True ) or False and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5215,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( True and not True and True ) and True is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_5360,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False or False or False or not False or False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5727,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not False or False or False and False or True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5730,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( not not ( False ) ) and False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5755,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True and not ( ( False and True ) ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5863,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False and not not not False or ( True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5898,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True and True and not True and True and True is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_6040,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True and not False and True and False and True is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_6089,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True or not ( ( True or False ) ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_6179,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( False and False ) and ( not True ) is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_6433,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False and ( not False and True and True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_6459,train+valid
+True,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True or True and not ( True ) or False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_6625,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not True and ( False ) and False and True is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_6892,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False and not not not not False or not True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_7200,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( ( ( ( False ) ) ) ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_7290,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not not not ( True ) and not not True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_7561,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False or False or not ( True ) and False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_7670,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not False or not not False or True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_7777,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( not False ) or False and not True is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_7911,train+valid
+True,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not True or not False or not True and False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_7925,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True or ( True or False and not False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_8441,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( ( False or False and not True ) ) is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_8460,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( False ) or True and False and False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_8776,train+valid
+True,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True or False and ( False ) and not True is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_8783,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True or not ( ( False ) ) or False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_8845,train+valid
+True,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True or True and False and True and not True is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_8865,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False and False or True and not ( False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_8946,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False and not not False and not True and True is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_9233,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( not False or not True ) and False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_9324,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( not False and not True or True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_9380,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not False or False and True ) or True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_9435,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( ( not True ) or False ) and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_9480,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not not False and not True or not not False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_9725,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not False and True and False or True and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_9799,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False or True or not not ( not True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_9910,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False or not not False and not False and False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_9951,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not False and not not ( False and True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_144,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not True and not not False or False or True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_415,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( True ) and not False or not not True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_588,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True or False or False and not False and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_850,train+valid
+True,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not not True or not False or True and False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_1567,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False or True or not False or True or True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1629,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True and True and False and not ( False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2104,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False and not False and False and ( True ) is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_2725,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not not False and not False and True and False is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3526,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( False ) and not False or False and True is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3595,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( False ) or False and ( not False ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4308,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not True and False or True and False ) is <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_4977,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not not False or False or True and not False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_6338,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True and not True or True or True and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_6400,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False or False and True or not True or False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_6555,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+False and False or True or True and not True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_7584,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+not ( ( not False ) and not True ) is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_7671,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not not False and not False ) or False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_7698,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+( not False ) or False and True and True is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_8446,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant.
+Complete the following logical statement with ""True"" or ""False"".
+Respond only with ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+True and True or False or False and not False is <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_8921,train+valid

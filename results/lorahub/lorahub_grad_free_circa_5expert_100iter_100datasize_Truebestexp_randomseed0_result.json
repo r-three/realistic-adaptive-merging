@@ -1,0 +1,19 @@
+{
+    "task": "circa",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_circa",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.85,
+    "test_accuracy": 0.8164575430405603,
+    "weights": [
+        0.9591914236075985,
+        -0.11228891504723322,
+        0.7805302944526299,
+        0.4394569976225783,
+        0.8693986438763394
+    ]
+}

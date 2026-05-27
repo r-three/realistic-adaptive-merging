@@ -1,0 +1,1001 @@
+target,pred_clean,pred_org,example_id,split
+False,"
+False","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Kandi tells the truth. Raymond says Kandi lies. Does Raymond tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_0,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Michael tells the truth. Yoland says Michael tells the truth. Does Yoland tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_45,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Alexis lies. Amberly says Alexis tells the truth. Does Amberly tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_48,train+valid
+True,"
+False","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Yoland lies. Bernita says Yoland lies. Does Bernita tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_72,train+valid
+False,"
+False","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Sherrie tells the truth. Kristian says Sherrie lies. Does Kristian tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_74,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Delfina tells the truth. Delbert says Delfina lies. Does Delbert tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_418,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Delfina tells the truth. Sima says Delfina lies. Does Sima tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_456,train+valid
+False,"
+False","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Fidel tells the truth. Lorine says Fidel lies. Does Lorine tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_525,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Raymond lies. Amberly says Raymond lies. Does Amberly tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_660,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Crista tells the truth. Lorine says Crista lies. Does Lorine tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_665,train+valid
+True,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Osvaldo lies. Andree says Osvaldo lies. Does Andree tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_782,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Millicent lies. Ka says Millicent tells the truth. Does Ka tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_847,train+valid
+False,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Ka lies. Delbert says Ka tells the truth. Does Delbert tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_909,train+valid
+True,"
+False","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Jim lies. Christie says Jim tells the truth. Maybelle says Christie tells the truth. Jaymie says Maybelle lies. Does Jaymie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_1078,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Vina lies. Crista says Vina lies. Audrie says Crista lies. Sima says Audrie tells the truth. Does Sima tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1138,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Vernell lies. Shaunda says Vernell lies. Leda says Shaunda tells the truth. Osvaldo says Leda lies. Does Osvaldo tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_1191,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Yoland tells the truth. Kristian says Yoland tells the truth. Vina says Kristian tells the truth. Conception says Vina lies. Does Conception tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1207,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Amberly lies. Crista says Amberly lies. Shaunda says Crista lies. Jamey says Shaunda lies. Does Jamey tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1213,train+valid
+True,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Delbert lies. Alejandro says Delbert tells the truth. Shaunda says Alejandro tells the truth. Audrie says Shaunda lies. Does Audrie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_1282,train+valid
+True,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Shenna lies. Christie says Shenna tells the truth. Kristian says Christie tells the truth. Crista says Kristian lies. Does Crista tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_1305,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Conception tells the truth. Michael says Conception lies. Andree says Michael tells the truth. Shenna says Andree lies. Does Shenna tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1308,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Fletcher tells the truth. Conception says Fletcher tells the truth. Bernita says Conception tells the truth. Osvaldo says Bernita tells the truth. Does Osvaldo tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1439,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Jaymie tells the truth. Shalonda says Jaymie tells the truth. Alexis says Shalonda lies. Vina says Alexis tells the truth. Does Vina tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1449,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Jerry lies. Vina says Jerry tells the truth. Michaela says Vina lies. Osvaldo says Michaela tells the truth. Does Osvaldo tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1496,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Maybelle tells the truth. Phoebe says Maybelle lies. Sima says Phoebe tells the truth. Dallas says Sima tells the truth. Does Dallas tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_1626,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Millie lies. Helene says Millie lies. Alejandro says Helene lies. Sal says Alejandro lies. Does Sal tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1643,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Michael tells the truth. Sherrie says Michael tells the truth. Alexis says Sherrie lies. Shenna says Alexis tells the truth. Does Shenna tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1671,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Michael lies. Audrie says Michael lies. Delbert says Audrie tells the truth. Maybelle says Delbert tells the truth. Does Maybelle tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1847,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Jerry lies. Sal says Jerry lies. Delfina says Sal tells the truth. Ka says Delfina tells the truth. Millie says Ka tells the truth. Elanor says Millie tells the truth. Does Elanor tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2031,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Kandi tells the truth. Elanor says Kandi lies. Fletcher says Elanor tells the truth. Jamey says Fletcher lies. Helene says Jamey tells the truth. Jerry says Helene tells the truth. Does Jerry tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2074,train+valid
+True,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Willian tells the truth. Raymond says Willian lies. Andree says Raymond tells the truth. Bernita says Andree lies. Sima says Bernita tells the truth. Audrie says Sima tells the truth. Does Audrie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_2170,train+valid
+True,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Andree lies. Michael says Andree tells the truth. Lorine says Michael lies. Christie says Lorine lies. Vina says Christie tells the truth. Antwan says Vina lies. Does Antwan tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_2229,train+valid
+True,"
+False","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Kristian tells the truth. Millie says Kristian lies. Crista says Millie tells the truth. Sherrie says Crista tells the truth. Vernell says Sherrie lies. Ka says Vernell tells the truth. Does Ka tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_2243,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Alexis tells the truth. Delfina says Alexis lies. Kandi says Delfina lies. Audrie says Kandi lies. Sal says Audrie lies. Antwan says Sal lies. Does Antwan tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2287,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Inga lies. Delbert says Inga tells the truth. Dallas says Delbert tells the truth. Vina says Dallas tells the truth. Antwan says Vina tells the truth. Andree says Antwan tells the truth. Does Andree tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2299,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Vina tells the truth. Yoland says Vina tells the truth. Shalonda says Yoland lies. Fidel says Shalonda lies. Sima says Fidel lies. Lorine says Sima lies. Does Lorine tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2302,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Sal tells the truth. Michael says Sal tells the truth. Jaymie says Michael lies. Phoebe says Jaymie lies. Michaela says Phoebe lies. Jerry says Michaela lies. Does Jerry tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2400,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Millie tells the truth. Millicent says Millie tells the truth. Crista says Millicent tells the truth. Delfina says Crista lies. Andree says Delfina lies. Alexis says Andree tells the truth. Does Alexis tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2448,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Yoland tells the truth. Shalonda says Yoland tells the truth. Tamika says Shalonda lies. Elanor says Tamika lies. Raymond says Elanor tells the truth. Sal says Raymond lies. Does Sal tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2465,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Leda lies. Fletcher says Leda lies. Gwenn says Fletcher lies. Audrie says Gwenn lies. Jamey says Audrie lies. Millie says Jamey tells the truth. Does Millie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2757,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Vina tells the truth. Andree says Vina tells the truth. Shaunda says Andree tells the truth. Lorine says Shaunda tells the truth. Maybelle says Lorine tells the truth. Fletcher says Maybelle lies. Does Fletcher tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2874,train+valid
+False,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Fletcher lies. Antwan says Fletcher tells the truth. Shalonda says Antwan lies. Alexis says Shalonda tells the truth. Inga says Alexis tells the truth. Alejandro says Inga lies. Does Alejandro tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_2919,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Ryan lies. Teressa says Ryan lies. Andree says Teressa lies. Maybelle says Andree lies. Michaela says Maybelle lies. Dallas says Michaela lies. Vina says Dallas tells the truth. Audrie says Vina lies. Does Audrie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3136,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Andree lies. Vernell says Andree tells the truth. Delfina says Vernell tells the truth. Vina says Delfina tells the truth. Dallas says Vina lies. Crista says Dallas lies. Rashida says Crista tells the truth. Millicent says Rashida lies. Does Millicent tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3245,train+valid
+False,"
+False","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Alexis lies. Maybelle says Alexis lies. Jaymie says Maybelle lies. Delbert says Jaymie tells the truth. Ryan says Delbert tells the truth. Vina says Ryan lies. Willian says Vina tells the truth. Osvaldo says Willian lies. Does Osvaldo tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3252,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Bernita tells the truth. Antwan says Bernita lies. Millicent says Antwan tells the truth. Alexis says Millicent lies. Willian says Alexis lies. Rashida says Willian lies. Vina says Rashida lies. Teressa says Vina tells the truth. Does Teressa tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3338,train+valid
+True,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Conception lies. Yoland says Conception tells the truth. Shenna says Yoland tells the truth. Millie says Shenna tells the truth. Sima says Millie tells the truth. Christie says Sima lies. Raymond says Christie tells the truth. Vina says Raymond tells the truth. Does Vina tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3601,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Osvaldo tells the truth. Alejandro says Osvaldo tells the truth. Raymond says Alejandro lies. Dallas says Raymond tells the truth. Sima says Dallas lies. Kristian says Sima lies. Amberly says Kristian tells the truth. Shaunda says Amberly tells the truth. Does Shaunda tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3604,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Delfina lies. Maybelle says Delfina lies. Conception says Maybelle tells the truth. Antwan says Conception lies. Helene says Antwan tells the truth. Alexis says Helene lies. Gwenn says Alexis tells the truth. Raymond says Gwenn lies. Does Raymond tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3721,train+valid
+True,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Ka lies. Helene says Ka tells the truth. Fidel says Helene lies. Ryan says Fidel tells the truth. Millicent says Ryan tells the truth. Audrie says Millicent tells the truth. Raymond says Audrie lies. Jim says Raymond lies. Does Jim tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3733,train+valid
+False,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Delfina tells the truth. Shenna says Delfina lies. Millicent says Shenna tells the truth. Conception says Millicent tells the truth. Bernita says Conception lies. Ka says Bernita tells the truth. Vernell says Ka lies. Amberly says Vernell tells the truth. Does Amberly tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3760,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Vernell lies. Lorine says Vernell tells the truth. Kristian says Lorine lies. Elanor says Kristian lies. Gwenn says Elanor lies. Kandi says Gwenn lies. Yoland says Kandi tells the truth. Fidel says Yoland tells the truth. Does Fidel tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3841,train+valid
+False,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Jamey lies. Alexis says Jamey lies. Millie says Alexis tells the truth. Bernita says Millie tells the truth. Jaymie says Bernita lies. Sherrie says Jaymie lies. Teressa says Sherrie tells the truth. Conception says Teressa lies. Does Conception tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_3882,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Bernita tells the truth. Leda says Bernita lies. Sima says Leda tells the truth. Dallas says Sima tells the truth. Crista says Dallas tells the truth. Millie says Crista lies. Fidel says Millie lies. Delfina says Fidel tells the truth. Does Delfina tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3889,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Amberly tells the truth. Jerry says Amberly tells the truth. Phoebe says Jerry lies. Millicent says Phoebe lies. Osvaldo says Millicent lies. Lorine says Osvaldo tells the truth. Delfina says Lorine lies. Millie says Delfina tells the truth. Does Millie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3946,train+valid
+True,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Shenna tells the truth. Millie says Shenna tells the truth. Christie says Millie lies. Kristian says Christie lies. Willian says Kristian lies. Alexis says Willian lies. Sherrie says Alexis lies. Andree says Sherrie lies. Jim says Andree lies. Ryan says Jim lies. Does Ryan tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_4049,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Ryan tells the truth. Millicent says Ryan tells the truth. Vina says Millicent lies. Kristian says Vina lies. Audrie says Kristian lies. Willian says Audrie tells the truth. Jim says Willian tells the truth. Sherrie says Jim tells the truth. Sal says Sherrie tells the truth. Ka says Sal tells the truth. Does Ka tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4176,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Delfina lies. Shalonda says Delfina lies. Bernita says Shalonda lies. Willian says Bernita lies. Fidel says Willian tells the truth. Fletcher says Fidel lies. Jim says Fletcher lies. Inga says Jim lies. Teressa says Inga tells the truth. Alejandro says Teressa tells the truth. Does Alejandro tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4188,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Amberly lies. Alexis says Amberly lies. Ryan says Alexis tells the truth. Jerry says Ryan lies. Sima says Jerry tells the truth. Ka says Sima lies. Yoland says Ka tells the truth. Bernita says Yoland lies. Jamey says Bernita tells the truth. Gwenn says Jamey tells the truth. Does Gwenn tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4291,train+valid
+False,"
+False","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Conception tells the truth. Fidel says Conception lies. Michaela says Fidel lies. Maybelle says Michaela tells the truth. Antwan says Maybelle lies. Jerry says Antwan tells the truth. Fletcher says Jerry tells the truth. Christie says Fletcher tells the truth. Jamey says Christie lies. Kandi says Jamey lies. Does Kandi tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_4302,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Sal tells the truth. Sima says Sal lies. Maybelle says Sima lies. Christie says Maybelle lies. Ka says Christie lies. Phoebe says Ka lies. Alexis says Phoebe lies. Millie says Alexis lies. Leda says Millie tells the truth. Vina says Leda tells the truth. Does Vina tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4380,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Fletcher lies. Lorine says Fletcher tells the truth. Raymond says Lorine tells the truth. Fidel says Raymond lies. Alexis says Fidel tells the truth. Millicent says Alexis tells the truth. Willian says Millicent lies. Inga says Willian lies. Jaymie says Inga lies. Conception says Jaymie tells the truth. Does Conception tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4456,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Crista tells the truth. Delbert says Crista lies. Audrie says Delbert lies. Conception says Audrie tells the truth. Lorine says Conception lies. Michael says Lorine lies. Shalonda says Michael tells the truth. Sima says Shalonda lies. Elanor says Sima tells the truth. Ryan says Elanor tells the truth. Does Ryan tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4467,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Shaunda tells the truth. Fletcher says Shaunda tells the truth. Jerry says Fletcher tells the truth. Helene says Jerry tells the truth. Jaymie says Helene lies. Vernell says Jaymie lies. Osvaldo says Vernell lies. Delfina says Osvaldo tells the truth. Amberly says Delfina lies. Yoland says Amberly tells the truth. Does Yoland tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4581,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Gwenn tells the truth. Conception says Gwenn lies. Michaela says Conception lies. Ryan says Michaela tells the truth. Leda says Ryan tells the truth. Michael says Leda lies. Dallas says Michael tells the truth. Raymond says Dallas lies. Rashida says Raymond lies. Sima says Rashida lies. Does Sima tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4618,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Phoebe lies. Elanor says Phoebe lies. Fletcher says Elanor tells the truth. Raymond says Fletcher tells the truth. Michael says Raymond lies. Dallas says Michael tells the truth. Audrie says Dallas lies. Jaymie says Audrie lies. Jim says Jaymie tells the truth. Tamika says Jim tells the truth. Does Tamika tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4636,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Alejandro lies. Inga says Alejandro lies. Michael says Inga tells the truth. Audrie says Michael tells the truth. Millicent says Audrie lies. Andree says Millicent tells the truth. Antwan says Andree tells the truth. Dallas says Antwan lies. Amberly says Dallas tells the truth. Kandi says Amberly tells the truth. Does Kandi tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4694,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Sima tells the truth. Tamika says Sima lies. Ryan says Tamika lies. Teressa says Ryan lies. Fidel says Teressa tells the truth. Rashida says Fidel lies. Raymond says Rashida lies. Lorine says Raymond tells the truth. Jaymie says Lorine tells the truth. Fletcher says Jaymie tells the truth. Does Fletcher tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4771,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Amberly lies. Sima says Amberly tells the truth. Gwenn says Sima tells the truth. Michael says Gwenn lies. Sal says Michael lies. Delfina says Sal tells the truth. Sherrie says Delfina tells the truth. Jerry says Sherrie tells the truth. Kristian says Jerry tells the truth. Fletcher says Kristian lies. Does Fletcher tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4830,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Delbert lies. Rashida says Delbert tells the truth. Elanor says Rashida tells the truth. Millie says Elanor tells the truth. Willian says Millie tells the truth. Kristian says Willian tells the truth. Inga says Kristian tells the truth. Jerry says Inga tells the truth. Lorine says Jerry tells the truth. Yoland says Lorine lies. Does Yoland tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4943,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Shaunda lies. Fidel says Shaunda tells the truth. Jaymie says Fidel lies. Millie says Jaymie lies. Alejandro says Millie lies. Sal says Alejandro tells the truth. Sherrie says Sal lies. Kristian says Sherrie lies. Antwan says Kristian lies. Shalonda says Antwan tells the truth. Vina says Shalonda lies. Shenna says Vina lies. Does Shenna tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5116,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Sherrie tells the truth. Andree says Sherrie tells the truth. Jamey says Andree tells the truth. Michaela says Jamey tells the truth. Yoland says Michaela tells the truth. Fidel says Yoland lies. Antwan says Fidel lies. Shalonda says Antwan lies. Lorine says Shalonda lies. Fletcher says Lorine tells the truth. Inga says Fletcher tells the truth. Bernita says Inga tells the truth. Does Bernita tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5227,train+valid
+True,"
+False","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Rashida lies. Sherrie says Rashida tells the truth. Jamey says Sherrie lies. Maybelle says Jamey lies. Dallas says Maybelle tells the truth. Millie says Dallas lies. Sima says Millie tells the truth. Helene says Sima lies. Shenna says Helene tells the truth. Shalonda says Shenna tells the truth. Andree says Shalonda lies. Conception says Andree tells the truth. Does Conception tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_5252,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Shalonda lies. Kandi says Shalonda lies. Shenna says Kandi lies. Lorine says Shenna tells the truth. Dallas says Lorine tells the truth. Alejandro says Dallas lies. Raymond says Alejandro lies. Audrie says Raymond lies. Jamey says Audrie tells the truth. Yoland says Jamey tells the truth. Teressa says Yoland lies. Millie says Teressa tells the truth. Does Millie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5298,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Michael lies. Kristian says Michael lies. Tamika says Kristian tells the truth. Shalonda says Tamika tells the truth. Ryan says Shalonda tells the truth. Helene says Ryan tells the truth. Alejandro says Helene lies. Amberly says Alejandro lies. Jaymie says Amberly lies. Jamey says Jaymie tells the truth. Sal says Jamey tells the truth. Willian says Sal lies. Does Willian tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5623,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Delbert lies. Jaymie says Delbert tells the truth. Fidel says Jaymie tells the truth. Maybelle says Fidel tells the truth. Jerry says Maybelle lies. Sherrie says Jerry lies. Audrie says Sherrie tells the truth. Crista says Audrie lies. Gwenn says Crista lies. Sal says Gwenn tells the truth. Bernita says Sal lies. Millie says Bernita tells the truth. Does Millie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5711,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Kristian lies. Audrie says Kristian lies. Shenna says Audrie lies. Vina says Shenna tells the truth. Raymond says Vina lies. Elanor says Raymond tells the truth. Michael says Elanor lies. Kandi says Michael tells the truth. Jim says Kandi tells the truth. Dallas says Jim tells the truth. Alejandro says Dallas lies. Sal says Alejandro tells the truth. Does Sal tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5759,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Shaunda lies. Teressa says Shaunda tells the truth. Dallas says Teressa tells the truth. Alejandro says Dallas tells the truth. Kandi says Alejandro tells the truth. Millicent says Kandi tells the truth. Sherrie says Millicent tells the truth. Raymond says Sherrie tells the truth. Sima says Raymond tells the truth. Alexis says Sima lies. Phoebe says Alexis lies. Gwenn says Phoebe lies. Does Gwenn tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5843,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Tamika tells the truth. Michael says Tamika tells the truth. Vina says Michael lies. Audrie says Vina lies. Alejandro says Audrie lies. Vernell says Alejandro tells the truth. Kristian says Vernell lies. Delfina says Kristian tells the truth. Antwan says Delfina lies. Leda says Antwan lies. Millie says Leda lies. Osvaldo says Millie lies. Does Osvaldo tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5846,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Antwan tells the truth. Delbert says Antwan tells the truth. Millicent says Delbert lies. Fidel says Millicent lies. Shaunda says Fidel tells the truth. Inga says Shaunda lies. Bernita says Inga tells the truth. Conception says Bernita lies. Shenna says Conception tells the truth. Audrie says Shenna lies. Maybelle says Audrie lies. Sima says Maybelle lies. Does Sima tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5847,train+valid
+False,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Crista lies. Alejandro says Crista tells the truth. Michaela says Alejandro tells the truth. Tamika says Michaela tells the truth. Does Tamika tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_1457,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Dallas tells the truth. Ryan says Dallas lies. Teressa says Ryan lies. Gwenn says Teressa tells the truth. Does Gwenn tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1636,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Alejandro lies. Amberly says Alejandro lies. Inga says Amberly tells the truth. Tamika says Inga tells the truth. Does Tamika tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_1938,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Bernita lies. Raymond says Bernita lies. Yoland says Raymond lies. Inga says Yoland tells the truth. Audrie says Inga lies. Dallas says Audrie lies. Does Dallas tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2496,train+valid
+True,"
+False","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Christie lies. Millie says Christie lies. Michael says Millie tells the truth. Gwenn says Michael lies. Kristian says Gwenn tells the truth. Fidel says Kristian lies. Does Fidel tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+False<|im_end|>",train_2685,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Jerry tells the truth. Elanor says Jerry tells the truth. Teressa says Elanor tells the truth. Audrie says Teressa lies. Fletcher says Audrie lies. Andree says Fletcher tells the truth. Does Andree tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_2954,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Fletcher tells the truth. Millie says Fletcher lies. Alexis says Millie lies. Millicent says Alexis lies. Phoebe says Millicent lies. Jaymie says Phoebe tells the truth. Inga says Jaymie tells the truth. Jamey says Inga lies. Does Jamey tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3276,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Shenna lies. Ka says Shenna lies. Vernell says Ka lies. Willian says Vernell tells the truth. Alejandro says Willian tells the truth. Jamey says Alejandro lies. Tamika says Jamey tells the truth. Gwenn says Tamika lies. Does Gwenn tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3393,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Vernell tells the truth. Ka says Vernell tells the truth. Delfina says Ka lies. Michael says Delfina lies. Crista says Michael lies. Yoland says Crista tells the truth. Jamey says Yoland lies. Jim says Jamey tells the truth. Does Jim tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_3720,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Millicent lies. Gwenn says Millicent tells the truth. Sal says Gwenn tells the truth. Vernell says Sal tells the truth. Tamika says Vernell tells the truth. Michael says Tamika tells the truth. Fletcher says Michael lies. Sima says Fletcher lies. Ryan says Sima lies. Sherrie says Ryan lies. Does Sherrie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4147,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Michaela lies. Sal says Michaela tells the truth. Sherrie says Sal tells the truth. Osvaldo says Sherrie tells the truth. Delfina says Osvaldo lies. Leda says Delfina tells the truth. Amberly says Leda tells the truth. Rashida says Amberly lies. Tamika says Rashida lies. Teressa says Tamika tells the truth. Does Teressa tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4214,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Elanor tells the truth. Conception says Elanor tells the truth. Teressa says Conception tells the truth. Michael says Teressa tells the truth. Willian says Michael tells the truth. Antwan says Willian tells the truth. Alexis says Antwan lies. Sherrie says Alexis tells the truth. Phoebe says Sherrie lies. Vernell says Phoebe lies. Does Vernell tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4251,train+valid
+False,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Phoebe tells the truth. Kristian says Phoebe tells the truth. Conception says Kristian tells the truth. Millicent says Conception lies. Sherrie says Millicent tells the truth. Amberly says Sherrie tells the truth. Bernita says Amberly tells the truth. Audrie says Bernita lies. Delfina says Audrie lies. Yoland says Delfina tells the truth. Does Yoland tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4293,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Delfina tells the truth. Kristian says Delfina tells the truth. Sal says Kristian tells the truth. Alexis says Sal tells the truth. Delbert says Alexis lies. Lorine says Delbert tells the truth. Michaela says Lorine lies. Millicent says Michaela tells the truth. Ryan says Millicent lies. Maybelle says Ryan tells the truth. Does Maybelle tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4443,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Sal tells the truth. Amberly says Sal lies. Delbert says Amberly lies. Maybelle says Delbert lies. Gwenn says Maybelle tells the truth. Bernita says Gwenn lies. Alexis says Bernita tells the truth. Kristian says Alexis lies. Fletcher says Kristian lies. Delfina says Fletcher tells the truth. Does Delfina tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4622,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Fidel lies. Jaymie says Fidel lies. Phoebe says Jaymie lies. Sal says Phoebe lies. Teressa says Sal lies. Yoland says Teressa tells the truth. Kristian says Yoland lies. Andree says Kristian lies. Millie says Andree lies. Alexis says Millie tells the truth. Does Alexis tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_4754,train+valid
+True,"
+True","<|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Kandi tells the truth. Raymond says Kandi tells the truth. Lorine says Raymond lies. Maybelle says Lorine lies. Shaunda says Maybelle lies. Vina says Shaunda tells the truth. Phoebe says Vina lies. Jerry says Phoebe tells the truth. Christie says Jerry tells the truth. Osvaldo says Christie lies. Sherrie says Osvaldo lies. Yoland says Sherrie tells the truth. Does Yoland tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5247,train+valid
+True,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Michael lies. Antwan says Michael lies. Tamika says Antwan lies. Vernell says Tamika tells the truth. Teressa says Vernell lies. Rashida says Teressa lies. Phoebe says Rashida lies. Sal says Phoebe tells the truth. Delbert says Sal lies. Vina says Delbert lies. Crista says Vina tells the truth. Millie says Crista tells the truth. Does Millie tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5251,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Willian lies. Sal says Willian tells the truth. Millie says Sal tells the truth. Michaela says Millie tells the truth. Kristian says Michaela lies. Conception says Kristian lies. Rashida says Conception tells the truth. Audrie says Rashida lies. Yoland says Audrie tells the truth. Alejandro says Yoland lies. Teressa says Alejandro lies. Michael says Teressa lies. Does Michael tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5650,train+valid
+False,"
+True","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant inferring logical facts from a given statement.
+Return only ""True"" or ""False"", without explanations.
+<|im_end|>
+<|im_start|>user
+Question: Teressa tells the truth. Kandi says Teressa tells the truth. Shenna says Kandi tells the truth. Alexis says Shenna tells the truth. Leda says Alexis lies. Jim says Leda lies. Jerry says Jim lies. Raymond says Jerry lies. Phoebe says Raymond lies. Millie says Phoebe tells the truth. Osvaldo says Millie tells the truth. Michael says Osvaldo tells the truth. Does Michael tell the truth?
+Answer: <|im_end|>
+<|im_start|>assistant
+True<|im_end|>",train_5789,train+valid

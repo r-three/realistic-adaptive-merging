@@ -1,0 +1,19 @@
+{
+    "task": "unarxive_imrad_clf",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_unarxive_imrad_clf",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.65,
+    "test_accuracy": 0.6613129893595664,
+    "weights": [
+        0.9148811409416016,
+        0.17785799702510363,
+        0.3759113522244935,
+        0.02817568838417783,
+        0.20609394730402233
+    ]
+}

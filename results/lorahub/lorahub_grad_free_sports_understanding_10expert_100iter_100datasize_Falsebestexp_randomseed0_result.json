@@ -1,0 +1,29 @@
+{
+    "task": "sports_understanding",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304",
+        "barc0/induction-run2-gpt4omini-20k-100seeds-barc-llama3.1-8b-instruct-lora64_lr2e-4_epoch3"
+    ],
+    "valid_accuracy": 0.7,
+    "test_accuracy": 0.7114967462039046,
+    "weights": [
+        -0.009833225443912793,
+        0.5257832053326997,
+        0.5181305651936867,
+        0.42512809898259657,
+        0.0960561910262664,
+        0.06640051466727138,
+        0.04632739045129033,
+        0.10692327179230944,
+        0.6548362082860376,
+        -0.06822700725256194
+    ]
+}

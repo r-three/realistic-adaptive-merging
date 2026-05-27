@@ -1,0 +1,19 @@
+{
+    "task": "aqua_rat",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_aqua_rat",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66"
+    ],
+    "valid_accuracy": 0.1,
+    "test_accuracy": 0.2677165354330709,
+    "weights": [
+        0.6813403432151542,
+        0.69009586676631,
+        0.37163711372698777,
+        0.49578876979090825,
+        -0.010936519017903218
+    ]
+}

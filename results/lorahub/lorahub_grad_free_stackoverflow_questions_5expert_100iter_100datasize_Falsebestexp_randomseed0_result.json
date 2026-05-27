@@ -1,0 +1,19 @@
+{
+    "task": "stackoverflow_questions",
+    "expert_name": [
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip"
+    ],
+    "valid_accuracy": 0.2631578947368421,
+    "test_accuracy": 0.24465267875331026,
+    "weights": [
+        0.5082180860997334,
+        0.4937288992657036,
+        0.49534193266575566,
+        0.4809529856031147,
+        0.48853546064597464
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "task": "super_glue_wic",
+    "expert_name": [
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2",
+        "Atharva-07/classification_task"
+    ],
+    "valid_accuracy": 0.5,
+    "test_accuracy": 0.6132596685082873,
+    "weights": [
+        -0.2274510873076582,
+        0.5381782389963472,
+        0.15377462540954293,
+        0.48431572369586423,
+        -0.08319685117700833
+    ]
+}

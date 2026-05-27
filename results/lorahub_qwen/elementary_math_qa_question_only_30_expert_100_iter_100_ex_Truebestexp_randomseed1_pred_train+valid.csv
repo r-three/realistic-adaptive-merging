@@ -1,0 +1,1001 @@
+target,pred_clean,pred_org,example_id,split
+2,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a man rows his boat 84 km downstream and 60 km upstream , taking 4 hours each time . find the speed of the stream ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_82,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a certain sum is invested at simple interest at 18 % p . a . for two years instead of investing at 12 % p . a . for the same time period . therefore the interest received is more by rs . 504 . find the sum ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_219,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+find the number , difference between number and its 3 / 5 is 64 .<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_254,train+valid
+4,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+ashok and pyarelal invested money together in a business and share a capital of ashok is 1 / 9 of that of pyarelal . if the incur a loss of rs 900 then loss of pyarelal ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_257,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if 7 persons can do 7 times of a particular work in 7 days , then , 9 persons can do 9 times of that work in ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_822,train+valid
+4,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+in a 280 meters race a beats b by 56 m or 7 seconds . a ' s time over the course is :<|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|>",train_875,train+valid
+0,"
+20","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a machine , working at a constant rate , manufactures 20 candles in 40 minutes . how many candles does it make in 1 hr 20 min ?<|im_end|>
+<|im_start|>assistant
+20<|im_end|>",train_952,train+valid
+2,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a baseball team played 10 games and won 5 . what is the ratio of the number of games played to the number of losses ?<|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|>",train_965,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+35 binders can bind 1400 books in 21 days . how many binders will be required to bind 1600 books in 20 days ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_1445,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a monkey start climbing up a tree 17 ft tall . each hour it hops 3 ft and slips back 2 ft . how much time would it take the monkey to reach the top .<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_1451,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the distance from the x - axis to point p is half the distance from the y - axis to point p . if the coordinates of p are ( x , - 6 ) , how many units is p from the y - axis ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_1501,train+valid
+0,"
+40","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+two pots are in side - by - side . one pot , which is 20 inches tall , casts a shadow that is 10 inches long . the other pot is 40 inches tall . compute , in inches , the length of the shadow that the taller pot casts .<|im_end|>
+<|im_start|>assistant
+40<|im_end|>",train_1597,train+valid
+3,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a train running at the speed of 54 km / hr crosses a pole in 9 seconds . what is the length of the train ?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_1737,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the average of 35 numbers is 25 . if each number is multiplied by 5 , find the new average ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1917,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+logx 16 = 0.8 then what is the value of x ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1927,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a small beaker is 1 / 2 filled with salt water . another beaker , which has 5 times the capacity of the small beaker , is 1 / 5 filled with fresh water . after dumping all of the salt water from the small beaker into the large beaker , to what fraction of its capacity will the large beaker be filled ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1977,train+valid
+4,"
+2","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a part of certain sum of money is invested at 10 % per annum and the rest at 12 % per annum , if the interest earned in each case for the same period is equal , then ratio of the sums invested is ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_2055,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if p / q = 5 / 4 , then 2 p + q = ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2072,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+walking 7 / 6 of his usual rate , a boy reaches his school 5 min early . find his usual time to reach the school ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2101,train+valid
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+yearly subscription to professional magazines cost a company $ 940.00 . to make a 30 % cut in the magazine budget , how much less must be spent ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2116,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a train is 310 meter long is running at a speed of 45 km / hour . in what time will it pass a bridge of 140 meter length ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2235,train+valid
+4,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a can finish a work in 4 days and b can do same work in half the time taken by a . then working together , what part of same work they can finish in a day ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_2262,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the average weight of 8 persons increases by 1.5 kg when a person weighting 65 kg is replaced by a new person . what could be the weight of the new person ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2347,train+valid
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a company pays 12.5 % dividend to its investors . if an investor buys rs . 50 shares and gets 25 % on investment , at what price did the investor buy the shares ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2383,train+valid
+4,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the simple interest on rs . 34 for 8 months at the rate of 6 paise per rupeeper month is<|im_end|>
+<|im_start|>assistant
+1<|im_end|><|endoftext|>",train_2393,train+valid
+1,"
+20","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+roja and pooja start moving in the opposite directions from a pole . they are moving at the speeds of 7 km / hr and 3 km / hr respectively . after 4 hours what will be the distance between them ?<|im_end|>
+<|im_start|>assistant
+20<|im_end|>",train_2429,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a boy goes to his school from his house at a speed of 3 km / hr and returns at a speed of 2 km / hr . if he takes 5 hours in going and coming . the distance between his house and school is ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_2608,train+valid
+4,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+how many two - element subsets of { 6,7 , 8,9 } are there that do not contain the pair of elements 8 and 9 ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|><|endoftext|>",train_2650,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the ratio , by volume , of bleach ( b ) to detergent ( d ) to water in a certain solution is 2 : 40 : 100 . the solution will be altered so that the ratio of bleach to detergent is tripled while the ratio of detergent to water is halved . if the altered solution will contain 300 liters of water , how many liters of detergent will it contain ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2705,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+all the students of class are told to sit in circle shape . here the boy at the 8 th position is exactly opposite to 33 th boy . total number of boys in the class ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2999,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+what profit percent is made by selling an article at a certain price , if by selling at 2 / 3 rd of that price , there would be a loss of 5 % ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3029,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the average weight of 8 person ' s increases by 2.5 kg when a new person comes in place of one of them weighing 50 kg . what might be the weight of the new person ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3103,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+john found that the average of 15 numbers is 40 . if 13 is added to each number then the mean of number is ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3351,train+valid
+4,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a sucrose solution contains 10 grams of sucrose per 100 cubic centimeters of solution . if 60 cubic centimeters of the solution were poured into an empty container , how many grams of sucrose would be in the container ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3545,train+valid
+4,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+having scored 97 runs in the 19 th inning , a cricketer increases his average score by 4 . what will be his average score after 19 innings ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3739,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+find the unit ’ s digit in the product ( 76 ^ 41 ) * ( 41 ^ 14 ) * ( 14 ^ 87 ) * ( 87 ^ 76 )<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_3755,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a waiter ' s salary consists of his salary and tips . during one week his tips were 5 / 3 of his salary . what fraction of his income came from tips ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_3778,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a certain number of horses and an equal number of men are going somewhere . half of the owners are on their horses ' back while the remaining ones are walking along leading their horses . if the number of legs walking on the ground is 90 , how many horses are there ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3810,train+valid
+1,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if , 1 * 3 * 5 = 16 3 * 5 * 7 = 38 5 * 7 * 9 = 68 then find , 7 * 9 * 11 = ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3834,train+valid
+1,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+car a runs at the speed of 33 km / hr & reaches its destination in 7 hr . car b runs at the speed of 44 km / h & reaches its destination in 5 h . what is the respective ratio of distances covered by car a & car b ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_4095,train+valid
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+10 meters of wire is available to fence off a flower bed in the form of a circular sector . what must the radius of the circle in meters be , if we wish to have a flower bed with the greatest possible surface area ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_4131,train+valid
+4,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a batsman makes a score of 87 runs in the 17 th inning and thus increases his average by 4 . find his average after 17 th inning .<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_4483,train+valid
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a sum of money is distributed among w , x , y , z in the proportion of 1 : 6 : 2 : 4 . if x gets $ 1500 more than y , what is the w ' s share ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_4669,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+one hour after yolanda started walking from x to y , a distance of 10 miles , bob started walking along the same road from y to x . if yolanda ' s walking rate was 3 miles per hour and bob т ' s was 4 miles per hour , how many miles had bob walked when they met ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_4712,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the cost price of a radio is rs . 2400 and it was sold for rs . 2100 , find the loss % ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_4783,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+how much time does a train 150 metres long running at 54 km / hr take to pass a pole ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_4808,train+valid
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a cistern can be filled by a tap in 3 hours while it can be emptied by another tap in 9 hours . if both the taps are opened simultaneously , then after how much time will the cistern get filled ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_4848,train+valid
+1,"
+2","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+in the biology lab of ` ` jefferson ' ' high school there are 0.036 * 10 ^ 5 germs , equally divided among 45000 * 10 ^ ( - 3 ) petri dishes . how many germs live happily in a single dish ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_4911,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the cost price of a radio is rs . 1500 and it was sold for rs . 1305 , find the loss % ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_5080,train+valid
+0,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+sachin is younger than rahul by 14 years . if the ratio of their ages is 7 : 9 , find the age of sachin<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5114,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if $ 5,000 is invested in an account that earns 16 % interest compounded semi - annually , then the interest earned after one year would be how much greater than if the $ 5,000 had been invested at 8 % simple yearly interest ?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5238,train+valid
+3,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if shares of two persons in profits are rs . 400 and rs . 800 then ratio of their capitals is<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5330,train+valid
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the reciprocal of the hcf and lcm of two are 1 / 14 and 1 / 312 . if one of the number is 24 then other no . is<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_5343,train+valid
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a sum is divided among w , x and y in such a way that for each rupee w gets , x gets 30 paisa and y gets 20 paisa . if the share of w is rs . 10 , what is the total amount ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_5468,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if x is 20 percent greater than 40 , then x =<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_5699,train+valid
+4,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a bag of potatoes weighs 12 lbs divided by half of its weight . how much does the bag of potatoes weight ?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5700,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a is two years older than b who is twice as old as c . if the total of the ages of a , b and c be 32 , then how old is b ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_5835,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the difference between the local value and the face value of 8 in the numeral 96348621 is<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5844,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if 3 spiders make 3 webs in 3 days , then 1 spider will make 1 web in how many days ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_5876,train+valid
+4,"
+1","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+50 men took a dip in a water tank 40 m long and 20 m broad on a religious day . if the average displacement of water by a man is 4 , then the rise in the water level in the tank will be :<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_5886,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+0.9 * 0.007 = ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ _________<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_6494,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if the least common multiple of two prime numbers x and y is 10 , where x > y , then the value of 2 x + y is<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_6511,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if | r + s | = | r - s | , then r * s must be equal to :<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6524,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if the average ( arithmetic mean ) of 8 consecutive odd integers is 414 , then the least of these integers is<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_6607,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+water boils at 212 ° f or 100 ° c and melts at 32 ° f or 0 ° c . if the temperature of the particular day is 35 ° c , it is equal to<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_6624,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+to fill a tank , 200 buckets of water is required . how many buckets of water will be required to fill the same tank if the capacity of the bucket is reduced to 4 - fifths of its present ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_6706,train+valid
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if 36 men can do a piece of work in 25 hours , in how many hours will 15 men do it ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_6923,train+valid
+0,"
+3","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the average salary of a person for the months of january , february , march and april is rs . 8000 and that for the months february , march , april and may is rs . 8100 . if his salary for the month of may is rs . 6500 , find his salary for the month of january ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_6973,train+valid
+1,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+john has 10 pairs of matched socks . if he loses 5 individual socks , what is the greatest number of pairs of matched socks he can have left ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_7041,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if three painters can complete three rooms in three hours , how many painters would it take to do 27 rooms in 9 hours ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_7088,train+valid
+4,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the ratio of buses to cars on river road is 1 to 17 . if there are 80 fewer buses than cars on river road , how many cars are on river road ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7091,train+valid
+2,"
+1","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if a father said to his elder son , ` ` i was as old as you are at the present at the time of your birth ' ' . if the father ' s age is 25 years now , what was the son ' s age 4 years back ?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_7172,train+valid
+3,"
+25","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a goods train leaves a station at a certain time and at a fixed speed . after 6 hours , an express train leaves the same station and moves in the same direction at a uniform speed of 90 kmph . this train catches up the goods train in 4 hours . find the speed of the goods train .<|im_end|>
+<|im_start|>assistant
+25<|im_end|>",train_7208,train+valid
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if the sides of a triangle are 26 cm , 18 cm and 10 cm , what is its area ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_7227,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a person buys an article at rs . 500 . at what price should he sell the article so as to make a profit of 35 % ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|>",train_7338,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+in town p , 70 percent of the population are employed , and 21 percent of the population are employed males . what percent of the employed people in town p are females ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_7427,train+valid
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if 0.6 : x : : 5 : 8 , then x is equal to :<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_7441,train+valid
+1,"
+2","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the speed of a car is 90 km in the first hour and 75 km in the second hour . what is the average speed of the car ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7522,train+valid
+1,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if the simple interest on a certain amount in at 4 % rate 5 years amounted to rs . 2000 less than the principal . what was the principal ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_7527,train+valid
+4,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a dealer purchases 15 articles for rs . 25 and sells 12 articles for rs . 38 . find the profit percentage ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_7611,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+jeff has 252 ounces of peanut butter in 16 , 28 . and 40 ounce jars . he has an equal number of each sized jar . how many jars of peanut butter does jeff have ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_200,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a pipe can fill a cistern in 66 minutes . find the time in which 1 / 11 part of the cistern will be filled ?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_277,train+valid
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the ratio of investments of two partners p and q is 7 : 5 and the ratio of their profits is 7 : 10 . if p invested the money for 8 months , find for how much time did q invest the money ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_479,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a and b finish the job in 15 days . while a , b and c can finish it in 10 days . c alone will finish the job in<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_751,train+valid
+2,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+walking at 4 / 5 of her normal speed , a worker is 15 minutes later than usual in reaching her office . the usual time ( in minutes ) taken by her to cover the distance between her home and her office is<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2574,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+find value for x from below equation ? x + 1 = 5<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_2807,train+valid
+3,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a cycle is bought for rs . 900 and sold for rs . 1260 , find the gain percent ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_3327,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the average age of 6 men increases by 3 years when two women are included in place of two men of ages 24 and 26 years . find the average age of the women ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_3992,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+tim and é lan are 180 miles away from one another . they are starting to move towards each other simultaneously , tim at a speed of 10 mph and é lan at a speed of 5 mph . if every hour they double their speeds , what is the distance that tim will pass until he meets é lan ?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_4645,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+find the total number of prime factors in the expression ( 4 ) ^ 13 x ( 7 ) ^ 5 x ( 11 ) ^ 2<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_4781,train+valid
+2,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+robert ate 10 chocolates , nickel ate 5 chocolates . how many more chocolates did robert ate than nickel ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_4922,train+valid
+4,"
+2","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+if 2994 ã · 14.5 = 171 , then 29.94 ã · 1.45 = ?<|im_end|>
+<|im_start|>assistant
+2<|im_end|>",train_5377,train+valid
+4,"
+40","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+tim came second in math . when his mother asked him how much he had scored , he answered that he got the sum of the first 8 even numbers . his mother immediately worked out the answer . how much had he scored in math ?<|im_end|>
+<|im_start|>assistant
+40<|im_end|>",train_5437,train+valid
+2,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the sum of the even numbers between 1 and n is 95 * 96 , where n is an odd number , then n = ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|>",train_5644,train+valid
+0,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+find the smallest number which when divided by 13 and 15 leaves respective remainders of 2 and 4<|im_end|>
+<|im_start|>assistant
+3<|im_end|><|endoftext|>",train_6098,train+valid
+4,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a and b are two multiples of 14 , and q is the set of consecutive integers between a and b , inclusive . if q contains 13 multiples of 14 , how many multiples of 7 are there in q ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|><|endoftext|>",train_6405,train+valid
+0,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+a man buy a book in rs 50 & sale it rs 50 . what is the rate of profit ? ? ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_6670,train+valid
+3,"
+4","<|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+jim â € ™ s taxi service charges an initial fee of $ 2.25 at the beginning of a trip and an additional charge of $ 0.3 for each 2 / 5 of a mile traveled . what is the total charge for a trip of 3.6 miles ?<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_7034,train+valid
+4,"
+3","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+abcd is a square aegf is a rectangle . . such that the rectangle shares 25 % of the area of the suare also ae lies on the line ab and ag lies on segment of ad . if the square shares half the area of the rectangle what is the ratio ae : ag ?<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",train_7177,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+Solve the following multiple-choice mathematical word problem.
+Return only the correct answer key (a digit between 0 and 4), without explanations or additional text.
+<|im_end|>
+<|im_start|>user
+the average age of students of a class is 15.8 years . the average age of boys in the class is 16.2 years and that of the girls is 15.4 years . the ration of the number of boys to the number of girls in the class is :<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_7685,train+valid

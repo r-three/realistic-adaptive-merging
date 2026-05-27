@@ -1,0 +1,29 @@
+{
+    "task": "super_glue_copa",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_super_glue_copa",
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a"
+    ],
+    "valid_accuracy": 1.0,
+    "test_accuracy": 0.975,
+    "weights": [
+        0.5002022321356546,
+        0.5005203855947741,
+        0.5002159895811444,
+        8.443988406506166e-05,
+        0.00010780967760450214,
+        4.281828396576692e-06,
+        0.00022292448336614143,
+        0.0001665948147942829,
+        2.4822938436004904e-05,
+        -1.724447323908911e-05
+    ]
+}

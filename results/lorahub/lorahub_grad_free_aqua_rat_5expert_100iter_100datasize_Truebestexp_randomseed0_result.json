@@ -1,0 +1,19 @@
+{
+    "task": "aqua_rat",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_aqua_rat",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9"
+    ],
+    "valid_accuracy": 0.1,
+    "test_accuracy": 0.2637795275590551,
+    "weights": [
+        0.7800035047555672,
+        0.33121802028741737,
+        0.5797226142505307,
+        0.5389843788250497,
+        0.508613484550931
+    ]
+}

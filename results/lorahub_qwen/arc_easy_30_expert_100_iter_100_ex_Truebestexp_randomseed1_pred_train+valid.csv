@@ -1,0 +1,1601 @@
+target,pred_clean,pred_org,example_id,split
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - When a switch is used in an electrical circuit, the switch can [SEP] 
+
+CHOICES - 
+A : cause the charge to build.
+B : increase and decrease the voltage.
+C : cause the current to change direction.
+D : stop and start the flow of cur<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_2,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following events during meiosis contributes most to the variation within a species? [SEP] 
+
+CHOICES - 
+A : pairing of chromosomes
+B : creation of haploid gametes
+C : segregation of alleles
+D : separation of chrom<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_9,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Automobile engines built today are designed to be gas efficient. Gas-efficient engines most likely affect a city by reducing [SEP] 
+
+CHOICES - 
+A : air pollution.
+B : heat pollution.
+C : noise pollution.
+D : light pollu<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_17,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A group of students are researching changes in climate in their region. Which of these would best provide evidence of changes in temperature and rainfall over a period of years? [SEP] 
+
+CHOICES - 
+A : tree rings
+B : pollen samples
+C : harvest production
+D : carbon d<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_26,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A student wants to find the relationship between the diameter of several plastic disks and the circumference of each disk. Which of these types of graphs should be constructed to determine this relationship? [SEP] 
+
+CHOICES - 
+A : pie graph
+B : line graph
+C : scatterplot
+D : box-and-whisker<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_69,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In animal skin tissue, cell division is responsible for [SEP] 
+
+CHOICES - 
+1 : growth and repair
+2 : sexual reproduction
+3 : obtaining energy
+4 : production of sex<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_73,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Roger poured water over a pile of sand. Some of the sand washed away. This process is similar to which of the following? [SEP] 
+
+CHOICES - 
+A : The eruption of a volcano
+B : The erosion of the walls of a canyon
+C : The uplifting of mountain ranges
+D : The forming of dunes or mounds in a d<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_94,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Animal cells obtain energy by [SEP] 
+
+CHOICES - 
+A : processing sunlight.
+B : absorbing nutrients.
+C : growing.
+D : divi<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_120,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Different systems of the human body perform different functions. Which system takes oxygen from the air to be moved by the circulatory system? [SEP] 
+
+CHOICES - 
+A : the respiratory system
+B : the digestive system
+C : the nervous system
+D : the skeletal s<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_131,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following is an example of a container that is filled with a pure substance rather than with a mixture? [SEP] 
+
+CHOICES - 
+A : a tire filled with air
+B : a jar filled with salt water
+C : a balloon filled with helium
+D : a glass filled with chocolate<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_142,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Barry collected four different rocks. The rock with the GREATEST mass will feel the ___. [SEP] 
+
+CHOICES - 
+A : heaviest
+B : smoothest
+C : sharpest
+D : ha<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_324,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following is not an inherited trait of humans? [SEP] 
+
+CHOICES - 
+A : eye color
+B : hair color
+C : favorite food
+D : h<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_325,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which metalloid is used in solar cells and computer chips? [SEP] 
+
+CHOICES - 
+A : silicon
+B : silver
+C : arsenic
+D : ant<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_365,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A student is working on a science project display for the school science fair. To best communicate why her conclusions are valid, what should be included on the display? [SEP] 
+
+CHOICES - 
+A : a list of authoritative sources that supports her conclusion
+B : instructions for viewers to repeat her procedures
+C : clearly illustrated diagrams of the scientific principles involved
+D : a complete write-up of her experimental method and data coll<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_424,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A student is growing some plants for an experiment. She notices small white spots on the leaves. Which tool should she use to get a better look at the spots? [SEP] 
+
+CHOICES - 
+A : thermometer
+B : hand lens
+C : graduated cylinder
+D : ba<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_440,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The smallest part of an element that retains the properties of the element is the [SEP] 
+
+CHOICES - 
+A : proton.
+B : nucleus.
+C : electron.
+D :<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_540,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is the complementary base of adenine in DNA? [SEP] 
+
+CHOICES - 
+A : cytosine
+B : thymine
+C : guanine
+D : u<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_554,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which statement best explains how periods on the periodic table are organized? [SEP] 
+
+CHOICES - 
+A : increasing atomic number from left to right
+B : increasing number of neutrons from left to right
+C : decreasing number of electrons from left to right
+D : decreasing atomic mass number from left to<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_564,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of these dissolve in water? [SEP] 
+
+CHOICES - 
+A : Sand grains
+B : Sugar cubes
+C : Plastic straws
+D : Wooden s<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_592,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Why is protein an important part of a healthy diet? [SEP] 
+
+CHOICES - 
+A : It is needed to change glucose to energy.
+B : It is needed to store nutrients.
+C : It is needed to repair tissue.
+D : It is needed to produce w<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_624,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A student uses a telescope to view stars at night. The student notices some of the stars are different colors. The color of a star is determined most by its [SEP] 
+
+CHOICES - 
+A : size.
+B : distance from Earth.
+C : mass.
+D : tempera<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_641,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A student learns that one year on Mercury is about 88 Earth days. This means it takes 88 Earth days for Mercury to [SEP] 
+
+CHOICES - 
+A : travel in orbit around its moon.
+B : complete one rotation on its axis.
+C : switch orbits with the nearest planet.
+D : make one complete orbit around the<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_674,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - During winter, the white fur of an arctic fox blends in with the snow. This adaptation is called [SEP] 
+
+CHOICES - 
+A : hibernation
+B : migration
+C : camouflage
+D : mov<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_705,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is the primary source of energy for organisms from a beach ecosystem? [SEP] 
+
+CHOICES - 
+A : sand
+B : oxygen
+C : the Sun
+D : the<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_722,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What is the process called when an acid and a base combine to produce water and salt? [SEP] 
+
+CHOICES - 
+A : neutralization
+B : dilution
+C : titration
+D : physical rea<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_734,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which disease is correctly paired with the cause of the disease? [SEP] 
+
+CHOICES - 
+A : athlete's foot - fungi
+B : malaria - viruses
+C : influenza - bacteria
+D : pneumonia - pro<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_768,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A gas is heated and its temperature increases. What happens to the gas molecules? [SEP] 
+
+CHOICES - 
+A : They get bigger.
+B : They move faster.
+C : They move slower.
+D : They increase in nu<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_780,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Vehicle exhaust contains a form of pollution called particulate matter. Technologies are being developed to reduce the amount of particulate matter in exhaust. A vehicle that produces less particulate matter would have the greatest impact on which aspect of human health? [SEP] 
+
+CHOICES - 
+A : heart health
+B : respiratory health
+C : the rate of birth defects
+D : weight and physical fi<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_789,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In the Adirondack forests of New York, some trees have died. The change in the forest is thought to be related to air pollution and rain. Which abiotic factor most likely has been changed as a result of the pollution and rain which resulted in the death of the trees? [SEP] 
+
+CHOICES - 
+A : a decrease in the amount of available oxygen
+B : an increase in the amount of sunlight
+C : a decrease in the pH of the soil
+D : an increase in soil nutr<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_812,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The following represents a number displayed on a calculator. 1.454545 E3. Which of the following shows how a student should record this number in a laboratory report? [SEP] 
+
+CHOICES - 
+A : (1.45)^3
+B : 1 5/11
+C : 1.45 x 10^3
+D : 1.4<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_815,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In eukaryotic organisms, interaction between which organelles is most important for cell shape, tensile strength, and communication between cells? [SEP] 
+
+CHOICES - 
+A : cytoskeleton and cell membrane
+B : cytoplasm and Golgi apparatus
+C : nucleus and endoplasmic reticulum
+D : ribosome and central va<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_823,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following statements best explains why earthquakes occur more frequently in California than in Massachusetts? [SEP] 
+
+CHOICES - 
+A : The rock found in California is igneous, but the rock found in Massachusetts is sedimentary.
+B : California is located on the boundary of two crustal plates, but Massachusetts is not.
+C : The rock under California is soft, but the rock under Massachusetts is hard.
+D : California is located on a continental plate, but Massachusetts is<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_844,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The brain, spinal cord, and nerves are organs that perform which primary function? [SEP] 
+
+CHOICES - 
+A : supporting the body and enabling it to move
+B : transporting oxygen, wastes, and nutrients throughout the body
+C : producing male and female gametes
+D : conducting messages to coordinate body func<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_917,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which best describes a characteristic of the jet stream? [SEP] 
+
+CHOICES - 
+A : It forms a boundary between a cold air mass and a warm air mass.
+B : It creates the high winds around the eye of a hurricane.
+C : It forces the hot air along the equator to rise to areas in North America.
+D : It causes high pressure air masses to rotate clock<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_951,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Earth is made of different layers that have varying characteristics. Which is the thickest layer? [SEP] 
+
+CHOICES - 
+A : the mantle
+B : the inner core
+C : the outer core
+D : the<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_980,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which form of energy is found in food? [SEP] 
+
+CHOICES - 
+A : chemical
+B : electrical
+C : sound
+D : mecha<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_986,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - When specific hormones are present in the blood of a hen, an egg is released from an ovary. Which two systems are involved with the release of an egg? [SEP] 
+
+CHOICES - 
+A : immune and digestive systems
+B : digestive and endocrine systems
+C : reproductive and immune systems
+D : endocrine and reproductive sy<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_989,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Steven went to a farm and picked a bright red tomato from a broken branch on the plant. The tomato had a rotten spot with a worm inside of it. Instead of eating the tomato, Steven decided to plant the seeds and grow new tomato plants. Which characteristic of the tomato plant is inherited and could change over several generations? [SEP] 
+
+CHOICES - 
+A : color of the skin
+B : size of rotten spots
+C : length of worms inside
+D : number of broken bra<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1025,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The Heliocentric Theory, as supported by Copernicus, revolutionized scientific theories regarding [SEP] 
+
+CHOICES - 
+A : the life cycle.
+B : the water cycle.
+C : the solar system.
+D : the immune sy<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_1121,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which animal develops inside its mother before it is born alive? [SEP] 
+
+CHOICES - 
+A : Butterfly
+B : Cat
+C : Duck
+D :<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1127,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Plants need a source of energy in order to perform photosynthesis. From which source do plants receive the energy needed to perform photosynthesis? [SEP] 
+
+CHOICES - 
+A : oxygen
+B : sugar
+C : sunlight
+D :<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_1143,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What event happens in a daily cycle? [SEP] 
+
+CHOICES - 
+A : cliffs erode
+B : rivers flood
+C : volcanoes erupt
+D : high and low<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1214,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - At night, the Moon is the brightest object in the sky. Where does the Moon's light come from? [SEP] 
+
+CHOICES - 
+A : The Moon reflects light from Earth.
+B : The Moon reflects light from the Sun.
+C : The Moon makes light beneath its surface.
+D : The Moon has rocks on its surface that<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1241,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Many birds fly south for the winter. This adaptation is called [SEP] 
+
+CHOICES - 
+A : hibernation
+B : germination
+C : migration
+D : communic<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_1253,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Certain fossils can be used to help determine the age of the rock layer in which the fossils are found. Which type of fossil is best to use when making this determination? [SEP] 
+
+CHOICES - 
+A : marine mammal fossil
+B : swamp fern fossil
+C : trace fossil
+D : index f<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1257,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which weather instrument measures air pressure? [SEP] 
+
+CHOICES - 
+A : thermometer
+B : anemometer
+C : rain gauge
+D : baro<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1264,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - All rocks are composed of [SEP] 
+
+CHOICES - 
+1 : fossils
+2 : cells
+3 : metals
+4 : min<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1297,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - When an ice cube melts, its state of matter changes from a [SEP] 
+
+CHOICES - 
+A : gas to a liquid
+B : solid to a liquid
+C : liquid to a solid
+D : solid to<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1304,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which is an example of a decomposer? [SEP] 
+
+CHOICES - 
+A : a hawk
+B : a mouse
+C : a flower
+D : a mus<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1326,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - An idea that the universe originated with an explosion is supported by repeated observations of light from distant galaxies traveling away from Earth. An idea that has been tested repeatedly and is supported by repeated results is most likely a [SEP] 
+
+CHOICES - 
+A : hypothesis.
+B : theory.
+C : law.
+D :<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1331,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which object in our solar system reflects light and is a satellite that orbits around one planet? [SEP] 
+
+CHOICES - 
+A : Earth
+B : Mercury
+C : the Sun
+D : the<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1395,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - DNA molecules contain the genetic information that determines the characteristics of a living organism. How do DNA molecules express the genetic information they contain? [SEP] 
+
+CHOICES - 
+A : by breaking down proteins within the cell
+B : by directing the process of protein synthesis
+C : by regulating the storage of cellular proteins
+D : by controlling the movement of protein mole<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1416,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A girl signals her friend by shining a flashlight on a mirror. Her friend can see the signal because [SEP] 
+
+CHOICES - 
+A : heat energy can be transferred from one object to another
+B : mechanical energy can be transferred from one object to another
+C : sound energy can be reflected from one object to another
+D : light energy can be reflected from one object to an<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1445,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Warm water contains less dissolved oxygen than colder water. Which population will be most affected by a long period of hot, dry days? [SEP] 
+
+CHOICES - 
+A : fish in ponds
+B : fish in oceans
+C : plants in lakes
+D : plants in st<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1447,train+valid
+4,"
+4","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Movement of Earth's crust along plate boundaries produces [SEP] 
+
+CHOICES - 
+1 : fronts
+2 : tides
+3 : hurricanes
+4 : earthq<|im_end|>
+<|im_start|>assistant
+4<|im_end|>",train_1462,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of these elements is likely to be found in an organic compound? [SEP] 
+
+CHOICES - 
+A : helium
+B : hydrogen
+C : mercury
+D<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1471,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following eras is known as the ""Age of Mammals""? [SEP] 
+
+CHOICES - 
+A : Precambrian
+B : Paleozoic
+C : Mesozoic
+D : Cen<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1488,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Increased populations can lead to the depletion of locally available resources. Compared to other communities, which of these locally available resources is most likely to be depleted in desert communities? [SEP] 
+
+CHOICES - 
+A : mineral
+B : oxygen
+C : gasoline
+D :<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1501,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Sleet and hail are forms of [SEP] 
+
+CHOICES - 
+A : clouds
+B : energy
+C : evaporation
+D : precipit<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1558,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Kim lost her hammer outside. When she found it a few months later, some parts of the metal were covered with flaky, brown rust. Which type of change occurred when rust formed on the hammer? [SEP] 
+
+CHOICES - 
+A : chemical
+B : electrical
+C : thermal
+D : phy<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1612,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What energy transformation occurs when an electric lamp is turned on? [SEP] 
+
+CHOICES - 
+A : electrical energy to light and heat energy
+B : light energy to electrical and mechanical energy
+C : heat energy to electrical and light energy
+D : electrical energy to mechanical and heat e<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1664,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The orbit of Earth is almost circular and has a period of about 365 days. Compared to the orbit of Earth, which of these objects usually have highly elliptical orbits and can have periods of over 1000 years? [SEP] 
+
+CHOICES - 
+A : asteroids
+B : meteorites
+C : comets
+D :<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_1691,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which layer of the atmosphere contains the greatest amount of water vapor? [SEP] 
+
+CHOICES - 
+A : thermosphere
+B : mesosphere
+C : stratosphere
+D : tropos<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1711,train+valid
+B,"
+B","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Samuel investigated the effect of temperature on the growth of snapdragons. He recorded the results from the investigation and found that snapdragons do not grow well in low temperatures. What is the purpose of this conclusion in the scientific process? [SEP] 
+
+CHOICES - 
+A : It helps to organize the data.
+B : It helps to evaluate the hypothesis.
+C : It helps to prepare for an investigation.
+D : It helps to collect information from observat<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1728,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of these describes a location where minerals are most likely to form? [SEP] 
+
+CHOICES - 
+A : cooled magma from a volcano
+B : eroded sediment from a riverbed
+C : weathered rock from a canyon
+D : saturated soil from a flood<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1766,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Chinese and European societies can use different but effective technologies when addressing medical questions. What does this demonstrate? [SEP] 
+
+CHOICES - 
+A : Varied approaches can yield successful technologies.
+B : Not all technologies behave according to scientific laws.
+C : The development of science and technology are independent.
+D : Technology results more from practice than from scientific knowl<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1785,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - An engineer constructs a prototype from wood. Which of the following is the best tool for the engineer to use to make the prototype's surface smooth? [SEP] 
+
+CHOICES - 
+A : band saw
+B : chisel
+C : drill
+D : sand<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_1978,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In some locations, squirrels sleep for long periods of time during the winter months. Which of the following most likely causes these squirrels to sleep for long periods of time? [SEP] 
+
+CHOICES - 
+A : increase in humidity
+B : decrease in temperature
+C : clouds forming in the sky
+D : winds blowing in the<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",train_1980,train+valid
+A,"
+A","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A female dog is having puppies. She has black fur, brown eyes, and a curly tail. She can sit, bark, and roll over on command. Which set of traits can the female dog's puppies inherit? [SEP] 
+
+CHOICES - 
+A : brown eyes, black fur
+B : fur, roll over on command
+C : brown eyes, sit on command
+D : bark on command, curly<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1994,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Scientists estimate that Maryland contains more than 850 million tons of coal. Coal is most commonly used to produce ___. [SEP] 
+
+CHOICES - 
+A : electricity
+B : medicine
+C : metals
+D :<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_1995,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A student reaches one hand into a bag filled with smooth objects. The student feels the objects but does not look into the bag. Which property of the objects can the student most likely identify? [SEP] 
+
+CHOICES - 
+A : shape
+B : color
+C : ability to reflect light
+D : ability to conduct electr<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_2005,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A student tosses a ball into the air. Which force causes the ball to fall back to the ground? [SEP] 
+
+CHOICES - 
+A : gravity
+B : magnetism
+C : mechanical
+D : fri<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_2013,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - An earthquake in the Earth's crust under the ocean releases sound waves. Which statement accurately describes how the sound waves spread? [SEP] 
+
+CHOICES - 
+A : They spread in all directions away from their source.
+B : They remain trapped near the source by water pressure.
+C : They travel mostly horizontally along the ocean floor.
+D : They travel mostly upward toward the surface of the w<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_2071,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A scientist crosses a red-flowered plant with a white-flowered plant, and all offspring have red flowers. What will most likely result if these red-flowered offspring are crossed with white-flowered plants? [SEP] 
+
+CHOICES - 
+A : All of the offspring will have red flowers.
+B : All of the offspring will have white flowers.
+C : The offspring will have either red or white flowers.
+D : The offspring will have neither red nor white flo<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_2099,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A scientist is comparing two body cells of a multicellular organism. Which of the following is most likely identical? [SEP] 
+
+CHOICES - 
+A : shape of cell walls
+B : number of mitochondria
+C : shape of cell membranes
+D : number of chromo<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_2146,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Shale is a sedimentary rock that can be metamorphosed into slate by [SEP] 
+
+CHOICES - 
+A : cementation.
+B : chemical weathering.
+C : sedimentation.
+D : increased pres<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_2173,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which of the following is the best observation of the refraction of light? [SEP] 
+
+CHOICES - 
+A : Looking at oneself in a mirror
+B : Looking at a shadow of an object
+C : Viewing an object through an open window
+D : Viewing an object partially in<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_2175,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - As the human population increases, more fossil fuels are being used. The burning of fossil fuels produces greenhouse gases. How might humans reduce greenhouse gases? [SEP] 
+
+CHOICES - 
+A : Buy cars that use gasoline.
+B : Build power plants that use coal.
+C : Use renewable resources to generate power.
+D : Use nonrenewable resources to generate p<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",train_2186,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In the solar system, moons orbit planets. Which of these do planets orbit? [SEP] 
+
+CHOICES - 
+A : the Sun
+B : Halley's comet
+C : the asteroid belt
+D : a black<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",train_2230,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Scientists think that dolphins and whales may have evolved from a common ancestor. What evidence supports this hypothesis? [SEP] 
+
+CHOICES - 
+A : They swim the same way.
+B : They eat the same food.
+C : They live in the same area of the ocean.
+D : They have similar anato<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",train_2249,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - After fields of crops are harvested, parts of the plants remain on the ground. For many years, farmers have mixed these plant remains into the soil. Which most likely results from this practice? [SEP] 
+
+CHOICES - 
+A : More minerals are lost from the field.
+B : More nutrients in the soil are dissolved.
+C : The organic matter in the soil increases.
+D : The number of organisms in the soil decre<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",validation_160,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which part of Earth's structure is composed of a solid mixture of nickel and iron? [SEP] 
+
+CHOICES - 
+A : the inner core
+B : the outer core
+C : the lithosphere
+D : the asthenos<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_204,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A student collects data about the dates and strengths of historical earthquakes in Nevada. Which of the following would be best for reporting the strengths of these earthquakes over time? [SEP] 
+
+CHOICES - 
+A : a topographic map
+B : a line graph
+C : a series of photographs
+D : a table of pictog<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",validation_213,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Students on a field trip discovered fossilized shark teeth on the side of a cliff. Which conclusion can best be made about the history of the area? [SEP] 
+
+CHOICES - 
+A : It was once a hot desert.
+B : It was once a shallow sea.
+C : It was once part of a glacier.
+D : It was once part of a rain fo<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",validation_254,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Scientists go to a lake once a month to take samples of water. They are most likely studying the [SEP] 
+
+CHOICES - 
+A : number of fish.
+B : depth of the lake.
+C : quality of the water.
+D : speed of the w<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",validation_258,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A family goes on vacation for a week. When they return home they discover that some vegetables in their refrigerator have gone bad. What is the most environmentally responsible thing for them to do with the rotten food? [SEP] 
+
+CHOICES - 
+A : toss it into a fire pit and burn it
+B : throw it in the trash to be taken to a landfill
+C : put it in a compost pile to use for plant food
+D : take it back to the grocery store and try to get their money<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",validation_294,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What causes a change in the speed of a moving object? [SEP] 
+
+CHOICES - 
+A : force
+B : temperature
+C : change in mass
+D : change in loc<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_304,train+valid
+D,"
+D","<|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Wolves have adapted skills for hunting large hoofed animals such as elk, deer, or moose. Wolves tend to target prey animals that are sick or weak. The wolf benefits from this strategy because it uses less energy to hunt. How would the prey animal population also benefit from this strategy? [SEP] 
+
+CHOICES - 
+A : by promoting detrimental genes
+B : by stimulating beneficial DNA mutations
+C : by preventing the introduction of other predator species
+D : by increasing the reproductive success of healthy prey an<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",validation_308,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Diamonds are sometimes used as the tips of drill bits. Which physical property of a diamond MOST likely makes it a good cutting tool? [SEP] 
+
+CHOICES - 
+A : its electrical properties
+B : its thermal properties
+C : its hardness
+D : its de<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",validation_328,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - During a walk through the Arkansas River Valley, Alex found a rock that she determined was a sedimentary rock. Which characteristics of the rock would lead Alex to this conclusion? [SEP] 
+
+CHOICES - 
+A : thin flaky sheets and very hard
+B : glassy texture and a shiny black color
+C : very rough texture with obvious crystals
+D : sand-sized particles and a light brown<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",validation_336,train+valid
+3,"
+3","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - One example of matter is [SEP] 
+
+CHOICES - 
+1 : magnetism
+2 : heat
+3 : water
+4 : radi<|im_end|>
+<|im_start|>assistant
+3<|im_end|>",validation_424,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - The small stone plant has leaves that look like pebbles or stones. This characteristic helps the plant [SEP] 
+
+CHOICES - 
+A : attract insects for pollination.
+B : produce a large number of seeds.
+C : absorb water and nutrients.
+D : avoid being eaten by ani<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",validation_428,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which object is best used to demonstrate the bending of light as it passes through a substance? [SEP] 
+
+CHOICES - 
+A : convex lens
+B : flat mirror
+C : opaque rod
+D : concave m<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_475,train+valid
+C,"
+C","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - What should a student do if he gets a red, itchy rash after a class field trip? [SEP] 
+
+CHOICES - 
+A : scratch it
+B : wait for it to go away
+C : tell the teacher right away
+D : tell his best friend after s<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",validation_500,train+valid
+D,"
+D","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - In the construction of a house, the words excavation, slab, and footing are associated with the [SEP] 
+
+CHOICES - 
+A : roof.
+B : floor.
+C : frame.
+D : founda<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",validation_517,train+valid
+C,"
+C","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - A scientific guess about the cause and effect of an event is called [SEP] 
+
+CHOICES - 
+A : a variable.
+B : a theory.
+C : a hypothesis.
+D : an observa<|im_end|>
+<|im_start|>assistant
+C<|im_end|>",validation_523,train+valid
+D,"
+D","<|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Some natural disasters can have a large effect on the global climate. Which type of natural disaster would produce the greatest decrease in solar radiation reaching the surface of Earth for the longest period of time? [SEP] 
+
+CHOICES - 
+A : a giant tsunami
+B : a strong earthquake
+C : a powerful hurricane
+D : a large volcanic eru<|im_end|>
+<|im_start|>assistant
+D<|im_end|>",validation_527,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - When using a hot plate, students should not [SEP] 
+
+CHOICES - 
+A : leave the hot plate unattended.
+B : follow the teacher's instructions.
+C : pull back hair or clothing to avoid contact.
+D : wear insulated gloves when holding metal mater<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_536,train+valid
+A,"
+A","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Which subatomic particles are involved in the nuclear fusion that powers the Sun? [SEP] 
+
+CHOICES - 
+A : protons and neutrons
+B : electrons and protons
+C : only protons
+D : only elec<|im_end|>
+<|im_start|>assistant
+A<|im_end|>",validation_537,train+valid
+B,"
+B","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant specialized in solving a multiple-choice science questions.
+You are given a multiple-choice question formatted as ""QUESTION - {question} [SEP] CHOICES - {choices}"".
+Return only the corresponding answer key (a single digit or a letter), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION - Cows are farm animals that eat only plants. Which of these kinds of living things is a cow? [SEP] 
+
+CHOICES - 
+A : Decomposer
+B : Herbivore
+C : Carnivore
+D : Pro<|im_end|>
+<|im_start|>assistant
+B<|im_end|>",validation_550,train+valid

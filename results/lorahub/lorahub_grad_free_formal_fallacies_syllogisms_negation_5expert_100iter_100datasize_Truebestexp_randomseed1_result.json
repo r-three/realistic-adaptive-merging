@@ -1,0 +1,19 @@
+{
+    "task": "formal_fallacies_syllogisms_negation",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_formal_fallacies_syllogisms_negation",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 0.6,
+    "test_accuracy": 0.5880281690140845,
+    "weights": [
+        0.9634632699185054,
+        0.5563631812938746,
+        -0.12247980874601579,
+        -0.013304837769148934,
+        0.008324323336944535
+    ]
+}

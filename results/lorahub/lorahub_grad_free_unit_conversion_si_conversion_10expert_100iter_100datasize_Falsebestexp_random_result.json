@@ -1,0 +1,29 @@
+{
+    "task": "unit_conversion_si_conversion",
+    "expert_name": [
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-doc-info-fold8",
+        "daje/model_2e-4",
+        "laquythang/07d7800a-5441-44b2-8e4b-5b1f2fb61a61",
+        "prxy5606/98345738-30aa-41c4-bf69-2392a1ce4d0a",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter"
+    ],
+    "valid_accuracy": 0.4,
+    "test_accuracy": 0.17666666666666667,
+    "weights": [
+        0.025037867104851588,
+        -0.02061515083401525,
+        0.5370214397151201,
+        0.6025353918724029,
+        0.0020270067896520777,
+        0.006647965853136175,
+        -0.031930848995339954,
+        -0.02759508129859468,
+        0.4950137565701115,
+        0.011642797542395927
+    ]
+}

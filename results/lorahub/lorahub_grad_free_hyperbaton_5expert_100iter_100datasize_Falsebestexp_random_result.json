@@ -1,0 +1,19 @@
+{
+    "task": "hyperbaton",
+    "expert_name": [
+        "tanatapanun/Meta-Llama-3.1-8B-Instruct-NoteChat-32r-train-dataset-1-epochs-document-prompt-token-4096",
+        "leedahyeon/0221_all_llama31_docs_cp3500",
+        "minhtrannnn/0d5d4d02-c5c0-4607-b69a-0ddd8845e6f7",
+        "robiulawaldev/da92a142-8a96-438e-80b3-13cf5e027f66",
+        "gotzmann/1JV44C2nd"
+    ],
+    "valid_accuracy": 0.75,
+    "test_accuracy": 0.7848,
+    "weights": [
+        0.725607895620084,
+        0.5127572124104764,
+        -0.006536087286898545,
+        0.4401597831027591,
+        -0.040339116402071544
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "task": "glue_qqp",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_glue_qqp",
+        "leedahyeon/0221_gamsa_test_cp3000",
+        "phungkhaccuong/afbdf303-5ec3-cb90-b17b-283c6f8ad70b",
+        "CounterNarratives/Meta-Llama-3.1-8B-Instruct_english_premises_a",
+        "britojr/llama3.1-sec10q_v2"
+    ],
+    "valid_accuracy": 0.75,
+    "test_accuracy": 0.8144,
+    "weights": [
+        0.9200162642853199,
+        0.5519471139409973,
+        0.8487616996206383,
+        0.003282969871852177,
+        -0.31497297432950244
+    ]
+}

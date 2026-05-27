@@ -1,0 +1,1201 @@
+target,pred_clean,pred_org,example_id,split
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - If I were to make a bomb in science class would I be sent to jail? [SEP] 
+QUESTION2 - If a clerk can be sent to jail for not following same sex marriage laws, shouldn't undocumented immigrants be put in jail for not following immigration laws?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_6449,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Why should anyone buy an iphone? [SEP] 
+QUESTION2 - Why should I buy iPhone?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_21126,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What causes mold to grow on white bread? [SEP] 
+QUESTION2 - When is it OK to cut out the mold from bread?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_21335,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What would the world be like if Austria had won the War of Spanish Succession? [SEP] 
+QUESTION2 - What would the world be like if France had won the War of Spanish Succession?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_23584,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do I define a mass source for water tank in SAP2000? [SEP] 
+QUESTION2 - What is the use of overhead water tanks?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_28065,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do 'push rod' suspensions function? Why are they used only in super cars like the F1 cars or Aventador? [SEP] 
+QUESTION2 - Why there is no car with number 13 in F1?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_29763,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What types of boys does every girl like? [SEP] 
+QUESTION2 - What do guys really want from a girl?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_32161,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Who is the 3rd prime minister of India? [SEP] 
+QUESTION2 - Why does prime minister rule in India?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_42360,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Are protests against Trump's presidency justified? [SEP] 
+QUESTION2 - Can people find themselves in trouble if they refuse to use Trump’s correct title directly to him (President Trump or Mr. President) out of protest?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_42674,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What does deja vu mean? [SEP] 
+QUESTION2 - What are some deja vu stories?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_52418,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What do guinea pigs like to do? [SEP] 
+QUESTION2 - What is my guinea pig saying?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_81522,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Is it possible to travel in space with the speed of light..if yes how…? [SEP] 
+QUESTION2 - What is the maximum deposit limit in a savings bank account (both cash and cheque)?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_84213,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What are dark circles? How are dark circles are formed? [SEP] 
+QUESTION2 - What are the best ways of reducing dark circles?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_88419,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is a healthy oil for cooking with high heat? [SEP] 
+QUESTION2 - What is the healthiest oil to use for deep frying?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_90772,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do I forge someone's signature with perfection? [SEP] 
+QUESTION2 - How do I achieve a perfect score of 2400 on the SAT?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_95578,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Which Is The best Tutor Gurgaon Agency? [SEP] 
+QUESTION2 - What are the best company for engineers to work on distributed systems?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_96967,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Why do many distrust Hillary Clinton? [SEP] 
+QUESTION2 - Why does everyone hate Hillary Clinton?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_98944,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What do Canadians think of Mexicans? [SEP] 
+QUESTION2 - What do Canadians think about other Canadians?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_100610,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - My car's engine died while driving. The starter turns well so it can't be the battery. It was filled up yesterday. What can the problem be? [SEP] 
+QUESTION2 - How do you know if a car's issue is the battery, starter, or alternator?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_103428,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Do all Pandora charms fit all Pandora bracelets? Why or why not? [SEP] 
+QUESTION2 - How do you put charms on a Pandora bracelet?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_103535,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How many logic gates are there in a computer? [SEP] 
+QUESTION2 - How can logic gates be used to store data?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_103792,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is the English equivalent of the Telugu word mohamaatam? [SEP] 
+QUESTION2 - ""What is the English equivalent for the Telugu word """"sampradhaayam""""?""<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_105278,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do you prepare for a job interview? [SEP] 
+QUESTION2 - How should I prepare for interview?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_107594,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What are the ramifications of taking Loratadine and Ibuprofen simultaneously? [SEP] 
+QUESTION2 - Can Loratadine and Ibuprofen be taken simultaneously? If not, why?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_109237,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Without net neutrality would ISPs block Google Now and Siri? [SEP] 
+QUESTION2 - Would Amazon be blocked by ISPs?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_114588,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How long does crystal meth stay in your system? [SEP] 
+QUESTION2 - How long does meth stay in your system? If last use was Friday, would it be out by Monday?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_114742,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Personal Aquariums: What is the minimum tank size to have for keeping silver arowana? [SEP] 
+QUESTION2 - Is it easy to keep tropical fish in a small tank?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_118313,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - If universe expands without limit and dark/vacuum/gravitational energy is created with it, is potential energy (the energy that can be created) infinite? [SEP] 
+QUESTION2 - If universe expands and more space-time, dark/vacuum/gravitational energy are created with it, can infinite of these be created (potentially)?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_122088,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Will we ever achieve immortality? [SEP] 
+QUESTION2 - Can we ever reach immortality?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_128277,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How safe are weight loss pills? [SEP] 
+QUESTION2 - Are there any pills that kill the appetite that are safe to consume for a weight loss program?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_129362,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Is chocolate milk good for you? [SEP] 
+QUESTION2 - Why is unrefrigerated milk good for you?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_131829,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is Quora credit? [SEP] 
+QUESTION2 - What is a Quora credit value?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_132521,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How important is political stability of a country for its economic development? [SEP] 
+QUESTION2 - I'm disoriented, lacking will, hiding behind excuses. What should I do?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_133253,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Which is the best book for gate preparation in physics? [SEP] 
+QUESTION2 - Which is the best book for preparing physics for bitsat?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_134171,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is your strength and weaknesses? [SEP] 
+QUESTION2 - What are strengths and weaknesses of Germans?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_136780,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Can you clone a person? [SEP] 
+QUESTION2 - Would you clone a person?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_140541,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Why do people have more than one name? [SEP] 
+QUESTION2 - Do people like it when I send more than one message to them?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_145050,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do you say Ram (the animal) in Mandarin Chinese? [SEP] 
+QUESTION2 - Help no. 1*877*778*8969 HOTMAIL Customer Service Phone Number USA?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_148085,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What were the effects of the Persian wars? [SEP] 
+QUESTION2 - What were the Roman–Persian Wars?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_160959,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - I deleted my Snapchat memories after I backed them to my camera. The memories didn't actually save to my camera though. Can I recover my memories? [SEP] 
+QUESTION2 - How can I recover a deleted Snapchat account?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_170501,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Can I sell a book summary? Do I need any permission? [SEP] 
+QUESTION2 - Can I sell a book that is a summary of another book not authored by myself?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_173656,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Why is the cover photo of many Wikipedia articles not updated? [SEP] 
+QUESTION2 - Why doesn't Simple English Wikipedia have as many articles as the English Wikipedia?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_185181,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - ""How did the term """"private dick"""" for a private investigator originate?"" [SEP] 
+QUESTION2 - How can I get a private investigator license in NY?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_191303,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What's a typical week for an ophthalmology resident in the US? [SEP] 
+QUESTION2 - What is the best U.S bank for non resident?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_191989,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Why did Windows defeat all other OSes like Mac OS, Solaris OS and the others? [SEP] 
+QUESTION2 - Why do some programmers prefer Linux OS instead of Windows or Mac OSX?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_197932,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is user profile synchronization in SharePoint 2010/2013? Why do we need it? Why does it run on a one front end server only? [SEP] 
+QUESTION2 - Why do we need alternator synchronization in power system grid?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_213454,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is the best messaging app you use that you feel takes care of your security? [SEP] 
+QUESTION2 - What mobile apps deliver a useful personalized audio or video feed that allows you to start your day with all the relevant news updates you will care about?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_213730,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Is cashless society possible in India at this stage? [SEP] 
+QUESTION2 - Is cashless economy possible in India?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_219831,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do I prepare for 12th class in 1 month? [SEP] 
+QUESTION2 - What is the best way to prepare for 12th class?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_226405,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Where can I find an angel investor to invest 30K$ on my startup idea? [SEP] 
+QUESTION2 - Where do I find an investor who would invest in a business plan and idea?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_232560,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is the difference between needlepoint and cross stitch? [SEP] 
+QUESTION2 - What are the ways for ending a stitch?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_238805,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Who is the deadliest martial arts expert? [SEP] 
+QUESTION2 - What is the deadliest martial art?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_241843,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Which is the best smartphone under 15K (August 2016)? [SEP] 
+QUESTION2 - Which is the best Smartphone under INR 15000 ?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_244713,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What type of programming languages should I learn to be a successful web developer? [SEP] 
+QUESTION2 - What programming languages, do I need to know to learn web development and how do I get started?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_248744,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is the importance of the security code on a Visa credit card? [SEP] 
+QUESTION2 - What is a security code on a Visa Card used for?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_252825,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What does a Navy SEAL actually do? [SEP] 
+QUESTION2 - What is it like to be a Navy SEAL?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_261674,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Is GDP a good measure of economic growth? Why or why not? [SEP] 
+QUESTION2 - What are some limitations of measuring GDP?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_263368,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What are the best books for Java beginners? [SEP] 
+QUESTION2 - What are the best books for Java complete beginners?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_266359,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do you delete a question you asked on Quora [SEP] 
+QUESTION2 - Is it possible to permanently delete a Quora question?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_267070,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Women, would you avoid a relationship with a man who doesn't want to be told what to do by anyone including you? [SEP] 
+QUESTION2 - Is my husband wrong? I think he has too many women friends. He doesn't have inappropriate relationships with them. I trust him, but I am jealous.<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_268217,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do I study for the SAT in one week? [SEP] 
+QUESTION2 - How do I study for the SAT in two weeks?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_272478,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Is getting into Cornell with a 32 on the ACT and a 3.7 GPA with strong music extracurriculars realistic? [SEP] 
+QUESTION2 - Can a college entrance essay get you into an Ivy League school if it is good enough? Even if you only have a 3.7 GPA in high school?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_272730,train+valid
+0,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is the correct formula to calculate heat of combustion? [SEP] 
+QUESTION2 - How do you calculate the heat of combustion for a material?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_282742,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How much effect can banning of ₹500 and ₹1000 notes have on people having black money (won't have they invested their money in areas)? [SEP] 
+QUESTION2 - How much black money will be controlled by banning Rs 500 and Rs 1000 note?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_284327,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do laser mice work? [SEP] 
+QUESTION2 - How does laser mouse works?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_291885,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How does the HP OfficeJet 4620 Airprint compare to the HP Color LaserJet Pro M452dw? [SEP] 
+QUESTION2 - How does the HP OfficeJet 4620 Airprint compare to the HP Color LaserJet Enterprise M553x?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_293845,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Is there any solution book available for Advanced problems in Mathematics by Vikas Gupta (Sri Balaji Pub.)? [SEP] 
+QUESTION2 - Which book should I study for JEE advanced mathematics?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_294111,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What are some Short Motivation Quotes? [SEP] 
+QUESTION2 - What are some short motivational quotes?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_294952,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Is the Har Ki Dun trek easy? [SEP] 
+QUESTION2 - Can I take 10 month baby to base camp of Har ki dun trek?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_319162,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Is taiwan part of China? [SEP] 
+QUESTION2 - Is Taiwan part of or separate from China?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_332100,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Was December 25th chosen as the date for Christmas because it was already the date of a pagan holiday? [SEP] 
+QUESTION2 - Why does the Catholic church support Christmas if it possibly associated with pagan holidays?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_338820,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Which book is good to read? [SEP] 
+QUESTION2 - Which book is best book to read?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_340030,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Why does Apple not put a Flashlight on the iPad? [SEP] 
+QUESTION2 - Why doesn't Apple make nice keyboards for iPads?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_346560,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is Java portability? [SEP] 
+QUESTION2 - Programming Languages: What is meant by exit(0) is fully portable while exit(1) is non-portable?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_347836,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - In what ways is feminism worse than cancer? [SEP] 
+QUESTION2 - In what ways are films today better than those twenty years ago? How are they worse?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_350270,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How is the job market for electrical engineers in Canada? And what are the cities to focus on for migration, as an Electrical engineer? [SEP] 
+QUESTION2 - How is the job market for electrical engineering in Australia?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_352438,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Which is the best franchise business? [SEP] 
+QUESTION2 - What is the best franchise business?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_352616,train+valid
+1,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Does it mean I'm still going through puberty if I am still growing a bit of hair on my chest and darker thicker hair on my, arms? [SEP] 
+QUESTION2 - Does it mean I'm still going through puberty if I am still growing a bit of hair on my chest and darker thicker hair on arms?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",train_356359,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Logins: Can I file my income tax return late, i.e after 31-08-15? [SEP] 
+QUESTION2 - Can I file income tax returns for the assessment year 2011-12 and 2012-13 now?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_357587,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Why did the terrorists attack the USA? [SEP] 
+QUESTION2 - Can the terrorist attack USA again?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",train_361819,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How can I stop the urge to masturbate? [SEP] 
+QUESTION2 - How do stop doing masturation?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_358,train+valid
+0,"
+1","<|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - All my dreams are coming true, literally. If I dream something after couple of days it comes to reality. Does that mean I am a psychic? [SEP] 
+QUESTION2 - Does anyone dream of future events that actually come true?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_1755,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How can an IIT undergrad get a research internship in foreign universities? Are there some minimum GPA requirements for it also? [SEP] 
+QUESTION2 - How do I get an internship at the IITs or foreign universities in chemical engineering?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_5326,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is the best earphones under rs 500 in india? [SEP] 
+QUESTION2 - Which is the best earphone under rs500?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_5647,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Why are so many world records broken at the Olympics? [SEP] 
+QUESTION2 - Which Olympics tournament had the most world records broken?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_14787,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is a good inpatient drug and alcohol rehab center near Marion County IA? [SEP] 
+QUESTION2 - What is a good inpatient drug and alcohol rehab center near Marion County MS?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_17264,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do I can treat the clinical chronic sinusitis? [SEP] 
+QUESTION2 - How do I prevent sinus infections?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_20144,train+valid
+0,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What are the possible pros and cons of the new decision of MHRD to remove weightage of class 12th marks in JEE Mains Rank from 2017 onwards? [SEP] 
+QUESTION2 - Will class 12 boards marks have a weightage in JEE 2017?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_20393,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What are the areas of economic cooperation between india and Nepal? [SEP] 
+QUESTION2 - How has India helped Nepal?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_21234,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How can you get pregnant during miscarriage? [SEP] 
+QUESTION2 - How can you get pregnant? And why can't you?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_21935,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is Web Marketing? I want to learn internet marketing? [SEP] 
+QUESTION2 - What's the best way to get started in internet marketing?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_23411,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is Quora all about.? [SEP] 
+QUESTION2 - What is Quora and how does it works?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_24039,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is the best outdoor tool? [SEP] 
+QUESTION2 - What are the coolest outdoor tools?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_25184,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What do you mean by hypocrite? [SEP] 
+QUESTION2 - What is hypocrite?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_25535,train+valid
+1,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What are your favorite books? [SEP] 
+QUESTION2 - What is your favorite book, why?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_27198,train+valid
+1,"
+0","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How does one become a private military contractor? [SEP] 
+QUESTION2 - How can I become a private security contractor?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_29097,train+valid
+0,"
+1","<|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - ""Why do Quora staff members mark question for """"needing improvement"""" when the question was asked using proper English?"" [SEP] 
+QUESTION2 - Why is Quora trying to mark every other questions as needing improvement even if the details are given properly?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_29649,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - How do I prepare for CAT 2017 (BBA student)? [SEP] 
+QUESTION2 - What are best ways to prepare for cat 2017?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_35340,train+valid
+1,"
+1","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - What is the function of preset and reset in JK flip flop? [SEP] 
+QUESTION2 - What is the function of preset and clear in JK flip flop?<|im_end|>
+<|im_start|>assistant
+1<|im_end|>",valid_36123,train+valid
+0,"
+0","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|im_start|>system
+You are a helpful assistant.
+You are given a pair of questions, formatted as ""QUESTION1 - question1 [SEP] QUESTION2 - question2"". 
+Return 1 if the two questions are semantically equivalent, and 0 if they are not.
+Return only the digit (0 or 1), without explanations.
+<|im_end|>
+<|im_start|>user
+QUESTION1 - Why do men rape other men? [SEP] 
+QUESTION2 - What is the meaning of Civilization Jihad-stealth jihad and how to identify and isolate them?<|im_end|>
+<|im_start|>assistant
+0<|im_end|>",valid_38335,train+valid

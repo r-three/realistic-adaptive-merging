@@ -1,0 +1,29 @@
+{
+    "task": "xnli_hi",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_xnli_hi",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304"
+    ],
+    "valid_accuracy": 0.6,
+    "test_accuracy": 0.5686,
+    "weights": [
+        0.8176723187231499,
+        0.21105198448532642,
+        -0.30329928550003665,
+        0.39993356997809104,
+        -0.0853841070052319,
+        0.3648135201160326,
+        0.20731219035153287,
+        -0.057347022098705805,
+        -0.12910006611155778,
+        -0.19517503623291074
+    ]
+}

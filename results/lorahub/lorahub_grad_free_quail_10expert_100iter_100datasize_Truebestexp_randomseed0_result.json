@@ -1,0 +1,29 @@
+{
+    "task": "quail",
+    "expert_name": [
+        "r-three/lora_baseline_lr3e-4_step400_rank64_quail",
+        "daje/model_5e-05_alpha-128_r-256",
+        "LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-bootstrapped-16k-adapter",
+        "datlaaaaaaa/cf707148-8a14-4b17-af50-c0c419a06bb2",
+        "chchen/Llama-3.1-8B-Instruct-PsyCourse-info-chain-fold9",
+        "chanadda/Meta-Llama-3.1-8B-Instruct-pantip",
+        "yadayadayada1927/16_model",
+        "Cookieeeeeeeeeeeeeee/llama_custom_zero",
+        "thaffggg/f11180f1-1b9d-4b3c-8eee-94e554cf0f06",
+        "hongngo/612beea2-1e23-46e9-b772-5d201f773304"
+    ],
+    "valid_accuracy": 0.85,
+    "test_accuracy": 0.7160975609756097,
+    "weights": [
+        0.8065985951521252,
+        0.7560912851059589,
+        1.1181082709330832,
+        0.3392083586643931,
+        0.4747672824062046,
+        0.5609530544790536,
+        -0.11337307473216245,
+        0.012369820120215187,
+        -0.03210881472347199,
+        -0.010874135611147338
+    ]
+}
